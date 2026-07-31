@@ -74,6 +74,8 @@ updated: 2026-07-31
   - **بسط:** [[suffering-equals-pain-multiplied-by-resistance-not-pain-alone]] مکانیزم دقیق رنج را برای [[celebrating-small-joys-amid-suffering-sustains-meaning]] فراهم می‌کند.
 - [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[admitting-you-might-be-wrong-first-opens-the-other-person-to-reconsidering]] تکنیک مکملی برای گوینده به [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] اضافه می‌کند.
+- [[rich-dad-poor-dad]] — یک رابطه‌ی کاربرد شناسایی شد:
+  - **کاربرد:** [[financial-success-requires-courage-as-much-as-knowledge]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
@@ -86,6 +88,7 @@ updated: 2026-07-31
 - با [[good-to-great]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
 - با [[how-a-little-becomes-a-lot]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحات موضوع [[personal-responsibility]] و [[order-and-chaos]] مستند شده است.
 - با [[how-to-enjoy-your-life-and-your-job]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
+- با [[rich-dad-poor-dad]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[financial-literacy-and-asset-ownership]] مستند شده است.
 
 ## Translation
 

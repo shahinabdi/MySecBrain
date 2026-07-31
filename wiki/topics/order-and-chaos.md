@@ -3,7 +3,7 @@ type: topic
 title: نظم و آشوب
 status: active
 tags: [نظم, آشوب, معنا, ریسک‌پذیری]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-building-your-money-machine-with-chatgpt-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-building-your-money-machine-with-chatgpt-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-rich-dad-poor-dad-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -25,6 +25,7 @@ updated: 2026-07-31
 - [[creativity-inc]] — ایده‌ی «برنامه‌ی سفت‌وسخت فرصت را می‌کشد» این کتاب بسط اصل تعادل نظم/آشوب به سطح برنامه‌ریزی سازمانی است.
 - [[good-to-great]] — پارادوکس استاک‌دیل، نمونه‌ای مشخص از همان دوگانه‌ی نظم/آشوب در سطح استراتژی سازمانی است: مواجهه با آشوب واقعیت تلخ، همراه با نظمِ درونیِ ایمان به هدف.
 - [[how-a-little-becomes-a-lot]] — معادله‌ی «رنج = درد × مقاومت» بسطی مکانیزمی برای اصل «شادی‌های کوچک از رنج واقعی معنا می‌گیرند» است.
+- [[rich-dad-poor-dad]] — یک رابطه‌ی کاربرد شناسایی شد: اصل ریسک‌پذیری سازنده مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار رفته است.
 
 ## Relationships
 
@@ -34,6 +35,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] از [[creativity-inc]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را از سطح فردی به سطح برنامه‌ریزی سازمانی می‌برد.
 - **مرتبط با:** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] از [[good-to-great]] همان الگوی «مدیریت آگاهانه‌ی مرز میان نظم و آشوب» پیترسون را در قالب پارادوکس استاک‌دیل، در سطح استراتژی سازمانی، بازتولید می‌کند: مواجهه‌ی کامل با آشوب واقعیت، بدون از‌دست‌دادن نظم درونی ایمان به هدف.
 - **بسط (Extension):** [[suffering-equals-pain-multiplied-by-resistance-not-pain-alone]] از [[how-a-little-becomes-a-lot]] مکانیزم دقیق رنج را برای [[celebrating-small-joys-amid-suffering-sustains-meaning]] فراهم می‌کند — رنج نه از خودِ درد، بلکه از حاصل‌ضرب درد در مقاومت می‌آید.
+- **کاربرد (Application):** [[financial-success-requires-courage-as-much-as-knowledge]] از [[rich-dad-poor-dad]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
 
 ## Contradictions
 
@@ -52,6 +54,7 @@ updated: 2026-07-31
 - [[psychological-safety-and-creative-culture]] — از طریق بسط اصل تعادل نظم/آشوب به برنامه‌ریزی سازمانی.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق پارادوکس استاک‌دیل به‌عنوان بازتولید سازمانی دوگانه‌ی نظم/آشوب.
 - [[mindfulness-and-self-compassion]] — از طریق مکانیزم مشترک «رنج = درد × مقاومت» با [[how-a-little-becomes-a-lot]].
+- [[financial-literacy-and-asset-ownership]] — از طریق کاربرد اصل ریسک‌پذیری سازنده در حوزه‌ی مالی.
 
 ## Sources
 
@@ -60,3 +63,4 @@ updated: 2026-07-31
 - [[2026-07-31-creativity-inc-blinkist]]
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
+- [[2026-07-31-rich-dad-poor-dad-blinkist]]

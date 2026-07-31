@@ -62,10 +62,13 @@ updated: 2026-07-31
   - **شرط مرزی:** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] شرط می‌گذارد که خوش‌بینی سازنده باید با مواجهه‌ی کامل با واقعیت همراه باشد.
 - [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی موافقت شناسایی شد:
   - **موافقت:** [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] به این نتیجه رسیده که هدایت قدردانی به‌سوی دیگران اهرم مؤثرتری برای انگیزش است.
+- [[rich-dad-poor-dad]] — یک موافقت و یک تقابل آموزنده:
+  - **موافقت:** [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] مستقل از [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] به همان اصل بنیادین رسیده — ثروت از سرمایه‌گذاری‌مجدد پیوسته می‌آید، نه جهش ناگهانی.
+  - **تقابل آموزنده:** [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] در برابر [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] — تمرکز باریک سازمانی در برابر گستردگی مهارتی فردی؛ تفاوت سطح تحلیل، نه تناقض.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
+بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
 
 ## Translation
 

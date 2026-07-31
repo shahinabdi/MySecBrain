@@ -14,6 +14,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-good-to-great-blinkist]] — Blinkist summary of *Good to Great* by Jim Collins.
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]] — Blinkist summary of *How a Little Becomes a Lot* by Eric Zimmer.
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]] — Blinkist summary of *How to Enjoy Your Life and Your Job* by Dale Carnegie.
+- [[2026-07-31-rich-dad-poor-dad-blinkist]] — Blinkist summary of *Rich Dad, Poor Dad* by Robert T. Kiyosaki.
 
 ## Translations
 
@@ -27,6 +28,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[good-to-great-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «از خوب به عالی».
 - [[how-a-little-becomes-a-lot-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه کمی به مقدار زیادی تبدیل می‌شود».
 - [[how-to-enjoy-your-life-and-your-job-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه از زندگی و شغل خود لذت ببرید».
+- [[rich-dad-poor-dad-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پدر پولدار، پدر فقیر».
 
 ## Books
 
@@ -40,6 +42,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[good-to-great]] — صفحه‌ی مرکزی کتاب «از خوب به عالی» اثر جیم کالینز.
 - [[how-a-little-becomes-a-lot]] — صفحه‌ی مرکزی کتاب «چگونه کمی به مقدار زیادی تبدیل می‌شود» اثر اریک زیمر.
 - [[how-to-enjoy-your-life-and-your-job]] — صفحه‌ی مرکزی کتاب «چگونه از زندگی و شغل خود لذت ببرید» اثر دیل کارنگی.
+- [[rich-dad-poor-dad]] — صفحه‌ی مرکزی کتاب «پدر پولدار، پدر فقیر» اثر رابرت تی. کیوساکی.
 
 ## Zettels
 
@@ -151,6 +154,15 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] — مردم به ایده‌هایی که فکر می‌کنند از خودشان است، بیشتر متعهد می‌مانند.
 - [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] — جایگزینی «اما» با «و» در بازخورد، مانع محوشدن تعریف پیش از انتقاد می‌شود.
 - [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] — به‌اشتراک‌گذاشتن اشتباه خودتان، بهبود را مؤثرتر از دستوردادن دعوت می‌کند.
+- [[the-defining-test-of-an-asset-is-whether-it-puts-money-in-or-takes-money-out-of-your-wallet]] — معیار تعیین‌کننده‌ی دارایی این است که پول به کیف پول می‌آورد یا از آن می‌برد.
+- [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] — ثروتمندان می‌گذارند دارایی‌هایشان برایشان کار کند، نه اینکه خودشان برای پول کار کنند.
+- [[a-mortgaged-home-is-usually-a-liability-not-an-asset-despite-conventional-wisdom]] — خانه‌ی خریداری‌شده با وام مسکن معمولاً بدهی است، نه دارایی — برخلاف باور رایج.
+- [[distinguish-your-profession-from-your-business-to-focus-effort-on-building-assets]] — حرفه‌تان را از کسب‌وکارتان تفکیک کنید تا تلاش بر ساختن دارایی متمرکز شود.
+- [[corporations-let-the-rich-spend-pre-tax-and-limit-personal-risk]] — شرکت‌ها به ثروتمندان امکان می‌دهند پیش از مالیات خرج کنند و ریسک شخصی را محدود کنند.
+- [[lack-of-financial-education-is-a-systemic-gap-left-by-schools-not-personal-failing]] — فقدان سواد مالی، خلائی سیستمی از سوی مدرسه است، نه کاستی شخصی.
+- [[assessing-goal-setting-and-continuous-education-build-financial-intelligence-in-that-order]] — ارزیابی وضعیت، تعیین هدف، و آموزش پیوسته، هوش مالی را به همین ترتیب می‌سازند.
+- [[financial-success-requires-courage-as-much-as-knowledge]] — موفقیت مالی به‌اندازه‌ی دانش، به شهامت نیاز دارد.
+- [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] — کار برای یادگیری گسترده، بیش از کار برای درآمد از طریق تخصص باریک، ثروت می‌سازد.
 
 ## Topics
 
@@ -165,6 +177,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
 - [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
+- [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، و هوش مالی.
 
 ## Queries
 

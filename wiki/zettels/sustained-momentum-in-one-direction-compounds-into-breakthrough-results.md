@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[small-habits-compound-into-large-results-invisibly]] — **موافقت (Agreement):** از [[atomic-habits]]، مستقل از این کتاب، به همان اصل رسیده است — نتایج روزانه‌ی کوچک نامحسوس‌اند و تنها مسیر انباشته‌شده در طول زمان معنادار می‌شود؛ کلییر این را در سطح فرد و رفتار، کالینز در سطح سازمان و استراتژی نشان می‌دهد.
 - [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] — همین کتاب: جهت ثابتی که باید در آن هل داد، همان مفهوم خارپشت است.
+- **موافقت (Agreement) با** [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] از کتاب [[rich-dad-poor-dad]]: کیوساکی مستقل از کالینز، در حوزه‌ی مالی شخصی به‌جای استراتژی سازمانی، به همان اصل بنیادین می‌رسد — ثروت از سرمایه‌گذاری‌مجدد پیوسته در یک جهت می‌آید، نه از یک جهش بزرگ ناگهانی.
 
 ## Sources
 
