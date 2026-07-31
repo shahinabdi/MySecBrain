@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "90431dff2636328c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c25833d123f276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce867aa7964e41c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cd542768045275a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c024bf21294a4a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ededbe314dad80e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "13645ad50280c141",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9fa71aa9978d4de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8415295c98df4b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2f911447db9d65",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 579
+  },
+  "right": {
+    "id": "aa34dcc4ad007103",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f6a64eb4d187928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94351c5efa0ecd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "dca51da2c3cce177",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "91911234c9f7bde0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57ddbbcc1effd56d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "97948c10f504f9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "000dfa5f5f348923",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8ce867aa7964e41c",
+  "lastOpenFiles": [
+    "raw/Building Your Money Machine with ChatGPT by Larry Wheeler.md",
+    "Untitled.base",
+    "raw/The 5 Types of Wealth by Sahil Bloom.md",
+    "raw/The Psychology of Money by Morgan Housel.md",
+    "raw/12 Rules For Life by Jordan B. Peterson.md",
+    "raw/Rich Dad, Poor Dad by Robert T. Kiyosaki.md",
+    "raw/Creativity, Inc. by Ed Catmull with Amy Wallace.md",
+    "raw/Good Morning, I Love You by Shauna Shapiro.md",
+    "raw/Atomic Habits by James Clear.md",
+    "raw/The First Minute by Chris Fenning.md",
+    "raw/Good to Great by Jim Collins.md",
+    "raw/The Algorithm by Jon McNeill.md",
+    "raw/The 48 Laws of Power by Robert Greene.md",
+    "raw/The Overthinker's Guide to Making Decisions by Joseph Nguyen.md",
+    "raw/How a Little Becomes a Lot by Eric Zimmer.md",
+    "raw/Emotional Intelligence by Daniel Goleman.md",
+    "raw/How to Enjoy Your Life and Your Job by Dale Carnegie.md",
+    "raw/Stop Letting Everything Affect You by Daniel Chidiac.md",
+    "raw/The Cost of Quiet by Colette Jane Fehr.md",
+    "raw/Shift by Ethan Kross.md",
+    "raw/The Money Habit by Mike Michalowicz.md",
+    "raw/The Righteous Mind by Jonathan Haidt.md",
+    "raw/Boundaries by Henry Cloud and John Townsend.md",
+    "CLAUDE.md",
+    "daily-summary-2026-07-14.md",
+    "index.md",
+    "log.md.tmp.22020.ba02499523b9",
+    "log.md.tmp.22020.2ce1bef7756c",
+    "log.md.tmp.22020.4cf819b136d3",
+    "index.md.tmp.22020.e1c203230e92",
+    "CLAUDE.md.tmp.22964.57c5b8fe821d",
+    "CLAUDE.md.tmp.22964.a78f497252d0",
+    "index.md.tmp.22964.b4b0181e3ff6",
+    "wiki/concepts/money-wallets-system.md.tmp.22964.2c1fc85def4c",
+    "log.md.tmp.22964.1bbec8e114e6"
+  ]
+}
