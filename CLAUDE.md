@@ -220,6 +220,7 @@ book: atomic-habits
 author: James Clear
 source_language: en
 raw_file: original-file-name.md
+source_hash: sha256:full-file-hash
 tags: [habits, behavior]
 created: 2026-07-31
 updated: 2026-07-31
@@ -318,6 +319,7 @@ Sections, in this order:
 Include:
 
 - Raw filename
+- SHA-256 source fingerprint
 - Format
 - Book title
 - Author
@@ -430,16 +432,102 @@ Sections, in this order:
 
 Use wikilinks as citations.
 
+## Processed Source Detection
+
+Before opening or semantically reading any file in `raw/`, run this preflight.
+
+1. List all files in `raw/`, excluding directories and `raw/assets/`.
+2. Read only the frontmatter of pages in `wiki/sources/`.
+3. Build a processed-source registry from:
+   - `raw_file`
+   - `source_hash`
+4. Compute the SHA-256 fingerprint of each raw file without opening it for semantic analysis.
+5. Classify every raw file:
+
+### Already Processed
+
+A file is already processed when its exact filename and SHA-256 fingerprint appear on a source page.
+
+For an already processed file:
+
+- Do not open it.
+- Do not read its contents.
+- Do not translate it again.
+- Do not extract zettels again.
+- Do not update its `updated` date.
+- Report it as skipped.
+
+### Duplicate Copy
+
+A file is a duplicate copy when its SHA-256 fingerprint already exists under a different raw filename.
+
+For a duplicate copy:
+
+- Do not open it for semantic analysis.
+- Do not create another source page.
+- Do not create another translation.
+- Do not extract zettels again.
+- Report both filenames.
+- Leave both raw files unchanged.
+
+### Changed Existing Source
+
+A file is changed when its filename already appears in `wiki/sources/`, but its current SHA-256 fingerprint differs from the recorded fingerprint.
+
+Because `raw/` is immutable:
+
+- Do not process the changed file automatically.
+- Do not overwrite the recorded source page.
+- Stop processing that file.
+- Report the integrity conflict to the user.
+
+### New Source
+
+A file is new when neither its filename nor its SHA-256 fingerprint is registered.
+
+Only new sources continue to the full Book Ingest Workflow.
+
+A new source may describe a book that already has a page. In that case:
+
+- Process the new source.
+- Create a new source-summary page.
+- Update the existing book page.
+- Update or extend existing zettels and topics.
+- Do not create a duplicate book page.
+- Do not treat a different source about the same book as an already processed file.
+
+## Batch Ingest Workflow
+
+Use this workflow when the user asks to ingest all new books or all new files.
+
+1. Run Processed Source Detection across `raw/`.
+2. Present a preflight summary:
+   - New sources
+   - Already processed sources
+   - Duplicate copies
+   - Integrity conflicts
+3. Fully process only files classified as new.
+4. Process each new source through the Book Ingest Workflow.
+5. After each successful source ingest:
+   - Create its source-summary page.
+   - Record its exact `raw_file`.
+   - Record its complete `source_hash`.
+   - Update `index.md`.
+   - Append to `log.md`.
+6. At the end, report all created, updated, skipped, duplicate, and conflicted files.
+
 ## Book Ingest Workflow
 
 Use this workflow whenever the user provides a Blinkist summary, book summary, chapter summary, or another book-derived source and asks to ingest it.
 
 ## Phase 1: Preserve and Inspect
 
-1. Keep the raw file exactly as provided.
-2. Never rename, edit, move, replace, or delete it.
-3. Read the complete source before writing output.
-4. Identify:
+1. Confirm that Processed Source Detection classified the file as new.
+2. Keep the raw file exactly as provided.
+3. Never rename, edit, move, replace, or delete it.
+4. Record its exact filename and SHA-256 fingerprint.
+5. Read the complete source before writing output.
+6. Identify:
    - Book title
    - Original title
    - Author
@@ -450,19 +538,20 @@ Use this workflow whenever the user provides a Blinkist summary, book summary, c
    - Lists
    - Quotes
    - Images or attachments
-5. If images are referenced:
+7. If images are referenced:
    - Read the text first.
    - Inspect the images separately.
-6. If the source has no date, use the ingest date for the source-summary filename.
+8. If the source has no date, use the ingest date for the source-summary filename.
 
 ## Phase 2: Create the Source Summary
 
 1. Create one source-summary page in `wiki/sources/`.
 2. Use a dated filename.
 3. Record the exact raw filename.
-4. Summarize the source's main claims.
-5. Record missing or unclear material.
-6. List every page created or updated.
+4. Record the complete SHA-256 source fingerprint.
+5. Summarize the source's main claims.
+6. Record missing or unclear material.
+7. List every page created or updated.
 
 ## Phase 3: Translate into Persian
 
@@ -777,22 +866,25 @@ Each entry should briefly record:
 
 1. Never modify anything in `raw/`.
 2. Never rename a source file added by the user.
-3. Never invent book claims.
-4. Never invent translation content.
-5. Never invent relationships between ideas.
-6. Every translation must trace to one exact raw source.
-7. Every zettel must trace to at least one book and one source page.
-8. Preserve the complete source structure in Persian translations.
-9. Keep translations separate from summaries and analysis.
-10. Search for duplicates before creating new pages.
-11. Shared keywords alone do not prove a relationship.
-12. Preserve disagreements between books.
-13. Never silently choose one conflicting book as correct.
-14. Every ingest, saved query, lint, update, setup, and schema change gets a `log.md` entry.
-15. Every page create, rename, merge, or delete is reflected in `index.md` in the same turn.
-16. Never store credentials or sensitive personal information.
-17. Unknown information must remain explicitly marked.
-18. `log.md` is append-only.
-19. A translation is not a summary.
-20. A zettel is not a chapter note.
-21. A topic page is not a tag list.
+3. Never semantically read, translate, or extract notes from a raw file whose filename and SHA-256 fingerprint are already registered.
+4. Never reprocess a duplicate file whose SHA-256 fingerprint is already registered under another filename.
+5. Treat a filename with a changed fingerprint as an integrity conflict and report it.
+6. Never invent book claims.
+7. Never invent translation content.
+8. Never invent relationships between ideas.
+9. Every translation must trace to one exact raw source.
+10. Every zettel must trace to at least one book and one source page.
+11. Preserve the complete source structure in Persian translations.
+12. Keep translations separate from summaries and analysis.
+13. Search for duplicates before creating new pages.
+14. Shared keywords alone do not prove a relationship.
+15. Preserve disagreements between books.
+16. Never silently choose one conflicting book as correct.
+17. Every ingest, saved query, lint, update, setup, and schema change gets a `log.md` entry.
+18. Every page create, rename, merge, or delete is reflected in `index.md` in the same turn.
+19. Never store credentials or sensitive personal information.
+20. Unknown information must remain explicitly marked.
+21. `log.md` is append-only.
+22. A translation is not a summary.
+23. A zettel is not a chapter note.
+24. A topic page is not a tag list.
