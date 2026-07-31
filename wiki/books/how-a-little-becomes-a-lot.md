@@ -51,6 +51,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]] (بسط و موافقت در رابطه‌ی مغز فکور/احساسی و سبک تبیینی)
 - [[mindfulness-and-self-compassion]] (بسط در پذیرش رنج و شفقت به خود)
 - [[personal-responsibility]] (بسط در تمایز خواسته/ارزش و تمرکز بر قابل‌کنترل)
+- [[wealth-beyond-money]] (از طریق کاربرد واقع‌گرایی ساده‌لوحانه در قضاوت مالی با [[the-art-of-spending-money]])
 
 ## Related Books
 
@@ -78,10 +79,12 @@ updated: 2026-07-31
 - [[shift]] — دو رابطه‌ی بسط:
   - **بسط:** [[deliberately-switching-or-modifying-your-physical-space-shifts-your-emotional-state]] اصل طراحی محیط را از حوزه‌ی رفتار به حوزه‌ی هیجان بسط می‌دهد.
   - **بسط:** [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] لایه‌ی انگیزشی «تضاد ذهنی» را پیش از [[if-then-contingency-plans-protect-habits-from-disruption]] اضافه می‌کند.
+- [[the-art-of-spending-money]] — یک رابطه‌ی کاربرد:
+  - **کاربرد:** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] اصل [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] را در حوزه‌ی مشخصِ قضاوت مالی به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 

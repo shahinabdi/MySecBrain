@@ -27,6 +27,7 @@ updated: 2026-07-31
 - در خوشه‌ی [[order-and-chaos]] در کنار [[suppressing-natural-risk-taking-harms-more-than-it-protects]]: هر دو زتل نشان می‌دهند تلاش برای نظمِ کامل (بدون خطر، بدون رنج) به قیمت از دست رفتن معنا و رشد تمام می‌شود.
 - **بسط‌یافته توسط** [[suffering-equals-pain-multiplied-by-resistance-not-pain-alone]] از کتاب [[how-a-little-becomes-a-lot]]: پیترسون نشان می‌دهد رنج واقعی برای معنادار بودن شادی‌های کوچک لازم است، اما مکانیزم دقیق «رنج» را باز نمی‌کند؛ زیمر آن مکانیزم را ارائه می‌دهد — رنج نه از خودِ درد، بلکه از حاصل‌ضرب درد در مقاومت می‌آید.
 - **بسط‌یافته توسط (Extension)** [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] از کتاب [[the-5-types-of-wealth]]: بلوم منبع مکملی برای همین ارزش‌گذاری فراهم می‌کند — نه رنج، بلکه آگاهی از فناپذیریِ بی‌اعلامِ لحظات معمولی (این تعامل ممکن است آخرین‌بار باشد)، است که امر عادی را فوق‌العاده می‌سازد.
+- **بسط‌یافته توسط (Extension)** [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] از [[the-art-of-spending-money]]: هاوسل مکانیزم دقیق‌تری ارائه می‌دهد — این رنج به‌خودی‌خود نیست که شادی می‌سازد، بلکه شکاف میان انتظار و واقعیت است؛ و برخلاف رنج غیرارادی، این شکاف را می‌توان عمداً از طریق کمیاب‌نگه‌داشتن لوکس‌ها مدیریت کرد.
 
 ## Sources
 

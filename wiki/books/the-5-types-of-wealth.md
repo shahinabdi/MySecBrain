@@ -51,6 +51,7 @@ updated: 2026-07-31
 - [[good-morning-i-love-you]] — یک رابطه‌ی بسط: کنجکاوی به‌عنوان نمونه‌ی مشخص از تمرین و انعطاف‌پذیری عصبی.
 - [[shift]] — یک رابطه‌ی موافقت: تجسم آینده به‌عنوان مکانیزم مشترک با WOOP.
 - [[atomic-habits]] — یک رابطه‌ی موافقت: ثبات روزانه به‌عنوان مسیر انباشت، در حوزه‌ی سلامت جسمی.
+- [[the-art-of-spending-money]] — یک رابطه‌ی موافقت: خودآگاهی در خرج‌کردن به‌عنوان مکمل تعادل میان انواع ثروت.
 
 ## Agreements, Extensions & Contradictions
 
@@ -60,6 +61,7 @@ updated: 2026-07-31
 - **بسط:** [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] بسط [[what-you-practice-grows-stronger-through-neuroplasticity]] از [[good-morning-i-love-you]] است.
 - **موافقت:** [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] مستقل از [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] از [[shift]] به مکانیزمی مشابه رسیده.
 - **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[small-habits-compound-into-large-results-invisibly]] از [[atomic-habits]] به همان اصل رسیده.
+- **موافقت:** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] مستقل از [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] از [[the-art-of-spending-money]] به همان نتیجه رسیده.
 
 بدون تناقض.
 

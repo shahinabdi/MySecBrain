@@ -28,6 +28,7 @@ updated: 2026-07-31
 - [[leaders-who-fail-to-build-succession-plans-leave-fragile-legacies]] — همین کتاب: فقدان فروتنی اغلب با فقدان برنامه‌ریزی جانشینی همراه است.
 - **موافقت (Agreement) با** [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] از کتاب [[how-to-enjoy-your-life-and-your-job]]: کارنگی مستقل از کالینز به همین نتیجه رسیده — هدایت اعتبار و قدردانی به‌سوی دیگران (نه خود) اهرم مؤثرتری برای انگیزش و وفاداری است تا جلب‌توجه به خود.
 - **شرط مرزی برای (Boundary Condition)** [[never-outshine-your-superior-protect-their-ego-not-your-own-brilliance]] از [[the-48-laws-of-power]]: قانونِ گرین (پنهان‌کردن درخشش خود از مافوق) توصیف می‌کند چگونه باید با مافوقی رفتار کرد که فروتنیِ سطح‌پنجمی *ندارد* و درخشش زیردست را تهدید می‌بیند؛ اگر مافوق خودش رهبر سطح ۵ باشد، این قانون کمتر ضروری می‌شود، چون چنین رهبری موفقیت زیردست را تهدیدی برای خود نمی‌بیند.
+- **موافقت (Agreement):** [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] از [[the-art-of-spending-money]]: هاوسل مستقل از کالینز به همان ریشه‌ی روان‌شناختی می‌رسد — فروتنیِ پایدار از دیدن نقش عوامل بیرون از کنترل خود (شانس، تیم) در موفقیت می‌آید، نه از تلاش اخلاقی صرف برای «متواضع‌بودن».
 
 ## Sources
 

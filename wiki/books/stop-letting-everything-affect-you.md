@@ -46,6 +46,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]] (از طریق دو بسط در مکانیزم اضطراب و طرد، و غنی‌سازی نام‌گذاری احساس)
 - [[influence-through-understanding-human-nature]] (از طریق بسط مسیر درونی برای احساس ارزشمندی)
 - [[power-dynamics-and-strategic-positioning]] (از طریق کاربرد متقابل با [[the-48-laws-of-power]] در تشخیص دستکاری)
+- [[wealth-beyond-money]] (از طریق بسط با [[the-art-of-spending-money]] در حوزه‌ی مالی)
 
 ## Related Books
 
@@ -63,10 +64,12 @@ updated: 2026-07-31
   - [[identity-must-dissolve-completely-before-a-new-one-can-emerge]] در کنار [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] — هر دو با صداهای درونی محافظتی سروکار دارند.
 - [[the-48-laws-of-power]] — یک رابطه‌ی کاربرد متقابل:
   - **کاربرد متقابل:** [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] گرین — یکی راهنمای تشخیص و دفاع در برابر دستکاری است، دیگری توصیف همان تاکتیک از منظر عاملِ آن.
+- [[the-art-of-spending-money]] — یک رابطه‌ی بسط:
+  - **بسط:** [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] اصل [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] را مشخصاً در حوزه‌ی تصمیم‌های مالی نشان می‌دهد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[boundaries]]: دو بسط. با [[emotional-intelligence]]: دو بسط و یک غنی‌سازی. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط. با [[how-a-little-becomes-a-lot]]: دو ارتباط مکمل. با [[the-48-laws-of-power]]: یک کاربرد متقابل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[healing-from-emotional-reactivity-and-toxic-patterns]] و [[power-dynamics-and-strategic-positioning]] مستند شده است.
+بدون تناقض. با [[boundaries]]: دو بسط. با [[emotional-intelligence]]: دو بسط و یک غنی‌سازی. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط. با [[how-a-little-becomes-a-lot]]: دو ارتباط مکمل. با [[the-48-laws-of-power]]: یک کاربرد متقابل. با [[the-art-of-spending-money]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[healing-from-emotional-reactivity-and-toxic-patterns]]، [[power-dynamics-and-strategic-positioning]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

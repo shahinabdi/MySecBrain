@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] — **بسط (Extension):** از [[emotional-intelligence]]: گلمن بر تنظیم *ارسال* پیام خود با همدلی تمرکز دارد؛ این ایده بُعد مکملی اضافه می‌کند — سوگیری در *دریافت و قضاوت* رفتار دیگری، پیش از آنکه اصلاً پیامی رد‌وبدل شود.
 - [[the-three-ps-framework-questions-whether-a-setback-is-permanent-personal-and-pervasive]] — همین کتاب: هر دو ابزارهایی برای کوچک‌کردن یک برداشت اغراق‌شده (چه درباره‌ی دیگران، چه درباره‌ی یک ناکامی شخصی) به ابعاد واقعی‌اش هستند.
+- **کاربردی شده در (Application)** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] از [[the-art-of-spending-money]]: هاوسل همین سوگیری را در حوزه‌ی مشخصِ قضاوت مالی به‌کار می‌برد — برچسب «اسراف‌کار» یا «خسیس» زدن به دیگران، بدون دانستن زمینه‌ای که برای رفتار مشابه خودمان همیشه می‌یابیم.
 
 ## Sources
 

@@ -47,7 +47,7 @@ updated: 2026-07-31
 - [[personal-responsibility]]
 - [[honest-communication]]
 - [[power-dynamics-and-strategic-positioning]] (از طریق بسط اصل وضعیت‌بدنی/جایگاه با [[the-48-laws-of-power]])
-- [[wealth-beyond-money]] (از طریق دو بسط با [[the-5-types-of-wealth]])
+- [[wealth-beyond-money]] (از طریق دو بسط با [[the-5-types-of-wealth]] و یک بسط با [[the-art-of-spending-money]])
 
 ## Related Books
 
@@ -85,6 +85,8 @@ updated: 2026-07-31
 - [[the-5-types-of-wealth]] — دو رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] بسط [[celebrating-small-joys-amid-suffering-sustains-meaning]] است — نه رنج، بلکه آگاهی از فناپذیریِ بی‌اعلامِ لحظات معمولی، امر عادی را فوق‌العاده می‌سازد.
   - **بسط:** [[identifying-your-front-row-people-reveals-who-deep-relationships-should-center-on]] تکنیکی مشخص (تمرین تجسم ردیف اول) برای اجرای [[supportive-friends-enable-improvement-toxic-ones-entrench-decline]] فراهم می‌کند.
+- [[the-art-of-spending-money]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] مکانیزم دقیق‌تری برای [[celebrating-small-joys-amid-suffering-sustains-meaning]] ارائه می‌دهد — شکاف میان انتظار و واقعیت، نه صرفاً وجود رنج.
 
 ## Agreements, Extensions & Contradictions
 
@@ -101,6 +103,7 @@ updated: 2026-07-31
 - با [[shift]]: یک رابطه‌ی شرط مرزی (Boundary Condition) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
 - با [[the-48-laws-of-power]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[power-dynamics-and-strategic-positioning]] مستند شده است.
 - با [[the-5-types-of-wealth]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[wealth-beyond-money]] مستند شده است.
+- با [[the-art-of-spending-money]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

@@ -20,6 +20,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-the-48-laws-of-power-blinkist]] — Blinkist summary of *The 48 Laws of Power* by Robert Greene.
 - [[2026-07-31-the-5-types-of-wealth-blinkist]] — Blinkist summary of *The 5 Types of Wealth* by Sahil Bloom.
 - [[2026-07-31-the-algorithm-blinkist]] — Blinkist summary of *The Algorithm* by Jon McNeill.
+- [[2026-07-31-the-art-of-spending-money-blinkist]] — Blinkist summary of *The Art of Spending Money* by Morgan Housel.
 
 ## Translations
 
@@ -39,6 +40,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-48-laws-of-power-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «۴۸ قانون قدرت».
 - [[the-5-types-of-wealth-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پنج نوع ثروت».
 - [[the-algorithm-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «الگوریتم».
+- [[the-art-of-spending-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هنر خرج‌کردن پول».
 
 ## Books
 
@@ -58,6 +60,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-48-laws-of-power]] — صفحه‌ی مرکزی کتاب «۴۸ قانون قدرت» اثر رابرت گرین.
 - [[the-5-types-of-wealth]] — صفحه‌ی مرکزی کتاب «پنج نوع ثروت» اثر سهیل بلوم.
 - [[the-algorithm]] — صفحه‌ی مرکزی کتاب «الگوریتم» اثر جان مک‌نیل.
+- [[the-art-of-spending-money]] — صفحه‌ی مرکزی کتاب «هنر خرج‌کردن پول» اثر مورگان هاوسل.
 
 ## Zettels
 
@@ -220,6 +223,12 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] — اتوماسیون باید آخرین گام باشد، تنها پس از فهم کامل یک فرایند به‌کار رود.
 - [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] — جلسات هفتگی پاسخگویی با حضور رهبر، تنها زمانی فوریت واقعی می‌سازند که رهبر خودش جزئیات را بداند.
 - [[personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside]] — تجربه‌ی شخصی محصول خودتان به‌عنوان یک مشتری، اصطکاکی را آشکار می‌کند که از درون دیده نمی‌شود.
+- [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] — پول تنها زمانی به زندگی رضایت‌بخش خدمت می‌کند که با خودآگاهی خرج شود، نه به‌عنوان تابلوی امتیاز.
+- [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] — پذیرفتن ناخودآگاه ارزش‌های مالی دیگران، اضطراب و ازخودبیگانگی می‌سازد.
+- [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] — هر انتخاب مالی داستانی پنهان دارد؛ قضاوت درباره‌ی خرج‌کردن دیگران، همدلی را مسدود می‌کند.
+- [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] — خوشبختی از شکاف میان انتظار و واقعیت می‌آید؛ رفتار با لوکس‌ها به‌عنوان تفریحی نادر، قدرتشان را حفظ می‌کند.
+- [[discovering-your-spending-style-requires-a-wide-funnel-and-a-tight-filter-of-experimentation]] — کشف سبک خرج‌کردنِ شادکننده‌ی خودتان، نیازمند «قیف پهن و فیلتر تنگ» آزمایش است.
+- [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] — هرچه خوش‌شانس‌تر باشید، بیشتر بدهکار فروتنی و مهربانی نسبت به دیگران‌اید.
 
 ## Topics
 
@@ -237,7 +246,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، و هوش مالی.
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
 - [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
-- [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی) و تعادل میان آن‌ها.
+- [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی)، تعادل میان آن‌ها، و روان‌شناسی خرج‌کردن آگاهانه.
 - [[operational-efficiency-through-process-simplification]] — نقشه‌ی موضوعی پنج‌گام ساده‌سازی فرایند: زیرسؤال‌بردن، حذف، ساده‌سازی، تسریع، اتوماسیون در آخر.
 
 ## Queries

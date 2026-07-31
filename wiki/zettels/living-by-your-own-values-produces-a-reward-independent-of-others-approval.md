@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] — **بسط (Extension):** از [[how-to-enjoy-your-life-and-your-job]]: کارنگی نشان می‌دهد نیاز به احساس اهمیت اغلب به قدردانی و تأیید دیگران وابسته است و کلید انگیزش دیگران، ارضای همین نیاز است؛ چیدیاک مسیر مکملی برای *خودِ فرد* پیشنهاد می‌دهد — تولید همان احساس ارزشمندی از طریق همسویی با ارزش‌های شخصی، به‌جای وابستگی به تأیید بیرونی دیگران.
+- **بسط‌یافته توسط (Extension)** [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] از [[the-art-of-spending-money]]: هاوسل همین اصل را مشخصاً در حوزه‌ی تصمیم‌های مالی نشان می‌دهد — قوانین ضمنی اجتماعی درباره‌ی خرج‌کردن یکی از قوی‌ترین و کمترْدیده‌شده‌ترین راه‌های زندگی بر پایه‌ی ارزش‌های دیگران است.
 
 ## Sources
 
