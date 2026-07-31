@@ -17,6 +17,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-rich-dad-poor-dad-blinkist]] — Blinkist summary of *Rich Dad, Poor Dad* by Robert T. Kiyosaki.
 - [[2026-07-31-shift-blinkist]] — Blinkist summary of *Shift* by Ethan Kross.
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]] — Blinkist summary of *Stop Letting Everything Affect You* by Daniel Chidiac.
+- [[2026-07-31-the-48-laws-of-power-blinkist]] — Blinkist summary of *The 48 Laws of Power* by Robert Greene.
 
 ## Translations
 
@@ -33,6 +34,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[rich-dad-poor-dad-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پدر پولدار، پدر فقیر».
 - [[shift-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شیفت».
 - [[stop-letting-everything-affect-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «نگذارید همه‌چیز روی شما اثر بگذارد».
+- [[the-48-laws-of-power-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «۴۸ قانون قدرت».
 
 ## Books
 
@@ -49,6 +51,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[rich-dad-poor-dad]] — صفحه‌ی مرکزی کتاب «پدر پولدار، پدر فقیر» اثر رابرت تی. کیوساکی.
 - [[shift]] — صفحه‌ی مرکزی کتاب «شیفت» اثر اتان کراس.
 - [[stop-letting-everything-affect-you]] — صفحه‌ی مرکزی کتاب «نگذارید همه‌چیز روی شما اثر بگذارد» اثر دانیل چیدیاک.
+- [[the-48-laws-of-power]] — صفحه‌ی مرکزی کتاب «۴۸ قانون قدرت» اثر رابرت گرین.
 
 ## Zettels
 
@@ -183,6 +186,18 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] — گس‌لایتینگ و قربانی‌نمایی را باید الگویی دستکاری‌گرانه شناخت، نه مشکلی ارتباطی.
 - [[identity-must-dissolve-completely-before-a-new-one-can-emerge]] — هویت باید کاملاً فروبپاشد پیش از آنکه هویتی تازه ظهور کند.
 - [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] — بخشش برای بهبودی و پیش‌رفتن اجباری نیست.
+- [[never-outshine-your-superior-protect-their-ego-not-your-own-brilliance]] — از مافوق خود پیشی نگیرید؛ غرور او را حفظ کنید، نه درخشش خودتان را.
+- [[claiming-credit-for-borrowed-work-matters-as-much-as-the-work-itself]] — ادعای اعتبار برای کاری که از دیگران گرفته‌اید، به‌اندازه‌ی خودِ کار اهمیت دارد.
+- [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] — جمع‌آوری اطلاعات محرمانه با ظاهرشدن به‌عنوان دوست، از استخدام جاسوس قابل‌اعتمادتر است.
+- [[acting-unpredictably-paralyzes-opponents-by-forcing-them-to-interpret-you]] — رفتار غیرقابل‌پیش‌بینی، حریف را با واداشتنش به تفسیر مداوم شما فلج می‌کند.
+- [[strategic-surrender-preserves-strength-for-a-later-advantage]] — تسلیم راهبردی در برابر حریف قوی‌تر، نیرو را برای فرصتی بهتر در آینده حفظ می‌کند.
+- [[acting-like-a-superior-makes-others-treat-you-like-one-but-feigning-equality-breeds-contempt]] — عمل‌کردن مانند یک برتر باور دیگران به برتری شما را می‌سازد؛ تظاهر به برابری از موضع برتر، تحقیر می‌آفریند.
+- [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] — اغوای هیجانی، همراهی پایداری می‌سازد که اجبار مستقیم قادر به ساختنش نیست.
+- [[collaborating-with-rivals-and-distancing-from-friends-avoids-envy-driven-betrayal]] — همکاری با رقبا و فاصله‌گرفتن از دوستان، از خیانتِ برخاسته از حسادت جلوگیری می‌کند.
+- [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] — نشان‌دادن یک ایده از طریق عمل، کینه‌ای را که استدلال مستقیم برمی‌انگیزد دور می‌زند.
+- [[appealing-to-self-interest-succeeds-where-appeals-to-goodwill-fail]] — توسل به منفعت‌شخصی دیگران، جایی که توسل به حسن‌نیت شکست می‌خورد موفق می‌شود.
+- [[calculated-unavailability-increases-perceived-value-and-desire]] — در‌دسترس‌نبودن حساب‌شده، ارزش و میل درک‌شده‌ی شما را افزایش می‌دهد.
+- [[surrounding-yourself-with-dependents-preserves-power-better-than-isolating-in-a-fortress]] — احاطه‌شدن با کسانی که به شما وابسته‌اند، قدرت را بهتر از انزوا در یک دژ حفظ می‌کند.
 
 ## Topics
 
@@ -199,6 +214,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
 - [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، و هوش مالی.
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
+- [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
 
 ## Queries
 

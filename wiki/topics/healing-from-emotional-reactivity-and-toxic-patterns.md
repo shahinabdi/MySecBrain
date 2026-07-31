@@ -28,6 +28,7 @@ updated: 2026-07-31
 - [[boundaries]] — دو رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 - [[emotional-intelligence]] — دو رابطه‌ی بسط شناسایی شد.
 - [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی بسط شناسایی شد.
+- [[the-48-laws-of-power]] — یک رابطه‌ی کاربرد متقابل شناسایی شد.
 
 ## Relationships
 
@@ -36,6 +37,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] نمونه‌ی مشخصی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] از [[emotional-intelligence]] را با جزئیات عصبی و رفتاری شرح می‌دهد.
 - **بسط (Extension):** [[anxiety-loops-mistake-repetitive-worry-for-control]] مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] از [[emotional-intelligence]] نام می‌گذارد.
 - **بسط (Extension):** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] مسیر مکملی برای [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] از [[how-to-enjoy-your-life-and-your-job]] پیشنهاد می‌دهد — تولید احساس ارزشمندی از درون، به‌جای وابستگی به تأیید بیرونی.
+- **کاربرد متقابل (Application):** [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] از [[the-48-laws-of-power]] — گرین همان الگوی «دوستی جعلی برای استخراج اطلاعات یا کنترل» را از منظر عامل دستکاری‌گر توصیف می‌کند؛ این زتل همان الگو را از منظر هدفِ آن، برای تشخیص و مستندسازی، شرح می‌دهد.
 
 ## Contradictions
 
@@ -51,6 +53,7 @@ updated: 2026-07-31
 - [[boundaries-and-ownership]] — از طریق دو بسط در مکانیزم گناه و بخشش.
 - [[emotional-intelligence-and-self-regulation]] — از طریق دو بسط در مکانیزم اضطراب و طرد، و غنی‌سازی زبانی نام‌گذاری احساس.
 - [[influence-through-understanding-human-nature]] — از طریق بسط مسیر درونی برای احساس ارزشمندی.
+- [[power-dynamics-and-strategic-positioning]] — از طریق کاربرد متقابل در تشخیص الگوی دستکاری با [[the-48-laws-of-power]].
 
 ## Sources
 

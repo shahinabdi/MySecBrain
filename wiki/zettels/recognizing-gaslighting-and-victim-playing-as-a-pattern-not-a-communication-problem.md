@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] — از [[how-a-little-becomes-a-lot]]: هر دو ایده درباره‌ی اعتماد به ادراک خود از واقعیت‌اند، اما این ایده درباره‌ی تحریف *عمدی و بیرونی* واقعیت توسط شخصی دیگر است، درحالی‌که آن ایده درباره‌ی سوگیری *ناخودآگاه و درونی* ادراک خودِ فرد است — دو منبع کاملاً متفاوت برای بی‌اعتمادی به قضاوت خود.
+- **کاربرد در برابر (Application):** [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] از [[the-48-laws-of-power]]: گرین الگوی «دوستی جعلی برای استخراج اطلاعات یا کنترل» را از منظر عامل دستکاری‌گر توصیف می‌کند؛ این زتل همان الگو را از منظر هدفِ آن توصیف می‌کند و راهی برای تشخیص و مستندسازی آن ارائه می‌دهد — دو روی یک سکه.
 
 ## Sources
 

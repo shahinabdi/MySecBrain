@@ -3,7 +3,7 @@ type: topic
 title: نفوذ از طریق شناخت طبیعت انسانی
 status: active
 tags: [نفوذ, قدردانی, متقاعدسازی]
-sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist]
+sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-07-31-the-48-laws-of-power-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -31,6 +31,7 @@ updated: 2026-07-31
 - [[creativity-inc]] — دو رابطه (یک بسط، یک بسط دیگر) شناسایی شد.
 - [[how-a-little-becomes-a-lot]] — یک رابطه‌ی مرتبط (نه بسط مستقیم) شناسایی شد.
 - [[stop-letting-everything-affect-you]] — یک رابطه‌ی بسط شناسایی شد.
+- [[the-48-laws-of-power]] — یک تناقض و یک بسط شناسایی شد.
 
 ## Relationships
 
@@ -41,10 +42,12 @@ updated: 2026-07-31
 - **بسط (Extension):** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] از [[creativity-inc]] را ارائه می‌دهد.
 - **مرتبط با:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] و [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] از [[creativity-inc]] — هر دو درباره‌ی کاهش ترس در انتقال بازخوردند، یکی در سطح تکنیک بین‌فردی و دیگری در سطح سازوکار سازمانی.
 - **بسط (Extension):** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] از [[stop-letting-everything-affect-you]] مسیر مکملی برای [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] پیشنهاد می‌دهد — تولید احساس ارزشمندی از درون، به‌جای وابستگی به تأیید بیرونی.
+- **تناقض (Contradiction):** [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] از [[the-48-laws-of-power]] — کارنگی صداقتِ علاقه را شرط اثربخشی می‌داند، گرین تظاهرِ ابزاری به همان علاقه را برای هدف کنترل کافی می‌داند؛ دو ادعای ناسازگار درباره‌ی بنیاد اخلاقیِ نزدیکی انسانی که بدون قضاوت درباره‌ی برتری یکی بر دیگری ثبت شده‌اند.
+- **بسط (Extension):** [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] از [[the-48-laws-of-power]] اصل [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] را از بافتی مشارکتی و صادقانه به بافتی راهبردی‌تر می‌برد.
 
 ## Contradictions
 
-هیچ تناقضی با کتاب‌های دیگر یافت نشد.
+- [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] از [[the-48-laws-of-power]] با [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] در تنش مستقیم است (نگاه کنید به بخش روابط). این تنها تناقضِ شناسایی‌شده در این نقشه‌ی موضوعی است.
 
 ## Open Questions
 
@@ -57,8 +60,10 @@ updated: 2026-07-31
 - [[psychological-safety-and-creative-culture]] — از طریق بسط مکانیزم روان‌شناختی مالکیت ایده و کاهش ترس در بازخورد.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل هدایت قدردانی به‌سوی دیگران.
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق بسط مسیر درونی برای احساس ارزشمندی با [[stop-letting-everything-affect-you]].
+- [[power-dynamics-and-strategic-positioning]] — از طریق تناقض و بسط با [[the-48-laws-of-power]].
 
 ## Sources
 
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
+- [[2026-07-31-the-48-laws-of-power-blinkist]]

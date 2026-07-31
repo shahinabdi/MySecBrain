@@ -46,6 +46,7 @@ updated: 2026-07-31
 - [[order-and-chaos]]
 - [[personal-responsibility]]
 - [[honest-communication]]
+- [[power-dynamics-and-strategic-positioning]] (از طریق بسط اصل وضعیت‌بدنی/جایگاه با [[the-48-laws-of-power]])
 
 ## Related Books
 
@@ -78,6 +79,8 @@ updated: 2026-07-31
   - **کاربرد:** [[financial-success-requires-courage-as-much-as-knowledge]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
 - [[shift]] — یک رابطه‌ی شرط مرزی شناسایی شد:
   - **شرط مرزی:** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] بر [[progress-should-be-measured-against-your-past-self-not-others]] شرط دقیق‌تری می‌گذارد — مقایسه با دیگران همیشه مضر نیست، تنها زمانی مضر است که خودکار و بدون گزینش‌گری باشد.
+- [[the-48-laws-of-power]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[acting-like-a-superior-makes-others-treat-you-like-one-but-feigning-equality-breeds-contempt]] حلقه‌ی بازخوردیِ [[posture-signals-status-in-social-hierarchies]] را از سطح زیست‌شناختی ناخودآگاه به سطح رفتار اجتماعیِ آگاهانه و راهبردی می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
@@ -92,6 +95,7 @@ updated: 2026-07-31
 - با [[how-to-enjoy-your-life-and-your-job]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
 - با [[rich-dad-poor-dad]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[financial-literacy-and-asset-ownership]] مستند شده است.
 - با [[shift]]: یک رابطه‌ی شرط مرزی (Boundary Condition) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
+- با [[the-48-laws-of-power]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[power-dynamics-and-strategic-positioning]] مستند شده است.
 
 ## Translation
 

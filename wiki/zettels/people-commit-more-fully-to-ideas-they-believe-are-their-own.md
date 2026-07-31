@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[eliciting-early-yes-responses-keeps-people-psychologically-open-to-persuasion]] — همین کتاب: هر دو از اصل مشترک «تعهد به افکار خودانگیخته» استفاده می‌کنند.
 - [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] — **بسط (Extension):** از [[creativity-inc]]: کتمول نشان می‌دهد اعتماد به مالکیت تصمیم کارکنان خلاقیت و روحیه را آزاد می‌کند؛ این ایده مکانیزم روان‌شناختی زیربنایی آن را ارائه می‌دهد — تعهد افراد نه از خودِ تصمیم، بلکه از احساس مالکیتشان بر آن سرچشمه می‌گیرد.
+- **بسط‌شده توسط (Extension):** [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] از [[the-48-laws-of-power]]: گرین همین اصل — تعهد از احساس مالکیت، نه از شنیدن استدلال، می‌جوشد — را از بافتی مشارکتی و صادقانه به بافتی راهبردی‌تر می‌برد که در آن طرف مقابل حتی از وجود مسئله‌ی واقعی هم بی‌خبر می‌ماند.
 
 ## Sources
 

@@ -3,7 +3,7 @@ type: topic
 title: مرزگذاری و مالکیت روانی
 status: active
 tags: [مرزگذاری, مالکیت, روابط]
-sources: [2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist]
+sources: [2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-07-31-the-48-laws-of-power-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -32,6 +32,7 @@ updated: 2026-07-31
 - [[emotional-intelligence]] — دو زتل آن مکانیزم عصبی و ابزار عملی «پاسخ‌دادن به‌جای عکس‌العمل» را فراهم می‌کنند.
 - [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت شناسایی شد (نگاه کنید به بخش روابط).
 - [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط شناسایی شد.
+- [[the-48-laws-of-power]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 
 ## Relationships
 
@@ -43,6 +44,7 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[the-eighty-percent-rule-treats-occasional-lapses-as-normal-rather-than-failure]] از همان کتاب مستقل از [[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]] به همان اصل رسیده است — لغزش تنها زمانی دائمی می‌شود که آن را چنین تفسیر کنیم.
 - **بسط (Extension):** [[guilt-after-enforcing-a-boundary-is-a-withdrawal-symptom-not-proof-of-selfishness]] از [[stop-letting-everything-affect-you]] مکانیزم فیزیولوژیک مقاومت درونی در برابر [[boundaries-mean-being-responsible-to-others-not-for-them]] را فراهم می‌کند.
 - **بسط (Extension):** [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] از همان کتاب اصل [[forgiving-a-boundary-violation-does-not-require-continued-contact]] را یک قدم فراتر می‌برد — خودِ بخشش هم برای بهبودی الزامی نیست.
+- **شرط مرزی (Boundary Condition):** [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] بر [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] از [[the-48-laws-of-power]] مرز اخلاقی می‌گذارد — همان نوسانِ ترس/مهربانی که گرین تاکتیکی مؤثر برای کسب قدرت می‌داند، از منظر هدفِ آن الگویی خطرناک و اعتیادآور است که باید در برابرش مرز گذاشت.
 
 ## Contradictions
 
@@ -60,6 +62,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم عصبی «پاسخ‌دادن نه عکس‌العمل».
 - [[personal-responsibility]] — از طریق بسط اصل تمرکز-بر-قابل‌کنترل با [[how-a-little-becomes-a-lot]].
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم گناه و بخشش با [[stop-letting-everything-affect-you]].
+- [[power-dynamics-and-strategic-positioning]] — از طریق شرط مرزی بر تاکتیک اغوا/کمیابی گرین.
 
 ## Sources
 
@@ -68,3 +71,4 @@ updated: 2026-07-31
 - [[2026-07-31-emotional-intelligence-blinkist]]
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
+- [[2026-07-31-the-48-laws-of-power-blinkist]]

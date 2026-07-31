@@ -49,6 +49,7 @@ updated: 2026-07-31
 - [[honest-communication]] (از طریق بسط تکنیک پذیرفتن اشتباه خود)
 - [[psychological-safety-and-creative-culture]] (از طریق بسط مکانیزم مالکیت ایده و کاهش ترس در بازخورد)
 - [[focused-strategy-and-disciplined-leadership]] (از طریق موافقت در اصل هدایت قدردانی به‌سوی دیگران)
+- [[power-dynamics-and-strategic-positioning]] (از طریق یک تناقض و یک بسط با [[the-48-laws-of-power]])
 
 ## Related Books
 
@@ -64,10 +65,13 @@ updated: 2026-07-31
   - **مرتبط:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]]، هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
 - [[stop-letting-everything-affect-you]] — یک رابطه‌ی بسط:
   - **بسط:** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] مسیر مکملی برای [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] پیشنهاد می‌دهد — تولید احساس ارزشمندی از درون، به‌جای وابستگی به تأیید بیرونی.
+- [[the-48-laws-of-power]] — یک تناقض و یک بسط:
+  - **تناقض:** [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] با [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] گرین در تنش مستقیم قرار دارد — صداقتِ علاقه به‌عنوان شرط اثربخشی، در برابر کفایتِ تظاهر برای همان هدف.
+  - **بسط:** [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] گرین اصل [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] را از بافتی مشارکتی و صادقانه به بافتی راهبردی‌تر می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. با [[stop-letting-everything-affect-you]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
+با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. با [[stop-letting-everything-affect-you]]: یک بسط. با [[the-48-laws-of-power]]: یک تناقض (صداقت علاقه در برابر تظاهر ابزاری به آن) و یک بسط؛ تناقض حل‌نشده و به‌صورت خنثی ثبت شده است. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[influence-through-understanding-human-nature]] و [[power-dynamics-and-strategic-positioning]] مستند شده است.
 
 ## Translation
 

@@ -3,7 +3,7 @@ type: zettel
 title: وضعیت بدنی، جایگاه فرد را در سلسله‌مراتب اجتماعی نشان می‌دهد و بازتولید می‌کند
 status: seed
 books: [12-rules-for-life]
-topics: []
+topics: [power-dynamics-and-strategic-positioning]
 tags: [سلسله‌مراتب, اعتمادبه‌نفس, زبان-بدن]
 sources: [2026-07-31-12-rules-for-life-blinkist]
 created: 2026-07-31
@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - به‌طور طبیعی با ایده‌ی خودمراقبتی [[self-care-requires-the-same-care-given-to-a-loved-one]] هم‌راستاست: هر دو درباره‌ی دخالت آگاهانه در چرخه‌های خودتقویت‌شونده (خواه شیمیایی، خواه رفتاری) هستند.
+- **بسط شده توسط (Extension):** [[acting-like-a-superior-makes-others-treat-you-like-one-but-feigning-equality-breeds-contempt]] از [[the-48-laws-of-power]]: گرین همین حلقه‌ی بازخوردیِ جایگاه/رفتار را از سطح زیست‌شناختی ناخودآگاه (شیمی خرچنگ) به سطح رفتار اجتماعیِ آگاهانه و راهبردی می‌برد — نمونه‌های لویی-فیلیپ و کریستوفر کلمب نشان می‌دهند انسان‌ها می‌توانند همان حلقه را عمداً و برای هدفی راهبردی اجرا کنند.
 
 ## Sources
 
