@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - کاربرد مکانیزمی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]].
 - **بسط‌دهنده‌ی** [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] از کتاب [[boundaries]]: کلود و تاونسند توصیه‌ی رفتاری «پاسخ بده، نه عکس‌العمل نشان بده» را ارائه می‌دهند؛ گلمن مکانیزم عصبی زیربنایی آن را توضیح می‌دهد — پاسخ‌دادن دقیقاً همان فرصت‌دادن به مغز فکور برای بررسی هشدار مغز احساسی است.
+- **بسط‌یافته توسط** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] از کتاب [[good-morning-i-love-you]]: شاپیرو جزئیات زمانی مشخصی (حدود ۹۰ ثانیه) به این فرایند ارزیابی می‌افزاید که تحمل آن را در اوج هیجان عملی‌تر می‌کند.
 
 ## Sources
 

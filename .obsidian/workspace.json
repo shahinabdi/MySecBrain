@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/translations/building-your-money-machine-with-chatgpt-fa.md",
-                "mode": "preview",
+                "file": "wiki/translations/12-rules-for-life-fa.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "building-your-money-machine-with-chatgpt-fa"
+              "title": "12-rules-for-life-fa"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579
+    "width": 579,
+    "collapsed": true
   },
   "right": {
     "id": "aa34dcc4ad007103",
@@ -217,41 +218,41 @@
   },
   "active": "0369b206f89f4fe3",
   "lastOpenFiles": [
-    "log.md.tmp.34372.91a099f15924",
-    "index.md.tmp.34372.ce829a7f3ef2",
-    "index.md.tmp.34372.ec8692d465a5",
-    "index.md.tmp.34372.33744851e056",
-    "wiki/books/boundaries.md.tmp.34372.b503f7dd37d9",
-    "wiki/books/12-rules-for-life.md.tmp.34372.aa35270e3675",
-    "wiki/books/12-rules-for-life.md.tmp.34372.beae91df4abb",
-    "wiki/topics/psychological-safety-and-creative-culture.md.tmp.34372.21aef4f08674",
-    "wiki/topics/psychological-safety-and-creative-culture.md.tmp.34372.2ffd372f3852",
-    "wiki/topics/psychological-safety-and-creative-culture.md.tmp.34372.82ab33788875",
-    "wiki/topics/boundaries-and-ownership.md.tmp.34372.933fcb7b4e1a",
+    "log.md.tmp.34372.fb10d01a4592",
+    "index.md.tmp.34372.9da00e8feb0e",
+    "index.md.tmp.34372.2bb73dff70e3",
+    "index.md.tmp.34372.2b678dd6e325",
+    "wiki/books/12-rules-for-life.md.tmp.34372.05ba3a7e4bd7",
+    "wiki/books/atomic-habits.md.tmp.34372.b2200123b990",
+    "wiki/topics/emotional-intelligence-and-self-regulation.md.tmp.34372.4026fd7e0b57",
+    "wiki/topics/emotional-intelligence-and-self-regulation.md.tmp.34372.f3a8f09bef11",
+    "wiki/topics/personal-responsibility.md.tmp.34372.b291ba2e4d08",
+    "wiki/topics/personal-responsibility.md.tmp.34372.ba08841dedde",
+    "wiki/topics/habit-formation.md.tmp.34372.8c17693eb422",
+    "wiki/zettels/work-boundaries-mean-owning-your-own-tasks-and-reactions-not-everyone-elses.md",
+    "wiki/books/good-morning-i-love-you.md",
+    "wiki/topics/mindfulness-and-self-compassion.md",
+    "wiki/zettels/specific-solution-oriented-criticism-avoids-triggering-defensiveness.md",
+    "wiki/zettels/mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state.md",
+    "wiki/zettels/diverse-teams-outperform-homogeneous-ones-through-complementary-differences.md",
+    "wiki/zettels/a-great-team-matters-more-than-a-great-idea.md",
+    "wiki/topics/order-and-chaos.md",
+    "wiki/zettels/priming-your-mind-for-joy-through-small-repeated-habits.md",
+    "wiki/zettels/emotions-are-temporary-signals-that-rarely-outlast-90-seconds.md",
+    "wiki/zettels/suppressing-emotions-backfires-so-name-and-welcome-them-instead.md",
+    "wiki/zettels/processing-a-mistake-through-awareness-common-humanity-and-kindness-eases-self-judgment.md",
+    "wiki/zettels/self-compassion-means-treating-yourself-as-you-would-a-struggling-friend.md",
+    "wiki/zettels/a-short-daily-meditation-practice-compounds-over-time.md",
+    "wiki/zettels/mindfulness-combines-intention-attention-and-attitude.md",
+    "wiki/zettels/small-consistent-practice-beats-forcing-large-change.md",
+    "wiki/zettels/what-you-practice-grows-stronger-through-neuroplasticity.md",
+    "wiki/translations/good-morning-i-love-you-fa.md",
+    "wiki/zettels/precise-language-converts-chaotic-complexity-into-solvable-order.md",
+    "wiki/books/building-your-money-machine-with-chatgpt.md",
+    "wiki/sources/2026-07-31-good-morning-i-love-you-blinkist.md",
+    "wiki/translations/building-your-money-machine-with-chatgpt-fa.md",
     "wiki/books/emotional-intelligence.md",
     "wiki/topics/emotional-intelligence-and-self-regulation.md",
-    "wiki/zettels/specific-solution-oriented-criticism-avoids-triggering-defensiveness.md",
-    "wiki/zettels/pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret.md",
-    "wiki/zettels/explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation.md",
-    "wiki/zettels/mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state.md",
-    "wiki/zettels/reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power.md",
-    "wiki/zettels/childrens-emotional-intelligence-shapes-societys-future-through-delinquency-and-parenting-cycles.md",
-    "wiki/zettels/emotional-intelligence-predicts-success-and-health-better-than-iq-alone.md",
-    "wiki/zettels/self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm.md",
-    "wiki/zettels/empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted.md",
-    "wiki/zettels/delaying-gratification-by-managing-competing-feelings-predicts-achievement.md",
-    "wiki/zettels/naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence.md",
-    "wiki/zettels/emotional-hijacking-bypasses-rational-thought-under-perceived-threat.md",
-    "wiki/zettels/intense-emotion-crowds-out-rational-judgment.md",
-    "wiki/zettels/emotions-serve-three-functions-learning-social-reading-and-readiness-to-act.md",
-    "wiki/translations/emotional-intelligence-fa.md",
-    "wiki/sources/2026-07-31-emotional-intelligence-blinkist.md",
-    "wiki/translations/creativity-inc-fa.md",
-    "log.md",
-    "wiki/books/12-rules-for-life.md",
-    "wiki/zettels/ai-amplifies-effort-but-does-not-replace-vision-and-strategy.md",
-    "wiki/topics/ai-as-tool-not-replacement.md",
-    "wiki/sources/2026-07-31-12-rules-for-life-blinkist.md",
-    "wiki/sources/2026-07-31-atomic-habits-blinkist.md"
+    "wiki/zettels/pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret.md"
   ]
 }

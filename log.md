@@ -101,3 +101,22 @@ Created `wiki/` subdirectories (`sources`, `translations`, `books`, `zettels`, `
 - **Contradictions:** none found.
 - **Review flags:** Author and original-title subtitle are unspecified in the raw source and marked as such rather than guessed (author inferred directly from explicit title text only). Chapter 9's gender-difference claims are presented as generalizations about socialization patterns without qualification; noted in the source page's Limitations section. Several statistics are stated without citation detail in this condensed form.
 - **Index:** `index.md` updated with all new pages.
+
+## [2026-07-31] ingest | Good Morning, I Love You by Shauna Shapiro
+
+- **Source:** `raw/Good Morning, I Love You by Shauna Shapiro.md` (Blinkist summary), sha256:5650abf5d151186807f2fb64bd79a5d6231972e89055a41d94443f015c0fc0ad
+- **Created:** [[2026-07-31-good-morning-i-love-you-blinkist]] (source page), [[good-morning-i-love-you-fa]] (full Persian translation), [[good-morning-i-love-you]] (book hub)
+- **Zettels created (9):** [[what-you-practice-grows-stronger-through-neuroplasticity]], [[small-consistent-practice-beats-forcing-large-change]], [[mindfulness-combines-intention-attention-and-attitude]], [[a-short-daily-meditation-practice-compounds-over-time]], [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]], [[processing-a-mistake-through-awareness-common-humanity-and-kindness-eases-self-judgment]], [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]], [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]], [[priming-your-mind-for-joy-through-small-repeated-habits]]
+- **Topics created (1):** [[mindfulness-and-self-compassion]]
+- **Existing zettels enriched (cross-book Connections added):** [[small-habits-compound-into-large-results-invisibly]], [[the-two-minute-rule-makes-new-habits-immediately-achievable]] (from [[atomic-habits]]); [[self-care-requires-the-same-care-given-to-a-loved-one]] (from [[12-rules-for-life]]); [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]], [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] (from [[emotional-intelligence]])
+- **Existing topics enriched:** [[habit-formation]], [[personal-responsibility]], [[emotional-intelligence-and-self-regulation]] (Books/Relationships/Related Topics/Sources updated)
+- **Existing book pages enriched:** [[atomic-habits]], [[12-rules-for-life]], [[emotional-intelligence]] (Related Books, Agreements/Extensions/Contradictions sections updated)
+- **Cross-book relationships added (5):**
+  1. Extension — [[what-you-practice-grows-stronger-through-neuroplasticity]] explains the neuroscience mechanism behind [[small-habits-compound-into-large-results-invisibly]] (Atomic Habits).
+  2. Agreement — [[small-consistent-practice-beats-forcing-large-change]] independently arrives at the same conclusion as [[the-two-minute-rule-makes-new-habits-immediately-achievable]] (Atomic Habits): commit to a smaller version, not the full ambitious one.
+  3. Agreement — [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] independently arrives at the same principle as [[self-care-requires-the-same-care-given-to-a-loved-one]] (12 Rules for Life), backed by neurochemical evidence (oxytocin, endorphins).
+  4. Agreement — [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] independently arrives at the same principle as [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] (Emotional Intelligence).
+  5. Extension — [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] adds a concrete timeframe to [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] (Emotional Intelligence).
+- **Contradictions:** none found.
+- **Review flags:** Author and original-title subtitle are unspecified in the raw source and marked as such rather than guessed (author inferred directly from explicit title text only). The "emotions last ~90 seconds" claim is stated as established fact without further citation detail in this condensed form; noted in the source page's Limitations section.
+- **Index:** `index.md` updated with all new pages.

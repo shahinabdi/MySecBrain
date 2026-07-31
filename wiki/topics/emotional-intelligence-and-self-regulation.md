@@ -3,7 +3,7 @@ type: topic
 title: هوش هیجانی و خودتنظیمی
 status: active
 tags: [هوش-هیجانی, خودتنظیمی, همدلی]
-sources: [2026-07-31-emotional-intelligence-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -37,6 +37,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] بعد همدلانه‌ای به [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] از [[12-rules-for-life]] می‌افزاید.
 - **بسط (Extension) + کاربرد (Application):** [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] مکانیزم عصبی [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] از [[boundaries]] را توضیح می‌دهد، و [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] ابزاری عینی (ضربان قلب) برای اجرای همان توصیه ارائه می‌دهد.
 - **بسط (Extension):** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] از [[creativity-inc]] می‌افزاید — سازوکار سازمانی مسیر بازخورد را باز می‌کند، اما *شیوه‌ی بیان* آن تعیین می‌کند آیا پذیرفته می‌شود.
+- **موافقت (Agreement):** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] از [[good-morning-i-love-you]] مستقل از [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] به همان اصل رسیده است.
+- **بسط (Extension):** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] از همان کتاب جزئیات زمانی مشخصی به [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] می‌افزاید.
 
 ## Contradictions
 
@@ -52,7 +54,9 @@ updated: 2026-07-31
 - [[honest-communication]] — از طریق بعد همدلانه‌ی گوش‌دادن.
 - [[boundaries-and-ownership]] — از طریق مکانیزم عصبی «پاسخ‌دادن نه عکس‌العمل».
 - [[psychological-safety-and-creative-culture]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
+- [[mindfulness-and-self-compassion]] — از طریق موافقت در نام‌گذاری احساس و بسط زمان‌بندی تنظیم هیجانی.
 
 ## Sources
 
 - [[2026-07-31-emotional-intelligence-blinkist]]
+- [[2026-07-31-good-morning-i-love-you-blinkist]]

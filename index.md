@@ -10,6 +10,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-building-your-money-machine-with-chatgpt-blinkist]] — Blinkist summary of *Building Your Money Machine with ChatGPT* by Larry Wheeler.
 - [[2026-07-31-creativity-inc-blinkist]] — Blinkist summary of *Creativity, Inc.* by Ed Catmull with Amy Wallace.
 - [[2026-07-31-emotional-intelligence-blinkist]] — Blinkist summary of *Emotional Intelligence* by Daniel Goleman.
+- [[2026-07-31-good-morning-i-love-you-blinkist]] — Blinkist summary of *Good Morning, I Love You* by Shauna Shapiro.
 
 ## Translations
 
@@ -19,6 +20,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[building-your-money-machine-with-chatgpt-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «ساختن ماشین درآمدی خود با چت‌جی‌پی‌تی».
 - [[creativity-inc-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شرکت خلاقیت».
 - [[emotional-intelligence-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هوش هیجانی».
+- [[good-morning-i-love-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «صبح‌بخیر، دوستت دارم».
 
 ## Books
 
@@ -28,6 +30,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[building-your-money-machine-with-chatgpt]] — صفحه‌ی مرکزی کتاب «ساختن ماشین درآمدی خود با چت‌جی‌پی‌تی» اثر لری ویلر.
 - [[creativity-inc]] — صفحه‌ی مرکزی کتاب «شرکت خلاقیت» اثر اد کتمول و امی والاس.
 - [[emotional-intelligence]] — صفحه‌ی مرکزی کتاب «هوش هیجانی» اثر دنیل گلمن.
+- [[good-morning-i-love-you]] — صفحه‌ی مرکزی کتاب «صبح‌بخیر، دوستت دارم» اثر شانا شاپیرو.
 
 ## Zettels
 
@@ -99,6 +102,15 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] — تبیین شکست‌ها با علل قابل‌تغییر، انگیزه را پایدار نگه می‌دارد.
 - [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] — مکث تا آرام‌شدن ضربان قلب، از پشیمانی بعدی جلوگیری می‌کند.
 - [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] — نقد مشخص و راه‌حل‌محور، از برانگیختن تدافع جلوگیری می‌کند.
+- [[what-you-practice-grows-stronger-through-neuroplasticity]] — آنچه تمرین می‌کنید، از طریق انعطاف‌پذیری عصبی، قوی‌تر می‌شود.
+- [[small-consistent-practice-beats-forcing-large-change]] — تمرین کوچک و پیوسته بر تحمیل تغییری بزرگ برتری دارد.
+- [[mindfulness-combines-intention-attention-and-attitude]] — ذهن‌آگاهی از ترکیب نیت، توجه و نگرش ساخته می‌شود.
+- [[a-short-daily-meditation-practice-compounds-over-time]] — مدیتیشن کوتاه و روزانه در طول زمان انباشته می‌شود.
+- [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] — شفقت به خود یعنی با خود مثل دوستی در سختی رفتار کنید.
+- [[processing-a-mistake-through-awareness-common-humanity-and-kindness-eases-self-judgment]] — پردازش اشتباه از طریق آگاهی، انسانیت مشترک و مهربانی، خودقضاوتی را تسکین می‌دهد.
+- [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] — سرکوب احساسات نتیجه‌ی معکوس می‌دهد؛ نام ببرید و خوش‌آمد بگویید.
+- [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] — احساسات سیگنال‌های موقتی‌اند که به‌ندرت از ۹۰ ثانیه فراتر می‌روند.
+- [[priming-your-mind-for-joy-through-small-repeated-habits]] — مغز را با عادت‌های کوچک و تکراری برای شادی آماده کنید.
 
 ## Topics
 
@@ -110,6 +122,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[ai-as-tool-not-replacement]] — نقشه‌ی موضوعی استفاده‌ی مسئولانه از هوش مصنوعی به‌عنوان ابزار مکمل انسان.
 - [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها و عادت‌های مدیریتی لازم برای فرهنگ سازمانی خلاق.
 - [[emotional-intelligence-and-self-regulation]] — نقشه‌ی موضوعی کارکرد، اختلال، و تقویت هوش هیجانی.
+- [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
 
 ## Queries
 

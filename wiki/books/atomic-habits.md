@@ -55,10 +55,13 @@ updated: 2026-07-31
   - **شرط مرزی:** توصیه‌ی پیترسون به ترجیح معنا بر ارضای آنی ([[meaningful-goals-outweigh-instant-gratification]]) با ایده‌ی کلییر درباره‌ی الحاق رضایت فوری به اهداف تأخیری ([[delayed-return-habits-need-attached-immediate-gratification]]) تقابل ظاهری دارد که در [[habit-formation]] به‌عنوان شرط مرزی (نه تناقض) توضیح داده شده است.
 - [[boundaries]] — یک تقابل آموزنده با این کتاب دارد:
   - **تقابل آموزنده:** «قرارداد عادت» کلییر ([[habit-contracts-with-social-stakes-increase-follow-through]]) و «جذابیت کنترل‌گر» کلود/تاونسند ([[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]]) هر دو از اهمیت‌دادن انسان به نظر دیگران بهره می‌برند، اما یکی سالم (انتخاب آزاد) و دیگری ناسالم (ترس و گناه تحمیلی) است.
+- [[good-morning-i-love-you]] — یک رابطه‌ی بسط و یک موافقت:
+  - **بسط:** [[what-you-practice-grows-stronger-through-neuroplasticity]] مکانیزم عصب‌شناختی [[small-habits-compound-into-large-results-invisibly]] را در سطح ساختار مغز توضیح می‌دهد.
+  - **موافقت:** [[small-consistent-practice-beats-forcing-large-change]] مستقل از [[the-two-minute-rule-makes-new-habits-immediately-achievable]] به همان نتیجه رسیده است.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم با [[12-rules-for-life]] یا [[boundaries]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]] و [[boundaries-and-ownership]] مستند شده‌اند.
+بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]] یا [[good-morning-i-love-you]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]] و [[mindfulness-and-self-compassion]] مستند شده‌اند.
 
 ## Translation
 

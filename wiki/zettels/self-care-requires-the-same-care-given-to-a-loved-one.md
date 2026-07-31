@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - بخشی از خوشه‌ی گسترده‌تر «مسئولیت‌پذیری فردی» در [[personal-responsibility]]، در کنار [[progress-should-be-measured-against-your-past-self-not-others]]، [[taking-responsibility-must-precede-judging-the-world]] و [[meaningful-goals-outweigh-instant-gratification]] — هر چهار ایده درباره‌ی اداره‌ی آگاهانه‌ی زندگی خود، به‌جای واکنش منفعلانه یا مقایسه با بیرون، هستند.
 - **بسط‌یافته توسط** [[boundaries-mean-being-responsible-to-others-not-for-them]] از کتاب [[boundaries]]: پیترسون می‌گوید باید از خود مثل یک عزیز مراقبت کرد، اما مرز میان این مراقبت و نادیده‌گرفتن خود برای دیگران را مشخص نمی‌کند؛ کلود و تاونسند این مرز را با تمایز «مسئول در برابر دیگران / نه به‌جای آن‌ها» دقیق می‌کنند.
+- **موافق (Agreement) با** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] از کتاب [[good-morning-i-love-you]]: پیترسون و شاپیرو، از دو سنت متفاوت، مستقل از هم به همان اصل رسیده‌اند؛ شاپیرو آن را با شواهد عصب‌شیمیایی مشخص (اکسی‌توسین، اندورفین) تکمیل می‌کند.
 
 ## Sources
 

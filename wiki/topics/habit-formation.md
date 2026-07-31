@@ -3,7 +3,7 @@ type: topic
 title: شکل‌گیری عادت
 status: active
 tags: [عادت, رفتار, نشانه, پاداش]
-sources: [2026-07-31-atomic-habits-blinkist]
+sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-good-morning-i-love-you-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -33,6 +33,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[habit-contracts-with-social-stakes-increase-follow-through]] توصیه‌ی کلی پیترسون درباره‌ی دوستان حمایت‌گر ([[supportive-friends-enable-improvement-toxic-ones-entrench-decline]]) را به یک تکنیک عملی (قرارداد رسمی با پیامد اجتماعی) تبدیل می‌کند.
 - **شرط مرزی (Boundary Condition):** [[delayed-return-habits-need-attached-immediate-gratification]] در برابر توصیه‌ی پیترسون به ترجیح معنا بر ارضای آنی ([[meaningful-goals-outweigh-instant-gratification]]) قرار می‌گیرد، اما آن را نقض نمی‌کند — نشان می‌دهد رضایت فوری وقتی سازنده است که ابزار پایداری در خدمت هدف بلندمدت باشد، نه جایگزین آن هدف.
 - **تقابل آموزنده:** [[habit-contracts-with-social-stakes-increase-follow-through]] در کنار [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] از کتاب [[boundaries]] نشان می‌دهد پاسخگویی اجتماعی دو روی دارد — قرارداد عادت وقتی سالم است که بر پایه‌ی انتخاب آزادانه و احترام متقابل باشد، درحالی‌که همان اهرم (اهمیت‌دادن به نظر دیگران) در دست یک رابطه‌ی کنترل‌گرانه ناسالم می‌شود.
+- **بسط (Extension):** [[what-you-practice-grows-stronger-through-neuroplasticity]] از کتاب [[good-morning-i-love-you]] مکانیزم عصب‌شناختی [[small-habits-compound-into-large-results-invisibly]] را در سطح ساختار مغز توضیح می‌دهد.
+- **موافقت (Agreement):** [[small-consistent-practice-beats-forcing-large-change]] از همان کتاب مستقل از [[the-two-minute-rule-makes-new-habits-immediately-achievable]] به همان نتیجه رسیده است.
 
 ## Contradictions
 
@@ -48,8 +50,10 @@ updated: 2026-07-31
 - [[personal-responsibility]] — هر دو درباره‌ی اداره‌ی آگاهانه‌ی رفتار روزمره‌اند؛ این موضوع بر مکانیزم رفتاری تمرکز دارد، آن موضوع بر نگرش و مسئولیت‌پذیری.
 - [[order-and-chaos]] — طراحی محیط برای کاهش اصطکاک یا نشانه‌های واضح، نمونه‌ای عملی از بازگرداندن نظم به یک بخش آشوبناک از زندگی روزمره است.
 - [[boundaries-and-ownership]] — پاسخگویی اجتماعی سالم (قرارداد عادت) در تضاد آموزنده با پویایی کنترل‌گرانه در آن موضوع قرار دارد.
+- [[mindfulness-and-self-compassion]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک.
 
 ## Sources
 
 - [[2026-07-31-atomic-habits-blinkist]]
 - [[2026-07-31-boundaries-blinkist]]
+- [[2026-07-31-good-morning-i-love-you-blinkist]]

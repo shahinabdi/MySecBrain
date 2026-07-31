@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - زیربنای [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] و [[reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power]]: هر دو بر توانایی شناسایی و بازتفسیر یک احساس متکی‌اند.
+- **موافق (Agreement) با** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] از کتاب [[good-morning-i-love-you]]: گلمن و شاپیرو، از دو سنت متفاوت، مستقل از هم تأکید می‌کنند نام‌گذاری آگاهانه‌ی احساس — نه سرکوب یا واکنش خودکار — نخستین گام مدیریت سالم هیجان است.
 
 ## Sources
 

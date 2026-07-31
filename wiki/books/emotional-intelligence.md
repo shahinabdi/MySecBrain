@@ -61,10 +61,13 @@ updated: 2026-07-31
   - **بسط + کاربرد:** [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] و [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] مکانیزم عصبی و ابزار عملی برای [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] فراهم می‌کنند.
 - [[creativity-inc]] — یک بسط:
   - **بسط:** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] می‌افزاید.
+- [[good-morning-i-love-you]] — یک موافقت و یک بسط:
+  - **موافقت:** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] مستقل از [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] به همان اصل رسیده است.
+  - **بسط:** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] جزئیات زمانی مشخصی به [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] می‌افزاید.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
+بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
 
 ## Translation
 

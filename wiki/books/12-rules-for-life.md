@@ -65,6 +65,8 @@ updated: 2026-07-31
 - [[emotional-intelligence]] — دو رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] مکانیزم روان‌شناختی [[meaningful-goals-outweigh-instant-gratification]] را ارائه می‌دهد.
   - **بسط:** [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] بعد همدلانه‌ای به [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] می‌افزاید.
+- [[good-morning-i-love-you]] — یک رابطه‌ی موافقت شناسایی شد:
+  - **موافقت:** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] مستقل از [[self-care-requires-the-same-care-given-to-a-loved-one]] به همان اصل رسیده و آن را با شواهد عصب‌شیمیایی تکمیل می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
@@ -73,6 +75,7 @@ updated: 2026-07-31
 - با [[building-your-money-machine-with-chatgpt]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[order-and-chaos]] مستند شده است.
 - با [[creativity-inc]]: دو رابطه‌ی بسط (Extension) و یک تقابل آموزنده (تفاوت سطح تحلیل، نه تناقض) شناسایی شد. جزئیات در صفحات موضوع [[honest-communication]]، [[order-and-chaos]] و [[personal-responsibility]] مستند شده است.
 - با [[emotional-intelligence]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحات موضوع [[personal-responsibility]] و [[honest-communication]] مستند شده است.
+- با [[good-morning-i-love-you]]: یک رابطه‌ی موافقت (Agreement) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
 
 ## Translation
 
