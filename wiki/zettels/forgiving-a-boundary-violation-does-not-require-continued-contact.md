@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - ادامه‌ی منطقی [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] در برخورد با نقض‌های مکرر خانوادگی.
+- **بسط‌یافته توسط** [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] از کتاب [[stop-letting-everything-affect-you]]: این ایده نشان می‌دهد بخشش نیازی به ادامه‌ی تماس ندارد؛ چیدیاک یک قدم فراتر می‌رود — خودِ بخشش هم برای بهبودی، مرزگذاری قاطع، و بازیابی حس یکپارچگی الزامی نیست.
 
 ## Sources
 

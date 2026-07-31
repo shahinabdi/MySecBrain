@@ -16,6 +16,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]] — Blinkist summary of *How to Enjoy Your Life and Your Job* by Dale Carnegie.
 - [[2026-07-31-rich-dad-poor-dad-blinkist]] — Blinkist summary of *Rich Dad, Poor Dad* by Robert T. Kiyosaki.
 - [[2026-07-31-shift-blinkist]] — Blinkist summary of *Shift* by Ethan Kross.
+- [[2026-07-31-stop-letting-everything-affect-you-blinkist]] — Blinkist summary of *Stop Letting Everything Affect You* by Daniel Chidiac.
 
 ## Translations
 
@@ -31,6 +32,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[how-to-enjoy-your-life-and-your-job-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه از زندگی و شغل خود لذت ببرید».
 - [[rich-dad-poor-dad-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پدر پولدار، پدر فقیر».
 - [[shift-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شیفت».
+- [[stop-letting-everything-affect-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «نگذارید همه‌چیز روی شما اثر بگذارد».
 
 ## Books
 
@@ -46,6 +48,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[how-to-enjoy-your-life-and-your-job]] — صفحه‌ی مرکزی کتاب «چگونه از زندگی و شغل خود لذت ببرید» اثر دیل کارنگی.
 - [[rich-dad-poor-dad]] — صفحه‌ی مرکزی کتاب «پدر پولدار، پدر فقیر» اثر رابرت تی. کیوساکی.
 - [[shift]] — صفحه‌ی مرکزی کتاب «شیفت» اثر اتان کراس.
+- [[stop-letting-everything-affect-you]] — صفحه‌ی مرکزی کتاب «نگذارید همه‌چیز روی شما اثر بگذارد» اثر دانیل چیدیاک.
 
 ## Zettels
 
@@ -172,6 +175,14 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[moods-spread-between-people-through-emotional-contagion]] — خلق‌وخو از طریق سرایت هیجانی میان افراد منتقل می‌شود.
 - [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] — مقایسه‌ی اجتماعی خنثی است تا زاویه‌ی دید تعیین کند انگیزه می‌بخشد یا می‌فرساید.
 - [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] — چارچوب WOOP آرزو را از طریق تضاد ذهنی به برنامه‌ای مشخص تبدیل می‌کند.
+- [[anxiety-loops-mistake-repetitive-worry-for-control]] — حلقه‌ی اضطراب، تکرار نگرانی را با کنترل اشتباه می‌گیرد.
+- [[scheduling-a-fixed-daily-worry-window-contains-anxious-thoughts]] — تعیین یک بازه‌ی روزانه‌ی ثابت برای نگرانی، افکار مضطرب را مهار می‌کند.
+- [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] — طرد، همان هشدار عصبی درد فیزیکی را برمی‌انگیزد.
+- [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] — زندگی بر پایه‌ی ارزش‌های خود، پاداشی مستقل از تأیید دیگران می‌سازد.
+- [[guilt-after-enforcing-a-boundary-is-a-withdrawal-symptom-not-proof-of-selfishness]] — گناه پس از مرزگذاری، نشانه‌ی ترک یک الگوی قدیمی است، نه اثبات خودخواهی.
+- [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] — گس‌لایتینگ و قربانی‌نمایی را باید الگویی دستکاری‌گرانه شناخت، نه مشکلی ارتباطی.
+- [[identity-must-dissolve-completely-before-a-new-one-can-emerge]] — هویت باید کاملاً فروبپاشد پیش از آنکه هویتی تازه ظهور کند.
+- [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] — بخشش برای بهبودی و پیش‌رفتن اجباری نیست.
 
 ## Topics
 
@@ -187,6 +198,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
 - [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
 - [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، و هوش مالی.
+- [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
 
 ## Queries
 

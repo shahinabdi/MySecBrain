@@ -76,10 +76,14 @@ updated: 2026-07-31
   - **بسط:** [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] مکانیزم زبانی دقیقی به [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] می‌افزاید.
 - [[shift]] — یک رابطه‌ی بسط:
   - **بسط:** [[moods-spread-between-people-through-emotional-contagion]] پدیده‌ی خودکار زیربنایی [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] را توصیف می‌کند.
+- [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط و یک غنی‌سازی:
+  - **بسط:** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] نمونه‌ی مشخصی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] را با جزئیات عصبی و رفتاری شرح می‌دهد.
+  - **بسط:** [[anxiety-loops-mistake-repetitive-worry-for-control]] مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] نام می‌گذارد.
+  - **غنی‌سازی:** «تمرین شاهدبودن» چیدیاک نکته‌ای زبانی به [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] می‌افزاید.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
+بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. با [[stop-letting-everything-affect-you]]: دو بسط و یک غنی‌سازی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
 
 ## Translation
 

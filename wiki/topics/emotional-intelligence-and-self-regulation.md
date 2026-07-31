@@ -3,7 +3,7 @@ type: topic
 title: هوش هیجانی و خودتنظیمی
 status: active
 tags: [هوش-هیجانی, خودتنظیمی, همدلی]
-sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -35,6 +35,7 @@ updated: 2026-07-31
 - [[how-a-little-becomes-a-lot]] — چهار رابطه (سه بسط، یک موافقت) شناسایی شد.
 - [[how-to-enjoy-your-life-and-your-job]] — دو رابطه‌ی بسط شناسایی شد.
 - [[shift]] — شش زتل درباره‌ی ابزارهای شیفت‌دادن هیجانی به این موضوع افزوده شد؛ یک رابطه‌ی بسط مستقیم با [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] شناسایی شد.
+- [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط و یک غنی‌سازی زبانی شناسایی شد.
 
 ## Relationships
 
@@ -52,6 +53,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[emotional-tension-not-mental-effort-causes-desk-work-fatigue]] از [[how-to-enjoy-your-life-and-your-job]] اصل [[intense-emotion-crowds-out-rational-judgment]] را در سطح خستگی تجمعی روزانه بررسی می‌کند.
 - **بسط (Extension):** [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] از همان کتاب مکانیزم زبانی دقیقی به [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] می‌افزاید.
 - **بسط (Extension):** [[moods-spread-between-people-through-emotional-contagion]] از [[shift]] پدیده‌ی خودکار زیربنایی [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] را توصیف می‌کند.
+- **بسط (Extension):** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] از [[stop-letting-everything-affect-you]] نمونه‌ی مشخصی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] را با جزئیات عصبی و رفتاری شرح می‌دهد.
+- **بسط (Extension):** [[anxiety-loops-mistake-repetitive-worry-for-control]] از همان کتاب مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] نام می‌گذارد.
 
 ## Contradictions
 
@@ -73,6 +76,7 @@ updated: 2026-07-31
 - [[influence-through-understanding-human-nature]] — از طریق دو بسط با [[how-to-enjoy-your-life-and-your-job]].
 - [[mindfulness-and-self-compassion]] — از طریق شرط مرزی بر توصیه‌ی «سرکوب‌نکردن احساسات» با [[shift]].
 - [[personal-responsibility]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
+- [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم اضطراب و طرد با [[stop-letting-everything-affect-you]].
 
 ## Sources
 
@@ -82,3 +86,4 @@ updated: 2026-07-31
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-shift-blinkist]]
+- [[2026-07-31-stop-letting-everything-affect-you-blinkist]]

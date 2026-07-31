@@ -62,10 +62,13 @@ updated: 2026-07-31
 - [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت:
   - **بسط:** [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را از روابط بین‌فردی به کل حوزه‌های زندگی بسط می‌دهد.
   - **موافقت:** [[the-eighty-percent-rule-treats-occasional-lapses-as-normal-rather-than-failure]] مستقل از [[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]] به همان اصل رسیده است — لغزش تنها زمانی دائمی می‌شود که آن را چنین تفسیر کنیم.
+- [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط:
+  - **بسط:** [[guilt-after-enforcing-a-boundary-is-a-withdrawal-symptom-not-proof-of-selfishness]] مکانیزم فیزیولوژیک مقاومت درونی در برابر [[boundaries-mean-being-responsible-to-others-not-for-them]] را فراهم می‌کند.
+  - **بسط:** [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] اصل [[forgiving-a-boundary-violation-does-not-require-continued-contact]] را یک قدم فراتر می‌برد — خودِ بخشش هم برای بهبودی الزامی نیست.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، و یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، و دو بسط با [[stop-letting-everything-affect-you]] مستند شد.
 
 ## Translation
 

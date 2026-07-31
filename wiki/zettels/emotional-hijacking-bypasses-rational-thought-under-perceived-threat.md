@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - بخشی از سه‌گانه‌ی اختلال قضاوت هیجانی، در کنار [[intense-emotion-crowds-out-rational-judgment]].
 - زیربنای مکانیزمی برای [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]].
+- **بسط‌یافته توسط** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] از کتاب [[stop-letting-everything-affect-you]]: چیدیاک نمونه‌ی مشخص و پرکاربردی از این مکانیزم — طرد اجتماعی — را با جزئیات عصبی و رفتاری (چرخه‌ی تأیید-دوپامین) شرح می‌دهد.
 
 ## Sources
 

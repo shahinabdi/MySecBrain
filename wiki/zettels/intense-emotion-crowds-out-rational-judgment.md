@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - بخشی از سه‌گانه‌ی اختلال قضاوت هیجانی، در کنار [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]].
 - **بسط‌یافته توسط** [[emotional-tension-not-mental-effort-causes-desk-work-fatigue]] از کتاب [[how-to-enjoy-your-life-and-your-job]]: گلمن این اشغال ظرفیت ذهن را در سطح قضاوت لحظه‌ای بررسی می‌کند؛ کارنگی همان مکانیزم را در سطح خستگی تجمعی روزانه بسط می‌دهد — تنش هیجانی مزمن (نه فقط لحظه‌ای) نیز انرژی و ظرفیت را می‌بلعد.
+- **بسط‌یافته توسط** [[anxiety-loops-mistake-repetitive-worry-for-control]] از کتاب [[stop-letting-everything-affect-you]]: چیدیاک مکانیزم خاص این اشغال در نگرانی مزمن را نام می‌گذارد — باور نادرست که تکرار ذهنی برابر است با کنترل واقعی.
 
 ## Sources
 

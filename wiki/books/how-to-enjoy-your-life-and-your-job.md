@@ -62,10 +62,12 @@ updated: 2026-07-31
 - [[creativity-inc]] — دو رابطه:
   - **بسط:** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] را ارائه می‌دهد.
   - **مرتبط:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]]، هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
+- [[stop-letting-everything-affect-you]] — یک رابطه‌ی بسط:
+  - **بسط:** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] مسیر مکملی برای [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] پیشنهاد می‌دهد — تولید احساس ارزشمندی از درون، به‌جای وابستگی به تأیید بیرونی.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
+بدون تناقض. با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. با [[stop-letting-everything-affect-you]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
 
 ## Translation
 

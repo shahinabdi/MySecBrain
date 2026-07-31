@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[unjust-criticism-often-reflects-the-critics-own-need-to-feel-important]] — همین کتاب: هر دو ایده از یک ریشه‌ی مشترک می‌آیند.
 - [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] — **موافقت (Agreement):** از [[good-to-great]]: کالینز و کارنگی، از دو سنت متفاوت (پژوهش رهبری سازمانی در برابر روان‌شناسی عمومی روابط)، مستقل از هم به این نتیجه رسیده‌اند که هدایت اعتبار و قدردانی به‌سوی دیگران (نه خود) اهرم مؤثرتری برای انگیزش و وفاداری است تا جلب‌توجه به خود.
+- **بسط‌یافته توسط** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] از کتاب [[stop-letting-everything-affect-you]]: کارنگی نشان می‌دهد ارضای نیاز دیگران به احساس اهمیت، اهرم انگیزش آن‌هاست؛ چیدیاک مسیر مکملی برای *خودِ فرد* پیشنهاد می‌دهد — تولید همان احساس ارزشمندی از طریق همسویی با ارزش‌های شخصی، به‌جای وابستگی به تأیید بیرونی دیگران.
 
 ## Sources
 

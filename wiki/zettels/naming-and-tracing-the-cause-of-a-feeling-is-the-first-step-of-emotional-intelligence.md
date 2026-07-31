@@ -2,10 +2,10 @@
 type: zettel
 title: نام‌گذاری یک احساس و ردیابی علت واقعی آن، نخستین گام هوش هیجانی است
 status: seed
-books: [emotional-intelligence]
+books: [emotional-intelligence, stop-letting-everything-affect-you]
 topics: [emotional-intelligence-and-self-regulation]
 tags: [خودآگاهی-هیجانی, تفسیر-موقعیت, هوش-هیجانی]
-sources: [2026-07-31-emotional-intelligence-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -26,8 +26,11 @@ updated: 2026-07-31
 
 - زیربنای [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] و [[reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power]]: هر دو بر توانایی شناسایی و بازتفسیر یک احساس متکی‌اند.
 - **موافق (Agreement) با** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] از کتاب [[good-morning-i-love-you]]: گلمن و شاپیرو، از دو سنت متفاوت، مستقل از هم تأکید می‌کنند نام‌گذاری آگاهانه‌ی احساس — نه سرکوب یا واکنش خودکار — نخستین گام مدیریت سالم هیجان است.
+- **بسط‌یافته توسط** «تمرین شاهدبودن» در کتاب [[stop-letting-everything-affect-you]]: چیدیاک نکته‌ی زبانی دقیق‌تری اضافه می‌کند — گفتن «ناامید شده‌ام» به‌جای «احساس بدی دارم»، و «متوجه شکل‌گیری اضطراب می‌شوم» به‌جای «مضطربم»، فاصله‌ی بیشتری میان فرد و احساس می‌سازد و مغز منطقی را فعال‌تر می‌کند؛ این ظرافت زبانی، ابزاری مشخص برای عملیاتی‌کردن خودِ نام‌گذاری است.
 
 ## Sources
 
 - [[2026-07-31-emotional-intelligence-blinkist]]
+- [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
 - Book: [[emotional-intelligence]]
+- Book: [[stop-letting-everything-affect-you]]

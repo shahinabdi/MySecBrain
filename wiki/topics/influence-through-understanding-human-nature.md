@@ -3,7 +3,7 @@ type: topic
 title: نفوذ از طریق شناخت طبیعت انسانی
 status: active
 tags: [نفوذ, قدردانی, متقاعدسازی]
-sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
+sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -30,6 +30,7 @@ updated: 2026-07-31
 - [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد.
 - [[creativity-inc]] — دو رابطه (یک بسط، یک بسط دیگر) شناسایی شد.
 - [[how-a-little-becomes-a-lot]] — یک رابطه‌ی مرتبط (نه بسط مستقیم) شناسایی شد.
+- [[stop-letting-everything-affect-you]] — یک رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -39,6 +40,7 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] از [[good-to-great]] به این نتیجه رسیده که هدایت قدردانی به‌سوی دیگران، اهرم مؤثرتری برای انگیزش است تا جلب‌توجه به خود.
 - **بسط (Extension):** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] از [[creativity-inc]] را ارائه می‌دهد.
 - **مرتبط با:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] و [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] از [[creativity-inc]] — هر دو درباره‌ی کاهش ترس در انتقال بازخوردند، یکی در سطح تکنیک بین‌فردی و دیگری در سطح سازوکار سازمانی.
+- **بسط (Extension):** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] از [[stop-letting-everything-affect-you]] مسیر مکملی برای [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] پیشنهاد می‌دهد — تولید احساس ارزشمندی از درون، به‌جای وابستگی به تأیید بیرونی.
 
 ## Contradictions
 
@@ -54,7 +56,9 @@ updated: 2026-07-31
 - [[honest-communication]] — از طریق بسط تکنیک پذیرفتن اشتباه خود پیش از دیگری.
 - [[psychological-safety-and-creative-culture]] — از طریق بسط مکانیزم روان‌شناختی مالکیت ایده و کاهش ترس در بازخورد.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل هدایت قدردانی به‌سوی دیگران.
+- [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق بسط مسیر درونی برای احساس ارزشمندی با [[stop-letting-everything-affect-you]].
 
 ## Sources
 
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
+- [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
