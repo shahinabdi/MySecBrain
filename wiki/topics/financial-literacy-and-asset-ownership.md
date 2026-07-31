@@ -3,7 +3,7 @@ type: topic
 title: سواد مالی و مالکیت دارایی
 status: active
 tags: [سواد-مالی, دارایی, سرمایه‌گذاری]
-sources: [2026-07-31-rich-dad-poor-dad-blinkist]
+sources: [2026-07-31-rich-dad-poor-dad-blinkist, 2026-07-31-the-5-types-of-wealth-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -29,12 +29,14 @@ updated: 2026-07-31
 - [[rich-dad-poor-dad]] — منبع اصلی و کامل این نقشه‌ی موضوعی.
 - [[good-to-great]] — یک موافقت و یک تقابل آموزنده شناسایی شد (نگاه کنید به بخش روابط).
 - [[12-rules-for-life]] — یک رابطه‌ی کاربرد شناسایی شد.
+- [[the-5-types-of-wealth]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 
 ## Relationships
 
 - **موافقت (Agreement):** [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] مستقل از [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] از [[good-to-great]] به همان اصل بنیادین رسیده است — نتیجه‌ی بزرگ از سرمایه‌گذاری‌مجدد پیوسته در یک جهت می‌آید، نه از جهش ناگهانی؛ کالینز در سطح استراتژی سازمانی، کیوساکی در سطح مالی شخصی.
 - **کاربرد (Application):** [[financial-success-requires-courage-as-much-as-knowledge]] اصل کلی [[suppressing-natural-risk-taking-harms-more-than-it-protects]] از [[12-rules-for-life]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
 - **تقابل آموزنده:** [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] در برابر [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] از [[good-to-great]] — کالینز تمرکز باریک سازمانی (مفهوم خارپشت) را توصیه می‌کند، کیوساکی گستردگی مهارتی فردی را؛ این تفاوت در سطح تحلیل است (سازمان در برابر فرد)، نه تناقض واقعی.
+- **شرط مرزی (Boundary Condition):** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] از [[the-5-types-of-wealth]] بر [[the-defining-test-of-an-asset-is-whether-it-puts-money-in-or-takes-money-out-of-your-wallet]] مرز می‌گذارد — تسلط بر معیار دارایی/بدهی، هرچند ضروری، بدون ثروت زمانی، اجتماعی، ذهنی و جسمی کافی برای زندگی‌ای غنی نیست.
 
 ## Contradictions
 
@@ -49,7 +51,9 @@ updated: 2026-07-31
 
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل سرمایه‌گذاری‌مجدد پیوسته و تقابل آموزنده‌ی تخصص/گستردگی.
 - [[order-and-chaos]] — از طریق کاربرد اصل ریسک‌پذیری سازنده در حوزه‌ی مالی.
+- [[wealth-beyond-money]] — از طریق شرط مرزی که ثروت مالی را در بافت چهار نوع دیگر ثروت قرار می‌دهد.
 
 ## Sources
 
 - [[2026-07-31-rich-dad-poor-dad-blinkist]]
+- [[2026-07-31-the-5-types-of-wealth-blinkist]]

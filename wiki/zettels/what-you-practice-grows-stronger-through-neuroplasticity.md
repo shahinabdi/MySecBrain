@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **بسط‌دهنده‌ی** [[small-habits-compound-into-large-results-invisibly]] از کتاب [[atomic-habits]]: کلییر نشان می‌دهد رفتارهای کوچک تکراری در طول زمان به نتایج بزرگ انباشته می‌شوند؛ شاپیرو مکانیزم عصب‌شناختی این پدیده را در سطح ساختار مغز (نه فقط رفتار بیرونی) توضیح می‌دهد — چرا تکرار واقعاً «انباشته» می‌شود.
+- **بسط‌شده توسط (Extension)** [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] از کتاب [[the-5-types-of-wealth]]: بلوم کنجکاویِ آگاهانه را نمونه‌ی مشخصی از همین اصل معرفی می‌کند — تمرینِ پرسیدنِ «چرا» ذهن را در حوزه‌ی رشد شناختی و رضایت از زندگی تیز نگه می‌دارد.
 
 ## Sources
 

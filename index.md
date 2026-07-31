@@ -18,6 +18,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-shift-blinkist]] — Blinkist summary of *Shift* by Ethan Kross.
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]] — Blinkist summary of *Stop Letting Everything Affect You* by Daniel Chidiac.
 - [[2026-07-31-the-48-laws-of-power-blinkist]] — Blinkist summary of *The 48 Laws of Power* by Robert Greene.
+- [[2026-07-31-the-5-types-of-wealth-blinkist]] — Blinkist summary of *The 5 Types of Wealth* by Sahil Bloom.
 
 ## Translations
 
@@ -35,6 +36,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[shift-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شیفت».
 - [[stop-letting-everything-affect-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «نگذارید همه‌چیز روی شما اثر بگذارد».
 - [[the-48-laws-of-power-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «۴۸ قانون قدرت».
+- [[the-5-types-of-wealth-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پنج نوع ثروت».
 
 ## Books
 
@@ -52,6 +54,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[shift]] — صفحه‌ی مرکزی کتاب «شیفت» اثر اتان کراس.
 - [[stop-letting-everything-affect-you]] — صفحه‌ی مرکزی کتاب «نگذارید همه‌چیز روی شما اثر بگذارد» اثر دانیل چیدیاک.
 - [[the-48-laws-of-power]] — صفحه‌ی مرکزی کتاب «۴۸ قانون قدرت» اثر رابرت گرین.
+- [[the-5-types-of-wealth]] — صفحه‌ی مرکزی کتاب «پنج نوع ثروت» اثر سهیل بلوم.
 
 ## Zettels
 
@@ -198,6 +201,14 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[appealing-to-self-interest-succeeds-where-appeals-to-goodwill-fail]] — توسل به منفعت‌شخصی دیگران، جایی که توسل به حسن‌نیت شکست می‌خورد موفق می‌شود.
 - [[calculated-unavailability-increases-perceived-value-and-desire]] — در‌دسترس‌نبودن حساب‌شده، ارزش و میل درک‌شده‌ی شما را افزایش می‌دهد.
 - [[surrounding-yourself-with-dependents-preserves-power-better-than-isolating-in-a-fortress]] — احاطه‌شدن با کسانی که به شما وابسته‌اند، قدرت را بهتر از انزوا در یک دژ حفظ می‌کند.
+- [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] — ثروت واقعی نیازمند تعادل میان پنج نوع مستقل است، نه بیشینه‌سازی یک شاخص مالی تنها.
+- [[the-hedonic-treadmill-is-a-feature-not-a-flaw-when-redirected-toward-the-right-pursuits]] — تردمیل لذت‌گرا یک ویژگی است، نه نقص، وقتی به‌سوی تعقیب‌های درست هدایت شود.
+- [[counting-life-in-seconds-reveals-a-broke-young-person-can-be-time-wealthier-than-an-old-billionaire]] — شمارش زندگی به ثانیه نشان می‌دهد یک جوانِ بی‌پول می‌تواند از یک میلیاردرِ سالخورده «ثروتمندتر در زمان» باشد.
+- [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] — بسیاری از لحظات معنادار زندگی، «آخرین‌بار»ی بی‌اعلام دارند.
+- [[identifying-your-front-row-people-reveals-who-deep-relationships-should-center-on]] — شناسایی «افراد ردیف اول» زندگی‌تان نشان می‌دهد روابط عمیق باید حول چه کسانی متمرکز شوند.
+- [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] — کنجکاوی سوخت ثروت ذهنی است و با افزایش سن، مگر آگاهانه محافظت شود، محو می‌شود.
+- [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] — تجسم زنده‌ی خودِ آینده، انتخاب‌های امروز را در حوزه‌های مختلف هدایت می‌کند.
+- [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] — ثروت جسمی از طریق ثبات روزانه انباشته می‌شود، نه شدت یا اصلاحات رادیکال.
 
 ## Topics
 
@@ -215,6 +226,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، و هوش مالی.
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
 - [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
+- [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی) و تعادل میان آن‌ها.
 
 ## Queries
 

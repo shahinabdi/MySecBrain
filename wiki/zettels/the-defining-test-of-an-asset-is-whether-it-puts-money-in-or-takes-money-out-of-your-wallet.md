@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[a-mortgaged-home-is-usually-a-liability-not-an-asset-despite-conventional-wisdom]] — همین کتاب: کاربرد مستقیم این معیار در رایج‌ترین مورد اشتباه‌گرفته‌شده.
 - [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] — همین کتاب: این معیار پایه‌ای است که تشخیص می‌دهد کدام خریدها واقعاً به ثروتمندشدن کمک می‌کنند.
+- **شرط مرزی از سوی (Boundary Condition)** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] از کتاب [[the-5-types-of-wealth]]: بلوم مرز صریحی می‌گذارد که تسلط بر این معیار مالی، هرچند ضروری، بدون ثروت زمانی، اجتماعی، ذهنی و جسمی کافی برای زندگی‌ای غنی نیست.
 
 ## Sources
 

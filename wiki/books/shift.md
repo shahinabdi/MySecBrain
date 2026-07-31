@@ -42,6 +42,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]]
 - [[habit-formation]] (از طریق بسط طراحی محیط به حوزه‌ی هیجانی و بسط چارچوب برنامه‌ریزی شرطی)
 - [[personal-responsibility]] (از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی)
+- [[wealth-beyond-money]] (از طریق موافقت با [[the-5-types-of-wealth]] در مکانیزم تجسم آینده)
 
 ## Related Books
 
@@ -58,10 +59,12 @@ updated: 2026-07-31
   - **شرط مرزی:** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] بر [[progress-should-be-measured-against-your-past-self-not-others]] شرط دقیق‌تری می‌گذارد — مقایسه با دیگران همیشه مضر نیست، تنها زمانی مضر است که خودکار و بدون گزینش‌گری باشد.
 - [[emotional-intelligence]] — یک رابطه‌ی بسط:
   - **بسط:** [[moods-spread-between-people-through-emotional-contagion]] پدیده‌ی خودکار زیربنایی [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] را توصیف می‌کند.
+- [[the-5-types-of-wealth]] — یک رابطه‌ی موافقت:
+  - **موافقت:** [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] مستقل از [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] به مکانیزمی مشابه رسیده — تجسم زنده‌ی یک وضعیت متضاد با اکنون رفتار حال را هدایت می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[good-morning-i-love-you]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: دو بسط. با [[atomic-habits]]: یک بسط. با [[12-rules-for-life]]: یک شرط مرزی. با [[emotional-intelligence]]: یک بسط. جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. با [[good-morning-i-love-you]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: دو بسط. با [[atomic-habits]]: یک بسط. با [[12-rules-for-life]]: یک شرط مرزی. با [[emotional-intelligence]]: یک بسط. با [[the-5-types-of-wealth]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 

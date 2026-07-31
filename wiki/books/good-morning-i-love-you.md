@@ -45,6 +45,7 @@ updated: 2026-07-31
 - [[habit-formation]] (از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک)
 - [[emotional-intelligence-and-self-regulation]] (از طریق موافقت و بسط در نام‌گذاری و زمان‌بندی احساس)
 - [[personal-responsibility]] (از طریق موافقت در اصل مراقبت از خود)
+- [[wealth-beyond-money]] (از طریق بسط با [[the-5-types-of-wealth]] در حوزه‌ی کنجکاوی)
 
 ## Related Books
 
@@ -61,10 +62,12 @@ updated: 2026-07-31
   - **موافقت:** زیمر همین اصل شفقت به خود را با نام «پارادوکس سلیمان» و مکانیزم «ماشین دفاع‌از-تهدید» مستقل تأیید می‌کند.
 - [[shift]] — یک رابطه‌ی شرط مرزی:
   - **شرط مرزی:** [[temporarily-shifting-attention-away-from-distress-can-be-a-healthy-emotional-immune-response]] بر [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] شرط می‌گذارد — دورشدن موقت و آگاهانه از یک احساس با سرکوب مزمن و ناخودآگاه آن یکی نیست.
+- [[the-5-types-of-wealth]] — یک رابطه‌ی بسط:
+  - **بسط:** [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] کنجکاویِ آگاهانه را نمونه‌ی مشخصی از [[what-you-practice-grows-stronger-through-neuroplasticity]] معرفی می‌کند — تمرینِ پرسیدنِ «چرا» ذهن را در حوزه‌ی رشد شناختی تیز نگه می‌دارد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[mindfulness-and-self-compassion]] مستند شده است.
+بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. با [[the-5-types-of-wealth]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[mindfulness-and-self-compassion]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

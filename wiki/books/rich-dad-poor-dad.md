@@ -45,6 +45,7 @@ updated: 2026-07-31
 - [[financial-literacy-and-asset-ownership]]
 - [[focused-strategy-and-disciplined-leadership]] (از طریق موافقت در سرمایه‌گذاری‌مجدد پیوسته و تقابل آموزنده‌ی تخصص/گستردگی)
 - [[order-and-chaos]] (از طریق کاربرد اصل ریسک‌پذیری سازنده در حوزه‌ی مالی)
+- [[wealth-beyond-money]] (از طریق شرط مرزی با [[the-5-types-of-wealth]])
 
 ## Related Books
 
@@ -53,10 +54,12 @@ updated: 2026-07-31
   - **تقابل آموزنده:** [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] در برابر [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] — تمرکز باریک سازمانی در برابر گستردگی مهارتی فردی؛ تفاوت سطح تحلیل، نه تناقض.
 - [[12-rules-for-life]] — یک رابطه‌ی کاربرد:
   - **کاربرد:** [[financial-success-requires-courage-as-much-as-knowledge]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
+- [[the-5-types-of-wealth]] — یک رابطه‌ی شرط مرزی:
+  - **شرط مرزی:** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] بر [[the-defining-test-of-an-asset-is-whether-it-puts-money-in-or-takes-money-out-of-your-wallet]] مرز می‌گذارد — تسلط بر این معیار مالی، هرچند ضروری، بدون ثروت زمانی، اجتماعی، ذهنی و جسمی کافی برای زندگی‌ای غنی نیست.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[good-to-great]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل فرد/سازمان). با [[12-rules-for-life]]: یک رابطه‌ی کاربرد. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[financial-literacy-and-asset-ownership]] مستند شده است.
+بدون تناقض واقعی. با [[good-to-great]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل فرد/سازمان). با [[12-rules-for-life]]: یک رابطه‌ی کاربرد. با [[the-5-types-of-wealth]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[financial-literacy-and-asset-ownership]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

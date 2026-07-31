@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[if-then-contingency-plans-protect-habits-from-disruption]] — **بسط (Extension):** از [[how-a-little-becomes-a-lot]]: زیمر برنامه‌ی «اگر-آنگاه» را برای حفظ عادت در برابر اختلال معرفی می‌کند؛ WOOP همان مکانیزم شرطی را با یک لایه‌ی انگیزشی مقدماتی (تجسم آرزو و نتیجه، در تضاد با مانع) تکمیل می‌کند که پیش از خودِ برنامه‌ریزی شرطی می‌آید.
 - [[implementation-intentions-turn-vague-goals-into-concrete-plans]] — از [[atomic-habits]]: هر دو فرمول شرطی (زمان/مکان/عمل مشخص) را برای افزایش پایبندی به‌کار می‌برند؛ WOOP این فرمول را به‌طور مشخص با مرحله‌ی «تضاد ذهنی» (آرزو در برابر مانع) ترکیب می‌کند.
+- **موافقت (Agreement):** [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] از [[the-5-types-of-wealth]]: بلوم مستقل از کراس به مکانیزمی مشابه رسیده — تجسم زنده‌ی یک وضعیت متضاد با اکنون (در اینجا، خودِ آینده در برابر خودِ کنونی، به‌جای آرزو در برابر مانع) رفتار حال را هدایت می‌کند.
 
 ## Sources
 

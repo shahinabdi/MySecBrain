@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - در تقابل قرار می‌گیرد با تمرکز صرفاً درون‌فردیِ [[self-care-requires-the-same-care-given-to-a-loved-one]]: این ایده نشان می‌دهد مسئولیت‌پذیری فردی به‌تنهایی کافی نیست، محیط اجتماعی نیز بخشی از معادله است.
 - **بسط‌یافته توسط** [[habit-contracts-with-social-stakes-increase-follow-through]] از کتاب [[atomic-habits]]: کلییر این توصیه‌ی کلی را به تکنیکی مشخص و عملی تبدیل می‌کند — قراردادی رسمی با پیامد اجتماعی مشخص در صورت شکست.
+- **بسط‌یافته توسط (Extension)** [[identifying-your-front-row-people-reveals-who-deep-relationships-should-center-on]] از کتاب [[the-5-types-of-wealth]]: بلوم تکنیکی مشخص و عملی (تمرین تجسم «ردیف اول تشییع‌جنازه») برای اجرای همان انتخاب سخت‌گیرانه‌ی دوستان فراهم می‌کند.
 
 ## Sources
 

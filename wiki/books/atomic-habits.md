@@ -46,6 +46,7 @@ updated: 2026-07-31
 
 - [[habit-formation]]
 - [[personal-responsibility]] (از طریق بسط ایده‌ی مسیر پیشرفت)
+- [[wealth-beyond-money]] (از طریق موافقت با [[the-5-types-of-wealth]] در حوزه‌ی سلامت جسمی)
 
 ## Related Books
 
@@ -67,10 +68,12 @@ updated: 2026-07-31
   - **بسط:** [[if-then-contingency-plans-protect-habits-from-disruption]] لایه‌ی مکملی برای حفظ [[implementation-intentions-turn-vague-goals-into-concrete-plans]] در شرایط مختل اضافه می‌کند.
 - [[shift]] — یک رابطه‌ی بسط:
   - **بسط:** چارچوب WOOP فرمول [[implementation-intentions-turn-vague-goals-into-concrete-plans]] را با مرحله‌ی «تضاد ذهنی» ترکیب می‌کند.
+- [[the-5-types-of-wealth]] — یک رابطه‌ی موافقت:
+  - **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[small-habits-compound-into-large-results-invisibly]] به همان اصل رسیده — بلوم آن را مشخصاً در حوزه‌ی سلامت جسمی به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]]، [[how-a-little-becomes-a-lot]] یا [[shift]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. با شیفت: یک بسط در فرمول نیت اجرایی. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]] و [[mindfulness-and-self-compassion]] مستند شده‌اند.
+بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]]، [[how-a-little-becomes-a-lot]]، [[shift]] یا [[the-5-types-of-wealth]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. با شیفت: یک بسط در فرمول نیت اجرایی. با پنج نوع ثروت: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]]، [[mindfulness-and-self-compassion]] و [[wealth-beyond-money]] مستند شده‌اند.
 
 ## Translation
 
