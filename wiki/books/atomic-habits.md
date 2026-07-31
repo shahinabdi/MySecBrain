@@ -65,10 +65,12 @@ updated: 2026-07-31
   - **بسط:** [[action-precedes-and-generates-motivation-not-the-other-way-around]] مکانیزم مکملی (پس‌نگر) به [[anticipated-reward-not-just-reward-itself-drives-motivation]] (پیش‌نگر) می‌افزاید.
   - **بسط:** [[willpower-depletes-like-a-muscle-so-environment-design-beats-relying-on-it]] توضیح می‌دهد چرا [[reducing-friction-makes-habits-easier]] بر تکیه به اراده برتری دارد.
   - **بسط:** [[if-then-contingency-plans-protect-habits-from-disruption]] لایه‌ی مکملی برای حفظ [[implementation-intentions-turn-vague-goals-into-concrete-plans]] در شرایط مختل اضافه می‌کند.
+- [[shift]] — یک رابطه‌ی بسط:
+  - **بسط:** چارچوب WOOP فرمول [[implementation-intentions-turn-vague-goals-into-concrete-plans]] را با مرحله‌ی «تضاد ذهنی» ترکیب می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]] یا [[how-a-little-becomes-a-lot]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]] و [[mindfulness-and-self-compassion]] مستند شده‌اند.
+بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]]، [[how-a-little-becomes-a-lot]] یا [[shift]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. با شیفت: یک بسط در فرمول نیت اجرایی. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]] و [[mindfulness-and-self-compassion]] مستند شده‌اند.
 
 ## Translation
 

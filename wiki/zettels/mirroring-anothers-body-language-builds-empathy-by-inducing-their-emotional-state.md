@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - تکنیکی مکمل برای [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]].
+- **بسط‌دهنده‌ی** [[moods-spread-between-people-through-emotional-contagion]] از کتاب [[shift]]: کراس پدیده‌ی خودکار و اغلب ناخواسته‌ی سرایت هیجانی را توصیف می‌کند؛ این ایده نشان می‌دهد همین مکانیزم را می‌توان عمداً و هدفمند به‌کار برد — آینه‌کردن آگاهانه‌ی زبان بدن دیگری برای ساختن همدلی، نه صرفاً تحمل غیرارادی سرایت آن.
 
 ## Sources
 

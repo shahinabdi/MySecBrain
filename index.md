@@ -15,6 +15,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]] — Blinkist summary of *How a Little Becomes a Lot* by Eric Zimmer.
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]] — Blinkist summary of *How to Enjoy Your Life and Your Job* by Dale Carnegie.
 - [[2026-07-31-rich-dad-poor-dad-blinkist]] — Blinkist summary of *Rich Dad, Poor Dad* by Robert T. Kiyosaki.
+- [[2026-07-31-shift-blinkist]] — Blinkist summary of *Shift* by Ethan Kross.
 
 ## Translations
 
@@ -29,6 +30,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[how-a-little-becomes-a-lot-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه کمی به مقدار زیادی تبدیل می‌شود».
 - [[how-to-enjoy-your-life-and-your-job-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه از زندگی و شغل خود لذت ببرید».
 - [[rich-dad-poor-dad-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پدر پولدار، پدر فقیر».
+- [[shift-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شیفت».
 
 ## Books
 
@@ -43,6 +45,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[how-a-little-becomes-a-lot]] — صفحه‌ی مرکزی کتاب «چگونه کمی به مقدار زیادی تبدیل می‌شود» اثر اریک زیمر.
 - [[how-to-enjoy-your-life-and-your-job]] — صفحه‌ی مرکزی کتاب «چگونه از زندگی و شغل خود لذت ببرید» اثر دیل کارنگی.
 - [[rich-dad-poor-dad]] — صفحه‌ی مرکزی کتاب «پدر پولدار، پدر فقیر» اثر رابرت تی. کیوساکی.
+- [[shift]] — صفحه‌ی مرکزی کتاب «شیفت» اثر اتان کراس.
 
 ## Zettels
 
@@ -163,6 +166,12 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[assessing-goal-setting-and-continuous-education-build-financial-intelligence-in-that-order]] — ارزیابی وضعیت، تعیین هدف، و آموزش پیوسته، هوش مالی را به همین ترتیب می‌سازند.
 - [[financial-success-requires-courage-as-much-as-knowledge]] — موفقیت مالی به‌اندازه‌ی دانش، به شهامت نیاز دارد.
 - [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] — کار برای یادگیری گسترده، بیش از کار برای درآمد از طریق تخصص باریک، ثروت می‌سازد.
+- [[sensory-cues-are-a-fast-low-effort-lever-for-shifting-mood]] — نشانه‌های حسی، اهرمی سریع و کم‌تلاش برای تغییر خلق‌وخو هستند.
+- [[temporarily-shifting-attention-away-from-distress-can-be-a-healthy-emotional-immune-response]] — دورشدن موقت توجه از یک ناراحتی می‌تواند سازوکار دفاعی سالمی باشد.
+- [[deliberately-switching-or-modifying-your-physical-space-shifts-your-emotional-state]] — تعویض یا تغییرِ عمدی فضای فیزیکی، حالت هیجانی را شیفت می‌دهد.
+- [[moods-spread-between-people-through-emotional-contagion]] — خلق‌وخو از طریق سرایت هیجانی میان افراد منتقل می‌شود.
+- [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] — مقایسه‌ی اجتماعی خنثی است تا زاویه‌ی دید تعیین کند انگیزه می‌بخشد یا می‌فرساید.
+- [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] — چارچوب WOOP آرزو را از طریق تضاد ذهنی به برنامه‌ای مشخص تبدیل می‌کند.
 
 ## Topics
 

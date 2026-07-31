@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[implementation-intentions-turn-vague-goals-into-concrete-plans]] — **بسط (Extension):** از [[atomic-habits]]: نیت اجرایی کلاسیک کلییر برای *آغاز* رفتار در شرایط عادی طراحی شده؛ این ایده آن را به لایه‌ی مکملی برای *حفظ* رفتار در شرایط غیرعادی و مختل بسط می‌دهد.
+- **بسط‌یافته توسط** [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] از کتاب [[shift]]: کراس همین مکانیزم شرطی «اگر-آنگاه» را با یک لایه‌ی انگیزشی مقدماتی (تجسم آرزو و نتیجه، در تضاد با مانع) تکمیل می‌کند که پیش از خودِ برنامه‌ریزی شرطی می‌آید.
 
 ## Sources
 

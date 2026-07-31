@@ -76,6 +76,8 @@ updated: 2026-07-31
   - **بسط:** [[admitting-you-might-be-wrong-first-opens-the-other-person-to-reconsidering]] تکنیک مکملی برای گوینده به [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] اضافه می‌کند.
 - [[rich-dad-poor-dad]] — یک رابطه‌ی کاربرد شناسایی شد:
   - **کاربرد:** [[financial-success-requires-courage-as-much-as-knowledge]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
+- [[shift]] — یک رابطه‌ی شرط مرزی شناسایی شد:
+  - **شرط مرزی:** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] بر [[progress-should-be-measured-against-your-past-self-not-others]] شرط دقیق‌تری می‌گذارد — مقایسه با دیگران همیشه مضر نیست، تنها زمانی مضر است که خودکار و بدون گزینش‌گری باشد.
 
 ## Agreements, Extensions & Contradictions
 
@@ -89,6 +91,7 @@ updated: 2026-07-31
 - با [[how-a-little-becomes-a-lot]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحات موضوع [[personal-responsibility]] و [[order-and-chaos]] مستند شده است.
 - با [[how-to-enjoy-your-life-and-your-job]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
 - با [[rich-dad-poor-dad]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[financial-literacy-and-asset-ownership]] مستند شده است.
+- با [[shift]]: یک رابطه‌ی شرط مرزی (Boundary Condition) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
 
 ## Translation
 

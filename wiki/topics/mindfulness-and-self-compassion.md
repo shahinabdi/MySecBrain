@@ -3,7 +3,7 @@ type: topic
 title: ذهن‌آگاهی و شفقت به خود
 status: active
 tags: [ذهن‌آگاهی, شفقت-به-خود, عصب‌شناسی]
-sources: [2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
+sources: [2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -28,6 +28,7 @@ updated: 2026-07-31
 - [[emotional-intelligence]] — دو رابطه (یک موافقت، یک بسط) شناسایی شد.
 - [[12-rules-for-life]] — یک رابطه‌ی موافقت شناسایی شد.
 - [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت شناسایی شد.
+- [[shift]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 
 ## Relationships
 
@@ -38,6 +39,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] جزئیات زمانی مشخصی به مکانیزم خودتنظیمی [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] از [[emotional-intelligence]] می‌افزاید.
 - **بسط (Extension):** [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] از [[how-a-little-becomes-a-lot]] گام مقدماتی‌ای پیش از [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] اضافه می‌کند — پیش از پاسخ مهربانانه، باید نخست از منتقد درونی فاصله گرفت.
 - **موافقت (Agreement):** همان زتلِ شفقت به خود، اصل «پارادوکس سلیمان» زیمر از [[how-a-little-becomes-a-lot]] را به‌عنوان تأیید مستقل ثبت کرده است.
+- **شرط مرزی (Boundary Condition):** [[temporarily-shifting-attention-away-from-distress-can-be-a-healthy-emotional-immune-response]] از [[shift]] بر [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] شرط می‌گذارد — دورشدن موقت و آگاهانه از یک احساس با سرکوب مزمن و ناخودآگاه آن یکی نیست.
 
 ## Contradictions
 
@@ -50,10 +52,11 @@ updated: 2026-07-31
 ## Related Topics
 
 - [[habit-formation]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک، و چهار بسط مکانیزمی مشترک با [[how-a-little-becomes-a-lot]].
-- [[emotional-intelligence-and-self-regulation]] — از طریق موافقت در نام‌گذاری احساس و بسط زمان‌بندی تنظیم هیجانی.
+- [[emotional-intelligence-and-self-regulation]] — از طریق موافقت در نام‌گذاری احساس، بسط زمان‌بندی تنظیم هیجانی، و شرط مرزی بر توصیه‌ی «سرکوب‌نکردن احساسات» با [[shift]].
 - [[personal-responsibility]] — از طریق موافقت در اصل مراقبت از خود مثل یک عزیز.
 
 ## Sources
 
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
+- [[2026-07-31-shift-blinkist]]

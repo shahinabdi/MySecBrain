@@ -3,7 +3,7 @@ type: topic
 title: مسئولیت‌پذیری فردی
 status: active
 tags: [مسئولیت‌پذیری, خودمراقبتی, معنا]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -25,6 +25,7 @@ updated: 2026-07-31
 - [[atomic-habits]] — کتاب مستقیماً درباره‌ی مسئولیت‌پذیری نیست، اما دو ایده‌اش ([[small-habits-compound-into-large-results-invisibly]] و [[delayed-return-habits-need-attached-immediate-gratification]]) مکانیزم عملی برای دو ایده‌ی این موضوع فراهم می‌کنند.
 - [[boundaries]] — ایده‌ی محوری‌اش ([[boundaries-mean-being-responsible-to-others-not-for-them]]) مرز دقیق میان مراقبت سالم از خود و نادیده‌گرفتن خود را مشخص می‌کند.
 - [[how-a-little-becomes-a-lot]] — دو رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
+- [[shift]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 
 ## Relationships
 
@@ -38,6 +39,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] از [[good-to-great]] اصل [[taking-responsibility-must-precede-judging-the-world]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد — نظمی که از باور مشترک به هدف می‌آید، نه از ترس یک ناظر مستبد، پس از رفتن هر رهبری خاص نیز پایدار می‌ماند.
 - **بسط (Extension):** [[distinguishing-desires-from-values-directs-tiny-actions-toward-your-true-identity]] از [[how-a-little-becomes-a-lot]] چارچوب مشخصی (خواسته در برابر ارزش) به [[meaningful-goals-outweigh-instant-gratification]] می‌افزاید.
 - **بسط (Extension):** [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] از همان کتاب اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را از روابط بین‌فردی به کل حوزه‌های زندگی بسط می‌دهد.
+- **شرط مرزی (Boundary Condition):** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از [[shift]] بر [[progress-should-be-measured-against-your-past-self-not-others]] شرط دقیق‌تری می‌گذارد — مقایسه با دیگران همیشه مضر نیست، تنها زمانی مضر است که خودکار و بدون گزینش‌گری باشد؛ مقایسه‌ی گزینشی می‌تواند مکمل معیار «خودِ گذشته» باشد.
 
 ## Contradictions
 
@@ -57,6 +59,7 @@ updated: 2026-07-31
 - [[mindfulness-and-self-compassion]] — از طریق موافقت در اصل مراقبت از خود مثل یک عزیز.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق بسط اصل نظم درونی‌شده به سطح فرهنگ سازمانی.
 - [[boundaries-and-ownership]] — از طریق بسط اصل تمرکز-بر-قابل‌کنترل با [[how-a-little-becomes-a-lot]].
+- [[emotional-intelligence-and-self-regulation]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
 
 ## Sources
 
@@ -68,3 +71,4 @@ updated: 2026-07-31
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
+- [[2026-07-31-shift-blinkist]]

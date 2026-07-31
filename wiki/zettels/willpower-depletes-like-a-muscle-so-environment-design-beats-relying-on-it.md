@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[reducing-friction-makes-habits-easier]] — **بسط (Extension):** از [[atomic-habits]]: کلییر توصیه‌ی عملی کاهش اصطکاک را ارائه می‌دهد؛ این ایده مکانیزم روان‌شناختی (تخلیه‌ی منبع محدود اراده) را برای *چرا* طراحی محیط بر تکیه به اراده برتری دارد فراهم می‌کند.
 - [[shrinking-a-target-behavior-below-the-threat-threshold-bypasses-homeostatic-resistance]] — همین کتاب: هر دو ایده استدلال می‌کنند تکیه بر اراده یا تصمیم بزرگ ذاتاً شکننده است.
+- **بسط‌یافته توسط** [[deliberately-switching-or-modifying-your-physical-space-shifts-your-emotional-state]] از کتاب [[shift]]: این ایده طراحی محیط را برای شکل‌دادن رفتار (عادت) به‌کار می‌برد؛ کراس همان اصل را به قلمرو دیگری بسط می‌دهد — محیط فیزیکی نه‌فقط رفتار، بلکه مستقیماً حالت هیجانی را نیز شکل می‌دهد.
 
 ## Sources
 

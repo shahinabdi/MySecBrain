@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **موافق (Agreement) با** [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] از کتاب [[emotional-intelligence]]: گلمن و شاپیرو، از دو سنت متفاوت (روان‌شناسی شناختی در برابر ذهن‌آگاهی)، مستقل از هم بر این تأکید می‌کنند که نام‌گذاری آگاهانه‌ی احساس، نه سرکوب یا واکنش خودکار به آن، نخستین گام مدیریت سالم هیجان است.
+- **شرط مرزی از سوی** [[temporarily-shifting-attention-away-from-distress-can-be-a-healthy-emotional-immune-response]] از کتاب [[shift]]: کراس نشان می‌دهد این توصیه شرطی دارد — دورشدن *موقت و آگاهانه* از یک احساس (نه سرکوب مزمن و ناخودآگاه آن) می‌تواند خودش ابزاری سالم برای مدیریت شدت هیجان باشد، به‌شرطی که فرد سرانجام به آن بازگردد و آن را پردازش کند.
 
 ## Sources
 

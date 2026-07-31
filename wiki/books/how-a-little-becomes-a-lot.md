@@ -75,10 +75,13 @@ updated: 2026-07-31
 - [[good-morning-i-love-you]] — یک بسط و یک موافقت:
   - **بسط:** [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] گام مقدماتی‌ای پیش از [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] اضافه می‌کند.
   - **موافقت:** همان زتلِ شفقت به خود، اصل «پارادوکس سلیمان» زیمر را به‌عنوان تأیید مستقل ثبت کرده است.
+- [[shift]] — دو رابطه‌ی بسط:
+  - **بسط:** [[deliberately-switching-or-modifying-your-physical-space-shifts-your-emotional-state]] اصل طراحی محیط را از حوزه‌ی رفتار به حوزه‌ی هیجان بسط می‌دهد.
+  - **بسط:** [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] لایه‌ی انگیزشی «تضاد ذهنی» را پیش از [[if-then-contingency-plans-protect-habits-from-disruption]] اضافه می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 

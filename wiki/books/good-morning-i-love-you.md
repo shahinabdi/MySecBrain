@@ -59,10 +59,12 @@ updated: 2026-07-31
 - [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت:
   - **بسط:** [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] گام مقدماتی‌ای پیش از [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] اضافه می‌کند — پیش از پاسخ مهربانانه، باید نخست از منتقد درونی فاصله گرفت.
   - **موافقت:** زیمر همین اصل شفقت به خود را با نام «پارادوکس سلیمان» و مکانیزم «ماشین دفاع‌از-تهدید» مستقل تأیید می‌کند.
+- [[shift]] — یک رابطه‌ی شرط مرزی:
+  - **شرط مرزی:** [[temporarily-shifting-attention-away-from-distress-can-be-a-healthy-emotional-immune-response]] بر [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] شرط می‌گذارد — دورشدن موقت و آگاهانه از یک احساس با سرکوب مزمن و ناخودآگاه آن یکی نیست.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[mindfulness-and-self-compassion]] مستند شده است.
+بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[mindfulness-and-self-compassion]] مستند شده است.
 
 ## Translation
 

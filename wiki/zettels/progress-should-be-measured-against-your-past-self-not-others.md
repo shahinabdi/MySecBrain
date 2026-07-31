@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - بخشی از خوشه‌ی [[personal-responsibility]] در کنار [[self-care-requires-the-same-care-given-to-a-loved-one]]، [[taking-responsibility-must-precede-judging-the-world]] و [[meaningful-goals-outweigh-instant-gratification]].
 - **بسط‌یافته توسط** [[small-habits-compound-into-large-results-invisibly]] از کتاب [[atomic-habits]]: کلییر مکانیزم زیربنایی این ایده را توضیح می‌دهد — نتایج روزانه چنان نامحسوس‌اند که تنها مسیر انباشته‌شده در طول زمان (نه یک نتیجه‌ی لحظه‌ای، چه با خود دیروز چه با دیگران) معیار معناداری است.
+- **شرط مرزی از سوی** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از کتاب [[shift]]: کراس شرط دقیق‌تری اضافه می‌کند — مقایسه با دیگران همیشه مضر نیست، بلکه تنها زمانی مضر می‌شود که خودکار، بیش‌ازحد، و بدون گزینش‌گری آگاهانه باشد؛ مقایسه‌ی گزینشی و هدفمند می‌تواند مکمل معیار «خودِ گذشته» باشد، نه لزوماً جایگزینی که باید کاملاً کنار گذاشته شود.
 
 ## Sources
 
