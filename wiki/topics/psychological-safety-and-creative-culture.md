@@ -31,6 +31,7 @@ updated: 2026-07-31
 - [[emotional-intelligence]] — یک رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 - [[good-to-great]] — دو رابطه‌ی موافقت شناسایی شد (نگاه کنید به بخش روابط).
 - [[how-to-enjoy-your-life-and-your-job]] — یک بسط و یک ارتباط مکمل شناسایی شد.
+- [[the-algorithm]] — دو رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -43,6 +44,8 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] از [[good-to-great]] مستقل از [[a-great-team-matters-more-than-a-great-idea]] به همان اصل رسیده است — کیفیت تیم بر کیفیت ایده یا طرح تقدم دارد.
 - **بسط (Extension):** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] از [[how-to-enjoy-your-life-and-your-job]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] را ارائه می‌دهد.
 - **مرتبط با:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] از همان کتاب در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] — هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
+- **بسط (Extension):** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]] تکنیکی عملی برای شناسایی مقاومت‌های ریشه‌دار در [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] فراهم می‌کند.
+- **بسط (Extension):** [[replacing-rigid-scripts-with-a-guiding-principle-lets-staff-solve-problems-creatively]] از [[the-algorithm]] نمونه‌ی عملیاتی مشخصی از [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] در خدمات مشتری ارائه می‌دهد.
 
 ## Contradictions
 
@@ -60,6 +63,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق دو موافقت درباره‌ی صداقت سازمانی و برتری تیم بر ایده.
 - [[influence-through-understanding-human-nature]] — از طریق بسط مکانیزم مالکیت ایده و ارتباط مکمل در کاهش ترس بازخورد.
+- [[operational-efficiency-through-process-simplification]] — از طریق دو بسط با [[the-algorithm]] درباره‌ی ترس از تغییر و اعتماد به کارکنان.
 
 ## Sources
 
@@ -67,3 +71,4 @@ updated: 2026-07-31
 - [[2026-07-31-emotional-intelligence-blinkist]]
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
+- [[2026-07-31-the-algorithm-blinkist]]

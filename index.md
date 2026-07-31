@@ -19,6 +19,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]] — Blinkist summary of *Stop Letting Everything Affect You* by Daniel Chidiac.
 - [[2026-07-31-the-48-laws-of-power-blinkist]] — Blinkist summary of *The 48 Laws of Power* by Robert Greene.
 - [[2026-07-31-the-5-types-of-wealth-blinkist]] — Blinkist summary of *The 5 Types of Wealth* by Sahil Bloom.
+- [[2026-07-31-the-algorithm-blinkist]] — Blinkist summary of *The Algorithm* by Jon McNeill.
 
 ## Translations
 
@@ -37,6 +38,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[stop-letting-everything-affect-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «نگذارید همه‌چیز روی شما اثر بگذارد».
 - [[the-48-laws-of-power-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «۴۸ قانون قدرت».
 - [[the-5-types-of-wealth-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پنج نوع ثروت».
+- [[the-algorithm-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «الگوریتم».
 
 ## Books
 
@@ -55,6 +57,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[stop-letting-everything-affect-you]] — صفحه‌ی مرکزی کتاب «نگذارید همه‌چیز روی شما اثر بگذارد» اثر دانیل چیدیاک.
 - [[the-48-laws-of-power]] — صفحه‌ی مرکزی کتاب «۴۸ قانون قدرت» اثر رابرت گرین.
 - [[the-5-types-of-wealth]] — صفحه‌ی مرکزی کتاب «پنج نوع ثروت» اثر سهیل بلوم.
+- [[the-algorithm]] — صفحه‌ی مرکزی کتاب «الگوریتم» اثر جان مک‌نیل.
 
 ## Zettels
 
@@ -209,6 +212,14 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] — کنجکاوی سوخت ثروت ذهنی است و با افزایش سن، مگر آگاهانه محافظت شود، محو می‌شود.
 - [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] — تجسم زنده‌ی خودِ آینده، انتخاب‌های امروز را در حوزه‌های مختلف هدایت می‌کند.
 - [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] — ثروت جسمی از طریق ثبات روزانه انباشته می‌شود، نه شدت یا اصلاحات رادیکال.
+- [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] — زیرسؤال‌بردن قانون‌های به‌ارث‌رسیده نشان می‌دهد کدام محدودیت واقعی است و کدام صرفاً عادت.
+- [[mapping-every-process-step-and-keeping-only-what-creates-customer-value-cuts-friction]] — نقشه‌برداری از هر گام فرایند و نگه‌داشتن تنها آنچه برای مشتری ارزش می‌سازد، اصطکاک را حذف می‌کند.
+- [[replacing-rigid-scripts-with-a-guiding-principle-lets-staff-solve-problems-creatively]] — جایگزینی اسکریپت‌های سخت‌گیرانه با یک اصل راهنما، به کارکنان اجازه‌ی حل خلاقانه‌ی مسئله می‌دهد.
+- [[the-gap-between-cycle-time-and-touch-time-reveals-hidden-capacity]] — شکاف میان زمان چرخه و زمان لمس، ظرفیت پنهان را آشکار می‌کند.
+- [[shared-real-time-data-across-teams-closes-the-cycle-time-gap]] — داده‌ی مشترک و بلادرنگ میان تیم‌ها، شکاف زمان چرخه را کوچک می‌کند.
+- [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] — اتوماسیون باید آخرین گام باشد، تنها پس از فهم کامل یک فرایند به‌کار رود.
+- [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] — جلسات هفتگی پاسخگویی با حضور رهبر، تنها زمانی فوریت واقعی می‌سازند که رهبر خودش جزئیات را بداند.
+- [[personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside]] — تجربه‌ی شخصی محصول خودتان به‌عنوان یک مشتری، اصطکاکی را آشکار می‌کند که از درون دیده نمی‌شود.
 
 ## Topics
 
@@ -227,6 +238,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
 - [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
 - [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی) و تعادل میان آن‌ها.
+- [[operational-efficiency-through-process-simplification]] — نقشه‌ی موضوعی پنج‌گام ساده‌سازی فرایند: زیرسؤال‌بردن، حذف، ساده‌سازی، تسریع، اتوماسیون در آخر.
 
 ## Queries
 

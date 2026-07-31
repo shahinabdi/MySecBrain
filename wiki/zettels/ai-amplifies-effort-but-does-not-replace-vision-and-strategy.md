@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - زیربنای مفهومی برای بقیه‌ی زتل‌های این کتاب: [[feeding-ai-specific-context-turns-generic-output-into-tailored-output]] و [[scaling-with-ai-requires-a-team-that-shares-your-vision-not-just-skills]] هر دو کاربردهای این اصل کلی‌تر هستند.
+- **موافقت (Agreement) با** [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] از [[the-algorithm]]: مک‌نیل مستقل از ویلر به همان اصل عمیق‌تر رسیده — ابزارهای تقویت‌کننده (اتوماسیون یا هوش مصنوعی) هرچه از قبل موجود باشد را بزرگ‌تر می‌کنند؛ بدون هدف یا فرایند روشن، این ابزارها آشفتگی را نیز تقویت می‌کنند، نه فقط موفقیت را.
 
 ## Sources
 

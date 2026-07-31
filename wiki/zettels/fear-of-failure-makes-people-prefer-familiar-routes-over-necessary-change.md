@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - مکمل [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]]: هر دو نشان می‌دهند چگونه ترس از ناشناخته به رفتارهای محافظه‌کارانه‌ی پرهزینه می‌انجامد.
+- **بسط‌دهنده‌ی (Extension)** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]]: مک‌نیل تکنیکی عملی و تشخیصی (پرسیدن «چرا» و توجه به پاسخ «همیشه همین‌طور بوده») برای شناسایی دقیقاً همان مقاومت‌های ریشه‌دار در ترس فراهم می‌کند.
 
 ## Sources
 

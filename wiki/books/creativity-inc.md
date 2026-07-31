@@ -46,6 +46,7 @@ updated: 2026-07-31
 - [[honest-communication]] (از طریق بسط اصل گوش‌دادن)
 - [[order-and-chaos]] (از طریق بسط اصل تعادل نظم/آشوب)
 - [[boundaries-and-ownership]] (از طریق کاربرد اصل مالکیت مسئولیت)
+- [[operational-efficiency-through-process-simplification]] (از طریق دو بسط با [[the-algorithm]])
 
 ## Related Books
 
@@ -63,10 +64,13 @@ updated: 2026-07-31
 - [[how-to-enjoy-your-life-and-your-job]] — یک بسط و یک ارتباط مکمل:
   - **بسط:** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] را ارائه می‌دهد.
   - **مرتبط:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]]، هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
+- [[the-algorithm]] — دو رابطه‌ی بسط:
+  - **بسط:** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] تکنیکی عملی برای شناسایی مقاومت‌های ریشه‌دار در [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] فراهم می‌کند.
+  - **بسط:** [[replacing-rigid-scripts-with-a-guiding-principle-lets-staff-solve-problems-creatively]] نمونه‌ی عملیاتی مشخصی از [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] در خدمات مشتری ارائه می‌دهد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط و یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
+بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط و یک ارتباط مکمل. با [[the-algorithm]]: دو بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[psychological-safety-and-creative-culture]] و [[operational-efficiency-through-process-simplification]] مستند شده است.
 
 ## Translation
 

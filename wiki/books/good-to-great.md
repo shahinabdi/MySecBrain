@@ -48,6 +48,7 @@ updated: 2026-07-31
 - [[order-and-chaos]] (از طریق مواجهه‌ی آگاهانه با واقعیت)
 - [[habit-formation]] (از طریق موافقت در اصل انباشت پیوسته)
 - [[emotional-intelligence-and-self-regulation]] (از طریق شرط مرزی بر خوش‌بینی)
+- [[operational-efficiency-through-process-simplification]] (از طریق بسط با [[the-algorithm]])
 
 ## Related Books
 
@@ -67,10 +68,12 @@ updated: 2026-07-31
   - **تقابل آموزنده:** [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] در برابر [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] — تمرکز باریک سازمانی در برابر گستردگی مهارتی فردی؛ تفاوت سطح تحلیل، نه تناقض.
 - [[the-48-laws-of-power]] — یک رابطه‌ی شرط مرزی شناسایی شد:
   - **شرط مرزی:** [[never-outshine-your-superior-protect-their-ego-not-your-own-brilliance]] گرین تنها زمانی ضروری می‌شود که مافوق فاقد فروتنیِ [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] باشد و درخشش زیردست را تهدید ببیند؛ یک رهبر سطح ۵ چنین قانونی را کم‌اهمیت می‌کند.
+- [[the-algorithm]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] نمونه‌ی عینی سازوکار [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] فراهم می‌کند و نکته‌ای می‌افزاید که این کتاب صریح نمی‌کند: دانش عمیق شخصیِ رهبر از جزئیات، نه صرفاً ساختار جلسه، عامل «بلوف‌ناپذیری» است.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[the-48-laws-of-power]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
+بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[the-48-laws-of-power]]: یک شرط مرزی. با [[the-algorithm]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[focused-strategy-and-disciplined-leadership]] و [[operational-efficiency-through-process-simplification]] مستند شده است.
 
 ## Translation
 

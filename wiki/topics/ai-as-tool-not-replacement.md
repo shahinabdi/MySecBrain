@@ -23,11 +23,13 @@ updated: 2026-07-31
 ## Books
 
 - [[building-your-money-machine-with-chatgpt]] — منبع اصلی و کامل این نقشه‌ی موضوعی.
+- [[the-algorithm]] — یک رابطه‌ی موافقت شناسایی شد.
 
 ## Relationships
 
 - زتل‌های این موضوع یک زنجیره‌ی کاربردی می‌سازند: نخست چشم‌انداز روشن لازم است، سپس مشخص‌بودن درخواست (چه برای محتوا، چه برای هر پلتفرم)، سپس شناخت مرز توانایی انسانی و ماشین (به‌ویژه در فریلنسری)، و درنهایت مدیریت مسئولانه‌ی مقیاس، اخلاق و امنیت هنگام رشد.
 - **کاربرد (Application):** [[feeding-ai-specific-context-turns-generic-output-into-tailored-output]] اصل «زبان دقیق، آشوب را به نظم تبدیل می‌کند» از [[12-rules-for-life]] ([[precise-language-converts-chaotic-complexity-into-solvable-order]]) را در حوزه‌ی کاملاً جدیدی — درخواست‌نویسی برای هوش مصنوعی — به‌کار می‌برد.
+- **موافقت (Agreement):** [[ai-amplifies-effort-but-does-not-replace-vision-and-strategy]] مستقل از [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] از [[the-algorithm]] به همان اصل عمیق‌تر رسیده — ابزارهای تقویت‌کننده (هوش مصنوعی یا اتوماسیون) هرچه از قبل موجود باشد را بزرگ‌تر می‌کنند، چه آن پایه روشن باشد چه آشفته.
 
 ## Contradictions
 
@@ -40,7 +42,9 @@ updated: 2026-07-31
 ## Related Topics
 
 - [[order-and-chaos]] — اصل دقت زبانی برای مدیریت آشوب، در این موضوع به حوزه‌ی درخواست‌نویسی برای هوش مصنوعی بسط یافته است.
+- [[operational-efficiency-through-process-simplification]] — از طریق موافقت در اصل «تقویت‌کننده نیازمند پایه‌ی روشن است».
 
 ## Sources
 
 - [[2026-07-31-building-your-money-machine-with-chatgpt-blinkist]]
+- [[2026-07-31-the-algorithm-blinkist]]

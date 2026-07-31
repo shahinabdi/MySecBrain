@@ -39,15 +39,18 @@ updated: 2026-07-31
 ## Topics
 
 - [[ai-as-tool-not-replacement]]
+- [[operational-efficiency-through-process-simplification]] (از طریق موافقت با [[the-algorithm]])
 
 ## Related Books
 
 - [[12-rules-for-life]] — یک رابطه‌ی کاربرد (Application) شناسایی شد:
   - **کاربرد:** [[feeding-ai-specific-context-turns-generic-output-into-tailored-output]] اصل «زبان دقیق، آشوب را به نظم تبدیل می‌کند» ([[precise-language-converts-chaotic-complexity-into-solvable-order]]) را در حوزه‌ی درخواست‌نویسی برای هوش مصنوعی به‌کار می‌برد.
+- [[the-algorithm]] — یک رابطه‌ی موافقت شناسایی شد:
+  - **موافقت:** [[ai-amplifies-effort-but-does-not-replace-vision-and-strategy]] مستقل از [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] به همان اصل عمیق‌تر رسیده — ابزارهای تقویت‌کننده هرچه از قبل موجود باشد را بزرگ‌تر می‌کنند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. یک رابطه‌ی کاربرد (Application) با [[12-rules-for-life]] شناسایی شد؛ جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[ai-as-tool-not-replacement]] مستند شده است.
+بدون تناقض. یک رابطه‌ی کاربرد (Application) با [[12-rules-for-life]] و یک موافقت مستقل با [[the-algorithm]] شناسایی شد؛ جزئیات در بخش «Related Books» بالا و صفحات موضوع [[ai-as-tool-not-replacement]] و [[operational-efficiency-through-process-simplification]] مستند شده است.
 
 ## Translation
 
