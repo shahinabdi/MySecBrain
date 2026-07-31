@@ -2,10 +2,10 @@
 type: zettel
 title: کاهش اصطکاک احتمال تکرار رفتار را افزایش می‌دهد
 status: seed
-books: [atomic-habits]
+books: [atomic-habits, how-a-little-becomes-a-lot]
 topics: [habit-formation]
 tags: [عادت, طراحی-محیط, اصطکاک]
-sources: [2026-07-31-atomic-habits-blinkist]
+sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -26,8 +26,11 @@ updated: 2026-07-31
 
 - زیرمجموعه‌ی چارچوب کلی [[habits-form-through-a-cue-craving-response-reward-loop]]، مربوط به جزء «واکنش».
 - مکمل [[the-two-minute-rule-makes-new-habits-immediately-achievable]]: هر دو تکنیک زیر عنوان «آسان‌کردن عادت» در کتاب گرد هم می‌آیند، اما این یکی محیط فیزیکی را ساده می‌کند و آن یکی خودِ رفتار را کوچک می‌کند.
+- **موافقت (Agreement) با** [[how-a-little-becomes-a-lot]]: زیمر مستقل از کلییر همان اصل را با شواهدی از آزمایش «پارک موش» تکمیل می‌کند — موش‌های ساکن محیطی غنی تقریباً به آب حاوی مورفین لب نمی‌زدند، برخلاف موش‌های منزوی و قفس‌نشین؛ نشان می‌دهد اصل «محیط رفتار را شکل می‌دهد» فراتر از عادت‌های روزمره، حتی در الگوهای اعتیاد نیز صادق است.
 
 ## Sources
 
 - [[2026-07-31-atomic-habits-blinkist]]
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - Book: [[atomic-habits]]
+- Book: [[how-a-little-becomes-a-lot]]

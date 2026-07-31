@@ -2,10 +2,10 @@
 type: zettel
 title: نیت‌های اجرایی نیت‌های مبهم را به برنامه‌های مشخص زمان و مکان تبدیل می‌کنند
 status: seed
-books: [atomic-habits]
+books: [atomic-habits, how-a-little-becomes-a-lot]
 topics: [habit-formation]
 tags: [عادت, برنامه‌ریزی, هدف‌گذاری]
-sources: [2026-07-31-atomic-habits-blinkist]
+sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -26,8 +26,12 @@ updated: 2026-07-31
 
 - زیرمجموعه‌ی چارچوب کلی [[habits-form-through-a-cue-craving-response-reward-loop]]، مربوط به جزء «نشانه» (اما نشانه‌ی زمانی/برنامه‌ای به‌جای نشانه‌ی محیطی).
 - مکمل [[making-cues-obvious-and-visible-triggers-new-habits]] (نشانه‌ی مکانی).
+- **موافقت (Agreement) با** [[how-a-little-becomes-a-lot]]: زیمر مستقل از کلییر همان فرمول را با مثال «آیین مسواک‌زدن به‌عنوان محرک» توصیف می‌کند و تأکید می‌کند این محرک تنها زمانی مؤثر است که فضای فیزیکی هم با آن هم‌راستا باشد.
+- **بسط‌یافته توسط** [[if-then-contingency-plans-protect-habits-from-disruption]] از همان کتاب: نیت اجرایی کلاسیک برای *آغاز* رفتار در شرایط عادی طراحی شده؛ زیمر یک لایه‌ی مکمل برای *حفظ* آن رفتار در شرایط مختل (بیماری کودک، اختلال برنامه) اضافه می‌کند.
 
 ## Sources
 
 - [[2026-07-31-atomic-habits-blinkist]]
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - Book: [[atomic-habits]]
+- Book: [[how-a-little-becomes-a-lot]]

@@ -2,10 +2,10 @@
 type: zettel
 title: شفقت به خود یعنی با خود همان‌گونه رفتار کنید که با دوستی در سختی رفتار می‌کنید
 status: seed
-books: [good-morning-i-love-you]
+books: [good-morning-i-love-you, how-a-little-becomes-a-lot]
 topics: [mindfulness-and-self-compassion, personal-responsibility]
 tags: [شفقت-به-خود, مراقبت-از-خود, عصب‌شناسی]
-sources: [2026-07-31-good-morning-i-love-you-blinkist]
+sources: [2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -26,8 +26,11 @@ updated: 2026-07-31
 
 - **موافق (Agreement) با** [[self-care-requires-the-same-care-given-to-a-loved-one]] از کتاب [[12-rules-for-life]]: پیترسون و شاپیرو، از دو سنت متفاوت (روان‌شناسی بالینی در برابر فلسفه‌ی عملی)، مستقل از هم به همان اصل رسیده‌اند — استاندارد مراقبت از خود باید همان استانداردی باشد که برای یک عزیز یا دوست به‌کار می‌بریم. شاپیرو این را با شواهد عصب‌شیمیایی مشخص (اکسی‌توسین، اندورفین) تکمیل می‌کند که پیترسون ارائه نمی‌دهد.
 - زیربنای عملی برای [[processing-a-mistake-through-awareness-common-humanity-and-kindness-eases-self-judgment]].
+- **موافقت (Agreement) با** [[how-a-little-becomes-a-lot]]: زیمر این اصل را با نام «پارادوکس سلیمان» توصیف می‌کند — مهارت انسانی در ارائه‌ی مشاوره‌ای خردمندانه به دیگران درحالی‌که نسبت به خودویرانگری خودمان کور می‌مانیم — و مکانیزم تکمیلی‌ای اضافه می‌کند: سرزنش خود «ماشین دفاع‌از-تهدید» بدن را فعال می‌کند و یادگیری را خاموش می‌سازد، درحالی‌که شفقت به خود این هشدار را ساکت کرده و ذهن را برای رشد دوباره می‌گشاید. زیمر همچنین پیش‌نیازی برای این اصل اضافه می‌کند: پیش از پاسخ مهربانانه، باید نخست از طریق [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] از منتقد درونی فاصله گرفت.
 
 ## Sources
 
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - Book: [[good-morning-i-love-you]]
+- Book: [[how-a-little-becomes-a-lot]]
