@@ -3,7 +3,7 @@ type: topic
 title: مرزگذاری و مالکیت روانی
 status: active
 tags: [مرزگذاری, مالکیت, روابط]
-sources: [2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist]
+sources: [2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -29,12 +29,14 @@ updated: 2026-07-31
 - [[boundaries]] — منبع اصلی این نقشه‌ی موضوعی.
 - [[12-rules-for-life]] — قانون پنجم پیترسون (مرزگذاری والدین با فرزند) و قانون دوم (مراقبت از خود) هر دو با این کتاب بسط داده می‌شوند.
 - [[creativity-inc]] — اصل محوری این موضوع در مدیریت تیم به‌کار رفته است (نگاه کنید به بخش روابط).
+- [[emotional-intelligence]] — دو زتل آن مکانیزم عصبی و ابزار عملی «پاسخ‌دادن به‌جای عکس‌العمل» را فراهم می‌کنند.
 
 ## Relationships
 
 - **بسط (Extension):** [[family-of-origin-patterns-shape-adult-boundary-habits]] سمت دیگر [[clear-boundaries-in-parenting-produce-responsible-children]] از [[12-rules-for-life]] را نشان می‌دهد — نتیجه‌ی بلندمدت مرزگذاری (یا نبود آن) در دوران کودکی بر بزرگسالی.
 - **بسط (Extension):** [[boundaries-mean-being-responsible-to-others-not-for-them]] مکانیزم مشخصی برای [[self-care-requires-the-same-care-given-to-a-loved-one]] از [[12-rules-for-life]] فراهم می‌کند: تمایز «مسئول در برابر / نه به‌جای» دقیقاً مرز میان مراقبت سالم از خود و نادیده‌گرفتن خود را مشخص می‌کند.
 - **کاربرد (Application):** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] از [[creativity-inc]] همین تمایز «مسئول در برابر / نه به‌جای» را در مدیریت به‌کار می‌برد: ریزمدیریت همان خطای اضافه‌مسئولیتی است که در روابط شخصی نیز آسیب می‌زند.
+- **بسط (Extension) + کاربرد (Application):** [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] از [[emotional-intelligence]] مکانیزم عصبی [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] را توضیح می‌دهد، و [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] ابزاری عینی (ضربان قلب) برای اجرای آن ارائه می‌دهد.
 
 ## Contradictions
 
@@ -49,8 +51,10 @@ updated: 2026-07-31
 - [[personal-responsibility]] — هر دو درباره‌ی مالکیت آگاهانه‌ی زندگی خود پیش از واکنش به بیرون‌اند؛ این موضوع بر مرز میان خود و دیگری تمرکز دارد، آن موضوع بر نگرش کلی به مسئولیت.
 - [[habit-formation]] — قرارداد عادت (پاسخگویی اجتماعی سالم) در تضاد آموزنده با پویایی کنترل‌گرانه‌ی این موضوع قرار می‌گیرد.
 - [[psychological-safety-and-creative-culture]] — از طریق کاربرد اصل مالکیت مسئولیت در مدیریت تیم.
+- [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم عصبی «پاسخ‌دادن نه عکس‌العمل».
 
 ## Sources
 
 - [[2026-07-31-boundaries-blinkist]]
 - [[2026-07-31-creativity-inc-blinkist]]
+- [[2026-07-31-emotional-intelligence-blinkist]]

@@ -3,7 +3,7 @@ type: topic
 title: مسئولیت‌پذیری فردی
 status: active
 tags: [مسئولیت‌پذیری, خودمراقبتی, معنا]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -32,10 +32,11 @@ updated: 2026-07-31
 - **شرط مرزی (Boundary Condition):** [[delayed-return-habits-need-attached-immediate-gratification]] نشان می‌دهد ترجیح معنا بر ارضای آنی با الحاق رضایت فوری به یک هدف بلندمدت در تضاد نیست، به‌شرطی که آن رضایت فوری ابزار پایداری باشد نه جایگزین هدف.
 - **بسط (Extension):** [[boundaries-mean-being-responsible-to-others-not-for-them]] از کتاب مرزها مکانیزم مشخصی برای مراقبت از خود فراهم می‌کند — تمایز «مسئول در برابر / نه به‌جای» دیگران، دقیقاً همان مرزی است که رعایتش «مراقبت از خود مثل یک عزیز» را از خودخواهی متمایز می‌کند.
 - **تقابل آموزنده:** [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] از [[creativity-inc]] در برابر [[taking-responsibility-must-precede-judging-the-world]] نشان می‌دهد مسئولیت‌پذیری فردی اصلی برای زندگی شخصی است، اما فرهنگ سازمانی سالم به مکانیزم مکملی — توزیع آگاهانه‌ی مسئولیت شکست میان تیم — نیاز دارد؛ تفاوت در سطح تحلیل (فرد در برابر تیم) است، نه تناقض.
+- **بسط (Extension):** [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] از [[emotional-intelligence]] مکانیزم روان‌شناختی [[meaningful-goals-outweigh-instant-gratification]] را ارائه می‌دهد — توانایی مدیریت آگاهانه‌ی احساسات رقیب، مستقل از ضریب هوشی، پیش‌بینی‌کننده‌ی موفقیت بلندمدت است.
 
 ## Contradictions
 
-هیچ تناقض مستقیمی میان [[12-rules-for-life]]، [[atomic-habits]]، [[boundaries]] و [[creativity-inc]] در این موضوع یافت نشد؛ رابطه‌ی «رضایت فوری» و رابطه‌ی «مسئولیت تیمی شکست» هر دو به‌عنوان شرط مرزی/تفاوت سطح تحلیل طبقه‌بندی شده‌اند، نه تناقض.
+هیچ تناقض مستقیمی میان [[12-rules-for-life]]، [[atomic-habits]]، [[boundaries]]، [[creativity-inc]] و [[emotional-intelligence]] در این موضوع یافت نشد؛ رابطه‌ی «رضایت فوری» و رابطه‌ی «مسئولیت تیمی شکست» هر دو به‌عنوان شرط مرزی/تفاوت سطح تحلیل طبقه‌بندی شده‌اند، نه تناقض.
 
 ## Open Questions
 
@@ -47,6 +48,7 @@ updated: 2026-07-31
 - [[habit-formation]] — مکانیزم رفتاری مشخصی برای عملیاتی‌کردن دو ایده‌ی این موضوع فراهم می‌کند.
 - [[boundaries-and-ownership]] — مرز دقیق میان مسئولیت‌پذیری سالم و بیش‌مسئولیتی نسبت به دیگران را مشخص می‌کند.
 - [[psychological-safety-and-creative-culture]] — از طریق تقابل آموزنده‌ی مسئولیت فردی در برابر مسئولیت تیمی شکست.
+- [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم روان‌شناختی تعویق رضایت.
 
 ## Sources
 
@@ -54,3 +56,4 @@ updated: 2026-07-31
 - [[2026-07-31-atomic-habits-blinkist]]
 - [[2026-07-31-boundaries-blinkist]]
 - [[2026-07-31-creativity-inc-blinkist]]
+- [[2026-07-31-emotional-intelligence-blinkist]]

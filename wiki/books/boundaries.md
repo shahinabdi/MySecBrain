@@ -57,10 +57,12 @@ updated: 2026-07-31
   - [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] در برابر [[habit-contracts-with-social-stakes-increase-follow-through]]: هر دو از اهمیت‌دادن به نظر دیگران استفاده می‌کنند، اما یکی سالم (انتخاب آزاد، احترام متقابل) و دیگری ناسالم (ترس و گناه تحمیلی) است.
 - [[creativity-inc]] — یک رابطه‌ی کاربرد (Application):
   - **کاربرد:** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را در مدیریت به‌کار می‌برد: ریزمدیریت همان خطای «مسئول به‌جای دیگری بودن» است که در روابط شخصی نیز آسیب می‌زند.
+- [[emotional-intelligence]] — یک رابطه‌ی بسط همراه با کاربرد عملی:
+  - **بسط + کاربرد:** [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] مکانیزم عصبی [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] را توضیح می‌دهد، و [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] ابزاری عینی (ضربان قلب) برای اجرای آن ارائه می‌دهد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، و یک رابطه‌ی کاربرد با [[creativity-inc]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، و یک بسط همراه با کاربرد عملی با [[emotional-intelligence]] مستند شد.
 
 ## Translation
 

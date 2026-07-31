@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - بخشی از خوشه‌ی [[honest-communication]] در کنار [[self-deception-through-life-lies-derails-real-goals]] و [[precise-language-converts-chaotic-complexity-into-solvable-order]].
 - **بسط‌یافته توسط** [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] و [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]] از کتاب [[creativity-inc]]: پیترسون این اصل را در سطح گفتگوی دونفره مطرح می‌کند؛ کتمول آن را به سطح سازمانی می‌برد و نشان می‌دهد در مقیاس بزرگ، گوش‌دادن خوب نیازمند سازوکار عمدی (نه فقط نیت خوب) و آگاهی از سوگیری تأییدی است.
+- **بسط‌یافته توسط** [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] از کتاب [[emotional-intelligence]]: گلمن بعد همدلانه‌ای اضافه می‌کند — گاهی «یادگیری» طرف مقابل صرفاً نیاز به شنیده‌شدن و تأیید است، نه محتوایی که باید از آن درس گرفت؛ تشخیص این تفاوت (راه‌حل در برابر شنیده‌شدن) گفتگو را سازنده‌تر می‌کند.
 
 ## Sources
 

@@ -55,10 +55,12 @@ updated: 2026-07-31
   - **تقابل آموزنده:** [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] در برابر [[taking-responsibility-must-precede-judging-the-world]] — تفاوت سطح تحلیل (تیم در برابر فرد)، نه تناقض.
 - [[boundaries]] — یک رابطه‌ی کاربرد:
   - **کاربرد:** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را در مدیریت به‌کار می‌برد.
+- [[emotional-intelligence]] — یک رابطه‌ی بسط:
+  - **بسط:** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] می‌افزاید.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
+بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
 
 ## Translation
 

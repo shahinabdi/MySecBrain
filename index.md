@@ -9,6 +9,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-boundaries-blinkist]] — Blinkist summary of *Boundaries* by Henry Cloud and John Townsend.
 - [[2026-07-31-building-your-money-machine-with-chatgpt-blinkist]] — Blinkist summary of *Building Your Money Machine with ChatGPT* by Larry Wheeler.
 - [[2026-07-31-creativity-inc-blinkist]] — Blinkist summary of *Creativity, Inc.* by Ed Catmull with Amy Wallace.
+- [[2026-07-31-emotional-intelligence-blinkist]] — Blinkist summary of *Emotional Intelligence* by Daniel Goleman.
 
 ## Translations
 
@@ -17,6 +18,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[boundaries-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «مرزها».
 - [[building-your-money-machine-with-chatgpt-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «ساختن ماشین درآمدی خود با چت‌جی‌پی‌تی».
 - [[creativity-inc-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شرکت خلاقیت».
+- [[emotional-intelligence-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هوش هیجانی».
 
 ## Books
 
@@ -25,6 +27,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[boundaries]] — صفحه‌ی مرکزی کتاب «مرزها» اثر هنری کلود و جان تاونسند.
 - [[building-your-money-machine-with-chatgpt]] — صفحه‌ی مرکزی کتاب «ساختن ماشین درآمدی خود با چت‌جی‌پی‌تی» اثر لری ویلر.
 - [[creativity-inc]] — صفحه‌ی مرکزی کتاب «شرکت خلاقیت» اثر اد کتمول و امی والاس.
+- [[emotional-intelligence]] — صفحه‌ی مرکزی کتاب «هوش هیجانی» اثر دنیل گلمن.
 
 ## Zettels
 
@@ -82,6 +85,20 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] — اعتماد به کارکنان برای مالکیت تصمیم‌هایشان خلاقیت و روحیه را آزاد می‌کند.
 - [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] — دیدن شکست به‌عنوان فرایندی تکرارشونده و مشترک، بازیابی را ممکن می‌کند.
 - [[physical-workspace-design-shapes-creative-participation]] — طراحی فیزیکی فضای کار، میزان مشارکت خلاقانه را شکل می‌دهد.
+- [[emotions-serve-three-functions-learning-social-reading-and-readiness-to-act]] — احساسات سه کارکرد دارند: یادگیری، خواندن دیگران، و آمادگی برای عمل.
+- [[intense-emotion-crowds-out-rational-judgment]] — هیجان شدید با اشغال ظرفیت ذهن، قضاوت منطقی را بیرون می‌راند.
+- [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] — ربایش هیجانی، تفکر منطقی را زیر پای تهدید ادراک‌شده دور می‌زند.
+- [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] — نام‌گذاری یک احساس و ردیابی علت آن، نخستین گام هوش هیجانی است.
+- [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] — به‌تعویق‌انداختن رضایت با مدیریت احساسات رقیب، موفقیت بلندمدت را پیش‌بینی می‌کند.
+- [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] — همدلی امکان می‌دهد پیام را طوری برسانید که شنیده شود.
+- [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] — خودتنظیمی هیجانی به بررسی‌کردن هشدار مغز احساسی توسط مغز فکور وابسته است.
+- [[emotional-intelligence-predicts-success-and-health-better-than-iq-alone]] — هوش هیجانی موفقیت و سلامت را بهتر از ضریب هوشی پیش‌بینی می‌کند.
+- [[childrens-emotional-intelligence-shapes-societys-future-through-delinquency-and-parenting-cycles]] — هوش هیجانی کودکان آینده‌ی جامعه را شکل می‌دهد.
+- [[reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power]] — بازتفسیر علت یک احساس از طریق گفتگوی درونی، قدرت آن را کاهش می‌دهد.
+- [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] — آینه‌کردن زبان بدن دیگری، همدلی می‌سازد.
+- [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] — تبیین شکست‌ها با علل قابل‌تغییر، انگیزه را پایدار نگه می‌دارد.
+- [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] — مکث تا آرام‌شدن ضربان قلب، از پشیمانی بعدی جلوگیری می‌کند.
+- [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] — نقد مشخص و راه‌حل‌محور، از برانگیختن تدافع جلوگیری می‌کند.
 
 ## Topics
 
@@ -92,6 +109,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[boundaries-and-ownership]] — نقشه‌ی موضوعی مرزگذاری روانی و مالکیت مسئولیت در روابط.
 - [[ai-as-tool-not-replacement]] — نقشه‌ی موضوعی استفاده‌ی مسئولانه از هوش مصنوعی به‌عنوان ابزار مکمل انسان.
 - [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها و عادت‌های مدیریتی لازم برای فرهنگ سازمانی خلاق.
+- [[emotional-intelligence-and-self-regulation]] — نقشه‌ی موضوعی کارکرد، اختلال، و تقویت هوش هیجانی.
 
 ## Queries
 

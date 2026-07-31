@@ -25,6 +25,8 @@ updated: 2026-07-31
 ## Connections
 
 - ابزار عملی برای شکستن الگوهای شناسایی‌شده در [[family-of-origin-patterns-shape-adult-boundary-habits]].
+- **بسط‌یافته توسط** [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] از کتاب [[emotional-intelligence]]: گلمن مکانیزم عصبی زیربنایی این توصیه را توضیح می‌دهد — «پاسخ‌دادن» دقیقاً همان فرصت‌دادن به مغز فکور برای بررسی هشدار مغز احساسی است.
+- **کاربرد یافته توسط** [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] از همان کتاب: ابزاری عینی و قابل‌اندازه‌گیری (نظارت بر ضربان قلب) برای تشخیص لحظه‌ی مناسب برای پاسخ‌دادن به‌جای عکس‌العمل‌نشان‌دادن ارائه می‌دهد.
 
 ## Sources
 

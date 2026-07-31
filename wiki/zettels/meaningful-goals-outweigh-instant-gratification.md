@@ -27,6 +27,7 @@ updated: 2026-07-31
 - بخشی از خوشه‌ی [[personal-responsibility]] در کنار [[self-care-requires-the-same-care-given-to-a-loved-one]]، [[progress-should-be-measured-against-your-past-self-not-others]] و [[taking-responsibility-must-precede-judging-the-world]].
 - در تضاد مکمل با [[self-deception-through-life-lies-derails-real-goals]]: فداکاری تنها زمانی سازنده است که هدفی که برای آن فداکاری می‌شود واقعی و صادقانه باشد، نه یک «دروغ زندگی».
 - **شرط مرزی از سوی** [[delayed-return-habits-need-attached-immediate-gratification]] از کتاب [[atomic-habits]]: کلییر نشان می‌دهد رضایت فوری همیشه در تضاد با اهداف معنادار نیست — وقتی به‌عنوان ابزار پایداری در خدمت یک هدف بلندمدت و صادقانه به‌کار رود (نه جایگزین آن)، می‌تواند مکمل فداکاری هدفمند باشد، نه ضد آن.
+- **بسط‌یافته توسط** [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] از کتاب [[emotional-intelligence]]: گلمن مکانیزم روان‌شناختی این توصیه را ارائه می‌دهد — توانایی مدیریت آگاهانه‌ی احساسات رقیب برای تعویق رضایت، مستقل از ضریب هوشی، پیش‌بینی‌کننده‌ی موفقیت بلندمدت است (شواهد از چالش مارشمالو).
 
 ## Sources
 

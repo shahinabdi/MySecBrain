@@ -3,7 +3,7 @@ type: topic
 title: امنیت روانی و فرهنگ خلاقیت
 status: active
 tags: [خلاقیت, امنیت-روانی, مدیریت]
-sources: [2026-07-31-creativity-inc-blinkist]
+sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -28,6 +28,7 @@ updated: 2026-07-31
 - [[creativity-inc]] — منبع اصلی و کامل این نقشه‌ی موضوعی، مبتنی بر تجربه‌ی مدیریتی نویسنده در پیکسار و دیزنی انیمیشن.
 - [[12-rules-for-life]] — سه رابطه شناسایی شد (نگاه کنید به بخش روابط).
 - [[boundaries]] — یک رابطه‌ی کاربرد شناسایی شد (نگاه کنید به بخش روابط).
+- [[emotional-intelligence]] — یک رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 
 ## Relationships
 
@@ -35,6 +36,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] اصل «سرکوب ریسک‌پذیری به‌جای محافظت آسیب می‌زند» ([[suppressing-natural-risk-taking-harms-more-than-it-protects]]) را از سطح فردی به سطح برنامه‌ریزی سازمانی بسط می‌دهد.
 - **کاربرد (Application):** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] اصل «مسئول در برابر دیگران، نه به‌جای آن‌ها» از [[boundaries]] ([[boundaries-mean-being-responsible-to-others-not-for-them]]) را در حوزه‌ی مدیریت به‌کار می‌برد: ریزمدیریت همان خطای اضافه‌مسئولیتی است که در روابط شخصی نیز آسیب می‌زند.
 - **تقابل آموزنده:** [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] در برابر [[taking-responsibility-must-precede-judging-the-world]] از [[12-rules-for-life]] نشان می‌دهد مسئولیت‌پذیری فردی اصلی برای زندگی شخصی است، اما فرهنگ سازمانی سالم به مکانیزم مکملی — توزیع آگاهانه‌ی مسئولیت شکست میان تیم — نیاز دارد تا از سرزنش فلج‌کننده جلوگیری شود؛ این تناقض دو کتاب نیست، بلکه تفاوت در سطح تحلیل (فرد در برابر تیم) است.
+- **بسط (Extension):** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] از [[emotional-intelligence]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] می‌افزاید — سازوکار سازمانی مسیر بازخورد را باز می‌کند، اما شیوه‌ی بیان آن تعیین می‌کند آیا پذیرفته می‌شود یا تدافع برمی‌انگیزد.
 
 ## Contradictions
 
@@ -49,7 +51,9 @@ updated: 2026-07-31
 - [[honest-communication]] — از طریق بسط اصل گوش‌دادن به سطح سازمانی.
 - [[order-and-chaos]] — از طریق بسط اصل تعادل نظم/آشوب به برنامه‌ریزی سازمانی.
 - [[boundaries-and-ownership]] — از طریق کاربرد اصل مالکیت مسئولیت در مدیریت.
+- [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
 
 ## Sources
 
 - [[2026-07-31-creativity-inc-blinkist]]
+- [[2026-07-31-emotional-intelligence-blinkist]]
