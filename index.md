@@ -8,6 +8,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-atomic-habits-blinkist]] — Blinkist summary of *Atomic Habits* by James Clear.
 - [[2026-07-31-boundaries-blinkist]] — Blinkist summary of *Boundaries* by Henry Cloud and John Townsend.
 - [[2026-07-31-building-your-money-machine-with-chatgpt-blinkist]] — Blinkist summary of *Building Your Money Machine with ChatGPT* by Larry Wheeler.
+- [[2026-07-31-creativity-inc-blinkist]] — Blinkist summary of *Creativity, Inc.* by Ed Catmull with Amy Wallace.
 
 ## Translations
 
@@ -15,6 +16,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[atomic-habits-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «عادت‌های اتمی».
 - [[boundaries-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «مرزها».
 - [[building-your-money-machine-with-chatgpt-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «ساختن ماشین درآمدی خود با چت‌جی‌پی‌تی».
+- [[creativity-inc-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شرکت خلاقیت».
 
 ## Books
 
@@ -22,6 +24,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[atomic-habits]] — صفحه‌ی مرکزی کتاب «عادت‌های اتمی» اثر جیمز کلییر.
 - [[boundaries]] — صفحه‌ی مرکزی کتاب «مرزها» اثر هنری کلود و جان تاونسند.
 - [[building-your-money-machine-with-chatgpt]] — صفحه‌ی مرکزی کتاب «ساختن ماشین درآمدی خود با چت‌جی‌پی‌تی» اثر لری ویلر.
+- [[creativity-inc]] — صفحه‌ی مرکزی کتاب «شرکت خلاقیت» اثر اد کتمول و امی والاس.
 
 ## Zettels
 
@@ -69,6 +72,16 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[scaling-with-ai-requires-a-team-that-shares-your-vision-not-just-skills]] — مقیاس‌دهی با هوش مصنوعی به تیمی نیاز دارد که چشم‌انداز شما را به اشتراک بگذارد.
 - [[ai-decisions-inherit-bias-from-the-data-that-feeds-them]] — تصمیمات هوش مصنوعی جانب‌داری را از داده‌ای که با آن تغذیه می‌شود به ارث می‌برند.
 - [[ai-adoption-raises-the-stakes-for-data-security-practices]] — پذیرش هوش مصنوعی، اهمیت رویه‌های امنیت داده را افزایش می‌دهد.
+- [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] — ترس ناشی از سلسله‌مراتب مانع بازخورد صادقانه می‌شود مگر آنکه آگاهانه طراحی‌زدایی شود.
+- [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] — ترس از شکست باعث می‌شود مردم مسیر آشنا را به تغییر لازم ترجیح دهند.
+- [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] — برنامه‌های بلندمدت سفت‌وسخت، انعطاف لازم برای فرصت‌های غیرمنتظره را فدا می‌کنند.
+- [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]] — سوگیری تأییدی باعث می‌شود رهبران موافقت را بر ایده‌های بهتر ترجیح دهند.
+- [[a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals]] — پیگیری مشترک برتری بیش از اهداف مشخص انگیزه می‌سازد.
+- [[a-great-team-matters-more-than-a-great-idea]] — تیم عالی مهم‌تر از ایده‌ی عالی است.
+- [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] — تیم‌های متنوع به‌خاطر تفاوت‌های مکمل، از تیم‌های همگن بهتر عمل می‌کنند.
+- [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] — اعتماد به کارکنان برای مالکیت تصمیم‌هایشان خلاقیت و روحیه را آزاد می‌کند.
+- [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] — دیدن شکست به‌عنوان فرایندی تکرارشونده و مشترک، بازیابی را ممکن می‌کند.
+- [[physical-workspace-design-shapes-creative-participation]] — طراحی فیزیکی فضای کار، میزان مشارکت خلاقانه را شکل می‌دهد.
 
 ## Topics
 
@@ -78,6 +91,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[habit-formation]] — نقشه‌ی موضوعی مکانیزم شکل‌گیری عادت و تکنیک‌های مهندسی رفتار.
 - [[boundaries-and-ownership]] — نقشه‌ی موضوعی مرزگذاری روانی و مالکیت مسئولیت در روابط.
 - [[ai-as-tool-not-replacement]] — نقشه‌ی موضوعی استفاده‌ی مسئولانه از هوش مصنوعی به‌عنوان ابزار مکمل انسان.
+- [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها و عادت‌های مدیریتی لازم برای فرهنگ سازمانی خلاق.
 
 ## Queries
 

@@ -3,7 +3,7 @@ type: topic
 title: صداقت و ارتباط مؤثر
 status: active
 tags: [صداقت, گفتگو, خودفریبی]
-sources: [2026-07-31-12-rules-for-life-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-creativity-inc-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -21,14 +21,16 @@ updated: 2026-07-31
 ## Books
 
 - [[12-rules-for-life]] — این سه ایده از قوانین ۸، ۹ و ۱۰ کتاب استخراج شده‌اند.
+- [[creativity-inc]] — دو زتل آن ([[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] و [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]]) اصل گوش‌دادن را از سطح فردی به سطح سازمانی می‌برند.
 
 ## Relationships
 
 - خودفریبی (دروغ زندگی) و گفتگوی رقابتی دو شکل از یک الگوی مشترک‌اند: هر دو اولویت را به حفظ یک باور یا هدف از پیش‌تعیین‌شده می‌دهند، نه به کشف حقیقت. زبان دقیق ابزار مشترکی است که هر دو مشکل را برطرف می‌کند: هم فرد را وادار می‌کند هدف خود را دقیق و قابل‌سنجش بیان کند (برخلاف دروغ زندگی مبهم)، و هم گفتگو را به فرمول‌بندی روشن‌تر مسئله سوق می‌دهد (برخلاف رقابت کلامی مبهم).
+- **بسط (Extension):** [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] نشان می‌دهد در مقیاس سازمانی، گوش‌دادن خوب نیازمند سازوکار عمدی (نه فقط نیت خوب) است؛ [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]] مکانیزم روان‌شناختی مشخصی ارائه می‌دهد که توضیح می‌دهد چرا حتی رهبران خوش‌نیت در گوش‌دادن واقعی شکست می‌خورند.
 
 ## Contradictions
 
-هنوز کتاب دیگری برای مقایسه یا تضاد ثبت نشده است.
+هیچ تناقضی با کتاب‌های دیگر یافت نشد.
 
 ## Open Questions
 
@@ -38,7 +40,9 @@ updated: 2026-07-31
 
 - [[order-and-chaos]] — از طریق زتل مشترک [[precise-language-converts-chaotic-complexity-into-solvable-order]].
 - [[personal-responsibility]] — صداقت با خود پیش‌نیاز مسئولیت‌پذیری واقعی است.
+- [[psychological-safety-and-creative-culture]] — بسط سازمانی اصل گوش‌دادن و صداقت.
 
 ## Sources
 
 - [[2026-07-31-12-rules-for-life-blinkist]]
+- [[2026-07-31-creativity-inc-blinkist]]

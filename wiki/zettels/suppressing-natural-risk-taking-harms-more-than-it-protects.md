@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - در خوشه‌ی [[order-and-chaos]] در کنار [[celebrating-small-joys-amid-suffering-sustains-meaning]]: هر دو نشان می‌دهند نظم بیش‌ازحد (چه سرکوب خطر، چه پاک‌سازی کامل رنج) به همان اندازه‌ی آشوب بیش‌ازحد مضر است.
+- **بسط‌یافته توسط** [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] از کتاب [[creativity-inc]]: پیترسون این اصل را در سطح فردی مطرح می‌کند؛ کتمول آن را به سطح برنامه‌ریزی سازمانی بسط می‌دهد — برنامه‌ریزی افراطی (نظم مطلق) توانایی بهره‌گیری از فرصت‌های غیرمنتظره (آشوب مولد) را خفه می‌کند.
 
 ## Sources
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c25833d123f276",
+        "id": "45fc14a307b23ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce867aa7964e41c",
+            "id": "0369b206f89f4fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/zettels/a-boundary-is-only-permanent-if-you-choose-to-make-it-so.md",
+                "file": "wiki/translations/building-your-money-machine-with-chatgpt-fa.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a-boundary-is-only-permanent-if-you-choose-to-make-it-so"
+              "title": "building-your-money-machine-with-chatgpt-fa"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -213,43 +215,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ce867aa7964e41c",
+  "active": "0369b206f89f4fe3",
   "lastOpenFiles": [
-    "log.md.tmp.34372.3853a29a78a5",
-    "index.md.tmp.34372.25aa2428f2c4",
-    "wiki/books/12-rules-for-life.md.tmp.34372.6751cdfbdbcb",
-    "wiki/topics/order-and-chaos.md.tmp.34372.49b64c51f72d",
-    "wiki/zettels/precise-language-converts-chaotic-complexity-into-solvable-order.md.tmp.34372.326f1ab51732",
-    "wiki/books/building-your-money-machine-with-chatgpt.md",
-    "wiki/topics/ai-as-tool-not-replacement.md",
-    "wiki/topics/ai-as-tool-not-replacement.md.tmp.34372.2b309d82dfbc",
-    "wiki/zettels/ai-adoption-raises-the-stakes-for-data-security-practices.md",
-    "wiki/zettels/ai-decisions-inherit-bias-from-the-data-that-feeds-them.md",
-    "wiki/zettels/ai-decisions-inherit-bias-from-the-data-that-feeds-them.md.tmp.34372.2b1a47f5d578",
-    "wiki/zettels/scaling-with-ai-requires-a-team-that-shares-your-vision-not-just-skills.md",
-    "wiki/zettels/scaling-with-ai-requires-a-team-that-shares-your-vision-not-just-skills.md.tmp.34372.91f340cc1807",
-    "wiki/zettels/ai-cannot-replace-a-freelancers-voice-strategy-creativity-and-human-connection.md",
-    "wiki/zettels/ai-cannot-replace-a-freelancers-voice-strategy-creativity-and-human-connection.md.tmp.34372.eb4e33e5cb64",
-    "wiki/zettels/matching-content-to-each-platforms-norms-requires-platform-specific-prompting.md",
-    "wiki/zettels/matching-content-to-each-platforms-norms-requires-platform-specific-prompting.md.tmp.34372.9130c2b377cd",
-    "wiki/zettels/feeding-ai-specific-context-turns-generic-output-into-tailored-output.md",
-    "wiki/zettels/feeding-ai-specific-context-turns-generic-output-into-tailored-output.md.tmp.34372.63d849583198",
+    "wiki/translations/creativity-inc-fa.md",
+    "log.md",
+    "wiki/books/12-rules-for-life.md",
     "wiki/zettels/ai-amplifies-effort-but-does-not-replace-vision-and-strategy.md",
-    "wiki/translations/building-your-money-machine-with-chatgpt-fa.md",
-    "wiki/sources/2026-07-31-building-your-money-machine-with-chatgpt-blinkist.md",
-    "wiki/translations/boundaries-fa.md",
-    "wiki/translations/12-rules-for-life-fa.md",
-    "raw/Atomic Habits by James Clear.md",
-    "wiki/books/boundaries.md",
-    "wiki/topics/boundaries-and-ownership.md",
-    "wiki/zettels/work-boundaries-mean-owning-your-own-tasks-and-reactions-not-everyone-elses.md",
-    "wiki/zettels/friendships-without-boundaries-fail-through-mutual-people-pleasing-or-quiet-resentment.md",
-    "raw/12 Rules For Life by Jordan B. Peterson.md",
-    "wiki/zettels/owning-your-feelings-desires-and-limits-are-three-distinct-boundary-skills.md",
+    "wiki/topics/ai-as-tool-not-replacement.md",
     "wiki/sources/2026-07-31-12-rules-for-life-blinkist.md",
-    "wiki/translations/atomic-habits-fa.md",
-    "CLAUDE.md",
-    "wiki/zettels/forgiving-a-boundary-violation-does-not-require-continued-contact.md",
-    "wiki/zettels/respond-rather-than-react-to-preserve-boundaries-under-pressure.md"
+    "wiki/sources/2026-07-31-atomic-habits-blinkist.md",
+    "wiki/sources/2026-07-31-boundaries-blinkist.md",
+    "wiki/sources/2026-07-31-building-your-money-machine-with-chatgpt-blinkist.md",
+    "log.md.tmp.34372.6736e17a9ad2",
+    "wiki/sources/2026-07-31-creativity-inc-blinkist.md",
+    "wiki/translations/12-rules-for-life-fa.md",
+    "index.md.tmp.34372.64ce2fb61b4b",
+    "index.md.tmp.34372.75fd005ebbdd",
+    "wiki/topics/personal-responsibility.md.tmp.34372.1c61020c71b2",
+    "wiki/topics/personal-responsibility.md.tmp.34372.12397817c256",
+    "wiki/topics/boundaries-and-ownership.md.tmp.34372.f5e96a23869e",
+    "wiki/topics/boundaries-and-ownership.md.tmp.34372.391c81d45730",
+    "wiki/topics/boundaries-and-ownership.md.tmp.34372.346f268928b2",
+    "wiki/topics/order-and-chaos.md.tmp.34372.804bbe06dad9",
+    "wiki/topics/order-and-chaos.md.tmp.34372.16f7e6567775",
+    "wiki/books/creativity-inc.md",
+    "wiki/topics/psychological-safety-and-creative-culture.md",
+    "wiki/zettels/physical-workspace-design-shapes-creative-participation.md",
+    "wiki/zettels/treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery.md",
+    "wiki/zettels/trusting-employees-to-own-decisions-unleashes-creativity-and-morale.md",
+    "wiki/zettels/diverse-teams-outperform-homogeneous-ones-through-complementary-differences.md",
+    "wiki/zettels/a-great-team-matters-more-than-a-great-idea.md",
+    "wiki/zettels/a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals.md",
+    "wiki/zettels/confirmation-bias-makes-leaders-favor-agreement-over-better-ideas.md",
+    "wiki/zettels/rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities.md",
+    "wiki/zettels/fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change.md",
+    "wiki/zettels/hierarchical-fear-blocks-honest-feedback-unless-designed-around.md",
+    "wiki/zettels/a-boundary-is-only-permanent-if-you-choose-to-make-it-so.md",
+    "wiki/books/building-your-money-machine-with-chatgpt.md",
+    "wiki/zettels/ai-adoption-raises-the-stakes-for-data-security-practices.md"
   ]
 }

@@ -58,12 +58,17 @@ updated: 2026-07-31
   - **بسط:** [[boundaries-mean-being-responsible-to-others-not-for-them]] مکانیزم مشخصی برای [[self-care-requires-the-same-care-given-to-a-loved-one]] فراهم می‌کند.
 - [[building-your-money-machine-with-chatgpt]] — یک رابطه‌ی کاربرد (Application):
   - **کاربرد:** [[feeding-ai-specific-context-turns-generic-output-into-tailored-output]] اصل «زبان دقیق آشوب را به نظم تبدیل می‌کند» ([[precise-language-converts-chaotic-complexity-into-solvable-order]]) را در حوزه‌ی درخواست‌نویسی برای هوش مصنوعی به‌کار می‌برد.
+- [[creativity-inc]] — چهار رابطه‌ی مشخص شناسایی شد:
+  - **بسط:** [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] و [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]] اصل [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] را به سطح سازمانی می‌برند.
+  - **بسط:** [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را به برنامه‌ریزی سازمانی بسط می‌دهد.
+  - **تقابل آموزنده:** [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] در برابر [[taking-responsibility-must-precede-judging-the-world]] — تفاوت سطح تحلیل (تیم در برابر فرد)، نه تناقض.
 
 ## Agreements, Extensions & Contradictions
 
 - با [[atomic-habits]]: دو رابطه‌ی بسط (Extension) و یک شرط مرزی (Boundary Condition) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[personal-responsibility]] و [[habit-formation]] مستند شده است.
 - با [[boundaries]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در بخش «Related Books» بالا و در صفحه‌ی موضوع [[boundaries-and-ownership]] مستند شده است.
 - با [[building-your-money-machine-with-chatgpt]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[order-and-chaos]] مستند شده است.
+- با [[creativity-inc]]: دو رابطه‌ی بسط (Extension) و یک تقابل آموزنده (تفاوت سطح تحلیل، نه تناقض) شناسایی شد. جزئیات در صفحات موضوع [[honest-communication]]، [[order-and-chaos]] و [[personal-responsibility]] مستند شده است.
 
 ## Translation
 

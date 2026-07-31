@@ -65,3 +65,21 @@ Created `wiki/` subdirectories (`sources`, `translations`, `books`, `zettels`, `
 - **Contradictions:** none found.
 - **Review flags:** Author and original-title subtitle are unspecified in the raw source and marked as such rather than guessed (author inferred directly from explicit title text only). Note this source is inherently time-bound to ChatGPT's capabilities at time of writing.
 - **Index:** `index.md` updated with all new pages.
+
+## [2026-07-31] ingest | Creativity, Inc. by Ed Catmull with Amy Wallace
+
+- **Source:** `raw/Creativity, Inc. by Ed Catmull with Amy Wallace.md` (Blinkist summary), sha256:fb28ecbfd45694b750eb43e3aaceedc62cae9854d19fc7ce27b80171fa71b900
+- **Created:** [[2026-07-31-creativity-inc-blinkist]] (source page), [[creativity-inc-fa]] (full Persian translation), [[creativity-inc]] (book hub)
+- **Zettels created (10):** [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]], [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]], [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]], [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]], [[a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals]], [[a-great-team-matters-more-than-a-great-idea]], [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]], [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]], [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]], [[physical-workspace-design-shapes-creative-participation]]
+- **Topics created (1):** [[psychological-safety-and-creative-culture]]
+- **Existing zettels enriched (cross-book Connections added):** [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]], [[suppressing-natural-risk-taking-harms-more-than-it-protects]], [[taking-responsibility-must-precede-judging-the-world]] (all from [[12-rules-for-life]]); [[boundaries-mean-being-responsible-to-others-not-for-them]] (from [[boundaries]])
+- **Existing topics enriched:** [[honest-communication]], [[order-and-chaos]], [[personal-responsibility]], [[boundaries-and-ownership]] (Books/Relationships/Related Topics/Sources updated)
+- **Existing book pages enriched:** [[12-rules-for-life]], [[boundaries]] (Related Books, Agreements/Extensions/Contradictions sections updated)
+- **Cross-book relationships added (4):**
+  1. Extension — [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] and [[confirmation-bias-makes-leaders-favor-agreement-over-better-ideas]] take Peterson's interpersonal "listen to learn" principle ([[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]]) to organizational scale.
+  2. Extension — [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] takes [[suppressing-natural-risk-taking-harms-more-than-it-protects]] from personal risk-taking to organizational planning.
+  3. Application — [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] applies [[boundaries-mean-being-responsible-to-others-not-for-them]] to management: micromanaging is the same over-responsibility error as solving a problem "for" someone instead of "being responsible to" them.
+  4. Instructive contrast (difference in level of analysis, not a contradiction) — [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] vs. [[taking-responsibility-must-precede-judging-the-world]]: individual responsibility governs personal life, while healthy team culture requires distributing responsibility for failure across the team to avoid paralyzing blame.
+- **Contradictions:** none found.
+- **Review flags:** Authors and original-title subtitle are unspecified in the raw source and marked as such rather than guessed (authors inferred directly from explicit title text only). Examples are drawn almost entirely from one company's (Pixar's) internal account under one leader's telling; noted in the source page's Limitations section.
+- **Index:** `index.md` updated with all new pages.

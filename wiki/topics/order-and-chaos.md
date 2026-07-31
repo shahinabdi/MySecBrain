@@ -3,7 +3,7 @@ type: topic
 title: نظم و آشوب
 status: active
 tags: [نظم, آشوب, معنا, ریسک‌پذیری]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-building-your-money-machine-with-chatgpt-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-building-your-money-machine-with-chatgpt-blinkist, 2026-07-31-creativity-inc-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -22,12 +22,14 @@ updated: 2026-07-31
 
 - [[12-rules-for-life]] — نظم و آشوب چارچوب مرکزی و تکرارشونده‌ی کل کتاب پیترسون است؛ تقریباً هر قانون از این دوگانه به‌نوعی سرچشمه می‌گیرد.
 - [[building-your-money-machine-with-chatgpt]] — ایده‌ی «دقت ورودی» این کتاب کاربردی مستقیم از اصل «زبان دقیق آشوب را به نظم تبدیل می‌کند» در حوزه‌ی درخواست‌نویسی برای هوش مصنوعی است.
+- [[creativity-inc]] — ایده‌ی «برنامه‌ی سفت‌وسخت فرصت را می‌کشد» این کتاب بسط اصل تعادل نظم/آشوب به سطح برنامه‌ریزی سازمانی است.
 
 ## Relationships
 
 - درون کتاب پیترسون، نظم افراطی (سرکوب ریسک) و آشوب پذیرفته‌شده (رنج به‌عنوان بخش لازم معنا) دو روی یک سکه‌اند: هر دو زتل نشان می‌دهند که هدف، حذف یکی از دو قطب نیست، بلکه مدیریت هوشمندانه‌ی مرز میان آن‌هاست.
 - زبان دقیق نقطه‌ی تلاقی این موضوع با [[honest-communication]] است: دقت کلامی هم ابزار بازگرداندن نظم به آشوب است و هم شکلی از صداقت.
 - **کاربرد (Application):** [[feeding-ai-specific-context-turns-generic-output-into-tailored-output]] از [[building-your-money-machine-with-chatgpt]] نشان می‌دهد همین اصل — دقت ورودی، نظمِ خروجی را تعیین می‌کند — به حوزه‌ای کاملاً متفاوت (تعامل انسان-هوش‌مصنوعی) نیز تعمیم‌پذیر است.
+- **بسط (Extension):** [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]] از [[creativity-inc]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را از سطح فردی به سطح برنامه‌ریزی سازمانی می‌برد.
 
 ## Contradictions
 
@@ -43,8 +45,10 @@ updated: 2026-07-31
 - [[personal-responsibility]] — هر دو حول محور اداره‌ی آگاهانه‌ی زندگی در برابر واکنش منفعلانه‌اند.
 - [[honest-communication]] — از طریق زتل مشترک [[precise-language-converts-chaotic-complexity-into-solvable-order]] به هم متصل‌اند.
 - [[ai-as-tool-not-replacement]] — از طریق کاربرد اصل دقت زبانی در درخواست‌نویسی برای هوش مصنوعی.
+- [[psychological-safety-and-creative-culture]] — از طریق بسط اصل تعادل نظم/آشوب به برنامه‌ریزی سازمانی.
 
 ## Sources
 
 - [[2026-07-31-12-rules-for-life-blinkist]]
 - [[2026-07-31-building-your-money-machine-with-chatgpt-blinkist]]
+- [[2026-07-31-creativity-inc-blinkist]]

@@ -55,10 +55,12 @@ updated: 2026-07-31
   - **بسط:** [[boundaries-mean-being-responsible-to-others-not-for-them]] مکانیزم مشخصی برای [[self-care-requires-the-same-care-given-to-a-loved-one]] فراهم می‌کند.
 - [[atomic-habits]] — یک رابطه‌ی شرط مرزی/تقابل آموزنده:
   - [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] در برابر [[habit-contracts-with-social-stakes-increase-follow-through]]: هر دو از اهمیت‌دادن به نظر دیگران استفاده می‌کنند، اما یکی سالم (انتخاب آزاد، احترام متقابل) و دیگری ناسالم (ترس و گناه تحمیلی) است.
+- [[creativity-inc]] — یک رابطه‌ی کاربرد (Application):
+  - **کاربرد:** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را در مدیریت به‌کار می‌برد: ریزمدیریت همان خطای «مسئول به‌جای دیگری بودن» است که در روابط شخصی نیز آسیب می‌زند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]] و یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، و یک رابطه‌ی کاربرد با [[creativity-inc]] مستند شد.
 
 ## Translation
 
