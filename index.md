@@ -21,6 +21,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-the-5-types-of-wealth-blinkist]] — Blinkist summary of *The 5 Types of Wealth* by Sahil Bloom.
 - [[2026-07-31-the-algorithm-blinkist]] — Blinkist summary of *The Algorithm* by Jon McNeill.
 - [[2026-07-31-the-art-of-spending-money-blinkist]] — Blinkist summary of *The Art of Spending Money* by Morgan Housel.
+- [[2026-07-31-the-cost-of-quiet-blinkist]] — Blinkist summary of *The Cost of Quiet* by Colette Jane Fehr.
 
 ## Translations
 
@@ -41,6 +42,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-5-types-of-wealth-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پنج نوع ثروت».
 - [[the-algorithm-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «الگوریتم».
 - [[the-art-of-spending-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هنر خرج‌کردن پول».
+- [[the-cost-of-quiet-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هزینه‌ی سکوت».
 
 ## Books
 
@@ -61,6 +63,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-5-types-of-wealth]] — صفحه‌ی مرکزی کتاب «پنج نوع ثروت» اثر سهیل بلوم.
 - [[the-algorithm]] — صفحه‌ی مرکزی کتاب «الگوریتم» اثر جان مک‌نیل.
 - [[the-art-of-spending-money]] — صفحه‌ی مرکزی کتاب «هنر خرج‌کردن پول» اثر مورگان هاوسل.
+- [[the-cost-of-quiet]] — صفحه‌ی مرکزی کتاب «هزینه‌ی سکوت» اثر کولت جین فر.
 
 ## Zettels
 
@@ -229,12 +232,21 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] — خوشبختی از شکاف میان انتظار و واقعیت می‌آید؛ رفتار با لوکس‌ها به‌عنوان تفریحی نادر، قدرتشان را حفظ می‌کند.
 - [[discovering-your-spending-style-requires-a-wide-funnel-and-a-tight-filter-of-experimentation]] — کشف سبک خرج‌کردنِ شادکننده‌ی خودتان، نیازمند «قیف پهن و فیلتر تنگ» آزمایش است.
 - [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] — هرچه خوش‌شانس‌تر باشید، بیشتر بدهکار فروتنی و مهربانی نسبت به دیگران‌اید.
+- [[silence-that-feels-protective-in-the-moment-erodes-connection-over-time]] — سکوتی که در لحظه محافظت‌کننده احساس می‌شود، در طول زمان صمیمیت را فرسایش می‌دهد.
+- [[recurring-small-fights-are-often-driven-by-deeper-attachment-fears-not-the-surface-issue]] — دعواهای کوچک تکرارشونده اغلب از ترس‌های عمیق‌تر دلبستگی می‌آیند، نه از موضوع سطحی‌شان.
+- [[self-connected-communication-requires-turning-toward-your-own-experience-before-speaking]] — ارتباط خودمتصل نیازمند روی‌آوردن به تجربه‌ی درونی خودتان است، پیش از سخن‌گفتن.
+- [[catching-the-negative-partner-story-before-treating-it-as-fact]] — پیش از باورکردن «داستان منفی درباره‌ی شریک زندگی»، آن را به‌عنوان یک تفسیر بگیرید، نه واقعیت.
+- [[preparing-a-hard-conversation-in-writing-turns-a-charged-reaction-into-a-hearable-message]] — آماده‌سازی یک مکالمه‌ی دشوار روی کاغذ، واکنشی شارژشده را به پیامی قابل‌شنیدن تبدیل می‌کند.
+- [[naming-your-inner-state-before-your-partner-has-to-guess-reduces-misreading]] — نام‌بردن حالت درونی‌تان پیش از آنکه شریک زندگی مجبور شود حدس بزند، بدفهمی را کاهش می‌دهد.
+- [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] — بیان یک مرز از دنبال‌کردن سه گام می‌آید: توجه به تأثیر رفتار، شناسایی نیاز، و اعلام پیامد.
+- [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] — واکنش منفی شریک زندگی به صداقت شما، اطلاعاتی درباره‌ی خودِ اوست، نه اثباتی بر نادرستی نیازهای شما.
+- [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] — صداقت وقتی در لحظات کوچک روزانه تمرین شود، از عملی نادر از شجاعت به عادت تبدیل می‌شود.
 
 ## Topics
 
 - [[order-and-chaos]] — نقشه‌ی موضوعی تعادل میان نظم و آشوب در انتخاب‌های فردی.
 - [[personal-responsibility]] — نقشه‌ی موضوعی مسئولیت‌پذیری فردی پیش از قضاوت بیرونی.
-- [[honest-communication]] — نقشه‌ی موضوعی صداقت با خود و در گفتگو به‌عنوان پیش‌نیاز حل مسئله.
+- [[honest-communication]] — نقشه‌ی موضوعی صداقت با خود و در گفتگو (ازجمله روابط عاشقانه) به‌عنوان پیش‌نیاز حل مسئله و صمیمیت.
 - [[habit-formation]] — نقشه‌ی موضوعی مکانیزم شکل‌گیری عادت و تکنیک‌های مهندسی رفتار.
 - [[boundaries-and-ownership]] — نقشه‌ی موضوعی مرزگذاری روانی و مالکیت مسئولیت در روابط.
 - [[ai-as-tool-not-replacement]] — نقشه‌ی موضوعی استفاده‌ی مسئولانه از هوش مصنوعی به‌عنوان ابزار مکمل انسان.

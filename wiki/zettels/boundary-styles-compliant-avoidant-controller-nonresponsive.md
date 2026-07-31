@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - زیرمجموعه‌ی [[boundaries-mean-being-responsible-to-others-not-for-them]]: هر چهار سبک، انحرافی از تعادل «مسئول در برابر / نه به‌جای» هستند.
 - مکمل [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]]: توضیح می‌دهد چرا رابطه با سبک «کنترل‌گر» جذاب اما ناسالم است.
+- **موافقت (Agreement):** [[silence-that-feels-protective-in-the-moment-erodes-connection-over-time]] از [[the-cost-of-quiet]]: فر مستقل از کلود و تاونسند طبقه‌بندی مشابهی از اشکال اجتناب رابطه‌ای (رضایت‌دادن، بیش‌عملکردی، بی‌تفاوتی، کنایه) ارائه می‌دهد که هم‌پوشانی چشمگیری با این چهار سبک دارد — دو چارچوب مستقل به یک الگوی زیربنایی مشترک رسیده‌اند.
 
 ## Sources
 

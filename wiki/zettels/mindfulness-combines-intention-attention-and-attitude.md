@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - زیربنای عملی برای [[a-short-daily-meditation-practice-compounds-over-time]].
+- **کاربردی شده در (Application)** [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] از [[the-cost-of-quiet]]: فر همین چارچوب سه‌جزئی را مشخصاً در خدمت تمرین صداقت رابطه‌ای به‌کار می‌برد — بازگشت مکرر توجه به تجربه‌ی درونی، پیش‌نیاز گرفتن الگوهای اجتناب‌گر پیش از آنکه ناخودآگاه اجرا شوند.
 
 ## Sources
 

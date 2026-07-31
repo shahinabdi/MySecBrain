@@ -48,6 +48,7 @@ updated: 2026-07-31
 - [[boundaries-and-ownership]]
 - [[personal-responsibility]] (از طریق بسط ایده‌ی مراقبت از خود)
 - [[power-dynamics-and-strategic-positioning]] (از طریق شرط مرزی بر تاکتیک اغوا/کمیابی گرین)
+- [[honest-communication]] (از طریق سه رابطه با [[the-cost-of-quiet]])
 
 ## Related Books
 
@@ -68,10 +69,14 @@ updated: 2026-07-31
   - **بسط:** [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] اصل [[forgiving-a-boundary-violation-does-not-require-continued-contact]] را یک قدم فراتر می‌برد — خودِ بخشش هم برای بهبودی الزامی نیست.
 - [[the-48-laws-of-power]] — یک رابطه‌ی شرط مرزی شناسایی شد:
   - **شرط مرزی:** [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] بر [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] گرین مرز اخلاقی می‌گذارد — همان نوسانِ ترس/مهربانی که گرین به‌عنوان تاکتیک مؤثر توصیف می‌کند، از منظر هدفِ آن الگویی خطرناک است که باید در برابرش مرز گذاشت.
+- [[the-cost-of-quiet]] — سه رابطه شناسایی شد:
+  - **موافقت:** [[silence-that-feels-protective-in-the-moment-erodes-connection-over-time]] مستقل از [[boundary-styles-compliant-avoidant-controller-nonresponsive]] به یک الگوی زیربنایی مشترک رسیده — دو چارچوب مستقل برای اشکال اجتناب رابطه‌ای.
+  - **بسط:** [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] فرمول عملیاتیِ سه‌گامی برای بیان [[boundaries-mean-being-responsible-to-others-not-for-them]] فراهم می‌کند.
+  - **بسط:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] بر نتیجه‌گیری نسبتاً قاطع [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] مسیر میانه‌ی ظریف‌تری اضافه می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، و یک شرط مرزی با [[the-48-laws-of-power]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، و سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]] مستند شد.
 
 ## Translation
 

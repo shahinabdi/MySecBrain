@@ -51,6 +51,7 @@ updated: 2026-07-31
 - [[honest-communication]] (از طریق بعد همدلانه‌ی گوش‌دادن)
 - [[boundaries-and-ownership]] (از طریق مکانیزم عصبی پاسخ‌دادن)
 - [[psychological-safety-and-creative-culture]] (از طریق مکانیزم هیجانی بازخورد)
+- [[honest-communication]] (از طریق دو بسط با [[the-cost-of-quiet]])
 
 ## Related Books
 
@@ -80,10 +81,13 @@ updated: 2026-07-31
   - **بسط:** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] نمونه‌ی مشخصی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] را با جزئیات عصبی و رفتاری شرح می‌دهد.
   - **بسط:** [[anxiety-loops-mistake-repetitive-worry-for-control]] مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] نام می‌گذارد.
   - **غنی‌سازی:** «تمرین شاهدبودن» چیدیاک نکته‌ای زبانی به [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] می‌افزاید.
+- [[the-cost-of-quiet]] — دو رابطه‌ی بسط:
+  - **بسط:** [[recurring-small-fights-are-often-driven-by-deeper-attachment-fears-not-the-surface-issue]] مکانیزم مشخص و رابطه‌محوری برای [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] فراهم می‌کند.
+  - **بسط:** [[self-connected-communication-requires-turning-toward-your-own-experience-before-speaking]] اصل [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] را به یک تمرین چندمرحله‌ای رابطه‌محور تبدیل می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. با [[stop-letting-everything-affect-you]]: دو بسط و یک غنی‌سازی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
+بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. با [[stop-letting-everything-affect-you]]: دو بسط و یک غنی‌سازی. با [[the-cost-of-quiet]]: دو بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[emotional-intelligence-and-self-regulation]] و [[honest-communication]] مستند شده است.
 
 ## Translation
 

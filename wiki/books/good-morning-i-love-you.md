@@ -46,6 +46,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]] (از طریق موافقت و بسط در نام‌گذاری و زمان‌بندی احساس)
 - [[personal-responsibility]] (از طریق موافقت در اصل مراقبت از خود)
 - [[wealth-beyond-money]] (از طریق بسط با [[the-5-types-of-wealth]] در حوزه‌ی کنجکاوی)
+- [[honest-communication]] (از طریق کاربرد چارچوب ذهن‌آگاهی با [[the-cost-of-quiet]])
 
 ## Related Books
 
@@ -64,10 +65,12 @@ updated: 2026-07-31
   - **شرط مرزی:** [[temporarily-shifting-attention-away-from-distress-can-be-a-healthy-emotional-immune-response]] بر [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] شرط می‌گذارد — دورشدن موقت و آگاهانه از یک احساس با سرکوب مزمن و ناخودآگاه آن یکی نیست.
 - [[the-5-types-of-wealth]] — یک رابطه‌ی بسط:
   - **بسط:** [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] کنجکاویِ آگاهانه را نمونه‌ی مشخصی از [[what-you-practice-grows-stronger-through-neuroplasticity]] معرفی می‌کند — تمرینِ پرسیدنِ «چرا» ذهن را در حوزه‌ی رشد شناختی تیز نگه می‌دارد.
+- [[the-cost-of-quiet]] — یک رابطه‌ی کاربرد:
+  - **کاربرد:** [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] چارچوب [[mindfulness-combines-intention-attention-and-attitude]] را مشخصاً در خدمت تمرین صداقت رابطه‌ای به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. با [[the-5-types-of-wealth]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[mindfulness-and-self-compassion]] و [[wealth-beyond-money]] مستند شده است.
+بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. با [[the-5-types-of-wealth]]: یک بسط. با [[the-cost-of-quiet]]: یک کاربرد. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[honest-communication]] مستند شده است.
 
 ## Translation
 

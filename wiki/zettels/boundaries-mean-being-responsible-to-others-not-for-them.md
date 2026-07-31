@@ -29,6 +29,7 @@ updated: 2026-07-31
 - **کاربرد یافته در حوزه‌ی مدیریت توسط** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] از کتاب [[creativity-inc]]: کتمول همین تمایز را در بافت سازمانی به‌کار می‌برد — مدیری که تصمیم تخصصی کارمند را برایش می‌گیرد (ریزمدیریت)، همان خطای «مسئول به‌جای دیگری بودن» را مرتکب می‌شود که در روابط شخصی نیز آسیب می‌زند.
 - **بسط‌یافته توسط** [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] از کتاب [[how-a-little-becomes-a-lot]]: کلود/تاونسند این مرز را در بافت روابط بین‌فردی ترسیم می‌کنند؛ زیمر همان اصل تمرکز-بر-قابل‌کنترل را از روابط به کل حوزه‌های زندگی (سیاست، اخبار، آب‌وهوا) بسط می‌دهد.
 - **بسط‌یافته توسط** [[guilt-after-enforcing-a-boundary-is-a-withdrawal-symptom-not-proof-of-selfishness]] از کتاب [[stop-letting-everything-affect-you]]: کلود/تاونسند تمایز مفهومی «مسئول در برابر / نه به‌جای» را بنا می‌کنند؛ چیدیاک مکانیزم دقیق مقاومت درونی در برابر اجرای آن را ارائه می‌دهد — گناه، واکنشی فیزیولوژیک به ترک یک الگوی آموخته‌شده است، نه اثبات خودخواهی.
+- **بسط‌یافته توسط (Extension)** [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] از کتاب [[the-cost-of-quiet]]: فر فرمول عملیاتیِ سه‌گامی برای *چگونگیِ* بیان این مرز در یک لحظه‌ی مشخص فراهم می‌کند — توجه به تأثیر، شناسایی نیاز، اعلام پیامد.
 
 ## Sources
 

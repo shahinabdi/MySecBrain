@@ -48,6 +48,7 @@ updated: 2026-07-31
 - [[honest-communication]]
 - [[power-dynamics-and-strategic-positioning]] (از طریق بسط اصل وضعیت‌بدنی/جایگاه با [[the-48-laws-of-power]])
 - [[wealth-beyond-money]] (از طریق دو بسط با [[the-5-types-of-wealth]] و یک بسط با [[the-art-of-spending-money]])
+- [[honest-communication]] (از طریق کاربرد اصل زبان دقیق با [[the-cost-of-quiet]])
 
 ## Related Books
 
@@ -87,6 +88,8 @@ updated: 2026-07-31
   - **بسط:** [[identifying-your-front-row-people-reveals-who-deep-relationships-should-center-on]] تکنیکی مشخص (تمرین تجسم ردیف اول) برای اجرای [[supportive-friends-enable-improvement-toxic-ones-entrench-decline]] فراهم می‌کند.
 - [[the-art-of-spending-money]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] مکانیزم دقیق‌تری برای [[celebrating-small-joys-amid-suffering-sustains-meaning]] ارائه می‌دهد — شکاف میان انتظار و واقعیت، نه صرفاً وجود رنج.
+- [[the-cost-of-quiet]] — یک رابطه‌ی کاربرد شناسایی شد:
+  - **کاربرد:** [[preparing-a-hard-conversation-in-writing-turns-a-charged-reaction-into-a-hearable-message]] اصل [[precise-language-converts-chaotic-complexity-into-solvable-order]] را در بحرانی‌ترین نوع گفتگو — مکالمه‌ی احساسی با شریک زندگی — به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
@@ -104,6 +107,7 @@ updated: 2026-07-31
 - با [[the-48-laws-of-power]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[power-dynamics-and-strategic-positioning]] مستند شده است.
 - با [[the-5-types-of-wealth]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[wealth-beyond-money]] مستند شده است.
 - با [[the-art-of-spending-money]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[wealth-beyond-money]] مستند شده است.
+- با [[the-cost-of-quiet]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[honest-communication]] مستند شده است.
 
 ## Translation
 

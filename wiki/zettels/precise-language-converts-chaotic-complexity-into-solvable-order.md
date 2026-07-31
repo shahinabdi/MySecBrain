@@ -27,6 +27,7 @@ updated: 2026-07-31
 - به‌عنوان تنها زتلی که هم به [[order-and-chaos]] (نظم در برابر آشوب) و هم به [[honest-communication]] (صداقت کلامی) تعلق دارد، پل ارتباطی میان این دو موضوع است: زبان دقیق ابزاری است که آشوب را به نظم قابل‌مدیریت تبدیل می‌کند.
 - در کنار [[self-deception-through-life-lies-derails-real-goals]] و [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] در خوشه‌ی [[honest-communication]].
 - **کاربرد یافته در حوزه‌ای جدید توسط** [[feeding-ai-specific-context-turns-generic-output-into-tailored-output]] از کتاب [[building-your-money-machine-with-chatgpt]]: همین اصل — دقت ورودی نظم خروجی را تعیین می‌کند — در بافت درخواست‌نویسی برای هوش مصنوعی به‌کار رفته است.
+- **کاربرد یافته در حوزه‌ای جدید توسط (Application)** [[preparing-a-hard-conversation-in-writing-turns-a-charged-reaction-into-a-hearable-message]] از کتاب [[the-cost-of-quiet]]: فر همین اصل را در بحرانی‌ترین نوع گفتگو — مکالمه‌ی احساسی با شریک زندگی — با فرمول نوشتاری پنج‌جزئی (محرک، واکنش بدنی، احساس، داستان ذهنی، میل اجتناب‌گر) عملیاتی می‌کند.
 
 ## Sources
 

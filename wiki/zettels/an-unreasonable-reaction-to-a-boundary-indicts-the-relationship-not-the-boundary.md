@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - بخشی از خوشه‌ی افسانه‌های مرزی در کنار [[anger-at-boundary-setting-often-signals-previously-violated-boundaries]] و [[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]].
+- **بسط‌شده توسط (Extension)** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] از [[the-cost-of-quiet]]: این کتاب نتیجه‌گیری نسبتاً قاطعی دارد (اگر رابطه با مرز دوام نیاورد، ارزش نگه‌داشتن ندارد)؛ فر مسیر میانه‌ی ظریف‌تری اضافه می‌کند — به‌جای گزینه‌ی دوگانه‌ی افشای کامل یا ترک رابطه، میزان آسیب‌پذیری را می‌توان متناسب با آنچه رابطه واقعاً نشان می‌دهد می‌تواند دریافت کند، تدریجاً تنظیم کرد.
 
 ## Sources
 

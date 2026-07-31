@@ -52,6 +52,7 @@ updated: 2026-07-31
 - [[mindfulness-and-self-compassion]] (بسط در پذیرش رنج و شفقت به خود)
 - [[personal-responsibility]] (بسط در تمایز خواسته/ارزش و تمرکز بر قابل‌کنترل)
 - [[wealth-beyond-money]] (از طریق کاربرد واقع‌گرایی ساده‌لوحانه در قضاوت مالی با [[the-art-of-spending-money]])
+- [[honest-communication]] (از طریق موافقت با [[the-cost-of-quiet]] در فاصله‌گذاری از یک روایت درونی مزاحم)
 
 ## Related Books
 
@@ -81,10 +82,12 @@ updated: 2026-07-31
   - **بسط:** [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] لایه‌ی انگیزشی «تضاد ذهنی» را پیش از [[if-then-contingency-plans-protect-habits-from-disruption]] اضافه می‌کند.
 - [[the-art-of-spending-money]] — یک رابطه‌ی کاربرد:
   - **کاربرد:** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] اصل [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] را در حوزه‌ی مشخصِ قضاوت مالی به‌کار می‌برد.
+- [[the-cost-of-quiet]] — یک رابطه‌ی موافقت:
+  - **موافقت:** [[catching-the-negative-partner-story-before-treating-it-as-fact]] مستقل از [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] به مکانیزمی مشابه رسیده — نامگذاری یک روایت درونی مزاحم به‌عنوان چیزی جدا از واقعیت، فاصله‌ای می‌سازد که مانع اطاعت خودکار می‌شود.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). با [[the-cost-of-quiet]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 

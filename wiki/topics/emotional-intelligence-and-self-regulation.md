@@ -36,6 +36,7 @@ updated: 2026-07-31
 - [[how-to-enjoy-your-life-and-your-job]] — دو رابطه‌ی بسط شناسایی شد.
 - [[shift]] — شش زتل درباره‌ی ابزارهای شیفت‌دادن هیجانی به این موضوع افزوده شد؛ یک رابطه‌ی بسط مستقیم با [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] شناسایی شد.
 - [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط و یک غنی‌سازی زبانی شناسایی شد.
+- [[the-cost-of-quiet]] — دو رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -55,6 +56,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[moods-spread-between-people-through-emotional-contagion]] از [[shift]] پدیده‌ی خودکار زیربنایی [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] را توصیف می‌کند.
 - **بسط (Extension):** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] از [[stop-letting-everything-affect-you]] نمونه‌ی مشخصی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] را با جزئیات عصبی و رفتاری شرح می‌دهد.
 - **بسط (Extension):** [[anxiety-loops-mistake-repetitive-worry-for-control]] از همان کتاب مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] نام می‌گذارد.
+- **بسط (Extension):** [[recurring-small-fights-are-often-driven-by-deeper-attachment-fears-not-the-surface-issue]] از [[the-cost-of-quiet]] مکانیزم مشخص و رابطه‌محوری برای [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] فراهم می‌کند.
+- **بسط (Extension):** [[self-connected-communication-requires-turning-toward-your-own-experience-before-speaking]] از [[the-cost-of-quiet]] اصل [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] را به یک تمرین چندمرحله‌ای رابطه‌محور تبدیل می‌کند.
 
 ## Contradictions
 
@@ -77,6 +80,7 @@ updated: 2026-07-31
 - [[mindfulness-and-self-compassion]] — از طریق شرط مرزی بر توصیه‌ی «سرکوب‌نکردن احساسات» با [[shift]].
 - [[personal-responsibility]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم اضطراب و طرد با [[stop-letting-everything-affect-you]].
+- [[honest-communication]] — از طریق دو بسط با [[the-cost-of-quiet]] که این موضوع را به تمرین‌های رابطه‌محور بسط می‌دهند.
 
 ## Sources
 
@@ -87,3 +91,4 @@ updated: 2026-07-31
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-shift-blinkist]]
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
+- [[2026-07-31-the-cost-of-quiet-blinkist]]

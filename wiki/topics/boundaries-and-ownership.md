@@ -33,6 +33,7 @@ updated: 2026-07-31
 - [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت شناسایی شد (نگاه کنید به بخش روابط).
 - [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط شناسایی شد.
 - [[the-48-laws-of-power]] — یک رابطه‌ی شرط مرزی شناسایی شد.
+- [[the-cost-of-quiet]] — دو رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -45,6 +46,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[guilt-after-enforcing-a-boundary-is-a-withdrawal-symptom-not-proof-of-selfishness]] از [[stop-letting-everything-affect-you]] مکانیزم فیزیولوژیک مقاومت درونی در برابر [[boundaries-mean-being-responsible-to-others-not-for-them]] را فراهم می‌کند.
 - **بسط (Extension):** [[forgiveness-is-not-mandatory-for-healing-and-moving-forward]] از همان کتاب اصل [[forgiving-a-boundary-violation-does-not-require-continued-contact]] را یک قدم فراتر می‌برد — خودِ بخشش هم برای بهبودی الزامی نیست.
 - **شرط مرزی (Boundary Condition):** [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] بر [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] از [[the-48-laws-of-power]] مرز اخلاقی می‌گذارد — همان نوسانِ ترس/مهربانی که گرین تاکتیکی مؤثر برای کسب قدرت می‌داند، از منظر هدفِ آن الگویی خطرناک و اعتیادآور است که باید در برابرش مرز گذاشت.
+- **بسط (Extension):** [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] از [[the-cost-of-quiet]] فرمول عملیاتیِ سه‌گامی برای بیان [[boundaries-mean-being-responsible-to-others-not-for-them]] فراهم می‌کند.
+- **بسط (Extension):** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] از [[the-cost-of-quiet]] بر نتیجه‌گیری نسبتاً قاطع [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] مسیر میانه‌ی ظریف‌تری اضافه می‌کند — تنظیم تدریجی آسیب‌پذیری متناسب با آنچه رابطه نشان می‌دهد می‌تواند دریافت کند.
 
 ## Contradictions
 
@@ -63,6 +66,7 @@ updated: 2026-07-31
 - [[personal-responsibility]] — از طریق بسط اصل تمرکز-بر-قابل‌کنترل با [[how-a-little-becomes-a-lot]].
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم گناه و بخشش با [[stop-letting-everything-affect-you]].
 - [[power-dynamics-and-strategic-positioning]] — از طریق شرط مرزی بر تاکتیک اغوا/کمیابی گرین.
+- [[honest-communication]] — از طریق دو بسط با [[the-cost-of-quiet]] درباره‌ی بیان مرز و تفسیر واکنش دیگری.
 
 ## Sources
 
@@ -72,3 +76,4 @@ updated: 2026-07-31
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
 - [[2026-07-31-the-48-laws-of-power-blinkist]]
+- [[2026-07-31-the-cost-of-quiet-blinkist]]
