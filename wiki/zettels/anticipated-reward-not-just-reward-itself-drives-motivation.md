@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - زیرمجموعه‌ی چارچوب کلی [[habits-form-through-a-cue-craving-response-reward-loop]]، مربوط به جزء «میل».
 - پایه‌ی مکانیزمی برای [[temptation-bundling-pairs-unappealing-habits-with-enjoyable-ones]]: بسته‌بندی وسوسه دقیقاً از همین اصل (پیش‌بینی لذت، نه فقط لذت واقعی) استفاده می‌کند.
+- **بسط‌یافته توسط** [[action-precedes-and-generates-motivation-not-the-other-way-around]] از کتاب [[how-a-little-becomes-a-lot]]: کلییر مکانیزم پیش‌نگر انگیزه (پیش‌بینی پاداش آینده) را توضیح می‌دهد؛ زیمر مکانیزم مکمل و پس‌نگری اضافه می‌کند — خودِ عمل انجام‌شده، حتی بدون پاداش پیش‌بینی‌شده، از طریق ساختن اعتمادبه‌نفس نیز انگیزه تولید می‌کند.
 
 ## Sources
 

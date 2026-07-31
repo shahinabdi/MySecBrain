@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[a-great-team-matters-more-than-a-great-idea]] — از [[creativity-inc]]: هر دو ایده جاه‌طلبی سازمانی را در تیم/سازمان محور می‌کنند، نه در فرد؛ فروتنی رهبر سطح ۵ دقیقاً همان چیزی است که اجازه می‌دهد تیم — نه شخص رهبر — محور موفقیت تلقی شود.
 - [[leaders-who-fail-to-build-succession-plans-leave-fragile-legacies]] — همین کتاب: فقدان فروتنی اغلب با فقدان برنامه‌ریزی جانشینی همراه است.
+- **موافقت (Agreement) با** [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] از کتاب [[how-to-enjoy-your-life-and-your-job]]: کارنگی مستقل از کالینز به همین نتیجه رسیده — هدایت اعتبار و قدردانی به‌سوی دیگران (نه خود) اهرم مؤثرتری برای انگیزش و وفاداری است تا جلب‌توجه به خود.
 
 ## Sources
 

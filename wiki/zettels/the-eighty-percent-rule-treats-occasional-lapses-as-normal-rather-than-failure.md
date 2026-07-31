@@ -24,8 +24,8 @@ updated: 2026-07-31
 
 ## Connections
 
-- [[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]] — از [[boundaries]]: هر دو ایده نشان می‌دهند شکست یا لغزش تنها زمانی دائمی می‌شود که فرد آگاهانه آن را چنین تفسیر کند.
-- [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] — از [[emotional-intelligence]]: هر دو بر تبیین لغزش به‌عنوان امری موقت (نه دائمی) برای حفظ انگیزه تأکید دارند؛ این ایده یک قاعده‌ی عددی مشخص (۸۰٪) برای عملیاتی‌کردن آن اصل ارائه می‌دهد.
+- [[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]] — **موافقت (Agreement):** از [[boundaries]]: کلود/تاونسند و زیمر، از دو حوزه‌ی متفاوت (مرزگذاری رابطه‌ای در برابر ساخت عادت)، مستقل از هم به همان اصل رسیده‌اند — یک شکست یا لغزش تنها زمانی دائمی می‌شود که فرد آگاهانه آن را چنین تفسیر کند.
+- مرتبط با [[the-three-ps-framework-questions-whether-a-setback-is-permanent-personal-and-pervasive]] از همین کتاب که همین اصل «دائمی‌نبودن لغزش» را در چارچوبی گسترده‌تر برای هر نوع ناکامی به‌کار می‌برد.
 
 ## Sources
 

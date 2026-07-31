@@ -60,10 +60,12 @@ updated: 2026-07-31
   - **بسط:** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] اصل [[taking-responsibility-must-precede-judging-the-world]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد.
 - [[emotional-intelligence]] — یک رابطه‌ی شرط مرزی شناسایی شد:
   - **شرط مرزی:** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] شرط می‌گذارد که خوش‌بینی سازنده باید با مواجهه‌ی کامل با واقعیت همراه باشد.
+- [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی موافقت شناسایی شد:
+  - **موافقت:** [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] به این نتیجه رسیده که هدایت قدردانی به‌سوی دیگران اهرم مؤثرتری برای انگیزش است.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
+بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
 
 ## Translation
 

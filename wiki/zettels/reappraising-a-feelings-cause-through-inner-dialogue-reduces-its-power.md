@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - کاربرد مستقیم [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]].
+- **بسط‌یافته توسط** [[reframing-i-dont-want-to-as-i-want-to-but-dont-feel-like-it-soothes-resistance-without-abandoning-the-goal]] از کتاب [[how-a-little-becomes-a-lot]]: این ایده بر یافتن تفسیر جایگزین برای *علت* احساس تمرکز دارد؛ زیمر تکنیک مکملی اضافه می‌کند — بازتفسیر خودِ *بیان* مقاومت («نمی‌خواهم» به «می‌خواهم اما حسش را ندارم»).
 
 ## Sources
 

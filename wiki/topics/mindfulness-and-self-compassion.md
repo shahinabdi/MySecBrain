@@ -3,7 +3,7 @@ type: topic
 title: ذهن‌آگاهی و شفقت به خود
 status: active
 tags: [ذهن‌آگاهی, شفقت-به-خود, عصب‌شناسی]
-sources: [2026-07-31-good-morning-i-love-you-blinkist]
+sources: [2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -27,6 +27,7 @@ updated: 2026-07-31
 - [[atomic-habits]] — دو رابطه (یک بسط، یک موافقت) شناسایی شد.
 - [[emotional-intelligence]] — دو رابطه (یک موافقت، یک بسط) شناسایی شد.
 - [[12-rules-for-life]] — یک رابطه‌ی موافقت شناسایی شد.
+- [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت شناسایی شد.
 
 ## Relationships
 
@@ -35,6 +36,8 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] مستقل از [[self-care-requires-the-same-care-given-to-a-loved-one]] از [[12-rules-for-life]] به همان اصل رسیده، و آن را با شواهد عصب‌شیمیایی (اکسی‌توسین، اندورفین) تکمیل می‌کند.
 - **موافقت (Agreement):** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] مستقل از [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] از [[emotional-intelligence]] بر اهمیت نام‌گذاری آگاهانه‌ی احساس تأکید می‌کند.
 - **بسط (Extension):** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] جزئیات زمانی مشخصی به مکانیزم خودتنظیمی [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] از [[emotional-intelligence]] می‌افزاید.
+- **بسط (Extension):** [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] از [[how-a-little-becomes-a-lot]] گام مقدماتی‌ای پیش از [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] اضافه می‌کند — پیش از پاسخ مهربانانه، باید نخست از منتقد درونی فاصله گرفت.
+- **موافقت (Agreement):** همان زتلِ شفقت به خود، اصل «پارادوکس سلیمان» زیمر از [[how-a-little-becomes-a-lot]] را به‌عنوان تأیید مستقل ثبت کرده است.
 
 ## Contradictions
 
@@ -46,10 +49,11 @@ updated: 2026-07-31
 
 ## Related Topics
 
-- [[habit-formation]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک.
+- [[habit-formation]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک، و چهار بسط مکانیزمی مشترک با [[how-a-little-becomes-a-lot]].
 - [[emotional-intelligence-and-self-regulation]] — از طریق موافقت در نام‌گذاری احساس و بسط زمان‌بندی تنظیم هیجانی.
 - [[personal-responsibility]] — از طریق موافقت در اصل مراقبت از خود مثل یک عزیز.
 
 ## Sources
 
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]

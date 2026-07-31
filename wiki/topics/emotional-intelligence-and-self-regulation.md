@@ -3,7 +3,7 @@ type: topic
 title: هوش هیجانی و خودتنظیمی
 status: active
 tags: [هوش-هیجانی, خودتنظیمی, همدلی]
-sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -30,6 +30,9 @@ updated: 2026-07-31
 - [[12-rules-for-life]] — دو رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 - [[boundaries]] — دو رابطه (یک بسط، یک کاربرد) شناسایی شد.
 - [[creativity-inc]] — یک رابطه‌ی بسط شناسایی شد.
+- [[good-to-great]] — یک رابطه‌ی شرط مرزی شناسایی شد.
+- [[how-a-little-becomes-a-lot]] — چهار رابطه (سه بسط، یک موافقت) شناسایی شد.
+- [[how-to-enjoy-your-life-and-your-job]] — دو رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -40,6 +43,12 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] از [[good-morning-i-love-you]] مستقل از [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] به همان اصل رسیده است.
 - **بسط (Extension):** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] از همان کتاب جزئیات زمانی مشخصی به [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] می‌افزاید.
 - **شرط مرزی (Boundary Condition):** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] از [[good-to-great]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] شرط می‌گذارد که تبیین خوش‌بینانه‌ی شکست تنها زمانی انگیزه را پایدار نگه می‌دارد که با مواجهه‌ی کامل با واقعیت‌های تلخ همراه باشد، وگرنه به خوش‌بینی کاذب سقوط می‌کند.
+- **بسط (Extension):** [[reframing-i-dont-want-to-as-i-want-to-but-dont-feel-like-it-soothes-resistance-without-abandoning-the-goal]] از [[how-a-little-becomes-a-lot]] تکنیک مکملی به [[reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power]] می‌افزاید.
+- **موافقت (Agreement):** همان زتل، مستقل از [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]]، با استعاره‌ی «سوارکار و فیل» به همان اصل رسیده است.
+- **بسط (Extension):** [[the-three-ps-framework-questions-whether-a-setback-is-permanent-personal-and-pervasive]] از همان کتاب دو بُعد دیگر (شخصی، فراگیر) را به [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] می‌افزاید.
+- **بسط (Extension):** [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] از همان کتاب بُعد «قضاوت دریافتی» را به [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] (بُعد «ارسال») می‌افزاید.
+- **بسط (Extension):** [[emotional-tension-not-mental-effort-causes-desk-work-fatigue]] از [[how-to-enjoy-your-life-and-your-job]] اصل [[intense-emotion-crowds-out-rational-judgment]] را در سطح خستگی تجمعی روزانه بررسی می‌کند.
+- **بسط (Extension):** [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] از همان کتاب مکانیزم زبانی دقیقی به [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] می‌افزاید.
 
 ## Contradictions
 
@@ -57,9 +66,13 @@ updated: 2026-07-31
 - [[psychological-safety-and-creative-culture]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
 - [[mindfulness-and-self-compassion]] — از طریق موافقت در نام‌گذاری احساس و بسط زمان‌بندی تنظیم هیجانی.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق شرط مرزی بر تبیین خوش‌بینانه‌ی شکست.
+- [[habit-formation]] — از طریق چهار رابطه‌ی مشترک با [[how-a-little-becomes-a-lot]].
+- [[influence-through-understanding-human-nature]] — از طریق دو بسط با [[how-to-enjoy-your-life-and-your-job]].
 
 ## Sources
 
 - [[2026-07-31-emotional-intelligence-blinkist]]
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
 - [[2026-07-31-good-to-great-blinkist]]
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
+- [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]

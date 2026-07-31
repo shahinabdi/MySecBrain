@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - در خوشه‌ی [[order-and-chaos]] در کنار [[suppressing-natural-risk-taking-harms-more-than-it-protects]]: هر دو زتل نشان می‌دهند تلاش برای نظمِ کامل (بدون خطر، بدون رنج) به قیمت از دست رفتن معنا و رشد تمام می‌شود.
+- **بسط‌یافته توسط** [[suffering-equals-pain-multiplied-by-resistance-not-pain-alone]] از کتاب [[how-a-little-becomes-a-lot]]: پیترسون نشان می‌دهد رنج واقعی برای معنادار بودن شادی‌های کوچک لازم است، اما مکانیزم دقیق «رنج» را باز نمی‌کند؛ زیمر آن مکانیزم را ارائه می‌دهد — رنج نه از خودِ درد، بلکه از حاصل‌ضرب درد در مقاومت می‌آید.
 
 ## Sources
 

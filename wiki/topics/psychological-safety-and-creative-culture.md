@@ -3,7 +3,7 @@ type: topic
 title: امنیت روانی و فرهنگ خلاقیت
 status: active
 tags: [خلاقیت, امنیت-روانی, مدیریت]
-sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist]
+sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -30,6 +30,7 @@ updated: 2026-07-31
 - [[boundaries]] — یک رابطه‌ی کاربرد شناسایی شد (نگاه کنید به بخش روابط).
 - [[emotional-intelligence]] — یک رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 - [[good-to-great]] — دو رابطه‌ی موافقت شناسایی شد (نگاه کنید به بخش روابط).
+- [[how-to-enjoy-your-life-and-your-job]] — یک بسط و یک ارتباط مکمل شناسایی شد.
 
 ## Relationships
 
@@ -40,6 +41,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] از [[emotional-intelligence]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] می‌افزاید — سازوکار سازمانی مسیر بازخورد را باز می‌کند، اما شیوه‌ی بیان آن تعیین می‌کند آیا پذیرفته می‌شود یا تدافع برمی‌انگیزد.
 - **موافقت (Agreement):** [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] از [[good-to-great]] مستقل از [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] به همان اصل رسیده است — کالینز از پژوهش کمّی روی شرکت‌های سهامی عام، کتمول از تجربه‌ی مدیریتی در پیکسار، هر دو نتیجه می‌گیرند ترس ناشی از قدرت یا سلسله‌مراتب صداقت را سرکوب می‌کند مگر رهبر عمداً سازوکاری برایش بسازد.
 - **موافقت (Agreement):** [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] از [[good-to-great]] مستقل از [[a-great-team-matters-more-than-a-great-idea]] به همان اصل رسیده است — کیفیت تیم بر کیفیت ایده یا طرح تقدم دارد.
+- **بسط (Extension):** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] از [[how-to-enjoy-your-life-and-your-job]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] را ارائه می‌دهد.
+- **مرتبط با:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] از همان کتاب در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] — هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
 
 ## Contradictions
 
@@ -56,9 +59,11 @@ updated: 2026-07-31
 - [[boundaries-and-ownership]] — از طریق کاربرد اصل مالکیت مسئولیت در مدیریت.
 - [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق دو موافقت درباره‌ی صداقت سازمانی و برتری تیم بر ایده.
+- [[influence-through-understanding-human-nature]] — از طریق بسط مکانیزم مالکیت ایده و ارتباط مکمل در کاهش ترس بازخورد.
 
 ## Sources
 
 - [[2026-07-31-creativity-inc-blinkist]]
 - [[2026-07-31-emotional-intelligence-blinkist]]
 - [[2026-07-31-good-to-great-blinkist]]
+- [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]

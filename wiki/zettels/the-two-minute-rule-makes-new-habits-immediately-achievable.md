@@ -27,6 +27,7 @@ updated: 2026-07-31
 - زیرمجموعه‌ی چارچوب کلی [[habits-form-through-a-cue-craving-response-reward-loop]]، مربوط به جزء «واکنش».
 - مکمل [[reducing-friction-makes-habits-easier]]: هر دو، عادت را «آسان» می‌کنند، اما این یکی خودِ رفتار را کوچک می‌کند و آن یکی گام‌های پیرامون رفتار را حذف می‌کند.
 - **موافق (Agreement) با** [[small-consistent-practice-beats-forcing-large-change]] از کتاب [[good-morning-i-love-you]]: کلییر و شاپیرو، از دو سنت متفاوت (مهندسی رفتار در برابر ذهن‌آگاهی)، مستقل از هم به همین نتیجه رسیده‌اند — تعهد به نسخه‌ی کوچک یک هدف پایدارتر از تعهد به نسخه‌ی کامل آن است.
+- **بسط‌یافته توسط** [[shrinking-a-target-behavior-below-the-threat-threshold-bypasses-homeostatic-resistance]] از کتاب [[how-a-little-becomes-a-lot]]: زیمر مکانیزم زیستی *چرا* این کار می‌کند را توضیح می‌دهد — کوچک‌کردن رفتار، آن را زیر آستانه‌ی هشدار هومئوستاتیک بدن نگه می‌دارد و از مقاومت زیستی به تغییر جلوگیری می‌کند.
 
 ## Sources
 

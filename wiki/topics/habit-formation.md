@@ -3,7 +3,7 @@ type: topic
 title: شکل‌گیری عادت
 status: active
 tags: [عادت, رفتار, نشانه, پاداش]
-sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-good-morning-i-love-you-blinkist]
+sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -27,6 +27,7 @@ updated: 2026-07-31
 - [[atomic-habits]] — منبع اصلی و کامل این نقشه‌ی موضوعی؛ کل کتاب حول مکانیزم و مهندسی عادت سازمان‌یافته است.
 - [[12-rules-for-life]] — کتابی که مستقیماً درباره‌ی عادت نیست، اما دو ایده‌اش (مقایسه با خود گذشته، و اهمیت دوستان حمایت‌گر) با مکانیزم‌های این کتاب بسط داده می‌شوند (نگاه کنید به بخش روابط).
 - [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد: اصل انباشت پیوسته در سطح سازمانی مستقل از انباشت عادت در سطح فردی به همان نتیجه رسیده است.
+- [[how-a-little-becomes-a-lot]] — چهار رابطه‌ی بسط شناسایی شد: زیمر مکانیزم‌های زیستی و روان‌شناختی پشتِ چهار تکنیک این کتاب را توضیح می‌دهد (نگاه کنید به بخش روابط). این متراکم‌ترین رابطه‌ی بسط ثبت‌شده در این نقشه‌ی موضوعی است.
 
 ## Relationships
 
@@ -37,6 +38,10 @@ updated: 2026-07-31
 - **بسط (Extension):** [[what-you-practice-grows-stronger-through-neuroplasticity]] از کتاب [[good-morning-i-love-you]] مکانیزم عصب‌شناختی [[small-habits-compound-into-large-results-invisibly]] را در سطح ساختار مغز توضیح می‌دهد.
 - **موافقت (Agreement):** [[small-consistent-practice-beats-forcing-large-change]] از همان کتاب مستقل از [[the-two-minute-rule-makes-new-habits-immediately-achievable]] به همان نتیجه رسیده است.
 - **موافقت (Agreement):** [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] از [[good-to-great]] مستقل از [[small-habits-compound-into-large-results-invisibly]] به همان اصل رسیده است — کلییر در سطح فردی رفتار، کالینز در سطح استراتژی سازمانی، هر دو نتیجه می‌گیرند که تنها انباشت پیوسته در یک جهت ثابت به نتیجه‌ی بزرگ می‌انجامد.
+- **بسط (Extension):** [[shrinking-a-target-behavior-below-the-threat-threshold-bypasses-homeostatic-resistance]] از [[how-a-little-becomes-a-lot]] مکانیزم زیستی [[the-two-minute-rule-makes-new-habits-immediately-achievable]] را توضیح می‌دهد.
+- **بسط (Extension):** [[action-precedes-and-generates-motivation-not-the-other-way-around]] از همان کتاب مکانیزم مکملی (پس‌نگر) به [[anticipated-reward-not-just-reward-itself-drives-motivation]] (پیش‌نگر) می‌افزاید.
+- **بسط (Extension):** [[willpower-depletes-like-a-muscle-so-environment-design-beats-relying-on-it]] از همان کتاب توضیح می‌دهد چرا [[reducing-friction-makes-habits-easier]] بر تکیه به اراده برتری دارد.
+- **بسط (Extension):** [[if-then-contingency-plans-protect-habits-from-disruption]] از همان کتاب لایه‌ی مکملی برای حفظ [[implementation-intentions-turn-vague-goals-into-concrete-plans]] در شرایط مختل اضافه می‌کند.
 
 ## Contradictions
 
@@ -54,6 +59,7 @@ updated: 2026-07-31
 - [[boundaries-and-ownership]] — پاسخگویی اجتماعی سالم (قرارداد عادت) در تضاد آموزنده با پویایی کنترل‌گرانه در آن موضوع قرار دارد.
 - [[mindfulness-and-self-compassion]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل انباشت پیوسته‌ی فرد و سازمان.
+- [[mindfulness-and-self-compassion]] — از طریق چهار بسط مکانیزمی مشترک با [[how-a-little-becomes-a-lot]].
 
 ## Sources
 
@@ -61,3 +67,4 @@ updated: 2026-07-31
 - [[2026-07-31-boundaries-blinkist]]
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
 - [[2026-07-31-good-to-great-blinkist]]
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]

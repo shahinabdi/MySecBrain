@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - کاربرد مستقیم [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] در قالب یک قاعده‌ی مشخص.
 - **بسط‌دهنده‌ی** [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] از کتاب [[creativity-inc]]: کتمول نشان می‌دهد سازوکارهایی برای گشودن مسیر بازخورد لازم است؛ این زتل مکانیزم هیجانی مکملی ارائه می‌دهد — حتی وقتی مسیر باز است، *شیوه‌ی بیان* بازخورد تعیین می‌کند آیا گیرنده آن را می‌پذیرد یا تدافعی می‌شود.
+- **بسط‌یافته توسط** [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] از کتاب [[how-to-enjoy-your-life-and-your-job]]: این زتل قاعده‌ی کلی «مشخص‌بودن + شامل‌بودن نکات مثبت» را ارائه می‌دهد؛ کارنگی مکانیزم زبانی دقیق‌تری اضافه می‌کند — حتی با رعایت این قاعده، حرف ربط «اما» می‌تواند نکته‌ی مثبت را محو کند، درحالی‌که «و» هر دو بخش را معتبر نگه می‌دارد.
 
 ## Sources
 

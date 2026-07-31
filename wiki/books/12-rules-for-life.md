@@ -69,6 +69,11 @@ updated: 2026-07-31
   - **موافقت:** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] مستقل از [[self-care-requires-the-same-care-given-to-a-loved-one]] به همان اصل رسیده و آن را با شواهد عصب‌شیمیایی تکمیل می‌کند.
 - [[good-to-great]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] اصل [[taking-responsibility-must-precede-judging-the-world]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد.
+- [[how-a-little-becomes-a-lot]] — دو رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[distinguishing-desires-from-values-directs-tiny-actions-toward-your-true-identity]] چارچوب مشخصی (خواسته در برابر ارزش) به [[meaningful-goals-outweigh-instant-gratification]] می‌افزاید.
+  - **بسط:** [[suffering-equals-pain-multiplied-by-resistance-not-pain-alone]] مکانیزم دقیق رنج را برای [[celebrating-small-joys-amid-suffering-sustains-meaning]] فراهم می‌کند.
+- [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[admitting-you-might-be-wrong-first-opens-the-other-person-to-reconsidering]] تکنیک مکملی برای گوینده به [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] اضافه می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
@@ -79,6 +84,8 @@ updated: 2026-07-31
 - با [[emotional-intelligence]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحات موضوع [[personal-responsibility]] و [[honest-communication]] مستند شده است.
 - با [[good-morning-i-love-you]]: یک رابطه‌ی موافقت (Agreement) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
 - با [[good-to-great]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
+- با [[how-a-little-becomes-a-lot]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحات موضوع [[personal-responsibility]] و [[order-and-chaos]] مستند شده است.
+- با [[how-to-enjoy-your-life-and-your-job]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
 
 ## Translation
 

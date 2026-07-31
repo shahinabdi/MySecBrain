@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - بخشی از خوشه‌ی افسانه‌های مرزی در کنار [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] و [[anger-at-boundary-setting-often-signals-previously-violated-boundaries]].
+- **موافقت (Agreement) با** [[the-eighty-percent-rule-treats-occasional-lapses-as-normal-rather-than-failure]] از کتاب [[how-a-little-becomes-a-lot]]: کلود/تاونسند و زیمر، از دو حوزه‌ی متفاوت (مرزگذاری رابطه‌ای در برابر ساخت عادت)، مستقل از هم به همان اصل رسیده‌اند — یک شکست یا لغزش تنها زمانی دائمی می‌شود که فرد آگاهانه آن را چنین تفسیر کند.
 
 ## Sources
 

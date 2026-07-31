@@ -12,6 +12,8 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-emotional-intelligence-blinkist]] — Blinkist summary of *Emotional Intelligence* by Daniel Goleman.
 - [[2026-07-31-good-morning-i-love-you-blinkist]] — Blinkist summary of *Good Morning, I Love You* by Shauna Shapiro.
 - [[2026-07-31-good-to-great-blinkist]] — Blinkist summary of *Good to Great* by Jim Collins.
+- [[2026-07-31-how-a-little-becomes-a-lot-blinkist]] — Blinkist summary of *How a Little Becomes a Lot* by Eric Zimmer.
+- [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]] — Blinkist summary of *How to Enjoy Your Life and Your Job* by Dale Carnegie.
 
 ## Translations
 
@@ -23,6 +25,8 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[emotional-intelligence-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هوش هیجانی».
 - [[good-morning-i-love-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «صبح‌بخیر، دوستت دارم».
 - [[good-to-great-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «از خوب به عالی».
+- [[how-a-little-becomes-a-lot-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه کمی به مقدار زیادی تبدیل می‌شود».
+- [[how-to-enjoy-your-life-and-your-job-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه از زندگی و شغل خود لذت ببرید».
 
 ## Books
 
@@ -34,6 +38,8 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[emotional-intelligence]] — صفحه‌ی مرکزی کتاب «هوش هیجانی» اثر دنیل گلمن.
 - [[good-morning-i-love-you]] — صفحه‌ی مرکزی کتاب «صبح‌بخیر، دوستت دارم» اثر شانا شاپیرو.
 - [[good-to-great]] — صفحه‌ی مرکزی کتاب «از خوب به عالی» اثر جیم کالینز.
+- [[how-a-little-becomes-a-lot]] — صفحه‌ی مرکزی کتاب «چگونه کمی به مقدار زیادی تبدیل می‌شود» اثر اریک زیمر.
+- [[how-to-enjoy-your-life-and-your-job]] — صفحه‌ی مرکزی کتاب «چگونه از زندگی و شغل خود لذت ببرید» اثر دیل کارنگی.
 
 ## Zettels
 
@@ -123,6 +129,28 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] — رهبران باید سازوکارهایی بسازند که واقعیت‌های تلخ را بدون سرزنش آشکار کنند.
 - [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] — نظمی که از درون فرد می‌آید، بیشتر از نظم تحمیلی یک مستبد دوام می‌آورد.
 - [[leaders-who-fail-to-build-succession-plans-leave-fragile-legacies]] — رهبرانی که برنامه‌ی جانشینی نمی‌سازند، میراثی شکننده برجای می‌گذارند.
+- [[shrinking-a-target-behavior-below-the-threat-threshold-bypasses-homeostatic-resistance]] — کوچک‌کردن رفتار هدف زیر آستانه‌ی تهدید، از مقاومت هومئوستاتیک عبور می‌کند.
+- [[action-precedes-and-generates-motivation-not-the-other-way-around]] — عمل انگیزه را پیش از خود ایجاد می‌کند، نه برعکس.
+- [[distinguishing-desires-from-values-directs-tiny-actions-toward-your-true-identity]] — تمایز خواسته از ارزش، اعمال ریز را به‌سوی هویت راستین هدایت می‌کند.
+- [[willpower-depletes-like-a-muscle-so-environment-design-beats-relying-on-it]] — اراده مانند عضله خسته می‌شود، پس طراحی محیط بر تکیه بر آن برتری دارد.
+- [[if-then-contingency-plans-protect-habits-from-disruption]] — برنامه‌های احتیاطی «اگر-آنگاه» عادت را در برابر اختلال محافظت می‌کنند.
+- [[reframing-i-dont-want-to-as-i-want-to-but-dont-feel-like-it-soothes-resistance-without-abandoning-the-goal]] — بازتفسیر «نمی‌خواهم» به «می‌خواهم اما حسش را ندارم» مقاومت را آرام می‌کند بی‌آنکه هدف را رها کند.
+- [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] — نامگذاری منتقد درونی به‌عنوان شخصیتی جدا، فاصله‌ای از روایت آن می‌سازد.
+- [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] — واقع‌گرایی ساده‌لوحانه باعث می‌شود ادراک جانب‌دارانه‌ی خود را واقعیت عینی بپندارید.
+- [[the-three-ps-framework-questions-whether-a-setback-is-permanent-personal-and-pervasive]] — چارچوب سه‌پی می‌پرسد آیا یک ناکامی دائمی، شخصی و فراگیر است.
+- [[suffering-equals-pain-multiplied-by-resistance-not-pain-alone]] — رنج برابر است با درد ضرب‌در مقاومت، نه صرفاً خودِ درد.
+- [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] — تمرکز انرژی بر حلقه‌ی درونی‌ترینِ کنترل مستقیم، از فرسودگی جلوگیری می‌کند.
+- [[the-eighty-percent-rule-treats-occasional-lapses-as-normal-rather-than-failure]] — قاعده‌ی هشتاد درصد، لغزش‌های گاه‌به‌گاه را عادی می‌داند نه شکست.
+- [[emotional-tension-not-mental-effort-causes-desk-work-fatigue]] — تنش هیجانی، نه تلاش فکری، خستگی کار دفتری را می‌سازد.
+- [[boredom-not-work-itself-causes-fatigue-interest-generates-energy]] — کسالت، نه خودِ کار، خستگی می‌سازد؛ علاقه انرژی تولید می‌کند.
+- [[unjust-criticism-often-reflects-the-critics-own-need-to-feel-important]] — انتقاد ناعادلانه اغلب بازتاب نیاز خودِ منتقد به احساس اهمیت است.
+- [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] — نیاز به احساس اهمیت، نیازی تقریباً جهانی و اغلب برآورده‌نشده است.
+- [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] — نشان‌دادن علاقه‌ی واقعی به دیگران، بیش از تلاش برای جالب‌بودن، آن‌ها را جذب می‌کند.
+- [[admitting-you-might-be-wrong-first-opens-the-other-person-to-reconsidering]] — پذیرفتن احتمال اشتباه خود، پیش از دیگری، فضای بازنگری او را باز می‌کند.
+- [[eliciting-early-yes-responses-keeps-people-psychologically-open-to-persuasion]] — برانگیختن پاسخ‌های «بله»ی زودهنگام، ذهن را برای پذیرش گشوده نگه می‌دارد.
+- [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] — مردم به ایده‌هایی که فکر می‌کنند از خودشان است، بیشتر متعهد می‌مانند.
+- [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] — جایگزینی «اما» با «و» در بازخورد، مانع محوشدن تعریف پیش از انتقاد می‌شود.
+- [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] — به‌اشتراک‌گذاشتن اشتباه خودتان، بهبود را مؤثرتر از دستوردادن دعوت می‌کند.
 
 ## Topics
 
@@ -136,6 +164,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[emotional-intelligence-and-self-regulation]] — نقشه‌ی موضوعی کارکرد، اختلال، و تقویت هوش هیجانی.
 - [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
+- [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
 
 ## Queries
 

@@ -59,10 +59,13 @@ updated: 2026-07-31
   - **کاربرد:** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را در مدیریت به‌کار می‌برد: ریزمدیریت همان خطای «مسئول به‌جای دیگری بودن» است که در روابط شخصی نیز آسیب می‌زند.
 - [[emotional-intelligence]] — یک رابطه‌ی بسط همراه با کاربرد عملی:
   - **بسط + کاربرد:** [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] مکانیزم عصبی [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] را توضیح می‌دهد، و [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] ابزاری عینی (ضربان قلب) برای اجرای آن ارائه می‌دهد.
+- [[how-a-little-becomes-a-lot]] — یک بسط و یک موافقت:
+  - **بسط:** [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را از روابط بین‌فردی به کل حوزه‌های زندگی بسط می‌دهد.
+  - **موافقت:** [[the-eighty-percent-rule-treats-occasional-lapses-as-normal-rather-than-failure]] مستقل از [[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]] به همان اصل رسیده است — لغزش تنها زمانی دائمی می‌شود که آن را چنین تفسیر کنیم.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، و یک بسط همراه با کاربرد عملی با [[emotional-intelligence]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، و یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]] مستند شد.
 
 ## Translation
 

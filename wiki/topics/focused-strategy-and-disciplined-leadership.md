@@ -3,7 +3,7 @@ type: topic
 title: استراتژی متمرکز و رهبری منظم
 status: active
 tags: [استراتژی, رهبری, نظم-سازمانی]
-sources: [2026-07-31-good-to-great-blinkist]
+sources: [2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -30,6 +30,7 @@ updated: 2026-07-31
 - [[creativity-inc]] — دو رابطه‌ی موافقت شناسایی شد (نگاه کنید به بخش روابط).
 - [[12-rules-for-life]] — دو رابطه شناسایی شد.
 - [[emotional-intelligence]] — یک رابطه‌ی شرط مرزی شناسایی شد.
+- [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی موافقت شناسایی شد.
 
 ## Relationships
 
@@ -38,6 +39,7 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] با [[small-habits-compound-into-large-results-invisibly]] از [[atomic-habits]] مستقل به همان اصل رسیده‌اند: نتایج روزانه‌ی کوچک نامحسوس‌اند و تنها مسیر انباشته‌شده معنادار می‌شود — کلییر در سطح فرد، کالینز در سطح سازمان.
 - **شرط مرزی (Boundary Condition):** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] از [[emotional-intelligence]] شرط می‌گذارد: تبیین خوش‌بینانه‌ی شکست تنها زمانی سازنده است که با مواجهه‌ی کامل با واقعیت‌های تلخ همراه باشد، وگرنه به خوش‌بینی کاذب سقوط می‌کند.
 - **بسط (Extension):** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] اصل مسئولیت‌پذیری درونی‌شده‌ی [[taking-responsibility-must-precede-judging-the-world]] از [[12-rules-for-life]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد.
+- **موافقت (Agreement):** [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] با [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] از [[how-to-enjoy-your-life-and-your-job]] مستقل به این نتیجه رسیده‌اند: هدایت قدردانی و اعتبار به‌سوی دیگران، اهرم مؤثرتری برای انگیزش و وفاداری است تا جلب‌توجه به خود.
 
 ## Contradictions
 
@@ -55,7 +57,9 @@ updated: 2026-07-31
 - [[order-and-chaos]] — هر دو درباره‌ی مدیریت آگاهانه‌ی واقعیت (چه فردی، چه سازمانی) به‌جای انکار یا تسلیم‌اند.
 - [[habit-formation]] — از طریق موافقت در اصل انباشت پیوسته‌ی تغییرات کوچک.
 - [[emotional-intelligence-and-self-regulation]] — از طریق شرط مرزی بر تبیین خوش‌بینانه‌ی شکست.
+- [[influence-through-understanding-human-nature]] — از طریق موافقت در اصل هدایت قدردانی به‌سوی دیگران.
 
 ## Sources
 
 - [[2026-07-31-good-to-great-blinkist]]
+- [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]

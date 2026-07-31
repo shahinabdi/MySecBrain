@@ -60,10 +60,13 @@ updated: 2026-07-31
 - [[good-to-great]] — دو رابطه‌ی موافقت:
   - **موافقت:** [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] مستقل از [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] به همان اصل رسیده است.
   - **موافقت:** [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] مستقل از [[a-great-team-matters-more-than-a-great-idea]] به همان اصل رسیده است.
+- [[how-to-enjoy-your-life-and-your-job]] — یک بسط و یک ارتباط مکمل:
+  - **بسط:** [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] مکانیزم روان‌شناختی زیربنایی [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] را ارائه می‌دهد.
+  - **مرتبط:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]]، هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
+بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط و یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
 
 ## Translation
 
