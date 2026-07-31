@@ -3,7 +3,7 @@ type: topic
 title: مسئولیت‌پذیری فردی
 status: active
 tags: [مسئولیت‌پذیری, خودمراقبتی, معنا]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist]
 created: 2026-07-31
 updated: 2026-07-31
 ---
@@ -34,10 +34,11 @@ updated: 2026-07-31
 - **تقابل آموزنده:** [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] از [[creativity-inc]] در برابر [[taking-responsibility-must-precede-judging-the-world]] نشان می‌دهد مسئولیت‌پذیری فردی اصلی برای زندگی شخصی است، اما فرهنگ سازمانی سالم به مکانیزم مکملی — توزیع آگاهانه‌ی مسئولیت شکست میان تیم — نیاز دارد؛ تفاوت در سطح تحلیل (فرد در برابر تیم) است، نه تناقض.
 - **بسط (Extension):** [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] از [[emotional-intelligence]] مکانیزم روان‌شناختی [[meaningful-goals-outweigh-instant-gratification]] را ارائه می‌دهد — توانایی مدیریت آگاهانه‌ی احساسات رقیب، مستقل از ضریب هوشی، پیش‌بینی‌کننده‌ی موفقیت بلندمدت است.
 - **موافقت (Agreement):** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] از [[good-morning-i-love-you]] مستقل از [[self-care-requires-the-same-care-given-to-a-loved-one]] به همان اصل رسیده و آن را با شواهد عصب‌شیمیایی تکمیل می‌کند.
+- **بسط (Extension):** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] از [[good-to-great]] اصل [[taking-responsibility-must-precede-judging-the-world]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد — نظمی که از باور مشترک به هدف می‌آید، نه از ترس یک ناظر مستبد، پس از رفتن هر رهبری خاص نیز پایدار می‌ماند.
 
 ## Contradictions
 
-هیچ تناقض مستقیمی میان [[12-rules-for-life]]، [[atomic-habits]]، [[boundaries]]، [[creativity-inc]]، [[emotional-intelligence]] و [[good-morning-i-love-you]] در این موضوع یافت نشد؛ رابطه‌ی «رضایت فوری» و رابطه‌ی «مسئولیت تیمی شکست» هر دو به‌عنوان شرط مرزی/تفاوت سطح تحلیل طبقه‌بندی شده‌اند، نه تناقض.
+هیچ تناقض مستقیمی میان [[12-rules-for-life]]، [[atomic-habits]]، [[boundaries]]، [[creativity-inc]]، [[emotional-intelligence]]، [[good-morning-i-love-you]] و [[good-to-great]] در این موضوع یافت نشد؛ رابطه‌ی «رضایت فوری» و رابطه‌ی «مسئولیت تیمی شکست» هر دو به‌عنوان شرط مرزی/تفاوت سطح تحلیل طبقه‌بندی شده‌اند، نه تناقض.
 
 ## Open Questions
 
@@ -51,6 +52,7 @@ updated: 2026-07-31
 - [[psychological-safety-and-creative-culture]] — از طریق تقابل آموزنده‌ی مسئولیت فردی در برابر مسئولیت تیمی شکست.
 - [[emotional-intelligence-and-self-regulation]] — از طریق مکانیزم روان‌شناختی تعویق رضایت.
 - [[mindfulness-and-self-compassion]] — از طریق موافقت در اصل مراقبت از خود مثل یک عزیز.
+- [[focused-strategy-and-disciplined-leadership]] — از طریق بسط اصل نظم درونی‌شده به سطح فرهنگ سازمانی.
 
 ## Sources
 
@@ -60,3 +62,4 @@ updated: 2026-07-31
 - [[2026-07-31-creativity-inc-blinkist]]
 - [[2026-07-31-emotional-intelligence-blinkist]]
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
+- [[2026-07-31-good-to-great-blinkist]]

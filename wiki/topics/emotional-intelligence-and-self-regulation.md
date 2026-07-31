@@ -39,6 +39,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] از [[creativity-inc]] می‌افزاید — سازوکار سازمانی مسیر بازخورد را باز می‌کند، اما *شیوه‌ی بیان* آن تعیین می‌کند آیا پذیرفته می‌شود.
 - **موافقت (Agreement):** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] از [[good-morning-i-love-you]] مستقل از [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] به همان اصل رسیده است.
 - **بسط (Extension):** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] از همان کتاب جزئیات زمانی مشخصی به [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] می‌افزاید.
+- **شرط مرزی (Boundary Condition):** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] از [[good-to-great]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] شرط می‌گذارد که تبیین خوش‌بینانه‌ی شکست تنها زمانی انگیزه را پایدار نگه می‌دارد که با مواجهه‌ی کامل با واقعیت‌های تلخ همراه باشد، وگرنه به خوش‌بینی کاذب سقوط می‌کند.
 
 ## Contradictions
 
@@ -55,8 +56,10 @@ updated: 2026-07-31
 - [[boundaries-and-ownership]] — از طریق مکانیزم عصبی «پاسخ‌دادن نه عکس‌العمل».
 - [[psychological-safety-and-creative-culture]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
 - [[mindfulness-and-self-compassion]] — از طریق موافقت در نام‌گذاری احساس و بسط زمان‌بندی تنظیم هیجانی.
+- [[focused-strategy-and-disciplined-leadership]] — از طریق شرط مرزی بر تبیین خوش‌بینانه‌ی شکست.
 
 ## Sources
 
 - [[2026-07-31-emotional-intelligence-blinkist]]
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
+- [[2026-07-31-good-to-great-blinkist]]

@@ -64,10 +64,12 @@ updated: 2026-07-31
 - [[good-morning-i-love-you]] — یک موافقت و یک بسط:
   - **موافقت:** [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] مستقل از [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] به همان اصل رسیده است.
   - **بسط:** [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] جزئیات زمانی مشخصی به [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] می‌افزاید.
+- [[good-to-great]] — یک رابطه‌ی شرط مرزی:
+  - **شرط مرزی:** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] شرط می‌گذارد که خوش‌بینی سازنده باید با مواجهه‌ی کامل با واقعیت همراه باشد، وگرنه به خوش‌بینی کاذب سقوط می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
+بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[emotional-intelligence-and-self-regulation]] مستند شده است.
 
 ## Translation
 

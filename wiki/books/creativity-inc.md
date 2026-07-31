@@ -57,10 +57,13 @@ updated: 2026-07-31
   - **کاربرد:** [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را در مدیریت به‌کار می‌برد.
 - [[emotional-intelligence]] — یک رابطه‌ی بسط:
   - **بسط:** [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] مکانیزم هیجانی مکملی به [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] می‌افزاید.
+- [[good-to-great]] — دو رابطه‌ی موافقت:
+  - **موافقت:** [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] مستقل از [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] به همان اصل رسیده است.
+  - **موافقت:** [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] مستقل از [[a-great-team-matters-more-than-a-great-idea]] به همان اصل رسیده است.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
+بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[psychological-safety-and-creative-culture]] مستند شده است.
 
 ## Translation
 

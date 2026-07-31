@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - مکمل [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]]: هر دو درباره‌ی ترکیب تیم به‌عنوان عامل تعیین‌کننده‌ی موفقیت‌اند.
 - مکملِ [[a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals]]: هدف مشترک، چسبی است که تیم خوب را در سختی نگه می‌دارد.
+- **موافقت (Agreement) با** [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] از کتاب [[good-to-great]]: کالینز مستقل از کتمول، از پژوهش روی شرکت‌های سهامی عام، به همان اصل می‌رسد و آن را یک گام جلوتر می‌برد — آوردن افراد درست باید حتی پیش از تعیین استراتژی یا مسیر شرکت انجام شود، چون افراد درست خودشان مسیر را می‌یابند.
 
 ## Sources
 

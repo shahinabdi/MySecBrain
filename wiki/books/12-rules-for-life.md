@@ -67,6 +67,8 @@ updated: 2026-07-31
   - **بسط:** [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] بعد همدلانه‌ای به [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] می‌افزاید.
 - [[good-morning-i-love-you]] — یک رابطه‌ی موافقت شناسایی شد:
   - **موافقت:** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] مستقل از [[self-care-requires-the-same-care-given-to-a-loved-one]] به همان اصل رسیده و آن را با شواهد عصب‌شیمیایی تکمیل می‌کند.
+- [[good-to-great]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] اصل [[taking-responsibility-must-precede-judging-the-world]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
@@ -76,6 +78,7 @@ updated: 2026-07-31
 - با [[creativity-inc]]: دو رابطه‌ی بسط (Extension) و یک تقابل آموزنده (تفاوت سطح تحلیل، نه تناقض) شناسایی شد. جزئیات در صفحات موضوع [[honest-communication]]، [[order-and-chaos]] و [[personal-responsibility]] مستند شده است.
 - با [[emotional-intelligence]]: دو رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحات موضوع [[personal-responsibility]] و [[honest-communication]] مستند شده است.
 - با [[good-morning-i-love-you]]: یک رابطه‌ی موافقت (Agreement) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
+- با [[good-to-great]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[focused-strategy-and-disciplined-leadership]] مستند شده است.
 
 ## Translation
 

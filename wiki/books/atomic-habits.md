@@ -58,10 +58,12 @@ updated: 2026-07-31
 - [[good-morning-i-love-you]] — یک رابطه‌ی بسط و یک موافقت:
   - **بسط:** [[what-you-practice-grows-stronger-through-neuroplasticity]] مکانیزم عصب‌شناختی [[small-habits-compound-into-large-results-invisibly]] را در سطح ساختار مغز توضیح می‌دهد.
   - **موافقت:** [[small-consistent-practice-beats-forcing-large-change]] مستقل از [[the-two-minute-rule-makes-new-habits-immediately-achievable]] به همان نتیجه رسیده است.
+- [[good-to-great]] — یک رابطه‌ی موافقت:
+  - **موافقت:** [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] مستقل از [[small-habits-compound-into-large-results-invisibly]] به همان اصل رسیده است — کلییر در سطح فرد، کالینز در سطح سازمان.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]] یا [[good-morning-i-love-you]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]] و [[mindfulness-and-self-compassion]] مستند شده‌اند.
+بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]] یا [[good-to-great]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]] و [[mindfulness-and-self-compassion]] مستند شده‌اند.
 
 ## Translation
 

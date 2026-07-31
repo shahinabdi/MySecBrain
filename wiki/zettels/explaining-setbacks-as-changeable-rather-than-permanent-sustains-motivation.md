@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - مکمل [[reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power]]: هر دو از بازتفسیر آگاهانه برای تغییر تأثیر هیجانی یک رویداد استفاده می‌کنند.
+- **شرط مرزی (Boundary Condition) از** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] در کتاب [[good-to-great]]: کالینز نشان می‌دهد این تبیین خوش‌بینانه‌ی شکست تنها زمانی انگیزه را پایدار نگه می‌دارد که با مواجهه‌ی کامل با واقعیت‌های تلخ همراه باشد؛ خوش‌بینی بدون این مواجهه (مانند پیش‌بینی «تا کریسمس آزاد می‌شویم» در پارادوکس استاک‌دیل) می‌تواند به شکستی دردناک‌تر هنگام تأخیر بینجامد.
 
 ## Sources
 

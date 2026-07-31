@@ -120,3 +120,22 @@ Created `wiki/` subdirectories (`sources`, `translations`, `books`, `zettels`, `
 - **Contradictions:** none found.
 - **Review flags:** Author and original-title subtitle are unspecified in the raw source and marked as such rather than guessed (author inferred directly from explicit title text only). The "emotions last ~90 seconds" claim is stated as established fact without further citation detail in this condensed form; noted in the source page's Limitations section.
 - **Index:** `index.md` updated with all new pages.
+
+## [2026-07-31] ingest | Good to Great by Jim Collins
+
+- **Source:** `raw/Good to Great by Jim Collins.md` (Blinkist summary), sha256:b2b6b31e971aba9cef57695aedb39bf167908e8ea7e7c30f06023452f26da0d1
+- **Created:** [[2026-07-31-good-to-great-blinkist]] (source page), [[good-to-great-fa]] (full Persian translation), [[good-to-great]] (book hub)
+- **Zettels created (9):** [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]], [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]], [[technology-should-accelerate-an-existing-strategy-not-define-it]], [[level-5-leaders-combine-fierce-resolve-with-personal-humility]], [[hiring-the-right-people-before-defining-strategy-enables-adaptation]], [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]], [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]], [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]], [[leaders-who-fail-to-build-succession-plans-leave-fragile-legacies]]
+- **Topics created (1):** [[focused-strategy-and-disciplined-leadership]]
+- **Existing zettels enriched (cross-book Connections added):** [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]], [[a-great-team-matters-more-than-a-great-idea]] (from [[creativity-inc]]); [[small-habits-compound-into-large-results-invisibly]] (from [[atomic-habits]]); [[taking-responsibility-must-precede-judging-the-world]] (from [[12-rules-for-life]]); [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] (from [[emotional-intelligence]])
+- **Existing topics enriched:** [[psychological-safety-and-creative-culture]], [[personal-responsibility]], [[order-and-chaos]], [[habit-formation]], [[emotional-intelligence-and-self-regulation]] (Books/Relationships/Related Topics/Sources updated)
+- **Existing book pages enriched:** [[creativity-inc]], [[atomic-habits]], [[12-rules-for-life]], [[emotional-intelligence]] (Related Books, Agreements/Extensions/Contradictions sections updated)
+- **Cross-book relationships added (5):**
+  1. Agreement — [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] independently arrives at the same principle as [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] (Creativity Inc): hierarchical/positional fear naturally suppresses honest feedback unless leaders deliberately design mechanisms around it.
+  2. Agreement — [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] independently arrives at the same principle as [[a-great-team-matters-more-than-a-great-idea]] (Creativity Inc): team quality outweighs plan/idea quality.
+  3. Agreement — [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] independently arrives at the same principle as [[small-habits-compound-into-large-results-invisibly]] (Atomic Habits): invisible small pushes compound into large results — Clear at the individual level, Collins at the organizational level.
+  4. Boundary Condition — [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] (Stockdale Paradox) sets a condition on [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] (Emotional Intelligence): optimistic explanatory style only sustains motivation when paired with full confrontation of brutal facts, otherwise it collapses into false optimism.
+  5. Extension — [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] extends [[taking-responsibility-must-precede-judging-the-world]] (12 Rules for Life) from the individual level to the organizational-culture level.
+- **Contradictions:** none found.
+- **Review flags:** Author is unspecified in the raw frontmatter and was taken directly from the explicit title text, not guessed. Original publication date and the Blinkist summary's own publish date are unspecified — marked accordingly rather than guessed.
+- **Index:** `index.md` updated with all new pages.

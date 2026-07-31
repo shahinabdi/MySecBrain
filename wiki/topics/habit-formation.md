@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[atomic-habits]] — منبع اصلی و کامل این نقشه‌ی موضوعی؛ کل کتاب حول مکانیزم و مهندسی عادت سازمان‌یافته است.
 - [[12-rules-for-life]] — کتابی که مستقیماً درباره‌ی عادت نیست، اما دو ایده‌اش (مقایسه با خود گذشته، و اهمیت دوستان حمایت‌گر) با مکانیزم‌های این کتاب بسط داده می‌شوند (نگاه کنید به بخش روابط).
+- [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد: اصل انباشت پیوسته در سطح سازمانی مستقل از انباشت عادت در سطح فردی به همان نتیجه رسیده است.
 
 ## Relationships
 
@@ -35,6 +36,7 @@ updated: 2026-07-31
 - **تقابل آموزنده:** [[habit-contracts-with-social-stakes-increase-follow-through]] در کنار [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] از کتاب [[boundaries]] نشان می‌دهد پاسخگویی اجتماعی دو روی دارد — قرارداد عادت وقتی سالم است که بر پایه‌ی انتخاب آزادانه و احترام متقابل باشد، درحالی‌که همان اهرم (اهمیت‌دادن به نظر دیگران) در دست یک رابطه‌ی کنترل‌گرانه ناسالم می‌شود.
 - **بسط (Extension):** [[what-you-practice-grows-stronger-through-neuroplasticity]] از کتاب [[good-morning-i-love-you]] مکانیزم عصب‌شناختی [[small-habits-compound-into-large-results-invisibly]] را در سطح ساختار مغز توضیح می‌دهد.
 - **موافقت (Agreement):** [[small-consistent-practice-beats-forcing-large-change]] از همان کتاب مستقل از [[the-two-minute-rule-makes-new-habits-immediately-achievable]] به همان نتیجه رسیده است.
+- **موافقت (Agreement):** [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] از [[good-to-great]] مستقل از [[small-habits-compound-into-large-results-invisibly]] به همان اصل رسیده است — کلییر در سطح فردی رفتار، کالینز در سطح استراتژی سازمانی، هر دو نتیجه می‌گیرند که تنها انباشت پیوسته در یک جهت ثابت به نتیجه‌ی بزرگ می‌انجامد.
 
 ## Contradictions
 
@@ -51,9 +53,11 @@ updated: 2026-07-31
 - [[order-and-chaos]] — طراحی محیط برای کاهش اصطکاک یا نشانه‌های واضح، نمونه‌ای عملی از بازگرداندن نظم به یک بخش آشوبناک از زندگی روزمره است.
 - [[boundaries-and-ownership]] — پاسخگویی اجتماعی سالم (قرارداد عادت) در تضاد آموزنده با پویایی کنترل‌گرانه در آن موضوع قرار دارد.
 - [[mindfulness-and-self-compassion]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک.
+- [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل انباشت پیوسته‌ی فرد و سازمان.
 
 ## Sources
 
 - [[2026-07-31-atomic-habits-blinkist]]
 - [[2026-07-31-boundaries-blinkist]]
 - [[2026-07-31-good-morning-i-love-you-blinkist]]
+- [[2026-07-31-good-to-great-blinkist]]

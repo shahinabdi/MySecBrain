@@ -26,6 +26,8 @@ updated: 2026-07-31
 
 - بخشی از خوشه‌ی [[personal-responsibility]] در کنار [[self-care-requires-the-same-care-given-to-a-loved-one]]، [[progress-should-be-measured-against-your-past-self-not-others]] و [[meaningful-goals-outweigh-instant-gratification]].
 - **تقابل آموزنده با** [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]] از کتاب [[creativity-inc]]: این اصل برای مسئولیت‌پذیری در زندگی شخصی فرد صادق است؛ کتمول نشان می‌دهد در بافت یک تیم، توزیع آگاهانه‌ی مسئولیت شکست میان اعضا (نه مسئولیت‌پذیری صرفاً فردی) چیزی است که از سرزنش فلج‌کننده جلوگیری و یادگیری جمعی را ممکن می‌کند — تفاوت در سطح تحلیل (فرد در برابر تیم) است، نه تناقض.
+- **بسط‌یافته توسط** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] از کتاب [[good-to-great]]: کالینز همین اصل مسئولیت‌پذیری درونی‌شده را از سطح فرد به سطح فرهنگ سازمانی می‌برد — نظمی که از باور مشترک به هدف می‌آید (نه از ترس ناظر) پس از رفتن هر رهبری خاص نیز پایدار می‌ماند.
+- **مرتبط با** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] از کتاب [[good-to-great]]: هر دو ایده درباره‌ی مواجهه‌ی فعال با واقعیت به‌جای انکار یا سرزنش‌اند، هرچند آن ایده بر تعادل با ایمان تمرکز دارد و این ایده بر تقدم مسئولیت‌پذیری.
 
 ## Sources
 

@@ -11,6 +11,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-creativity-inc-blinkist]] — Blinkist summary of *Creativity, Inc.* by Ed Catmull with Amy Wallace.
 - [[2026-07-31-emotional-intelligence-blinkist]] — Blinkist summary of *Emotional Intelligence* by Daniel Goleman.
 - [[2026-07-31-good-morning-i-love-you-blinkist]] — Blinkist summary of *Good Morning, I Love You* by Shauna Shapiro.
+- [[2026-07-31-good-to-great-blinkist]] — Blinkist summary of *Good to Great* by Jim Collins.
 
 ## Translations
 
@@ -21,6 +22,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[creativity-inc-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شرکت خلاقیت».
 - [[emotional-intelligence-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هوش هیجانی».
 - [[good-morning-i-love-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «صبح‌بخیر، دوستت دارم».
+- [[good-to-great-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «از خوب به عالی».
 
 ## Books
 
@@ -31,6 +33,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[creativity-inc]] — صفحه‌ی مرکزی کتاب «شرکت خلاقیت» اثر اد کتمول و امی والاس.
 - [[emotional-intelligence]] — صفحه‌ی مرکزی کتاب «هوش هیجانی» اثر دنیل گلمن.
 - [[good-morning-i-love-you]] — صفحه‌ی مرکزی کتاب «صبح‌بخیر، دوستت دارم» اثر شانا شاپیرو.
+- [[good-to-great]] — صفحه‌ی مرکزی کتاب «از خوب به عالی» اثر جیم کالینز.
 
 ## Zettels
 
@@ -111,6 +114,15 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] — سرکوب احساسات نتیجه‌ی معکوس می‌دهد؛ نام ببرید و خوش‌آمد بگویید.
 - [[emotions-are-temporary-signals-that-rarely-outlast-90-seconds]] — احساسات سیگنال‌های موقتی‌اند که به‌ندرت از ۹۰ ثانیه فراتر می‌روند.
 - [[priming-your-mind-for-joy-through-small-repeated-habits]] — مغز را با عادت‌های کوچک و تکراری برای شادی آماده کنید.
+- [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] — تقاطع سه پرسش کلیدی، استراتژی ساده‌ای برای هدایت هر تصمیم می‌سازد.
+- [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] — انباشت پیوسته‌ی فشار در یک جهت به جهشی بزرگ می‌انجامد.
+- [[technology-should-accelerate-an-existing-strategy-not-define-it]] — فناوری باید شتاب‌دهنده‌ی استراتژی موجود باشد، نه تعیین‌کننده‌ی جهت آن.
+- [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] — رهبران سطح ۵ عزم حرفه‌ای شدید را با فروتنی شخصی عمیق ترکیب می‌کنند.
+- [[hiring-the-right-people-before-defining-strategy-enables-adaptation]] — آوردن افراد درست پیش از تعیین استراتژی، سازمان را برای انطباق آماده می‌کند.
+- [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] — مواجهه‌ی صادقانه با واقعیت‌های تلخ همراه با حفظ ایمان تزلزل‌ناپذیر، پشتکار می‌سازد.
+- [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] — رهبران باید سازوکارهایی بسازند که واقعیت‌های تلخ را بدون سرزنش آشکار کنند.
+- [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] — نظمی که از درون فرد می‌آید، بیشتر از نظم تحمیلی یک مستبد دوام می‌آورد.
+- [[leaders-who-fail-to-build-succession-plans-leave-fragile-legacies]] — رهبرانی که برنامه‌ی جانشینی نمی‌سازند، میراثی شکننده برجای می‌گذارند.
 
 ## Topics
 
@@ -123,6 +135,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها و عادت‌های مدیریتی لازم برای فرهنگ سازمانی خلاق.
 - [[emotional-intelligence-and-self-regulation]] — نقشه‌ی موضوعی کارکرد، اختلال، و تقویت هوش هیجانی.
 - [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
+- [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
 
 ## Queries
 
