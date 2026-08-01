@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[the-defining-test-of-an-asset-is-whether-it-puts-money-in-or-takes-money-out-of-your-wallet]] — همین کتاب: معیار پایه‌ای که تعیین می‌کند کدام سرمایه‌گذاری واقعاً به این چرخه کمک می‌کند.
 - [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] — **موافقت (Agreement):** از [[good-to-great]]: کالینز و کیوساکی، از دو حوزه‌ی کاملاً متفاوت (استراتژی سازمانی در برابر مالی شخصی)، مستقل از هم به همان اصل بنیادین رسیده‌اند — نتیجه‌ی بزرگ نه از یک جهش ناگهانی، بلکه از سرمایه‌گذاری‌مجدد پیوسته در همان جهت طی زمان می‌آید.
+- **بسط‌یافته توسط (Extension)** [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] از کتاب [[the-money-habit]]: میکالویچ نسخه‌ای کوچک‌مقیاس و در‌دسترس همین اصل ارائه می‌دهد — نیازی به سرمایه‌ی اولیه‌ی بزرگ یا شغلی پردرآمد نیست تا چرخه‌ی سرمایه‌گذاری‌مجدد آغاز شود؛ حتی یک دلار روزانه‌ی خودکار کافی است.
 
 ## Sources
 

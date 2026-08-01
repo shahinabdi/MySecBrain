@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **موافقت (Agreement):** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] از [[the-5-types-of-wealth]]: بلوم مستقل از هاوسل به همان نتیجه رسیده — بیشینه‌سازی شاخص مالی تنها، بدون توجه به نیازهای دیگر (روابط، سلامت، معنا)، به رضایت پایدار نمی‌انجامد؛ هاوسل بر خودآگاهی در *نحوه‌ی خرج‌کردن* همان ثروت مالی تمرکز می‌کند، بلوم بر تعادل میان *انواع* ثروت.
+- **موافقت (Agreement):** [[comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap]] از [[the-money-habit]] مستقل به همان اصل رسیده — میکالویچ ابزاری مشخص و عددی (مقایسه‌ی هزینه‌ی واقعی با نیت فصل مالی) برای سنجش همان خودآگاهی ارائه می‌دهد.
 
 ## Sources
 

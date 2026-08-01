@@ -64,6 +64,7 @@ updated: 2026-07-31
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل انباشت پیوسته‌ی فرد و سازمان.
 - [[mindfulness-and-self-compassion]] — از طریق چهار بسط مکانیزمی مشترک با [[how-a-little-becomes-a-lot]].
 - [[emotional-intelligence-and-self-regulation]] — از طریق بسط چارچوب WOOP با [[shift]].
+- [[financial-literacy-and-asset-ownership]] — از طریق بسط اصل «طراحی محیط بر تکیه به اراده برتری دارد» در حوزه‌ی پول با [[the-money-habit]].
 
 ## Sources
 

@@ -48,6 +48,7 @@ updated: 2026-07-31
 - [[personal-responsibility]] (از طریق بسط ایده‌ی مسیر پیشرفت)
 - [[wealth-beyond-money]] (از طریق موافقت با [[the-5-types-of-wealth]] در حوزه‌ی سلامت جسمی)
 - [[operational-efficiency-through-process-simplification]] (از طریق موافقت با [[the-algorithm]] در اصل کاهش اصطکاک)
+- [[financial-literacy-and-asset-ownership]] (از طریق موافقت با [[the-money-habit]] در اصل انباشت)
 
 ## Related Books
 
@@ -73,10 +74,12 @@ updated: 2026-07-31
   - **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[small-habits-compound-into-large-results-invisibly]] به همان اصل رسیده — بلوم آن را مشخصاً در حوزه‌ی سلامت جسمی به‌کار می‌برد.
 - [[the-algorithm]] — یک رابطه‌ی موافقت:
   - **موافقت:** [[mapping-every-process-step-and-keeping-only-what-creates-customer-value-cuts-friction]] مستقل از [[reducing-friction-makes-habits-easier]] به همان اصل رسیده — مک‌نیل آن را در سطح فرایند سازمانی و تجربه‌ی مشتری به‌کار می‌برد.
+- [[the-money-habit]] — یک رابطه‌ی موافقت:
+  - **موافقت:** [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] مستقل از [[small-habits-compound-into-large-results-invisibly]] به همان اصل رسیده — میکالویچ آن را مشخصاً در حوزه‌ی سرمایه‌گذاری مالی به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]]، [[how-a-little-becomes-a-lot]]، [[shift]]، [[the-5-types-of-wealth]] یا [[the-algorithm]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. با شیفت: یک بسط در فرمول نیت اجرایی. با پنج نوع ثروت: یک موافقت مستقل. با الگوریتم: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]]، [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[operational-efficiency-through-process-simplification]] مستند شده‌اند.
+بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]]، [[how-a-little-becomes-a-lot]]، [[shift]]، [[the-5-types-of-wealth]]، [[the-algorithm]] یا [[the-money-habit]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. با شیفت: یک بسط در فرمول نیت اجرایی. با پنج نوع ثروت: یک موافقت مستقل. با الگوریتم: یک موافقت مستقل. با عادت پول: یک موافقت مستقل در حوزه‌ی سرمایه‌گذاری. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]]، [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[operational-efficiency-through-process-simplification]] مستند شده‌اند.
 
 ## Translation
 

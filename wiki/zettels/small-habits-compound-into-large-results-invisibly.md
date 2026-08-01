@@ -28,6 +28,7 @@ updated: 2026-07-31
 - **بسط‌یافته توسط** [[what-you-practice-grows-stronger-through-neuroplasticity]] از کتاب [[good-morning-i-love-you]]: شاپیرو مکانیزم عصب‌شناختی این انباشت را در سطح ساختار مغز توضیح می‌دهد (شواهد از مطالعه‌ی هاروارد روی افراد ذهن‌آگاه) — چرا تکرار واقعاً به تغییر فیزیکی و پایدار می‌انجامد.
 - **موافقت (Agreement) با** [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] از کتاب [[good-to-great]]: کالینز مستقل از کلییر، در سطح سازمان به‌جای فرد، به همان اصل می‌رسد — پیشرفت‌های روزانه چنان نامحسوس‌اند که تنها انباشت پیوسته در یک جهت ثابت (نه تغییر مکرر جهت) به نتیجه‌ی بزرگ می‌انجامد.
 - **موافقت (Agreement) با** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] از کتاب [[the-5-types-of-wealth]]: بلوم مستقل از کلییر همین اصل را مشخصاً در حوزه‌ی سلامت جسمی به‌کار می‌برد — بدن مانند خانه‌ای که آسیب یا بهبودش تا سال‌ها بعد آشکار نمی‌شود.
+- **موافقت (Agreement) با** [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] از کتاب [[the-money-habit]]: میکالویچ مستقل از کلییر همین اصل را مشخصاً در حوزه‌ی سرمایه‌گذاری مالی به‌کار می‌برد — یک دلار روزانه در کوتاه‌مدت بی‌اهمیت است، اما مسیر انباشته‌شده در دهه‌ها به ثروتی واقعی می‌انجامد.
 
 ## Sources
 

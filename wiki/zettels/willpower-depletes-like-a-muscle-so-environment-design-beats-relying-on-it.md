@@ -27,6 +27,8 @@ updated: 2026-07-31
 - [[reducing-friction-makes-habits-easier]] — **بسط (Extension):** از [[atomic-habits]]: کلییر توصیه‌ی عملی کاهش اصطکاک را ارائه می‌دهد؛ این ایده مکانیزم روان‌شناختی (تخلیه‌ی منبع محدود اراده) را برای *چرا* طراحی محیط بر تکیه به اراده برتری دارد فراهم می‌کند.
 - [[shrinking-a-target-behavior-below-the-threat-threshold-bypasses-homeostatic-resistance]] — همین کتاب: هر دو ایده استدلال می‌کنند تکیه بر اراده یا تصمیم بزرگ ذاتاً شکننده است.
 - **بسط‌یافته توسط** [[deliberately-switching-or-modifying-your-physical-space-shifts-your-emotional-state]] از کتاب [[shift]]: این ایده طراحی محیط را برای شکل‌دادن رفتار (عادت) به‌کار می‌برد؛ کراس همان اصل را به قلمرو دیگری بسط می‌دهد — محیط فیزیکی نه‌فقط رفتار، بلکه مستقیماً حالت هیجانی را نیز شکل می‌دهد.
+- **بسط‌یافته توسط (Extension)** [[splitting-money-into-purpose-labeled-wallets-removes-guesswork-without-requiring-willpower]] از کتاب [[the-money-habit]]: میکالویچ این مکانیزم را در حوزه‌ی مدیریت پول به‌کار می‌برد — سیستم کیف‌پول‌های هدف‌دار، تصمیم مالی روزانه را از تکیه بر اراده به تکیه بر ساختار منتقل می‌کند.
+- **بسط‌یافته توسط (Extension)** [[a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates]] از کتاب [[the-money-habit]]: محدودکردن سقف یا دسترسی کارت اعتباری، نمونه‌ای دیگر از طراحی محیط به‌جای تکیه بر اراده است، این‌بار در حوزه‌ی توقف بدهی.
 
 ## Sources
 

@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[lack-of-financial-education-is-a-systemic-gap-left-by-schools-not-personal-failing]] — همین کتاب: چون این آموزش از مدرسه نمی‌آید، فرد باید خودش آن را عمداً و مرحله‌به‌مرحله بسازد.
+- **بسط‌یافته توسط (Extension)** [[identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus]] از کتاب [[the-money-habit]]: میکالویچ ابزاری مشخص و تکرارشونده برای گام «ارزیابی» فراهم می‌کند — به‌جای یک‌بار سنجیدن وضعیت، فصل مالی فرد را به‌طور مستمر در طول زندگی بازارزیابی می‌کند.
 
 ## Sources
 

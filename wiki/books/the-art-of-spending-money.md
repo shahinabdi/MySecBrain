@@ -48,6 +48,7 @@ updated: 2026-07-31
 - [[how-a-little-becomes-a-lot]] — یک رابطه‌ی کاربرد: واقع‌گرایی ساده‌لوحانه در قضاوت مالی دیگران.
 - [[12-rules-for-life]] — یک رابطه‌ی بسط: مکانیزم دقیق‌تر برای ارزش شادی‌های کوچک.
 - [[good-to-great]] — یک رابطه‌ی موافقت: ریشه‌ی روان‌شناختی مشترک فروتنی رهبری.
+- [[the-money-habit]] — یک رابطه‌ی موافقت: ابزاری عددی برای همان خودآگاهی مالی که هاوسل توصیه می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
@@ -56,6 +57,7 @@ updated: 2026-07-31
 - **کاربرد:** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] کاربرد [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] از [[how-a-little-becomes-a-lot]] در حوزه‌ی قضاوت مالی است.
 - **بسط:** [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] بسط [[celebrating-small-joys-amid-suffering-sustains-meaning]] از [[12-rules-for-life]] است.
 - **موافقت:** [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] از [[good-to-great]] به همان ریشه رسیده.
+- **موافقت:** [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] مستقل از [[comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap]] از [[the-money-habit]] به همان اصل رسیده.
 
 بدون تناقض.
 

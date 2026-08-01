@@ -23,6 +23,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-the-art-of-spending-money-blinkist]] — Blinkist summary of *The Art of Spending Money* by Morgan Housel.
 - [[2026-07-31-the-cost-of-quiet-blinkist]] — Blinkist summary of *The Cost of Quiet* by Colette Jane Fehr.
 - [[2026-08-01-the-first-minute-blinkist]] — Blinkist summary of *The First Minute* by Chris Fenning.
+- [[2026-08-01-the-money-habit-blinkist]] — Blinkist summary of *The Money Habit* by Mike Michalowicz.
 
 ## Translations
 
@@ -45,6 +46,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-art-of-spending-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هنر خرج‌کردن پول».
 - [[the-cost-of-quiet-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هزینه‌ی سکوت».
 - [[the-first-minute-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «دقیقه‌ی نخست».
+- [[the-money-habit-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «عادت پول».
 
 ## Books
 
@@ -67,6 +69,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-art-of-spending-money]] — صفحه‌ی مرکزی کتاب «هنر خرج‌کردن پول» اثر مورگان هاوسل.
 - [[the-cost-of-quiet]] — صفحه‌ی مرکزی کتاب «هزینه‌ی سکوت» اثر کولت جین فر.
 - [[the-first-minute]] — صفحه‌ی مرکزی کتاب «دقیقه‌ی نخست» اثر کریس فنینگ.
+- [[the-money-habit]] — صفحه‌ی مرکزی کتاب «عادت پول» اثر مایک میکالویچ.
 
 ## Zettels
 
@@ -248,6 +251,11 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity]] — روش GPS (هدف، مسئله، راه‌حل) گفتگوی جزئیات‌محور را به گفتگوی راه‌حل‌محور تبدیل می‌کند.
 - [[stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations]] — گفتن صریح مدت‌زمان یک گفتگو پیش از شروع، به برنامه‌ی شنونده احترام می‌گذارد.
 - [[a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage]] — نقطه‌ی اعتبارسنجی تأیید می‌کند شنونده هم فرد درست است و هم هنوز فرصت گفت‌وگو دارد.
+- [[splitting-money-into-purpose-labeled-wallets-removes-guesswork-without-requiring-willpower]] — تقسیم پول به کیف‌پول‌های هدف‌دار، حدس‌زدن را بدون نیاز به اراده حذف می‌کند.
+- [[identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus]] — شناسایی فصل مالی فعلی، «آیا می‌توانم این را بخرم؟» را به «آیا این با تمرکز فعلی من هم‌خوان است؟» تبدیل می‌کند.
+- [[comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap]] — مقایسه‌ی هزینه‌ی واقعی با نیت فصل مالی‌تان، شکاف واقعی اولویت‌ها را آشکار می‌کند.
+- [[a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates]] — انجماد بدهی نخست با کاهش شدید هزینه، محدودکردن اعتبار، و مذاکره‌ی نرخ بهره، چرخه را متوقف می‌کند.
+- [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] — خودکارسازی یک سرمایه‌گذاری ناچیز روزانه، اجازه می‌دهد زمان، نه تلاش، آن را به ثروتی واقعی تبدیل کند.
 
 ## Topics
 
@@ -262,7 +270,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
 - [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
-- [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، و هوش مالی.
+- [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، هوش مالی، و سیستم رفتاری روزمره‌ی مدیریت پول (کیف‌پول‌ها، فصل مالی، انجماد بدهی).
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
 - [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
 - [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی)، تعادل میان آن‌ها، و روان‌شناسی خرج‌کردن آگاهانه.

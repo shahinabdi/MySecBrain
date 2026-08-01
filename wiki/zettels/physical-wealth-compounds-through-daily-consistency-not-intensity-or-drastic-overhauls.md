@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **موافقت (Agreement):** [[small-habits-compound-into-large-results-invisibly]] از [[atomic-habits]]: کلییر مستقل از بلوم به همان اصل رسیده — نتایج بزرگ از انباشت نامرئیِ عادت‌های کوچک می‌آیند، نه از تحول دراماتیک؛ این ایده همان اصل را مشخصاً در حوزه‌ی سلامت جسمی به‌کار می‌برد.
+- **موافقت (Agreement):** [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] از [[the-money-habit]]: میکالویچ مستقل به همان اصل رسیده، این‌بار در حوزه‌ی سرمایه‌گذاری مالی — ثبات روزانه‌ی کوچک، نه شدت یا مبلغ بزرگ، عامل تعیین‌کننده است.
 
 ## Sources
 

@@ -46,6 +46,7 @@ updated: 2026-07-31
 - [[focused-strategy-and-disciplined-leadership]] (از طریق موافقت در سرمایه‌گذاری‌مجدد پیوسته و تقابل آموزنده‌ی تخصص/گستردگی)
 - [[order-and-chaos]] (از طریق کاربرد اصل ریسک‌پذیری سازنده در حوزه‌ی مالی)
 - [[wealth-beyond-money]] (از طریق شرط مرزی با [[the-5-types-of-wealth]])
+- [[habit-formation]] (از طریق بسط اصل «دارایی برایتان کار کند» با [[the-money-habit]])
 
 ## Related Books
 
@@ -56,10 +57,13 @@ updated: 2026-07-31
   - **کاربرد:** [[financial-success-requires-courage-as-much-as-knowledge]] اصل [[suppressing-natural-risk-taking-harms-more-than-it-protects]] را مشخصاً در حوزه‌ی تصمیم‌های مالی به‌کار می‌برد.
 - [[the-5-types-of-wealth]] — یک رابطه‌ی شرط مرزی:
   - **شرط مرزی:** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] بر [[the-defining-test-of-an-asset-is-whether-it-puts-money-in-or-takes-money-out-of-your-wallet]] مرز می‌گذارد — تسلط بر این معیار مالی، هرچند ضروری، بدون ثروت زمانی، اجتماعی، ذهنی و جسمی کافی برای زندگی‌ای غنی نیست.
+- [[the-money-habit]] — دو رابطه‌ی بسط:
+  - **بسط:** [[identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus]] ابزاری تکرارشونده برای گام «ارزیابی» [[assessing-goal-setting-and-continuous-education-build-financial-intelligence-in-that-order]] فراهم می‌کند.
+  - **بسط:** [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] نسخه‌ای کوچک‌مقیاس و در‌دسترس از [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] ارائه می‌دهد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[good-to-great]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل فرد/سازمان). با [[12-rules-for-life]]: یک رابطه‌ی کاربرد. با [[the-5-types-of-wealth]]: یک شرط مرزی. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[financial-literacy-and-asset-ownership]] و [[wealth-beyond-money]] مستند شده است.
+بدون تناقض واقعی. با [[good-to-great]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل فرد/سازمان). با [[12-rules-for-life]]: یک رابطه‌ی کاربرد. با [[the-5-types-of-wealth]]: یک شرط مرزی. با [[the-money-habit]]: دو رابطه‌ی بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[financial-literacy-and-asset-ownership]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

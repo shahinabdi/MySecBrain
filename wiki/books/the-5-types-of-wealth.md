@@ -52,6 +52,7 @@ updated: 2026-07-31
 - [[shift]] — یک رابطه‌ی موافقت: تجسم آینده به‌عنوان مکانیزم مشترک با WOOP.
 - [[atomic-habits]] — یک رابطه‌ی موافقت: ثبات روزانه به‌عنوان مسیر انباشت، در حوزه‌ی سلامت جسمی.
 - [[the-art-of-spending-money]] — یک رابطه‌ی موافقت: خودآگاهی در خرج‌کردن به‌عنوان مکمل تعادل میان انواع ثروت.
+- [[the-money-habit]] — یک رابطه‌ی کاربرد و یک رابطه‌ی موافقت: چارچوب فصل مالی تعادل انواع ثروت را عملیاتی می‌کند؛ سرمایه‌گذاری خودکار مستقل به همان اصل انباشت ثروت جسمی رسیده است.
 
 ## Agreements, Extensions & Contradictions
 
@@ -62,6 +63,8 @@ updated: 2026-07-31
 - **موافقت:** [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] مستقل از [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] از [[shift]] به مکانیزمی مشابه رسیده.
 - **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[small-habits-compound-into-large-results-invisibly]] از [[atomic-habits]] به همان اصل رسیده.
 - **موافقت:** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] مستقل از [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] از [[the-art-of-spending-money]] به همان نتیجه رسیده.
+- **کاربرد:** [[identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus]] از [[the-money-habit]] اصل [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] را عملیاتی می‌کند.
+- **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] از [[the-money-habit]] به همان اصل انباشت رسیده.
 
 بدون تناقض.
 

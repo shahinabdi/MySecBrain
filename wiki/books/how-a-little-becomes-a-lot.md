@@ -53,6 +53,7 @@ updated: 2026-07-31
 - [[personal-responsibility]] (بسط در تمایز خواسته/ارزش و تمرکز بر قابل‌کنترل)
 - [[wealth-beyond-money]] (از طریق کاربرد واقع‌گرایی ساده‌لوحانه در قضاوت مالی با [[the-art-of-spending-money]])
 - [[honest-communication]] (از طریق موافقت با [[the-cost-of-quiet]] در فاصله‌گذاری از یک روایت درونی مزاحم)
+- [[financial-literacy-and-asset-ownership]] (از طریق دو بسط با [[the-money-habit]] در حوزه‌ی طراحی محیط برای مدیریت پول)
 
 ## Related Books
 
@@ -84,10 +85,13 @@ updated: 2026-07-31
   - **کاربرد:** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] اصل [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] را در حوزه‌ی مشخصِ قضاوت مالی به‌کار می‌برد.
 - [[the-cost-of-quiet]] — یک رابطه‌ی موافقت:
   - **موافقت:** [[catching-the-negative-partner-story-before-treating-it-as-fact]] مستقل از [[naming-your-inner-critic-as-a-separate-character-creates-distance-from-its-narrative]] به مکانیزمی مشابه رسیده — نامگذاری یک روایت درونی مزاحم به‌عنوان چیزی جدا از واقعیت، فاصله‌ای می‌سازد که مانع اطاعت خودکار می‌شود.
+- [[the-money-habit]] — دو رابطه‌ی بسط (این‌بار در جهت معکوس — میکالویچ اصل زیمر را در حوزه‌ی پول به‌کار می‌برد):
+  - **بسط:** [[splitting-money-into-purpose-labeled-wallets-removes-guesswork-without-requiring-willpower]] اصل [[willpower-depletes-like-a-muscle-so-environment-design-beats-relying-on-it]] را در سیستم مدیریت پول به‌کار می‌برد.
+  - **بسط:** [[a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates]] همان اصل را در محدودکردن دسترسی به اعتبار به‌کار می‌برد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). با [[the-cost-of-quiet]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). با [[the-cost-of-quiet]]: یک موافقت مستقل. با [[the-money-habit]]: دو رابطه‌ی کاربرد که اصل طراحی محیط این کتاب را در حوزه‌ی پول به‌کار می‌برند. جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 
