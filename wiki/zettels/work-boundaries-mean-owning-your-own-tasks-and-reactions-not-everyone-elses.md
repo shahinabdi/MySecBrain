@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - کاربرد حرفه‌ای اصل کلی [[boundaries-mean-being-responsible-to-others-not-for-them]] در بافت محیط کار.
+- **بسط‌یافته توسط (Extension)** [[stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations]] از کتاب [[the-first-minute]]: فنینگ ابزاری مشخص و عملیاتی — گفتن صریح مدت‌زمان گفتگو پیش از شروع — برای اجرای احترام به مالکیت زمان دیگران در همان لحظه‌ی آغاز هر تعامل ارائه می‌دهد.
 
 ## Sources
 

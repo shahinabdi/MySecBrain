@@ -27,6 +27,7 @@ updated: 2026-07-31
 - **بسط‌دهنده‌ی** [[listening-to-learn-rather-than-to-win-makes-dialogue-constructive]] از کتاب [[12-rules-for-life]]: پیترسون بر گوش‌دادن با فرض یادگیری تأکید می‌کند؛ این زتل بعد همدلانه‌ی همان اصل را اضافه می‌کند — گاهی «یادگیری» طرف مقابل صرفاً نیاز به شنیده‌شدن است، نه محتوایی که باید از آن درس گرفت.
 - زیربنای [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]].
 - **بسط‌یافته توسط** [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] از کتاب [[how-a-little-becomes-a-lot]]: گلمن بر تنظیم *ارسال* پیام با همدلی تمرکز دارد؛ زیمر بُعد مکملی اضافه می‌کند — سوگیری در *دریافت و قضاوت* رفتار دیگری، پیش از آنکه اصلاً پیامی رد‌وبدل شود.
+- **بسط‌یافته توسط (Extension)** [[a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage]] از کتاب [[the-first-minute]]: فنینگ منطق پرسیدن-به‌جای-حدس‌زدن را یک قدم عقب‌تر می‌برد — پیش از آنکه اصلاً محتوای گفتگو مطرح شود، ظرفیت و صلاحیت شنونده برای درگیرشدن را روشن می‌کند.
 
 ## Sources
 

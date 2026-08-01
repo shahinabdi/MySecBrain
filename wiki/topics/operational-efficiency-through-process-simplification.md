@@ -53,6 +53,7 @@ updated: 2026-07-31
 - [[habit-formation]] — از طریق موافقت در اصل کاهش اصطکاک.
 - [[ai-as-tool-not-replacement]] — از طریق موافقت در اصل «تقویت‌کننده نیازمند پایه‌ی روشن است».
 - [[focused-strategy-and-disciplined-leadership]] — از طریق بسط سازوکار آشکارسازی واقعیت‌های تلخ.
+- [[clarity-in-workplace-communication]] — از طریق موافقت مستقل با [[the-first-minute]] درباره‌ی حذف آنچه به هدف نهایی خدمت نمی‌کند.
 
 ## Sources
 

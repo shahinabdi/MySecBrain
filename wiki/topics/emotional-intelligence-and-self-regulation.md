@@ -81,6 +81,7 @@ updated: 2026-07-31
 - [[personal-responsibility]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم اضطراب و طرد با [[stop-letting-everything-affect-you]].
 - [[honest-communication]] — از طریق دو بسط با [[the-cost-of-quiet]] که این موضوع را به تمرین‌های رابطه‌محور بسط می‌دهند.
+- [[clarity-in-workplace-communication]] — از طریق بسط منطق «پرسیدن به‌جای حدس‌زدن» با [[the-first-minute]].
 
 ## Sources
 

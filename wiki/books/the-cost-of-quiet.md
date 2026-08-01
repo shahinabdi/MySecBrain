@@ -53,6 +53,7 @@ updated: 2026-07-31
 - [[how-a-little-becomes-a-lot]] — یک رابطه‌ی موافقت: فاصله‌گذاری از یک روایت درونی مزاحم.
 - [[12-rules-for-life]] — یک رابطه‌ی کاربرد: زبان دقیق در بحرانی‌ترین نوع گفتگو.
 - [[good-morning-i-love-you]] — یک رابطه‌ی کاربرد: چارچوب ذهن‌آگاهی در خدمت صداقت رابطه‌ای.
+- [[the-first-minute]] — یک رابطه‌ی موافقت: پیش‌دستانگی درباره‌ی اطلاعاتی که مخاطب در غیر این صورت باید حدس بزند، مستقل در دو بافتار حرفه‌ای و عاشقانه.
 
 ## Agreements, Extensions & Contradictions
 
@@ -64,6 +65,7 @@ updated: 2026-07-31
 - **بسط:** [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] بسط [[boundaries-mean-being-responsible-to-others-not-for-them]] از [[boundaries]] است.
 - **بسط:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] بسط [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] از [[boundaries]] است، با مسیر میانه‌ی ظریف‌تر.
 - **کاربرد:** [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] کاربرد [[mindfulness-combines-intention-attention-and-attitude]] از [[good-morning-i-love-you]] است.
+- **موافقت:** [[naming-your-inner-state-before-your-partner-has-to-guess-reduces-misreading]] مستقل از [[framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion]] از [[the-first-minute]] به یک اصل رسیده.
 
 بدون تناقض.
 

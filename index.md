@@ -22,6 +22,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-the-algorithm-blinkist]] — Blinkist summary of *The Algorithm* by Jon McNeill.
 - [[2026-07-31-the-art-of-spending-money-blinkist]] — Blinkist summary of *The Art of Spending Money* by Morgan Housel.
 - [[2026-07-31-the-cost-of-quiet-blinkist]] — Blinkist summary of *The Cost of Quiet* by Colette Jane Fehr.
+- [[2026-08-01-the-first-minute-blinkist]] — Blinkist summary of *The First Minute* by Chris Fenning.
 
 ## Translations
 
@@ -43,6 +44,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-algorithm-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «الگوریتم».
 - [[the-art-of-spending-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هنر خرج‌کردن پول».
 - [[the-cost-of-quiet-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هزینه‌ی سکوت».
+- [[the-first-minute-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «دقیقه‌ی نخست».
 
 ## Books
 
@@ -64,6 +66,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-algorithm]] — صفحه‌ی مرکزی کتاب «الگوریتم» اثر جان مک‌نیل.
 - [[the-art-of-spending-money]] — صفحه‌ی مرکزی کتاب «هنر خرج‌کردن پول» اثر مورگان هاوسل.
 - [[the-cost-of-quiet]] — صفحه‌ی مرکزی کتاب «هزینه‌ی سکوت» اثر کولت جین فر.
+- [[the-first-minute]] — صفحه‌ی مرکزی کتاب «دقیقه‌ی نخست» اثر کریس فنینگ.
 
 ## Zettels
 
@@ -241,6 +244,10 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] — بیان یک مرز از دنبال‌کردن سه گام می‌آید: توجه به تأثیر رفتار، شناسایی نیاز، و اعلام پیامد.
 - [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] — واکنش منفی شریک زندگی به صداقت شما، اطلاعاتی درباره‌ی خودِ اوست، نه اثباتی بر نادرستی نیازهای شما.
 - [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] — صداقت وقتی در لحظات کوچک روزانه تمرین شود، از عملی نادر از شجاعت به عادت تبدیل می‌شود.
+- [[framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion]] — قاب‌بندی گفتگو در پانزده ثانیه‌ی نخست با بافتار، قصد، و پیام کلیدی از سردرگمی جلوگیری می‌کند.
+- [[the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity]] — روش GPS (هدف، مسئله، راه‌حل) گفتگوی جزئیات‌محور را به گفتگوی راه‌حل‌محور تبدیل می‌کند.
+- [[stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations]] — گفتن صریح مدت‌زمان یک گفتگو پیش از شروع، به برنامه‌ی شنونده احترام می‌گذارد.
+- [[a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage]] — نقطه‌ی اعتبارسنجی تأیید می‌کند شنونده هم فرد درست است و هم هنوز فرصت گفت‌وگو دارد.
 
 ## Topics
 
@@ -260,6 +267,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
 - [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی)، تعادل میان آن‌ها، و روان‌شناسی خرج‌کردن آگاهانه.
 - [[operational-efficiency-through-process-simplification]] — نقشه‌ی موضوعی پنج‌گام ساده‌سازی فرایند: زیرسؤال‌بردن، حذف، ساده‌سازی، تسریع، اتوماسیون در آخر.
+- [[clarity-in-workplace-communication]] — نقشه‌ی موضوعی ساختار و وضوح در دقیقه‌ی نخست ارتباط کاری: قاب‌بندی، روش GPS، بررسی زمان، و اعتبارسنجی.
 
 ## Queries
 

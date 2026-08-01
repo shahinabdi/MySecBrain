@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/topics/power-dynamics-and-strategic-positioning.md",
+                "file": "wiki/books/the-algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "power-dynamics-and-strategic-positioning"
+              "title": "the-algorithm"
             }
           }
         ]
@@ -217,17 +217,29 @@
   },
   "active": "0369b206f89f4fe3",
   "lastOpenFiles": [
+    "wiki/topics/honest-communication.md.tmp.34372.fd9d7feeb288",
+    "wiki/topics/clarity-in-workplace-communication.md",
+    "wiki/books/the-first-minute.md",
+    "wiki/zettels/naming-your-inner-state-before-your-partner-has-to-guess-reduces-misreading.md.tmp.34372.d7afc97b6731",
+    "wiki/zettels/precise-language-converts-chaotic-complexity-into-solvable-order.md.tmp.34372.204bc72e0caf",
+    "wiki/zettels/a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage.md",
+    "wiki/zettels/a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage.md.tmp.34372.fc11a470556b",
+    "wiki/zettels/stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations.md",
+    "wiki/zettels/the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity.md",
+    "wiki/zettels/the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity.md.tmp.34372.f36e7cc4a15e",
+    "wiki/zettels/framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion.md",
+    "wiki/translations/the-first-minute-fa.md",
+    "wiki/sources/2026-08-01-the-first-minute-blinkist.md",
+    "wiki/topics/operational-efficiency-through-process-simplification.md",
+    "wiki/books/emotional-intelligence.md",
+    "wiki/topics/emotional-intelligence-and-self-regulation.md",
+    "wiki/topics/power-dynamics-and-strategic-positioning.md",
     "log.md.tmp.34372.4478d5b59aad",
     "index.md.tmp.34372.17e491a558ea",
     "index.md.tmp.34372.3d2d64b0ae18",
     "index.md.tmp.34372.1d2f22827cba",
     "index.md.tmp.34372.a3da2655a528",
     "wiki/topics/emotional-intelligence-and-self-regulation.md.tmp.34372.bee514c274ea",
-    "wiki/topics/emotional-intelligence-and-self-regulation.md.tmp.34372.05a130483221",
-    "wiki/topics/boundaries-and-ownership.md.tmp.34372.716ae6e2e0cd",
-    "wiki/topics/boundaries-and-ownership.md.tmp.34372.619d1607d57f",
-    "wiki/topics/boundaries-and-ownership.md.tmp.34372.c8ec804cf94c",
-    "wiki/topics/honest-communication.md.tmp.34372.6ba8f9e53931",
     "wiki/books/the-cost-of-quiet.md",
     "wiki/zettels/daily-small-moments-of-speaking-up-turn-courage-into-habit.md",
     "wiki/zettels/a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong.md",
@@ -240,18 +252,6 @@
     "wiki/zettels/silence-that-feels-protective-in-the-moment-erodes-connection-over-time.md",
     "wiki/translations/the-cost-of-quiet-fa.md",
     "wiki/sources/2026-07-31-the-cost-of-quiet-blinkist.md",
-    "wiki/books/the-art-of-spending-money.md",
-    "wiki/zettels/the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others.md",
-    "wiki/zettels/discovering-your-spending-style-requires-a-wide-funnel-and-a-tight-filter-of-experimentation.md",
-    "wiki/zettels/happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power.md",
-    "wiki/zettels/every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy.md",
-    "wiki/zettels/unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection.md",
-    "wiki/zettels/money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard.md",
-    "wiki/translations/the-art-of-spending-money-fa.md",
-    "wiki/sources/2026-07-31-the-art-of-spending-money-blinkist.md",
-    "wiki/sources/2026-07-31-the-48-laws-of-power-blinkist.md",
-    "wiki/topics/operational-efficiency-through-process-simplification.md",
-    "wiki/books/the-algorithm.md",
-    "wiki/zettels/personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside.md"
+    "wiki/books/the-art-of-spending-money.md"
   ]
 }

@@ -42,6 +42,7 @@ updated: 2026-07-31
 ## Topics
 
 - [[operational-efficiency-through-process-simplification]]
+- [[clarity-in-workplace-communication]] (از طریق موافقت مستقل با [[the-first-minute]])
 
 ## Related Books
 
@@ -49,6 +50,7 @@ updated: 2026-07-31
 - [[atomic-habits]] — یک رابطه‌ی موافقت: کاهش اصطکاک، در سطح فرایند سازمانی به‌جای عادت فردی.
 - [[building-your-money-machine-with-chatgpt]] — یک رابطه‌ی موافقت: اتوماسیون/هوش مصنوعی به‌عنوان تقویت‌کننده‌ی پایه‌ی موجود، نه جایگزین آن.
 - [[good-to-great]] — یک رابطه‌ی بسط: نمونه‌ی عینی سازوکار آشکارسازی واقعیت‌های تلخ، به‌همراه نکته‌ی افزوده درباره‌ی دانش شخصی رهبر.
+- [[the-first-minute]] — یک رابطه‌ی موافقت: حذف آنچه به هدف نهایی خدمت نمی‌کند، مستقل در دو بافتار متفاوت (فرایند خرید در برابر ساختار گفتگو).
 
 ## Agreements, Extensions & Contradictions
 
@@ -57,6 +59,7 @@ updated: 2026-07-31
 - **موافقت:** [[mapping-every-process-step-and-keeping-only-what-creates-customer-value-cuts-friction]] مستقل از [[reducing-friction-makes-habits-easier]] از [[atomic-habits]] به همان اصل رسیده.
 - **موافقت:** [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] مستقل از [[ai-amplifies-effort-but-does-not-replace-vision-and-strategy]] از [[building-your-money-machine-with-chatgpt]] به همان اصل رسیده.
 - **بسط:** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] بسط [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] از [[good-to-great]] است.
+- **موافقت:** [[the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity]] مستقل از [[mapping-every-process-step-and-keeping-only-what-creates-customer-value-cuts-friction]] به همان اصل رسیده.
 
 بدون تناقض.
 

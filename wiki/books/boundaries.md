@@ -49,6 +49,7 @@ updated: 2026-07-31
 - [[personal-responsibility]] (از طریق بسط ایده‌ی مراقبت از خود)
 - [[power-dynamics-and-strategic-positioning]] (از طریق شرط مرزی بر تاکتیک اغوا/کمیابی گرین)
 - [[honest-communication]] (از طریق سه رابطه با [[the-cost-of-quiet]])
+- [[clarity-in-workplace-communication]] (از طریق بسط اصل مالکیت زمان با [[the-first-minute]])
 
 ## Related Books
 
@@ -73,10 +74,12 @@ updated: 2026-07-31
   - **موافقت:** [[silence-that-feels-protective-in-the-moment-erodes-connection-over-time]] مستقل از [[boundary-styles-compliant-avoidant-controller-nonresponsive]] به یک الگوی زیربنایی مشترک رسیده — دو چارچوب مستقل برای اشکال اجتناب رابطه‌ای.
   - **بسط:** [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] فرمول عملیاتیِ سه‌گامی برای بیان [[boundaries-mean-being-responsible-to-others-not-for-them]] فراهم می‌کند.
   - **بسط:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] بر نتیجه‌گیری نسبتاً قاطع [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] مسیر میانه‌ی ظریف‌تری اضافه می‌کند.
+- [[the-first-minute]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations]] ابزاری عملیاتی و مشخص برای اجرای [[work-boundaries-mean-owning-your-own-tasks-and-reactions-not-everyone-elses]] در همان لحظه‌ی آغاز یک گفتگوی کاری فراهم می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، و سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]]، و یک بسط با [[the-first-minute]] مستند شد.
 
 ## Translation
 

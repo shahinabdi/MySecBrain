@@ -24,7 +24,7 @@ updated: 2026-07-31
 
 ## Connections
 
-- —
+- **موافقت (Agreement):** [[framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion]] از [[the-first-minute]] مستقل به همان اصل رسیده — پیش‌دستانه‌بودن درباره‌ی اطلاعاتی که طرف مقابل در غیر این صورت باید حدس بزند، سوءتفاهم را کاهش می‌دهد؛ فنینگ این را در ارتباط حرفه‌ای به‌کار می‌برد، فر آن را در روابط عاشقانه به‌کار می‌برد.
 
 ## Sources
 

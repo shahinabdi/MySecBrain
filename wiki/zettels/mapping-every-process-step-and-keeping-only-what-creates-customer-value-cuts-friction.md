@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **موافقت (Agreement):** [[reducing-friction-makes-habits-easier]] از [[atomic-habits]]: کلییر نشان می‌دهد کاهش اصطکاک احتمال تکرار یک رفتار فردی را افزایش می‌دهد؛ مک‌نیل مستقل از او همان اصل را در سطح فرایند سازمانی و تجربه‌ی مشتری به‌کار می‌برد — اصطکاک، چه در عادت شخصی چه در فرایند خرید، مانعی است که با حذف آگاهانه از میان می‌رود.
+- **موافقت (Agreement):** [[the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity]] از [[the-first-minute]] مستقل به همان اصل رسیده — فنینگ همین منطقِ حذف آنچه به هدف نهایی خدمت نمی‌کند را در ساختار خودِ گفتگو (به‌جای فرایند خرید) به‌کار می‌برد.
 
 ## Sources
 

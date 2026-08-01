@@ -59,6 +59,7 @@ updated: 2026-07-31
 
 ## Related Topics
 
+- [[clarity-in-workplace-communication]] — هر دو موضوع درباره‌ی وضوح در ارتباط‌اند؛ این موضوع بر صداقت هیجانی و شخصی تمرکز دارد، آن موضوع بر ساختار و ترتیب ارائه‌ی پیام حرفه‌ای.
 - [[order-and-chaos]] — از طریق زتل مشترک [[precise-language-converts-chaotic-complexity-into-solvable-order]].
 - [[personal-responsibility]] — صداقت با خود پیش‌نیاز مسئولیت‌پذیری واقعی است.
 - [[psychological-safety-and-creative-culture]] — بسط سازمانی اصل گوش‌دادن و صداقت.
