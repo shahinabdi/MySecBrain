@@ -49,6 +49,7 @@ updated: 2026-07-31
 ## Topics
 
 - [[power-dynamics-and-strategic-positioning]]
+- [[moral-intuition-and-tribal-psychology]] (از طریق دو بسط با [[the-righteous-mind]])
 
 ## Related Books
 
@@ -57,6 +58,9 @@ updated: 2026-07-31
 - [[how-to-enjoy-your-life-and-your-job]] — تناقض و بسط: اصل «علاقه‌ی واقعی جذب می‌کند» کارنگی در تنش مستقیم با «تظاهر به دوستی برای استخراج اطلاعات» گرین قرار دارد؛ اما «اقناع از طریق عمل» دو کتاب مکانیزم مشترکی دارند.
 - [[boundaries]] — شرط مرزی: تاکتیک‌های اغوا و کمیابیِ گرین همان الگوهایی‌اند که کتاب مرزگذاری هشدار می‌دهد باید در روابط شخصی در برابرشان مرز گذاشت.
 - [[stop-letting-everything-affect-you]] — کاربرد متقابل: الگوی «دوستی جعلی برای کنترل» گرین همان چیزی است که چیدیاک به‌عنوان گس‌لایتینگ به قربانیان می‌آموزد تشخیص دهند.
+- [[the-righteous-mind]] — دو رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] مکانیزم روان‌شناختیِ زیربنایی [[appealing-to-self-interest-succeeds-where-appeals-to-goodwill-fail]] را نشان می‌دهد.
+  - **بسط:** [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] همان قانون را به‌عنوان یکی از شش اهرم اقناعیِ هایدت بازچارچوب می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
@@ -66,6 +70,8 @@ updated: 2026-07-31
 - **بسط:** [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] بسطِ [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] است، از بافت مشارکتی به بافت راهبردی.
 - **شرط مرزی:** [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] در برابر [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] از [[boundaries]] — همان مکانیزم، از دو منظرِ اجراکننده و هدف.
 - **کاربرد متقابل:** [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] در برابر [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] از [[stop-letting-everything-affect-you]] — راهنمای اجرا در برابر راهنمای تشخیص و دفاع.
+
+- **بسط:** [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] و [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] از [[the-righteous-mind]]، هر دو لایه‌ی روان‌شناختی به قوانین اقناعی این کتاب می‌افزایند.
 
 هیچ‌کدام از این روابط، تناقضی درباره‌ی واقعیت‌های تاریخی نیست؛ همگی درباره‌ی تنش میان راهبرد اثربخش و صداقتِ اخلاقی‌اند که کتاب هیچ‌جا آشکارا حل نمی‌کند.
 

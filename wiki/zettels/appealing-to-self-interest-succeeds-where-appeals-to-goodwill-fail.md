@@ -24,7 +24,8 @@ updated: 2026-07-31
 
 ## Connections
 
-- —
+- [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] — **بسط‌یافته توسط (Extended by)** [[the-righteous-mind]]: هایدت مکانیزم روان‌شناختیِ زیربنایی این قانون را نشان می‌دهد — مردم به‌طور طبیعی منافع خود را با اخلاق هم‌راستا تفسیر می‌کنند، پس توسل به منفعتشان با احساس درستی همراه است، نه با احساس تسلیم‌شدن.
+- [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] — **بسط‌یافته توسط (Extended by)** [[the-righteous-mind]]: هایدت نشان می‌دهد توسل به منفعت شخصی تنها یکی از شش اهرم اقناعی است؛ پیام‌هایی که هم‌زمان چند بنیان اخلاقی را هدف می‌گیرند، دامنه‌ی اقناعی گسترده‌تری از این قانون به‌تنهایی دارند.
 
 ## Sources
 

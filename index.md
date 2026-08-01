@@ -26,6 +26,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-08-01-the-money-habit-blinkist]] — Blinkist summary of *The Money Habit* by Mike Michalowicz.
 - [[2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist]] — Blinkist summary of *The Overthinker's Guide to Making Decisions* by Joseph Nguyen.
 - [[2026-08-01-the-psychology-of-money-blinkist]] — Blinkist summary of *The Psychology of Money* by Morgan Housel.
+- [[2026-08-01-the-righteous-mind-blinkist]] — Blinkist summary of *The Righteous Mind* by Jonathan Haidt.
 
 ## Translations
 
@@ -51,6 +52,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-money-habit-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «عادت پول».
 - [[the-overthinkers-guide-to-making-decisions-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری».
 - [[the-psychology-of-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «روان‌شناسی پول».
+- [[the-righteous-mind-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «ذهن پرهیزگار».
 
 ## Books
 
@@ -76,6 +78,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-money-habit]] — صفحه‌ی مرکزی کتاب «عادت پول» اثر مایک میکالویچ.
 - [[the-overthinkers-guide-to-making-decisions]] — صفحه‌ی مرکزی کتاب «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری» اثر جوزف نگوین.
 - [[the-psychology-of-money]] — صفحه‌ی مرکزی کتاب «روان‌شناسی پول» اثر مورگان هاوسل.
+- [[the-righteous-mind]] — صفحه‌ی مرکزی کتاب «ذهن پرهیزگار» اثر جاناتان هایدت.
 
 ## Zettels
 
@@ -276,6 +279,15 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]] — حسادت به ریسک‌پذیری بی‌پروا می‌انجامد، چون هزینه‌ی تعقیب بیشتر از ارزش داشتن بیشتر است.
 - [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] — ثروتمندشدن و ثروتمندماندن به مهارت‌های روان‌شناختی متضاد نیاز دارند — خوش‌بینی در برابر ترس.
 - [[a-portfolio-of-many-small-bets-lets-a-few-outsized-wins-outweigh-many-failures-the-long-tail]] — سبدی از شرط‌های کوچک و متعدد اجازه می‌دهد چند برنده‌ی بزرگ، بسیاری شکست را جبران کنند — دم بلند.
+- [[moral-judgments-arise-from-intuition-first-reasoning-acts-as-a-lawyer-not-a-judge]] — قضاوت اخلاقی از شهود می‌آید؛ استدلالی که پس از آن می‌آید مثل وکیل عمل می‌کند، نه قاضی.
+- [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] — منافع شخصی و نگرانی برای اعتبار، حتی بدون آگاهی فرد، استدلال اخلاقی را جهت‌دار می‌کند.
+- [[universal-moral-foundations-manifest-differently-across-cultures]] — بنیان‌های اخلاقی در همه‌ی فرهنگ‌ها مشترک‌اند، اما تجلی‌شان متفاوت است.
+- [[weird-cultures-are-moral-outliers-focused-on-individual-rights-over-community-and-sanctity]] — فرهنگ‌های WEIRD در اخلاق استثنا هستند؛ حقوق فردی را بر جامعه و تقدس مقدم می‌دارند.
+- [[evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic]] — تکامل هم در سطح فرد و هم در سطح گروه عمل کرده و انسان را هم‌زمان خودخواه و نوع‌دوست ساخته.
+- [[group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity]] — آیین‌های جمعی، هیبت و حالات دگرگون‌شده می‌توانند «سوییچ کندویی» را فعال کنند و منافع فردی را در هویت جمعی حل کنند.
+- [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] — آیین‌های پیونددهنده‌ی دین، فارغ از صحت باورهایش، انسجام، اعتماد و نوع‌دوستی گروهی می‌سازند.
+- [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] — محافظه‌کاران به دامنه‌ی وسیع‌تری از بنیان‌های اخلاقی نسبت به لیبرال‌ها متکی‌اند و همین دامنه‌ی اقناعی وسیع‌تری به آن‌ها می‌دهد.
+- [[political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture]] — قطبی‌شدن سیاسی حکمرانی را تضعیف می‌کند چون هر طرف تنها نیمی از تصویر اخلاقی را پاس می‌دارد.
 
 ## Topics
 
@@ -297,6 +309,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[operational-efficiency-through-process-simplification]] — نقشه‌ی موضوعی پنج‌گام ساده‌سازی فرایند: زیرسؤال‌بردن، حذف، ساده‌سازی، تسریع، اتوماسیون در آخر.
 - [[clarity-in-workplace-communication]] — نقشه‌ی موضوعی ساختار و وضوح در دقیقه‌ی نخست ارتباط کاری: قاب‌بندی، روش GPS، بررسی زمان، و اعتبارسنجی.
 - [[decisive-action-under-uncertainty]] — نقشه‌ی موضوعی تصمیم‌گیری آگاهانه زیر بار ترس: هزینه‌ی بلاتکلیفی، چارچوب‌های SAGE و TRUST، و بازسازی اعتماد به خود.
+- [[moral-intuition-and-tribal-psychology]] — نقشه‌ی موضوعی شهود اخلاقی، بنیان‌های اخلاقی مشترک، تکامل چندسطحی، سوییچ کندویی، کارکرد پیونددهنده‌ی دین، و ریشه‌ی روان‌شناختی قطبی‌شدن سیاسی.
 
 ## Queries
 

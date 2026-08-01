@@ -3,9 +3,9 @@ type: topic
 title: پویایی قدرت و جایگاه‌یابی راهبردی
 status: active
 tags: [قدرت, راهبرد, نفوذ, دستکاری]
-sources: [2026-07-31-the-48-laws-of-power-blinkist]
+sources: [2026-07-31-the-48-laws-of-power-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Central Question
@@ -31,6 +31,7 @@ updated: 2026-07-31
 - [[how-to-enjoy-your-life-and-your-job]] — یک تناقض و یک بسط شناسایی شد.
 - [[boundaries]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 - [[stop-letting-everything-affect-you]] — یک رابطه‌ی کاربرد متقابل شناسایی شد.
+- [[the-righteous-mind]] — دو رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -40,6 +41,8 @@ updated: 2026-07-31
 - **بسط (Extension):** [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] اصل [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] از [[how-to-enjoy-your-life-and-your-job]] را از بافتی مشارکتی و صادقانه به بافتی راهبردی‌تر می‌برد.
 - **شرط مرزی (Boundary Condition):** [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] از [[boundaries]] بر [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] مرز اخلاقی می‌گذارد — همان نوسانِ ترس/مهربانی، از منظر هدفِ آن، الگویی خطرناک است نه نشانه‌ی دلبستگی.
 - **کاربرد متقابل (Application):** [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] از [[stop-letting-everything-affect-you]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] — یکی راهنمای تشخیص و دفاع در برابر دستکاری است، دیگری توصیف همان تاکتیک از منظر عاملِ آن.
+- **بسط (Extension):** [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] از [[the-righteous-mind]] مکانیزم روان‌شناختیِ زیربنایی [[appealing-to-self-interest-succeeds-where-appeals-to-goodwill-fail]] را نشان می‌دهد.
+- **بسط (Extension):** [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] از همان کتاب، توسل به منفعت‌شخصی را به‌عنوان یکی از شش اهرم اقناعیِ گسترده‌تر بازچارچوب می‌کند.
 
 ## Contradictions
 
@@ -57,7 +60,9 @@ updated: 2026-07-31
 - [[influence-through-understanding-human-nature]] — از طریق تناقض و بسط با [[how-to-enjoy-your-life-and-your-job]].
 - [[boundaries-and-ownership]] — از طریق شرط مرزی بر تاکتیک اغوا/کمیابی.
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق کاربرد متقابل در تشخیص دستکاری.
+- [[moral-intuition-and-tribal-psychology]] — از طریق دو بسط در مکانیزم روان‌شناختی و دامنه‌ی اقناعیِ توسل به منفعت‌شخصی با [[the-righteous-mind]].
 
 ## Sources
 
 - [[2026-07-31-the-48-laws-of-power-blinkist]]
+- [[2026-08-01-the-righteous-mind-blinkist]]

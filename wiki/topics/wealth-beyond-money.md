@@ -3,7 +3,7 @@ type: topic
 title: ثروت فراتر از پول
 status: active
 tags: [ثروت, تعادل-زندگی, رفاه]
-sources: [2026-07-31-the-5-types-of-wealth-blinkist, 2026-07-31-the-art-of-spending-money-blinkist, 2026-08-01-the-psychology-of-money-blinkist]
+sources: [2026-07-31-the-5-types-of-wealth-blinkist, 2026-07-31-the-art-of-spending-money-blinkist, 2026-08-01-the-psychology-of-money-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
@@ -46,6 +46,7 @@ updated: 2026-08-01
 - [[how-a-little-becomes-a-lot]] — یک رابطه‌ی کاربرد شناسایی شد.
 - [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد.
 - [[the-psychology-of-money]] — منبع سوم این نقشه‌ی موضوعی، اثر دیگر هاوسل درباره‌ی مکانیزم روان‌شناختی سرمایه‌گذاری؛ سه رابطه‌ی بسط با [[the-art-of-spending-money]]، یک بسط با [[good-to-great]]، و یک بسط با [[shift]] شناسایی شد.
+- [[the-righteous-mind]] — یک رابطه‌ی بسط شناسایی شد (زمینه‌ی فرهنگی/تکاملیِ ضرورت ثروت اجتماعی).
 
 ## Relationships
 
@@ -64,6 +65,7 @@ updated: 2026-08-01
 - **بسط (Extension):** [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] از همان کتاب مکانیزم روان‌شناختیِ سوگیری اسنادی را به [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] می‌افزاید.
 - **بسط (Extension):** [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] از همان کتاب نشان می‌دهد فروتنیِ ناشی از شانس، صرفاً فضیلت اخلاقی نیست بلکه مهارتی بقایی برای حفظ ثروت است.
 - **بسط (Extension):** [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]] از همان کتاب نمونه‌ی مشخصی از [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از [[shift]] نشان می‌دهد.
+- **بسط (Extension):** [[weird-cultures-are-moral-outliers-focused-on-individual-rights-over-community-and-sanctity]] از [[the-righteous-mind]] زمینه‌ی فرهنگی/تکاملی به [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] می‌افزاید — تمرکز صرف بر شاخص مالی، خودْ نشانه‌ای از عینک فردگرایانه‌ی فرهنگ‌های WEIRD است.
 
 ## Contradictions
 
@@ -86,8 +88,10 @@ updated: 2026-08-01
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در ریشه‌ی روان‌شناختی فروتنی.
 - [[financial-literacy-and-asset-ownership]] — از طریق کاربرد چارچوب فصل مالی بر تعادل ثروت و موافقت مستقل در انباشت ثروت جسمی/مالی با [[the-money-habit]].
 - [[decisive-action-under-uncertainty]] — از طریق موافقت در قدرت تجسم وضعیت مطلوب با [[the-overthinkers-guide-to-making-decisions]].
+- [[moral-intuition-and-tribal-psychology]] — از طریق بسط زمینه‌ی فرهنگی/تکاملیِ ثروت اجتماعی با [[the-righteous-mind]].
 
 ## Sources
 
 - [[2026-07-31-the-5-types-of-wealth-blinkist]]
 - [[2026-07-31-the-art-of-spending-money-blinkist]]
+- [[2026-08-01-the-righteous-mind-blinkist]]

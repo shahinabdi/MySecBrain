@@ -3,9 +3,9 @@ type: topic
 title: هوش هیجانی و خودتنظیمی
 status: active
 tags: [هوش-هیجانی, خودتنظیمی, همدلی]
-sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Central Question
@@ -54,6 +54,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[emotional-tension-not-mental-effort-causes-desk-work-fatigue]] از [[how-to-enjoy-your-life-and-your-job]] اصل [[intense-emotion-crowds-out-rational-judgment]] را در سطح خستگی تجمعی روزانه بررسی می‌کند.
 - **بسط (Extension):** [[swapping-but-for-and-in-feedback-prevents-praise-from-being-erased-by-criticism]] از همان کتاب مکانیزم زبانی دقیقی به [[specific-solution-oriented-criticism-avoids-triggering-defensiveness]] می‌افزاید.
 - **بسط (Extension):** [[moods-spread-between-people-through-emotional-contagion]] از [[shift]] پدیده‌ی خودکار زیربنایی [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] را توصیف می‌کند.
+- **بسط (Extension):** [[group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity]] از [[the-righteous-mind]] سرایت هیجانیِ دونفره‌ی [[moods-spread-between-people-through-emotional-contagion]] را به سطح گروهیِ آگاهانه («سوییچ کندویی») بسط می‌دهد.
 - **بسط (Extension):** [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] از [[stop-letting-everything-affect-you]] نمونه‌ی مشخصی از [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] را با جزئیات عصبی و رفتاری شرح می‌دهد.
 - **بسط (Extension):** [[anxiety-loops-mistake-repetitive-worry-for-control]] از همان کتاب مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] نام می‌گذارد.
 - **بسط (Extension):** [[recurring-small-fights-are-often-driven-by-deeper-attachment-fears-not-the-surface-issue]] از [[the-cost-of-quiet]] مکانیزم مشخص و رابطه‌محوری برای [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] فراهم می‌کند.
@@ -83,6 +84,7 @@ updated: 2026-07-31
 - [[honest-communication]] — از طریق دو بسط با [[the-cost-of-quiet]] که این موضوع را به تمرین‌های رابطه‌محور بسط می‌دهند.
 - [[clarity-in-workplace-communication]] — از طریق بسط منطق «پرسیدن به‌جای حدس‌زدن» با [[the-first-minute]].
 - [[decisive-action-under-uncertainty]] — از طریق بسط اصل نام‌گذاری بدون‌قضاوت و موافقت در مکث فیزیولوژیک با [[the-overthinkers-guide-to-making-decisions]].
+- [[moral-intuition-and-tribal-psychology]] — از طریق بسط سرایت هیجانی دونفره به سوییچ کندویی گروهی با [[the-righteous-mind]].
 
 ## Sources
 
@@ -94,3 +96,4 @@ updated: 2026-07-31
 - [[2026-07-31-shift-blinkist]]
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
 - [[2026-07-31-the-cost-of-quiet-blinkist]]
+- [[2026-08-01-the-righteous-mind-blinkist]]

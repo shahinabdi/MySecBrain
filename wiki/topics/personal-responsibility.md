@@ -3,9 +3,9 @@ type: topic
 title: مسئولیت‌پذیری فردی
 status: active
 tags: [مسئولیت‌پذیری, خودمراقبتی, معنا]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Central Question
@@ -26,6 +26,7 @@ updated: 2026-07-31
 - [[boundaries]] — ایده‌ی محوری‌اش ([[boundaries-mean-being-responsible-to-others-not-for-them]]) مرز دقیق میان مراقبت سالم از خود و نادیده‌گرفتن خود را مشخص می‌کند.
 - [[how-a-little-becomes-a-lot]] — دو رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 - [[shift]] — یک رابطه‌ی شرط مرزی شناسایی شد.
+- [[the-righteous-mind]] — یک رابطه‌ی موافقت شناسایی شد (نگاه کنید به بخش روابط).
 
 ## Relationships
 
@@ -37,6 +38,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[delaying-gratification-by-managing-competing-feelings-predicts-achievement]] از [[emotional-intelligence]] مکانیزم روان‌شناختی [[meaningful-goals-outweigh-instant-gratification]] را ارائه می‌دهد — توانایی مدیریت آگاهانه‌ی احساسات رقیب، مستقل از ضریب هوشی، پیش‌بینی‌کننده‌ی موفقیت بلندمدت است.
 - **موافقت (Agreement):** [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] از [[good-morning-i-love-you]] مستقل از [[self-care-requires-the-same-care-given-to-a-loved-one]] به همان اصل رسیده و آن را با شواهد عصب‌شیمیایی تکمیل می‌کند.
 - **بسط (Extension):** [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] از [[good-to-great]] اصل [[taking-responsibility-must-precede-judging-the-world]] را از سطح فرد به سطح فرهنگ سازمانی می‌برد — نظمی که از باور مشترک به هدف می‌آید، نه از ترس یک ناظر مستبد، پس از رفتن هر رهبری خاص نیز پایدار می‌ماند.
+- **موافقت (Agreement):** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] از [[the-righteous-mind]] مستقل از همان زتلِ [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده، نه کنترل بیرونی، دوام گروه را می‌سازد؛ این بار در سطح جامعه‌ی دینی.
 - **بسط (Extension):** [[distinguishing-desires-from-values-directs-tiny-actions-toward-your-true-identity]] از [[how-a-little-becomes-a-lot]] چارچوب مشخصی (خواسته در برابر ارزش) به [[meaningful-goals-outweigh-instant-gratification]] می‌افزاید.
 - **بسط (Extension):** [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] از همان کتاب اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را از روابط بین‌فردی به کل حوزه‌های زندگی بسط می‌دهد.
 - **شرط مرزی (Boundary Condition):** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از [[shift]] بر [[progress-should-be-measured-against-your-past-self-not-others]] شرط دقیق‌تری می‌گذارد — مقایسه با دیگران همیشه مضر نیست، تنها زمانی مضر است که خودکار و بدون گزینش‌گری باشد؛ مقایسه‌ی گزینشی می‌تواند مکمل معیار «خودِ گذشته» باشد.
@@ -61,6 +63,7 @@ updated: 2026-07-31
 - [[boundaries-and-ownership]] — از طریق بسط اصل تمرکز-بر-قابل‌کنترل با [[how-a-little-becomes-a-lot]].
 - [[emotional-intelligence-and-self-regulation]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
 - [[decisive-action-under-uncertainty]] — هر دو درباره‌ی مالکیت آگاهانه‌ی انتخاب‌های زندگی‌اند؛ این موضوع بر اداره‌ی کلی زندگی تمرکز دارد، آن موضوع بر لحظه‌ی تصمیم‌گیری زیر بار ترس.
+- [[moral-intuition-and-tribal-psychology]] — از طریق موافقت در اصل تعهد درونی‌شده با [[the-righteous-mind]].
 
 ## Sources
 
@@ -73,3 +76,4 @@ updated: 2026-07-31
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - [[2026-07-31-shift-blinkist]]
+- [[2026-08-01-the-righteous-mind-blinkist]]

@@ -11,14 +11,10 @@
             "id": "19a8e56baa2443b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/The Leader's Guide to Lateral Thinking Skills by Paul Sloane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Leader's Guide to Lateral Thinking Skills by Paul Sloane"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -98,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579
+    "width": 579,
+    "collapsed": true
   },
   "right": {
     "id": "aa34dcc4ad007103",
@@ -217,18 +214,31 @@
   },
   "active": "19a8e56baa2443b3",
   "lastOpenFiles": [
-    "raw/The Art of Spending Money by Morgan Housel.md",
     "raw/The Leader's Guide to Lateral Thinking Skills by Paul Sloane.md",
-    "index.md.tmp.34372.7e9e6db458d4",
-    "index.md.tmp.34372.cd20dab0db51",
-    "index.md.tmp.34372.110b257b5c40",
-    "index.md.tmp.34372.9a84d947907e",
-    "index.md.tmp.34372.5e7863b0dd8c",
-    "wiki/books/the-art-of-spending-money.md.tmp.34372.5a8a483c1b9a",
-    "wiki/topics/financial-literacy-and-asset-ownership.md.tmp.34372.b054a57633f9",
-    "wiki/topics/financial-literacy-and-asset-ownership.md.tmp.34372.075be5817cfb",
-    "wiki/topics/wealth-beyond-money.md.tmp.34372.1a7a2ece0dae",
-    "wiki/topics/wealth-beyond-money.md.tmp.34372.a5205bab71ef",
+    "index.md.tmp.34372.496c468e32cd",
+    "index.md.tmp.34372.be09cafe67c7",
+    "index.md.tmp.34372.372bc85dcd21",
+    "wiki/topics/personal-responsibility.md.tmp.34372.39f9bfe82eda",
+    "wiki/topics/personal-responsibility.md.tmp.34372.9425d9f56283",
+    "wiki/topics/personal-responsibility.md.tmp.34372.2d21efc7eb54",
+    "wiki/topics/focused-strategy-and-disciplined-leadership.md.tmp.34372.76f0e6058d00",
+    "wiki/topics/wealth-beyond-money.md.tmp.34372.13bc2a2746b6",
+    "wiki/topics/wealth-beyond-money.md.tmp.34372.e880c0c74c59",
+    "wiki/topics/emotional-intelligence-and-self-regulation.md.tmp.34372.d798306ba89d",
+    "wiki/books/the-righteous-mind.md",
+    "wiki/topics/moral-intuition-and-tribal-psychology.md",
+    "wiki/zettels/political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture.md",
+    "wiki/zettels/conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach.md",
+    "wiki/zettels/religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth.md",
+    "wiki/zettels/group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity.md",
+    "wiki/zettels/evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic.md",
+    "wiki/zettels/weird-cultures-are-moral-outliers-focused-on-individual-rights-over-community-and-sanctity.md",
+    "wiki/zettels/universal-moral-foundations-manifest-differently-across-cultures.md",
+    "wiki/zettels/self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning.md",
+    "wiki/zettels/moral-judgments-arise-from-intuition-first-reasoning-acts-as-a-lawyer-not-a-judge.md",
+    "wiki/translations/the-righteous-mind-fa.md",
+    "wiki/sources/2026-08-01-the-righteous-mind-blinkist.md",
+    "raw/The Art of Spending Money by Morgan Housel.md",
     "wiki/books/the-psychology-of-money.md",
     "wiki/zettels/a-portfolio-of-many-small-bets-lets-a-few-outsized-wins-outweigh-many-failures-the-long-tail.md",
     "wiki/zettels/getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear.md",
@@ -238,20 +248,6 @@
     "wiki/zettels/many-modern-financial-institutions-are-only-decades-old-so-mistakes-often-reflect-inexperience-not-irrationality.md",
     "wiki/zettels/your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence.md",
     "wiki/translations/the-psychology-of-money-fa.md",
-    "wiki/sources/2026-08-01-the-psychology-of-money-blinkist.md",
-    "wiki/sources/2026-07-31-building-your-money-machine-with-chatgpt-blinkist.md",
-    "the-48-laws-of-power.md",
-    "wiki/books/the-48-laws-of-power.md",
-    "wiki/topics/decisive-action-under-uncertainty.md",
-    "wiki/books/the-overthinkers-guide-to-making-decisions.md",
-    "wiki/books/the-algorithm.md",
-    "wiki/zettels/small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned.md",
-    "wiki/zettels/the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action.md",
-    "wiki/zettels/shifting-from-what-should-i-pick-to-who-do-i-want-to-be-while-choosing-is-an-identity-level-move.md",
-    "wiki/zettels/observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices.md",
-    "wiki/zettels/an-actualized-decision-is-defined-by-alignment-with-who-youre-becoming-not-by-being-objectively-right.md",
-    "wiki/zettels/shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces.md",
-    "wiki/zettels/staying-undecided-is-itself-a-costly-decision-often-worse-than-choosing-and-adjusting.md",
-    "wiki/translations/the-overthinkers-guide-to-making-decisions-fa.md"
+    "wiki/sources/2026-08-01-the-psychology-of-money-blinkist.md"
   ]
 }

@@ -3,9 +3,9 @@ type: topic
 title: امنیت روانی و فرهنگ خلاقیت
 status: active
 tags: [خلاقیت, امنیت-روانی, مدیریت]
-sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
+sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Central Question
@@ -32,6 +32,7 @@ updated: 2026-07-31
 - [[good-to-great]] — دو رابطه‌ی موافقت شناسایی شد (نگاه کنید به بخش روابط).
 - [[how-to-enjoy-your-life-and-your-job]] — یک بسط و یک ارتباط مکمل شناسایی شد.
 - [[the-algorithm]] — دو رابطه‌ی بسط شناسایی شد.
+- [[the-righteous-mind]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 
 ## Relationships
 
@@ -46,6 +47,7 @@ updated: 2026-07-31
 - **مرتبط با:** [[sharing-your-own-mistake-invites-improvement-more-effectively-than-giving-orders]] از همان کتاب در کنار [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]] — هر دو درباره‌ی کاهش ترس در بازخورد، یکی در سطح بین‌فردی و دیگری در سطح سازمانی.
 - **بسط (Extension):** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]] تکنیکی عملی برای شناسایی مقاومت‌های ریشه‌دار در [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] فراهم می‌کند.
 - **بسط (Extension):** [[replacing-rigid-scripts-with-a-guiding-principle-lets-staff-solve-problems-creatively]] از [[the-algorithm]] نمونه‌ی عملیاتی مشخصی از [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] در خدمات مشتری ارائه می‌دهد.
+- **شرط مرزی (Boundary Condition):** [[evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic]] از [[the-righteous-mind]] بر [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] مرز می‌گذارد — انسجام گروهیِ برآمده از انتخاب سطح‌گروهی، به یکسانی افراد نیاز ندارد؛ تفاوت‌های مکمل نیز می‌توانند مبنای همان برتریِ گروهی باشند.
 
 ## Contradictions
 
@@ -64,6 +66,7 @@ updated: 2026-07-31
 - [[focused-strategy-and-disciplined-leadership]] — از طریق دو موافقت درباره‌ی صداقت سازمانی و برتری تیم بر ایده.
 - [[influence-through-understanding-human-nature]] — از طریق بسط مکانیزم مالکیت ایده و ارتباط مکمل در کاهش ترس بازخورد.
 - [[operational-efficiency-through-process-simplification]] — از طریق دو بسط با [[the-algorithm]] درباره‌ی ترس از تغییر و اعتماد به کارکنان.
+- [[moral-intuition-and-tribal-psychology]] — از طریق شرط مرزی بر ضرورت یکسانی افراد برای انسجام گروهی با [[the-righteous-mind]].
 
 ## Sources
 
@@ -72,3 +75,4 @@ updated: 2026-07-31
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-the-algorithm-blinkist]]
+- [[2026-08-01-the-righteous-mind-blinkist]]

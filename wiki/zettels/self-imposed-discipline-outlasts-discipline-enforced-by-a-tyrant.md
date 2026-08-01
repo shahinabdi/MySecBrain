@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[taking-responsibility-must-precede-judging-the-world]] — از [[12-rules-for-life]]: هر دو ایده مسئولیت درونی‌شده را بر کنترل بیرونی برتر می‌دانند، هرچند این ایده در سطح فرهنگ سازمانی و آن ایده در سطح فرد عمل می‌کند.
 - [[leaders-who-fail-to-build-succession-plans-leave-fragile-legacies]] — همین کتاب: هر دو نشان می‌دهند دستاورد وابسته به شخص رهبر، با رفتن او شکننده است.
+- [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] — **موافقت (Agreement)** با [[the-righteous-mind]]: هایدت مستقل از کالینز به نتیجه‌ای مشابه رسیده — تعهدِ درونی‌شده و مشترک (نه کنترل بیرونی) عامل دوامِ یک گروه در بلندمدت است؛ کالینز این را در سطح فرهنگ سازمانی نشان می‌دهد، هایدت در سطح جامعه‌ی دینی.
 
 ## Sources
 

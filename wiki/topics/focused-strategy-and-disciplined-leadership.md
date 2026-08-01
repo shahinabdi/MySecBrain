@@ -3,9 +3,9 @@ type: topic
 title: استراتژی متمرکز و رهبری منظم
 status: active
 tags: [استراتژی, رهبری, نظم-سازمانی]
-sources: [2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-rich-dad-poor-dad-blinkist]
+sources: [2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-rich-dad-poor-dad-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Central Question
@@ -33,6 +33,7 @@ updated: 2026-07-31
 - [[how-to-enjoy-your-life-and-your-job]] — یک رابطه‌ی موافقت شناسایی شد.
 - [[rich-dad-poor-dad]] — یک موافقت و یک تقابل آموزنده شناسایی شد.
 - [[the-algorithm]] — یک رابطه‌ی بسط شناسایی شد.
+- [[the-righteous-mind]] — یک رابطه‌ی موافقت شناسایی شد.
 
 ## Relationships
 
@@ -45,6 +46,7 @@ updated: 2026-07-31
 - **موافقت (Agreement):** [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] با [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] از [[rich-dad-poor-dad]] مستقل به همان اصل بنیادین رسیده‌اند: ثروت/موفقیت از سرمایه‌گذاری‌مجدد پیوسته در یک جهت می‌آید، نه از جهش ناگهانی.
 - **تقابل آموزنده:** [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] در برابر [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] از [[rich-dad-poor-dad]] — تمرکز باریک سازمانی (خارپشت) در برابر گستردگی مهارتی فردی؛ تفاوت سطح تحلیل، نه تناقض.
 - **بسط (Extension):** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] از [[the-algorithm]] نمونه‌ی عینی سازوکار [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] فراهم می‌کند و می‌افزاید: دانش عمیق شخصیِ رهبر از جزئیات، نه صرفاً ساختار جلسه، عامل «بلوف‌ناپذیری» است.
+- **موافقت (Agreement):** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] از [[the-righteous-mind]] مستقل از [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده، نه کنترل بیرونی، دوام گروه را می‌سازد؛ کالینز این را در سطح فرهنگ سازمانی نشان می‌دهد، هایدت در سطح جامعه‌ی دینی.
 
 ## Contradictions
 
@@ -65,6 +67,7 @@ updated: 2026-07-31
 - [[influence-through-understanding-human-nature]] — از طریق موافقت در اصل هدایت قدردانی به‌سوی دیگران.
 - [[financial-literacy-and-asset-ownership]] — از طریق موافقت در سرمایه‌گذاری‌مجدد پیوسته و تقابل آموزنده‌ی تخصص/گستردگی.
 - [[operational-efficiency-through-process-simplification]] — از طریق بسط سازوکار آشکارسازی واقعیت‌های تلخ.
+- [[moral-intuition-and-tribal-psychology]] — از طریق موافقت در اصل تعهد درونی‌شده با [[the-righteous-mind]].
 
 ## Sources
 
@@ -72,3 +75,4 @@ updated: 2026-07-31
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-rich-dad-poor-dad-blinkist]]
 - [[2026-07-31-the-algorithm-blinkist]]
+- [[2026-08-01-the-righteous-mind-blinkist]]

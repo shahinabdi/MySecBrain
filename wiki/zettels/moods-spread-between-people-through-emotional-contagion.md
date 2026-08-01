@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] — **بسط‌یافته توسط** از [[emotional-intelligence]]: این ایده پدیده‌ی خودکار و اغلب ناخواسته‌ی سرایت هیجانی را توصیف می‌کند؛ گلمن نشان می‌دهد همین مکانیزم را می‌توان عمداً و هدفمند به‌کار برد — آینه‌کردن آگاهانه‌ی زبان بدن دیگری برای ساختن همدلی، نه صرفاً تحمل غیرارادی سرایت آن.
+- [[group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity]] — **بسط‌یافته توسط (Extended by)** [[the-righteous-mind]]: هایدت این پدیده‌ی دونفره را به سطح گروهی می‌برد — «سوییچ کندویی» غوطه‌وری جمعی و آگاهانه‌ای است که می‌توان آن را عمداً، از طریق آیین، برانگیخت، نه فقط منفعلانه تجربه کرد.
 
 ## Sources
 

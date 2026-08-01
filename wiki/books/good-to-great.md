@@ -50,6 +50,7 @@ updated: 2026-07-31
 - [[emotional-intelligence-and-self-regulation]] (از طریق شرط مرزی بر خوش‌بینی)
 - [[operational-efficiency-through-process-simplification]] (از طریق بسط با [[the-algorithm]])
 - [[wealth-beyond-money]] (از طریق موافقت با [[the-art-of-spending-money]] در ریشه‌ی فروتنی)
+- [[moral-intuition-and-tribal-psychology]] (از طریق موافقت با [[the-righteous-mind]])
 
 ## Related Books
 
@@ -75,10 +76,12 @@ updated: 2026-07-31
   - **بسط:** [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] مکانیزم روان‌شناختیِ سوگیری اسنادی را به [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] می‌افزاید.
 - [[the-algorithm]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] نمونه‌ی عینی سازوکار [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] فراهم می‌کند و نکته‌ای می‌افزاید که این کتاب صریح نمی‌کند: دانش عمیق شخصیِ رهبر از جزئیات، نه صرفاً ساختار جلسه، عامل «بلوف‌ناپذیری» است.
+- [[the-righteous-mind]] — یک رابطه‌ی موافقت شناسایی شد:
+  - **موافقت:** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] مستقل از [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده، نه کنترل بیرونی، دوام گروه را می‌سازد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[the-48-laws-of-power]]: یک شرط مرزی. با [[the-algorithm]]: یک بسط. با [[the-art-of-spending-money]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[focused-strategy-and-disciplined-leadership]]، [[operational-efficiency-through-process-simplification]] و [[wealth-beyond-money]] مستند شده است.
+بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[the-48-laws-of-power]]: یک شرط مرزی. با [[the-algorithm]]: یک بسط. با [[the-art-of-spending-money]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[focused-strategy-and-disciplined-leadership]]، [[operational-efficiency-through-process-simplification]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 
