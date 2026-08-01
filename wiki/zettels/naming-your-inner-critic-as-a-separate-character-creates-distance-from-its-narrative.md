@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]] — **بسط (Extension):** از [[good-morning-i-love-you]]: شاپیرو پاسخ مهربانانه به خود را توصیف می‌کند؛ این ایده گام مقدماتی و پیش‌نیاز آن را اضافه می‌کند — پیش از پاسخ مهربانانه، باید نخست از خودِ منتقد فاصله گرفت تا محتوایش بی‌چون‌وچرا پذیرفته نشود.
 - **موافقت (Agreement):** [[catching-the-negative-partner-story-before-treating-it-as-fact]] از [[the-cost-of-quiet]]: فر مستقل از زیمر به مکانیزم مشابهی رسیده — «داستان منفی درباره‌ی شریک زندگی» را چون تفسیری جدا از واقعیت شناختن (نه یک صدای منتقد درونی، بلکه یک روایت آنیِ رابطه‌ای)، همان فاصله‌ی روانی را می‌سازد که مانع اطاعت خودکار از آن می‌شود.
+- **بسط‌یافته توسط (Extension)** [[shifting-from-what-should-i-pick-to-who-do-i-want-to-be-while-choosing-is-an-identity-level-move]] از [[the-overthinkers-guide-to-making-decisions]]: نگوین همان مکانیزم فاصله‌گذاری را برای زیرسؤال‌بردن باورهای قدیمی درباره‌ی «تصمیم درست» به‌کار می‌برد.
 
 ## Sources
 

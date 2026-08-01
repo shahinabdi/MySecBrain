@@ -50,6 +50,7 @@ updated: 2026-07-31
 - [[power-dynamics-and-strategic-positioning]] (از طریق شرط مرزی بر تاکتیک اغوا/کمیابی گرین)
 - [[honest-communication]] (از طریق سه رابطه با [[the-cost-of-quiet]])
 - [[clarity-in-workplace-communication]] (از طریق بسط اصل مالکیت زمان با [[the-first-minute]])
+- [[decisive-action-under-uncertainty]] (از طریق موافقت و بسط با [[the-overthinkers-guide-to-making-decisions]])
 
 ## Related Books
 
@@ -76,10 +77,13 @@ updated: 2026-07-31
   - **بسط:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] بر نتیجه‌گیری نسبتاً قاطع [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] مسیر میانه‌ی ظریف‌تری اضافه می‌کند.
 - [[the-first-minute]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations]] ابزاری عملیاتی و مشخص برای اجرای [[work-boundaries-mean-owning-your-own-tasks-and-reactions-not-everyone-elses]] در همان لحظه‌ی آغاز یک گفتگوی کاری فراهم می‌کند.
+- [[the-overthinkers-guide-to-making-decisions]] — دو رابطه:
+  - **موافقت:** [[observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices]] مستقل از [[family-of-origin-patterns-shape-adult-boundary-habits]] به همان اصل رسیده — قوانین به‌ارث‌رسیده در دو حوزه (مرزگذاری، تصمیم‌گیری).
+  - **بسط:** [[small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned]] مهارت [[owning-your-feelings-desires-and-limits-are-three-distinct-boundary-skills]] را با تمرین‌های عملی و کم‌ریسک عملیاتی می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]]، و یک بسط با [[the-first-minute]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]]، یک بسط با [[the-first-minute]]، و یک موافقت به‌همراه یک بسط با [[the-overthinkers-guide-to-making-decisions]] مستند شد.
 
 ## Translation
 

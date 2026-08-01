@@ -76,6 +76,7 @@ updated: 2026-07-31
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق بسط اصل زندگی بر پایه‌ی ارزش‌های خود در حوزه‌ی مالی.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در ریشه‌ی روان‌شناختی فروتنی.
 - [[financial-literacy-and-asset-ownership]] — از طریق کاربرد چارچوب فصل مالی بر تعادل ثروت و موافقت مستقل در انباشت ثروت جسمی/مالی با [[the-money-habit]].
+- [[decisive-action-under-uncertainty]] — از طریق موافقت در قدرت تجسم وضعیت مطلوب با [[the-overthinkers-guide-to-making-decisions]].
 
 ## Sources
 

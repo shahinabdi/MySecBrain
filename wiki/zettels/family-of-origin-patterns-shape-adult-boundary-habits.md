@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - **بسط‌دهنده‌ی** [[clear-boundaries-in-parenting-produce-responsible-children]] از کتاب [[12-rules-for-life]]: پیترسون وظیفه‌ی والد در تعیین مرزهای روشن برای تربیت فرزندی مسئولیت‌پذیر را توصیف می‌کند؛ این کتاب سمت دیگر همان رابطه را نشان می‌دهد — وقتی آن مرزها در کودکی نامشخص یا بیش‌ازحد سخت‌گیرانه بوده‌اند، همان الگو در مرزهای بزرگسالی فرد بازتولید می‌شود.
 - مرتبط با [[respond-rather-than-react-to-preserve-boundaries-under-pressure]]: راهکار عملی برای شکستن این الگوهای موروثی.
+- **موافقت (Agreement):** [[observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices]] از [[the-overthinkers-guide-to-making-decisions]] مستقل به نتیجه‌ی مشابهی رسیده — نگوین همین اصل را برای الگوهای تصمیم‌گیری (نه فقط مرزگذاری) به‌کار می‌برد: قوانین به‌ارث‌رسیده تنها با دیدن آگاهانه، نه سرزنش، قابل‌تغییرند.
 
 ## Sources
 

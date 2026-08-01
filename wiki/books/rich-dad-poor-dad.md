@@ -47,6 +47,7 @@ updated: 2026-07-31
 - [[order-and-chaos]] (از طریق کاربرد اصل ریسک‌پذیری سازنده در حوزه‌ی مالی)
 - [[wealth-beyond-money]] (از طریق شرط مرزی با [[the-5-types-of-wealth]])
 - [[habit-formation]] (از طریق بسط اصل «دارایی برایتان کار کند» با [[the-money-habit]])
+- [[decisive-action-under-uncertainty]] (از طریق موافقت در هزینه‌ی واقعی اجتناب از ریسک با [[the-overthinkers-guide-to-making-decisions]])
 
 ## Related Books
 
@@ -60,10 +61,12 @@ updated: 2026-07-31
 - [[the-money-habit]] — دو رابطه‌ی بسط:
   - **بسط:** [[identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus]] ابزاری تکرارشونده برای گام «ارزیابی» [[assessing-goal-setting-and-continuous-education-build-financial-intelligence-in-that-order]] فراهم می‌کند.
   - **بسط:** [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] نسخه‌ای کوچک‌مقیاس و در‌دسترس از [[rich-people-make-their-assets-work-for-them-instead-of-working-for-money]] ارائه می‌دهد.
+- [[the-overthinkers-guide-to-making-decisions]] — یک رابطه‌ی موافقت:
+  - **موافقت:** [[staying-undecided-is-itself-a-costly-decision-often-worse-than-choosing-and-adjusting]] مستقل از [[financial-success-requires-courage-as-much-as-knowledge]] به همان اصل رسیده — هزینه‌ی واقعی اجتناب از تصمیم به‌خاطر ترس، در دو حوزه‌ی متفاوت (مالی در برابر تصمیم‌گیری عمومی).
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[good-to-great]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل فرد/سازمان). با [[12-rules-for-life]]: یک رابطه‌ی کاربرد. با [[the-5-types-of-wealth]]: یک شرط مرزی. با [[the-money-habit]]: دو رابطه‌ی بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[financial-literacy-and-asset-ownership]] و [[wealth-beyond-money]] مستند شده است.
+بدون تناقض واقعی. با [[good-to-great]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل فرد/سازمان). با [[12-rules-for-life]]: یک رابطه‌ی کاربرد. با [[the-5-types-of-wealth]]: یک شرط مرزی. با [[the-money-habit]]: دو رابطه‌ی بسط. با [[the-overthinkers-guide-to-making-decisions]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[financial-literacy-and-asset-ownership]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

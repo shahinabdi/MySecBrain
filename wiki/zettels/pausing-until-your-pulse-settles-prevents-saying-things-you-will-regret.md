@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - کاربرد فیزیولوژیک-عملی از [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]].
 - **کاربرد یافته توسط** [[respond-rather-than-react-to-preserve-boundaries-under-pressure]] از کتاب [[boundaries]]: این زتل ابزار عینی و قابل‌اندازه‌گیری‌ای (ضربان قلب) برای اجرای همان توصیه‌ی رفتاری ارائه می‌دهد.
+- **موافقت (Agreement):** [[the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action]] از [[the-overthinkers-guide-to-making-decisions]] مستقل به همان اصل رسیده — نگوین مکث فیزیولوژیک (نفس عمیق) را برای تصمیم‌گیری به‌طور کلی به‌کار می‌برد، نه فقط گفت‌وگوی تعارضی.
 
 ## Sources
 

@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **موافقت (Agreement):** [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] از [[shift]]: کراس مستقل از بلوم به مکانیزمی مشابه رسیده — تضادِ ذهنیِ آگاهانه میان وضعیت مطلوب و وضعیت کنونی (یا در اینجا، خودِ آینده و خودِ کنونی) رفتار حال را هدایت می‌کند؛ WOOP این تضاد را حول یک هدف مشخص می‌سازد، بلوم آن را حول تصویری کامل از یک نسخه‌ی آینده از خودِ فرد می‌سازد.
+- **موافقت (Agreement):** [[shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces]] از [[the-overthinkers-guide-to-making-decisions]] مستقل به اصل مشابهی رسیده — نگوین همان مکانیزم (تمرکز بر وضعیت مطلوب به‌جای اجتناب از بدترین حالت) را مشخصاً برای تصمیم‌گیری تحت ترس به‌کار می‌برد.
 
 ## Sources
 

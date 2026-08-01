@@ -53,6 +53,7 @@ updated: 2026-07-31
 - [[atomic-habits]] — یک رابطه‌ی موافقت: ثبات روزانه به‌عنوان مسیر انباشت، در حوزه‌ی سلامت جسمی.
 - [[the-art-of-spending-money]] — یک رابطه‌ی موافقت: خودآگاهی در خرج‌کردن به‌عنوان مکمل تعادل میان انواع ثروت.
 - [[the-money-habit]] — یک رابطه‌ی کاربرد و یک رابطه‌ی موافقت: چارچوب فصل مالی تعادل انواع ثروت را عملیاتی می‌کند؛ سرمایه‌گذاری خودکار مستقل به همان اصل انباشت ثروت جسمی رسیده است.
+- [[the-overthinkers-guide-to-making-decisions]] — یک رابطه‌ی موافقت: تمرکز بر وضعیت مطلوب به‌جای اجتناب از بدترین حالت، مستقل در دو حوزه.
 
 ## Agreements, Extensions & Contradictions
 
@@ -65,6 +66,7 @@ updated: 2026-07-31
 - **موافقت:** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] مستقل از [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] از [[the-art-of-spending-money]] به همان نتیجه رسیده.
 - **کاربرد:** [[identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus]] از [[the-money-habit]] اصل [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] را عملیاتی می‌کند.
 - **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] از [[the-money-habit]] به همان اصل انباشت رسیده.
+- **موافقت:** [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] مستقل از [[shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces]] از [[the-overthinkers-guide-to-making-decisions]] به همان اصل رسیده.
 
 بدون تناقض.
 

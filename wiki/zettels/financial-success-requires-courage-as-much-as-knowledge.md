@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[suppressing-natural-risk-taking-harms-more-than-it-protects]] — **کاربرد (Application):** از [[12-rules-for-life]]: پیترسون اصل کلی «سرکوب ریسک‌پذیری طبیعی به‌جای محافظت آسیب می‌زند» را مطرح می‌کند؛ این ایده همان اصل را مشخصاً در حوزه‌ی تصمیم‌های مالی (سرمایه‌گذاری در سهام، دارایی) به‌کار می‌برد.
+- **موافقت‌یافته توسط (Agreement)** [[staying-undecided-is-itself-a-costly-decision-often-worse-than-choosing-and-adjusting]] از کتاب [[the-overthinkers-guide-to-making-decisions]]: نگوین مستقل به همان اصل رسیده و آن را از حوزه‌ی مالی به تصمیم‌گیری به‌طور کلی بسط می‌دهد.
 
 ## Sources
 

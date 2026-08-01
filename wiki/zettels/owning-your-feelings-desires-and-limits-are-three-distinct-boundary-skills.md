@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - کاربرد رابطه‌ای اصل کلی‌تر [[boundaries-mean-being-responsible-to-others-not-for-them]] در بافت روابط عاشقانه.
+- **بسط‌یافته توسط (Extension)** [[small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned]] از کتاب [[the-overthinkers-guide-to-making-decisions]]: نگوین مجموعه‌ای از تمرین‌های کم‌ریسک و مشخص برای تمرین همین مهارت «مالکیت خواسته‌ها» فراهم می‌کند.
 
 ## Sources
 

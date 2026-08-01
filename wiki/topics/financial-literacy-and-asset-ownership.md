@@ -68,6 +68,7 @@ updated: 2026-08-01
 - [[order-and-chaos]] — از طریق کاربرد اصل ریسک‌پذیری سازنده در حوزه‌ی مالی.
 - [[wealth-beyond-money]] — از طریق شرط مرزی که ثروت مالی را در بافت چهار نوع دیگر ثروت قرار می‌دهد، و کاربرد چارچوب فصل مالی بر تعادل ثروت.
 - [[habit-formation]] — از طریق بسط اصل «طراحی محیط بر تکیه به اراده برتری دارد» در حوزه‌ی پول با [[the-money-habit]].
+- [[decisive-action-under-uncertainty]] — از طریق موافقت در هزینه‌ی واقعی اجتناب از ریسک با [[the-overthinkers-guide-to-making-decisions]].
 
 ## Sources
 

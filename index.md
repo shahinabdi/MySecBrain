@@ -24,6 +24,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-the-cost-of-quiet-blinkist]] — Blinkist summary of *The Cost of Quiet* by Colette Jane Fehr.
 - [[2026-08-01-the-first-minute-blinkist]] — Blinkist summary of *The First Minute* by Chris Fenning.
 - [[2026-08-01-the-money-habit-blinkist]] — Blinkist summary of *The Money Habit* by Mike Michalowicz.
+- [[2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist]] — Blinkist summary of *The Overthinker's Guide to Making Decisions* by Joseph Nguyen.
 
 ## Translations
 
@@ -47,6 +48,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-cost-of-quiet-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هزینه‌ی سکوت».
 - [[the-first-minute-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «دقیقه‌ی نخست».
 - [[the-money-habit-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «عادت پول».
+- [[the-overthinkers-guide-to-making-decisions-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری».
 
 ## Books
 
@@ -70,6 +72,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-cost-of-quiet]] — صفحه‌ی مرکزی کتاب «هزینه‌ی سکوت» اثر کولت جین فر.
 - [[the-first-minute]] — صفحه‌ی مرکزی کتاب «دقیقه‌ی نخست» اثر کریس فنینگ.
 - [[the-money-habit]] — صفحه‌ی مرکزی کتاب «عادت پول» اثر مایک میکالویچ.
+- [[the-overthinkers-guide-to-making-decisions]] — صفحه‌ی مرکزی کتاب «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری» اثر جوزف نگوین.
 
 ## Zettels
 
@@ -256,6 +259,13 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap]] — مقایسه‌ی هزینه‌ی واقعی با نیت فصل مالی‌تان، شکاف واقعی اولویت‌ها را آشکار می‌کند.
 - [[a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates]] — انجماد بدهی نخست با کاهش شدید هزینه، محدودکردن اعتبار، و مذاکره‌ی نرخ بهره، چرخه را متوقف می‌کند.
 - [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] — خودکارسازی یک سرمایه‌گذاری ناچیز روزانه، اجازه می‌دهد زمان، نه تلاش، آن را به ثروتی واقعی تبدیل کند.
+- [[staying-undecided-is-itself-a-costly-decision-often-worse-than-choosing-and-adjusting]] — ماندن در بلاتکلیفی خودش نوعی تصمیم است که اغلب بیشتر از انتخاب و تنظیم‌کردن در مسیر هزینه دارد.
+- [[shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces]] — چرخاندن توجه از اجتناب از بدترین حالت به‌سوی یک احساس مطلوب، خروجی یک تصمیم را تغییر می‌دهد.
+- [[an-actualized-decision-is-defined-by-alignment-with-who-youre-becoming-not-by-being-objectively-right]] — تصمیم فعلیت‌یافته با هم‌راستایی با کسی که در حال شدنش هستید تعریف می‌شود، نه با «درست‌بودن» عینی.
+- [[observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices]] — مشاهده‌ی الگوی شخصی تصمیم‌گیری بدون سرزنش، قوانین نامرئی پشت انتخاب‌ها را آشکار می‌کند.
+- [[shifting-from-what-should-i-pick-to-who-do-i-want-to-be-while-choosing-is-an-identity-level-move]] — تغییر پرسش از «چه چیزی باید انتخاب کنم» به «هنگام انتخاب‌کردن چه کسی می‌خواهم باشم» حرکتی در سطح هویت است.
+- [[the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action]] — چارچوب TRUST یک چرخه‌ی فکری درباره‌ی تصمیم را به یک اقدام کوچک و مشخص تبدیل می‌کند.
+- [[small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned]] — آزمایش‌های کوچک و کم‌ریسک ترجیحی را که از قبل دارید اما هنوز صاحبش نشده‌اید آشکار می‌کنند.
 
 ## Topics
 
@@ -276,6 +286,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی)، تعادل میان آن‌ها، و روان‌شناسی خرج‌کردن آگاهانه.
 - [[operational-efficiency-through-process-simplification]] — نقشه‌ی موضوعی پنج‌گام ساده‌سازی فرایند: زیرسؤال‌بردن، حذف، ساده‌سازی، تسریع، اتوماسیون در آخر.
 - [[clarity-in-workplace-communication]] — نقشه‌ی موضوعی ساختار و وضوح در دقیقه‌ی نخست ارتباط کاری: قاب‌بندی، روش GPS، بررسی زمان، و اعتبارسنجی.
+- [[decisive-action-under-uncertainty]] — نقشه‌ی موضوعی تصمیم‌گیری آگاهانه زیر بار ترس: هزینه‌ی بلاتکلیفی، چارچوب‌های SAGE و TRUST، و بازسازی اعتماد به خود.
 
 ## Queries
 

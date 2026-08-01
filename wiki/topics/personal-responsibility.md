@@ -60,6 +60,7 @@ updated: 2026-07-31
 - [[focused-strategy-and-disciplined-leadership]] — از طریق بسط اصل نظم درونی‌شده به سطح فرهنگ سازمانی.
 - [[boundaries-and-ownership]] — از طریق بسط اصل تمرکز-بر-قابل‌کنترل با [[how-a-little-becomes-a-lot]].
 - [[emotional-intelligence-and-self-regulation]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
+- [[decisive-action-under-uncertainty]] — هر دو درباره‌ی مالکیت آگاهانه‌ی انتخاب‌های زندگی‌اند؛ این موضوع بر اداره‌ی کلی زندگی تمرکز دارد، آن موضوع بر لحظه‌ی تصمیم‌گیری زیر بار ترس.
 
 ## Sources
 

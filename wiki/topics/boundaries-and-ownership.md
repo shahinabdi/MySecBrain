@@ -67,6 +67,7 @@ updated: 2026-07-31
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم گناه و بخشش با [[stop-letting-everything-affect-you]].
 - [[power-dynamics-and-strategic-positioning]] — از طریق شرط مرزی بر تاکتیک اغوا/کمیابی گرین.
 - [[honest-communication]] — از طریق دو بسط با [[the-cost-of-quiet]] درباره‌ی بیان مرز و تفسیر واکنش دیگری.
+- [[decisive-action-under-uncertainty]] — از طریق موافقت در قوانین به‌ارث‌رسیده و بسط در تمرین‌های مالکیت خواسته با [[the-overthinkers-guide-to-making-decisions]].
 - [[clarity-in-workplace-communication]] — از طریق بسط اصل مالکیت زمان دیگران با [[the-first-minute]] در بافت محیط کار.
 
 ## Sources

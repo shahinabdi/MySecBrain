@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45fc14a307b23ccb",
+        "id": "3f89f166f6550267",
         "type": "tabs",
         "children": [
           {
-            "id": "0369b206f89f4fe3",
+            "id": "19a8e56baa2443b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/books/the-algorithm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "the-algorithm"
+              "title": "New tab"
             }
           }
         ]
@@ -215,43 +211,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0369b206f89f4fe3",
+  "active": "ededbe314dad80e0",
   "lastOpenFiles": [
-    "index.md.tmp.34372.6d5ba02af4b8",
+    "index.md.tmp.34372.40d7233f1b79",
+    "index.md.tmp.34372.711ebf462dc4",
+    "index.md.tmp.34372.bdd09474b864",
+    "wiki/sources/2026-07-31-building-your-money-machine-with-chatgpt-blinkist.md",
+    "wiki/topics/personal-responsibility.md.tmp.34372.5ad572f16595",
+    "the-48-laws-of-power.md",
+    "wiki/books/emotional-intelligence.md.tmp.34372.9686cc4a8965",
+    "wiki/books/emotional-intelligence.md.tmp.34372.29666c8ab1cf",
+    "wiki/books/how-a-little-becomes-a-lot.md.tmp.34372.e9703c83e115",
+    "wiki/books/how-a-little-becomes-a-lot.md.tmp.34372.24aee4af937e",
+    "wiki/books/the-48-laws-of-power.md",
+    "wiki/books/the-5-types-of-wealth.md.tmp.34372.83fd1ca0497e",
+    "wiki/books/rich-dad-poor-dad.md.tmp.34372.2fadeb462e6b",
+    "wiki/books/rich-dad-poor-dad.md.tmp.34372.5a64d81c897d",
+    "wiki/topics/decisive-action-under-uncertainty.md",
+    "wiki/books/the-overthinkers-guide-to-making-decisions.md",
+    "wiki/books/the-algorithm.md",
+    "wiki/zettels/small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned.md",
+    "wiki/zettels/the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action.md",
+    "wiki/zettels/shifting-from-what-should-i-pick-to-who-do-i-want-to-be-while-choosing-is-an-identity-level-move.md",
+    "wiki/zettels/observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices.md",
+    "wiki/zettels/an-actualized-decision-is-defined-by-alignment-with-who-youre-becoming-not-by-being-objectively-right.md",
+    "wiki/zettels/shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces.md",
+    "wiki/zettels/staying-undecided-is-itself-a-costly-decision-often-worse-than-choosing-and-adjusting.md",
+    "wiki/translations/the-overthinkers-guide-to-making-decisions-fa.md",
+    "wiki/sources/2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist.md",
     "wiki/books/the-money-habit.md",
     "wiki/zettels/automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth.md",
     "wiki/zettels/a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates.md",
-    "wiki/zettels/a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates.md.tmp.34372.4c6911b1a9fc",
     "wiki/zettels/comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap.md",
     "wiki/zettels/identifying-your-current-financial-season-reframes-can-i-afford-this-into-does-this-fit-my-focus.md",
     "wiki/zettels/splitting-money-into-purpose-labeled-wallets-removes-guesswork-without-requiring-willpower.md",
     "wiki/translations/the-money-habit-fa.md",
     "wiki/sources/2026-08-01-the-money-habit-blinkist.md",
-    "wiki/topics/honest-communication.md.tmp.34372.fd9d7feeb288",
     "wiki/topics/clarity-in-workplace-communication.md",
-    "wiki/books/the-first-minute.md",
-    "wiki/zettels/naming-your-inner-state-before-your-partner-has-to-guess-reduces-misreading.md.tmp.34372.d7afc97b6731",
-    "wiki/zettels/precise-language-converts-chaotic-complexity-into-solvable-order.md.tmp.34372.204bc72e0caf",
-    "wiki/zettels/a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage.md",
-    "wiki/zettels/a-validation-checkpoint-confirms-the-listener-is-both-the-right-person-and-still-available-to-engage.md.tmp.34372.fc11a470556b",
-    "wiki/zettels/stating-the-time-a-conversation-will-take-upfront-respects-the-listeners-schedule-and-sets-expectations.md",
-    "wiki/zettels/the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity.md",
-    "wiki/zettels/the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity.md.tmp.34372.f36e7cc4a15e",
-    "wiki/zettels/framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion.md",
-    "wiki/translations/the-first-minute-fa.md",
-    "wiki/sources/2026-08-01-the-first-minute-blinkist.md",
-    "wiki/topics/operational-efficiency-through-process-simplification.md",
-    "wiki/books/emotional-intelligence.md",
-    "wiki/topics/emotional-intelligence-and-self-regulation.md",
-    "wiki/topics/power-dynamics-and-strategic-positioning.md",
-    "log.md.tmp.34372.4478d5b59aad",
-    "index.md.tmp.34372.17e491a558ea",
-    "index.md.tmp.34372.3d2d64b0ae18",
-    "index.md.tmp.34372.1d2f22827cba",
-    "wiki/books/the-cost-of-quiet.md",
-    "wiki/zettels/daily-small-moments-of-speaking-up-turn-courage-into-habit.md",
-    "wiki/zettels/a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong.md",
-    "wiki/zettels/stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence.md",
-    "wiki/zettels/naming-your-inner-state-before-your-partner-has-to-guess-reduces-misreading.md"
+    "wiki/books/the-first-minute.md"
   ]
 }

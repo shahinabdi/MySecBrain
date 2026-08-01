@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - [[anticipated-reward-not-just-reward-itself-drives-motivation]] — **بسط (Extension):** از [[atomic-habits]]: کلییر نشان می‌دهد پیش‌بینی پاداش آینده انگیزه می‌سازد (مکانیزم پیش‌نگر)؛ این ایده مکانیزم مکملی اضافه می‌کند — خودِ عمل انجام‌شده، حتی بدون پاداش پیش‌بینی‌شده، از طریق ساختن اعتمادبه‌نفس انگیزه تولید می‌کند (مکانیزم پس‌نگر).
 - [[shrinking-a-target-behavior-below-the-threat-threshold-bypasses-homeostatic-resistance]] — همین کتاب: کوچک‌کردن رفتار، شرط لازم برای این است که بتوان بدون انگیزه‌ی اولیه عمل را آغاز کرد.
+- **موافقت (Agreement):** [[the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action]] از [[the-overthinkers-guide-to-making-decisions]] مستقل به همان اصل رسیده — گام آخر چارچوب TRUST («کوچک‌ترین اقدام ممکن») همان منطق را برای خروج از یک چرخه‌ی فکری به‌کار می‌برد.
 
 ## Sources
 

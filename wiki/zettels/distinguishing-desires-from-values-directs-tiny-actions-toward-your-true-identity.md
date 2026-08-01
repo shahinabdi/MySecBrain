@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - [[meaningful-goals-outweigh-instant-gratification]] — **بسط (Extension):** از [[12-rules-for-life]]: پیترسون توصیه می‌کند معنا را بر ارضای آنی ترجیح دهیم، اما ابزاری برای تشخیص این دو در لحظه‌ی تصمیم ارائه نمی‌دهد؛ این ایده چارچوب مشخصی (خواسته در برابر ارزش) برای همین تشخیص فراهم می‌کند.
+- **بسط‌یافته توسط (Extension)** [[an-actualized-decision-is-defined-by-alignment-with-who-youre-becoming-not-by-being-objectively-right]] از کتاب [[the-overthinkers-guide-to-making-decisions]]: نگوین همین تمایز خواسته/ارزش را با چارچوب چهار‌پرسشی SAGE برای تصمیم‌های بزرگ و پرمخاطره (نه صرفاً اعمال ریز روزمره) عملیاتی می‌کند.
 
 ## Sources
 
