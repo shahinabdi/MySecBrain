@@ -3,7 +3,7 @@ type: topic
 title: سواد مالی و مالکیت دارایی
 status: active
 tags: [سواد-مالی, دارایی, سرمایه‌گذاری]
-sources: [2026-07-31-rich-dad-poor-dad-blinkist, 2026-07-31-the-5-types-of-wealth-blinkist, 2026-08-01-the-money-habit-blinkist]
+sources: [2026-07-31-rich-dad-poor-dad-blinkist, 2026-07-31-the-5-types-of-wealth-blinkist, 2026-08-01-the-money-habit-blinkist, 2026-08-01-the-psychology-of-money-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-01
 - مقایسه‌ی هزینه‌ی واقعی با نیت فصل مالی، شکاف واقعی اولویت‌ها را آشکار می‌کند: [[comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap]].
 - انجماد بدهی نخست با کاهش شدید هزینه، محدودکردن اعتبار، و مذاکره‌ی نرخ بهره، چرخه را متوقف می‌کند: [[a-debt-freeze-stops-the-cycle-first-through-sharp-cuts-restricted-credit-and-negotiated-rates]].
 - خودکارسازی یک سرمایه‌گذاری ناچیز روزانه، اجازه می‌دهد زمان، نه تلاش، آن را به ثروتی واقعی تبدیل کند: [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]].
+- سبدی از شرط‌های کوچک و متعدد اجازه می‌دهد چند برنده‌ی بزرگ، بسیاری شکست را جبران کنند — دم بلند: [[a-portfolio-of-many-small-bets-lets-a-few-outsized-wins-outweigh-many-failures-the-long-tail]].
 
 ## Books
 
@@ -39,6 +40,7 @@ updated: 2026-08-01
 - [[how-a-little-becomes-a-lot]] — دو رابطه‌ی بسط شناسایی شد (با [[the-money-habit]]).
 - [[the-art-of-spending-money]] — یک رابطه‌ی موافقت شناسایی شد (با [[the-money-habit]]).
 - [[atomic-habits]] — یک رابطه‌ی موافقت شناسایی شد (با [[the-money-habit]]).
+- [[the-psychology-of-money]] — یک زتل درباره‌ی راهبرد «دم بلند» در تنوع‌بخشی سرمایه‌گذاری افزوده شد؛ منبع اصلی این کتاب صفحه‌ی موضوع [[wealth-beyond-money]] است.
 
 ## Relationships
 
@@ -75,3 +77,4 @@ updated: 2026-08-01
 - [[2026-07-31-rich-dad-poor-dad-blinkist]]
 - [[2026-07-31-the-5-types-of-wealth-blinkist]]
 - [[2026-08-01-the-money-habit-blinkist]]
+- [[2026-08-01-the-psychology-of-money-blinkist]]

@@ -3,9 +3,9 @@ type: topic
 title: ثروت فراتر از پول
 status: active
 tags: [ثروت, تعادل-زندگی, رفاه]
-sources: [2026-07-31-the-5-types-of-wealth-blinkist, 2026-07-31-the-art-of-spending-money-blinkist]
+sources: [2026-07-31-the-5-types-of-wealth-blinkist, 2026-07-31-the-art-of-spending-money-blinkist, 2026-08-01-the-psychology-of-money-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Central Question
@@ -28,6 +28,10 @@ updated: 2026-07-31
 - خوشبختی از شکاف میان انتظار و واقعیت می‌آید؛ رفتار با لوکس‌ها به‌عنوان تفریحی نادر آن شکاف را زنده نگه می‌دارد: [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]].
 - کشف سبک خرج‌کردن شادکننده نیازمند «قیف پهن و فیلتر تنگ» آزمایش است، نه حدس یا تقلید: [[discovering-your-spending-style-requires-a-wide-funnel-and-a-tight-filter-of-experimentation]].
 - هرچه خوش‌شانس‌تر باشید، بیشتر بدهکار فروتنی و مهربانی نسبت به دیگران‌اید: [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]].
+- تجربه‌ی اقتصادی اوایل بزرگسالی، تحمل ریسک را برای همیشه لنگر می‌اندازد، فارغ از شواهد بعدی: [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]].
+- شانس و مهارت به‌آسانی اشتباه گرفته می‌شوند چون موفقیت خودمان را به مهارت و شکست دیگران را به شخصیت نسبت می‌دهیم: [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]].
+- حسادت به ریسک‌پذیری بی‌پروا می‌انجامد، چون هزینه‌ی تعقیب بیشتر از ارزش داشتن بیشتر است: [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]].
+- ثروتمندشدن و ثروتمندماندن به مهارت‌های روان‌شناختی متضاد نیاز دارند — خوش‌بینی در برابر ترس: [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]].
 
 ## Books
 
@@ -41,6 +45,7 @@ updated: 2026-07-31
 - [[stop-letting-everything-affect-you]] — یک رابطه‌ی بسط شناسایی شد.
 - [[how-a-little-becomes-a-lot]] — یک رابطه‌ی کاربرد شناسایی شد.
 - [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد.
+- [[the-psychology-of-money]] — منبع سوم این نقشه‌ی موضوعی، اثر دیگر هاوسل درباره‌ی مکانیزم روان‌شناختی سرمایه‌گذاری؛ سه رابطه‌ی بسط با [[the-art-of-spending-money]]، یک بسط با [[good-to-great]]، و یک بسط با [[shift]] شناسایی شد.
 
 ## Relationships
 
@@ -55,6 +60,10 @@ updated: 2026-07-31
 - **کاربرد (Application):** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] اصل [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] از [[how-a-little-becomes-a-lot]] را در حوزه‌ی قضاوت مالی به‌کار می‌برد.
 - **بسط (Extension):** [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] بسط [[celebrating-small-joys-amid-suffering-sustains-meaning]] از [[12-rules-for-life]] است.
 - **موافقت (Agreement):** [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] از [[good-to-great]] به همان ریشه‌ی روان‌شناختی رسیده.
+- **بسط (Extension):** [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]] از [[the-psychology-of-money]] لایه‌ی عمیق‌تری به [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] می‌افزاید — حتی ارزش‌های «خودِ» فرد نیز محصول تصادفی تجربه‌ی اقتصادی اوست.
+- **بسط (Extension):** [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] از همان کتاب مکانیزم روان‌شناختیِ سوگیری اسنادی را به [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] می‌افزاید.
+- **بسط (Extension):** [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] از همان کتاب نشان می‌دهد فروتنیِ ناشی از شانس، صرفاً فضیلت اخلاقی نیست بلکه مهارتی بقایی برای حفظ ثروت است.
+- **بسط (Extension):** [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]] از همان کتاب نمونه‌ی مشخصی از [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از [[shift]] نشان می‌دهد.
 
 ## Contradictions
 

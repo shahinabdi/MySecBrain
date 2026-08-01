@@ -431,3 +431,29 @@ Created `wiki/` subdirectories (`sources`, `translations`, `books`, `zettels`, `
 - **Contradictions:** none found.
 - **Review flags:** Author and publication date were blank in the raw frontmatter; author name was taken directly from the explicit title text. The source introduces the SAGE and TRUST frameworks with limited worked examples for complex, multi-layered decisions, and does not address time-pressured or crisis decision-making, where the writing/reflection exercises may not be feasible.
 - **Index:** `index.md` updated with all new pages.
+
+## [2026-08-01] ingest | The Psychology of Money by Morgan Housel
+
+- **Source:** `raw/The Psychology of Money by Morgan Housel.md`, SHA-256 `ce0e50c6875529d6d8706e64a037c2532b85248b61484b86bd1f9ee8fa9c0664`. Classified as a new source (Processed Source Detection: no matching filename or hash in `wiki/sources/`). Note: this is a second, distinct book by Morgan Housel — separate from [[the-art-of-spending-money]] (already ingested); the two were treated as separate books with cross-linked but non-duplicate zettels.
+- **Created:** `wiki/sources/2026-08-01-the-psychology-of-money-blinkist.md`, `wiki/translations/the-psychology-of-money-fa.md`, `wiki/books/the-psychology-of-money.md`.
+- **Zettels created (7):**
+  1. [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]]
+  2. [[many-modern-financial-institutions-are-only-decades-old-so-mistakes-often-reflect-inexperience-not-irrationality]]
+  3. [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]]
+  4. [[broad-repeatable-patterns-teach-more-than-extreme-outlier-success-stories-because-luck-cannot-be-emulated]]
+  5. [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]]
+  6. [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]]
+  7. [[a-portfolio-of-many-small-bets-lets-a-few-outsized-wins-outweigh-many-failures-the-long-tail]]
+- **Duplicate prevention:** searched existing zettels for "luck", "survivorship", "outlier", "envy", "long tail", "risk tolerance", "formative", "generation", "retirement" — only one unrelated match found (a Good to Great humility zettel, already legitimately connected). Given the same author already has zettels in the library (from The Art of Spending Money), extra care was taken to distinguish new mechanisms from existing conclusions rather than duplicate them — e.g., the new "luck/skill attribution bias" zettel explains the psychological mechanism underlying the existing "the luckier you are, the more you owe humility" zettel rather than restating it; the new "early-adulthood risk anchor" zettel adds a deeper causal layer to the existing "unconsciously adopting others' financial values" zettel rather than duplicating it.
+- **No new topic** — mapped primarily into the existing [[wealth-beyond-money]] topic as a third source from Housel (alongside The 5 Types of Wealth and The Art of Spending Money), and secondarily into [[financial-literacy-and-asset-ownership]] via the long-tail/diversification zettel.
+- **Existing zettels enriched with reverse connections (5):** [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] (The Art of Spending Money), [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] (The Art of Spending Money, two reverse links), [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] (Shift).
+- **Books updated:** [[the-art-of-spending-money]], [[good-to-great]], [[shift]]. (Rich Dad Poor Dad and other financial-literacy books were not directly touched by this ingest beyond the topic-page relationship summaries already covering the decisive-action-under-uncertainty chain from Book 21.)
+- **Topics updated:** [[wealth-beyond-money]] (substantially extended: new Core Ideas, third Housel book listed, new Relationships), [[financial-literacy-and-asset-ownership]] (lightly touched: one new zettel, one new book entry, updated Sources).
+- **Cross-book relationships (5):**
+  1. **بسط (Extension):** [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]] adds a deeper causal layer to The Art of Spending Money's "unconsciously adopting others' values" zettel — even one's own values are often an accident of economic history.
+  2. **بسط (Extension):** [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] explains the attribution-bias mechanism underlying The Art of Spending Money's "the luckier you are, the more you owe humility" conclusion, and Good to Great's Level 5 leadership humility zettel.
+  3. **بسط (Extension):** [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] shows humility from luck-awareness is not just an ethical virtue but a survival skill, extending the same Art of Spending Money zettel.
+  4. **بسط (Extension):** [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]] gives Shift's "social comparison is neutral until perspective determines" a concrete example of unmanaged comparison producing catastrophic decisions.
+- **Contradictions:** none found.
+- **Review flags:** Author and publication date were blank in the raw frontmatter; author name was taken directly from the explicit title text. Examples are almost entirely US stock-market and economic-history specific; the book offers limited practical guidance for implementing a "long tail" strategy at the retail-investor scale.
+- **Index:** `index.md` updated with all new pages; the [[wealth-beyond-money]] and [[financial-literacy-and-asset-ownership]] index description lines were broadened to reflect the extended scope.

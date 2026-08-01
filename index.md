@@ -25,6 +25,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-08-01-the-first-minute-blinkist]] — Blinkist summary of *The First Minute* by Chris Fenning.
 - [[2026-08-01-the-money-habit-blinkist]] — Blinkist summary of *The Money Habit* by Mike Michalowicz.
 - [[2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist]] — Blinkist summary of *The Overthinker's Guide to Making Decisions* by Joseph Nguyen.
+- [[2026-08-01-the-psychology-of-money-blinkist]] — Blinkist summary of *The Psychology of Money* by Morgan Housel.
 
 ## Translations
 
@@ -49,6 +50,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-first-minute-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «دقیقه‌ی نخست».
 - [[the-money-habit-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «عادت پول».
 - [[the-overthinkers-guide-to-making-decisions-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری».
+- [[the-psychology-of-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «روان‌شناسی پول».
 
 ## Books
 
@@ -73,6 +75,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-first-minute]] — صفحه‌ی مرکزی کتاب «دقیقه‌ی نخست» اثر کریس فنینگ.
 - [[the-money-habit]] — صفحه‌ی مرکزی کتاب «عادت پول» اثر مایک میکالویچ.
 - [[the-overthinkers-guide-to-making-decisions]] — صفحه‌ی مرکزی کتاب «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری» اثر جوزف نگوین.
+- [[the-psychology-of-money]] — صفحه‌ی مرکزی کتاب «روان‌شناسی پول» اثر مورگان هاوسل.
 
 ## Zettels
 
@@ -266,6 +269,13 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[shifting-from-what-should-i-pick-to-who-do-i-want-to-be-while-choosing-is-an-identity-level-move]] — تغییر پرسش از «چه چیزی باید انتخاب کنم» به «هنگام انتخاب‌کردن چه کسی می‌خواهم باشم» حرکتی در سطح هویت است.
 - [[the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action]] — چارچوب TRUST یک چرخه‌ی فکری درباره‌ی تصمیم را به یک اقدام کوچک و مشخص تبدیل می‌کند.
 - [[small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned]] — آزمایش‌های کوچک و کم‌ریسک ترجیحی را که از قبل دارید اما هنوز صاحبش نشده‌اید آشکار می‌کنند.
+- [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]] — تجربه‌ی اقتصادی اوایل بزرگسالی‌تان، تحمل ریسک شما را برای همیشه لنگر می‌اندازد، فارغ از شواهد بعدی.
+- [[many-modern-financial-institutions-are-only-decades-old-so-mistakes-often-reflect-inexperience-not-irrationality]] — بسیاری از نهادهای مالی مدرن تنها چند دهه قدمت دارند، پس اشتباهات مالی اغلب از بی‌تجربگی می‌آیند نه حماقت.
+- [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] — شانس و مهارت به‌آسانی اشتباه گرفته می‌شوند چون موفقیت خودمان را به مهارت و شکست دیگران را به شخصیت نسبت می‌دهیم.
+- [[broad-repeatable-patterns-teach-more-than-extreme-outlier-success-stories-because-luck-cannot-be-emulated]] — الگوهای گسترده و تکرارشونده بیش از داستان‌های موفقیتِ استثنایی می‌آموزند، چون شانس قابل‌تقلید نیست.
+- [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]] — حسادت به ریسک‌پذیری بی‌پروا می‌انجامد، چون هزینه‌ی تعقیب بیشتر از ارزش داشتن بیشتر است.
+- [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] — ثروتمندشدن و ثروتمندماندن به مهارت‌های روان‌شناختی متضاد نیاز دارند — خوش‌بینی در برابر ترس.
+- [[a-portfolio-of-many-small-bets-lets-a-few-outsized-wins-outweigh-many-failures-the-long-tail]] — سبدی از شرط‌های کوچک و متعدد اجازه می‌دهد چند برنده‌ی بزرگ، بسیاری شکست را جبران کنند — دم بلند.
 
 ## Topics
 
@@ -280,10 +290,10 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
 - [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
-- [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، هوش مالی، و سیستم رفتاری روزمره‌ی مدیریت پول (کیف‌پول‌ها، فصل مالی، انجماد بدهی).
+- [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، هوش مالی، سیستم رفتاری روزمره‌ی مدیریت پول، و راهبرد دم‌بلند در سرمایه‌گذاری.
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — نقشه‌ی موضوعی رهایی از حلقه‌های اضطراب، مرزگذاری بدون گناه، و تشخیص دستکاری روانی.
 - [[power-dynamics-and-strategic-positioning]] — نقشه‌ی موضوعی مدیریت آگاهانه‌ی جایگاه، اطلاعات، و هیجان در بازی قدرت.
-- [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی)، تعادل میان آن‌ها، و روان‌شناسی خرج‌کردن آگاهانه.
+- [[wealth-beyond-money]] — نقشه‌ی موضوعی پنج نوع ثروت (مالی، اجتماعی، جسمی، زمانی، ذهنی)، تعادل میان آن‌ها، روان‌شناسی خرج‌کردن آگاهانه، و مکانیزم‌های روان‌شناختی سرمایه‌گذاری (شانس، حسادت، فروتنی).
 - [[operational-efficiency-through-process-simplification]] — نقشه‌ی موضوعی پنج‌گام ساده‌سازی فرایند: زیرسؤال‌بردن، حذف، ساده‌سازی، تسریع، اتوماسیون در آخر.
 - [[clarity-in-workplace-communication]] — نقشه‌ی موضوعی ساختار و وضوح در دقیقه‌ی نخست ارتباط کاری: قاب‌بندی، روش GPS، بررسی زمان، و اعتبارسنجی.
 - [[decisive-action-under-uncertainty]] — نقشه‌ی موضوعی تصمیم‌گیری آگاهانه زیر بار ترس: هزینه‌ی بلاتکلیفی، چارچوب‌های SAGE و TRUST، و بازسازی اعتماد به خود.

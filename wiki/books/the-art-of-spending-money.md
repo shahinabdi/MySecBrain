@@ -49,6 +49,7 @@ updated: 2026-07-31
 - [[12-rules-for-life]] — یک رابطه‌ی بسط: مکانیزم دقیق‌تر برای ارزش شادی‌های کوچک.
 - [[good-to-great]] — یک رابطه‌ی موافقت: ریشه‌ی روان‌شناختی مشترک فروتنی رهبری.
 - [[the-money-habit]] — یک رابطه‌ی موافقت: ابزاری عددی برای همان خودآگاهی مالی که هاوسل توصیه می‌کند.
+- [[the-psychology-of-money]] — اثر دیگر هاوسل؛ سه رابطه‌ی بسط شناسایی شد که مضامین شانس و ارزش‌های مالی شخصی را عمیق‌تر می‌کنند (نگاه کنید به بخش زیر).
 
 ## Agreements, Extensions & Contradictions
 
@@ -58,6 +59,8 @@ updated: 2026-07-31
 - **بسط:** [[happiness-comes-from-the-gap-between-expectation-and-reality-so-treating-luxuries-as-rare-treats-preserves-their-power]] بسط [[celebrating-small-joys-amid-suffering-sustains-meaning]] از [[12-rules-for-life]] است.
 - **موافقت:** [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] از [[good-to-great]] به همان ریشه رسیده.
 - **موافقت:** [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] مستقل از [[comparing-actual-spending-against-your-financial-seasons-intention-reveals-the-real-priority-gap]] از [[the-money-habit]] به همان اصل رسیده.
+- **بسط:** [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] با [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]] از کتاب دیگر هاوسل، [[the-psychology-of-money]]، لایه‌ی عمیق‌تری می‌یابد.
+- **بسط:** [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] با [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] و [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] از همان کتاب دو بسط می‌یابد.
 
 بدون تناقض.
 

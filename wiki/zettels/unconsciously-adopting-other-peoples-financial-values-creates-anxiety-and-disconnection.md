@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - **بسط‌یافته توسط (Extension)** [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] از [[stop-letting-everything-affect-you]]: چیدیاک نشان می‌دهد زندگی بر پایه‌ی ارزش‌های خود، پاداشی مستقل از تأیید دیگران می‌سازد؛ این ایده‌ی هاوسل همان اصل را مشخصاً در حوزه‌ی تصمیم‌های مالی نشان می‌دهد — قوانین ضمنی اجتماعی درباره‌ی خرج‌کردن (اجاره‌کردن، خرید خانه، پس‌انداز) یکی از قوی‌ترین و کمترْدیده‌شده‌ترین راه‌های زندگی بر پایه‌ی ارزش‌های دیگران است.
+- **بسط‌یافته توسط (Extension)** [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]] از کتاب دیگر هاوسل، [[the-psychology-of-money]]: این ایده لایه‌ی عمیق‌تری اضافه می‌کند — حتی ارزش‌های مالیِ ظاهراً «خودِ» فرد نیز اغلب محصول تصادفی تجربه‌ی اقتصادی اوایل بزرگسالی است، نه انتخابی کاملاً آگاهانه.
 
 ## Sources
 

@@ -25,6 +25,8 @@ updated: 2026-07-31
 ## Connections
 
 - **موافقت (Agreement):** [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] از [[good-to-great]]: کالینز نشان می‌دهد رهبران سطح ۵ موفقیت را به تیم و شانس نسبت می‌دهند، نه به خود؛ این ایده‌ی هاوسل مستقل به همان ریشه‌ی روان‌شناختی می‌رسد — فروتنیِ پایدار از دیدن نقش عوامل بیرون از کنترل خود (شانس) در موفقیت می‌آید، نه از تلاش اخلاقی صرف برای «متواضع‌بودن».
+- **بسط‌یافته توسط (Extension)** [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] از کتاب دیگر هاوسل، [[the-psychology-of-money]]: مکانیزم روان‌شناختی (سوگیری اسنادی جهت‌دار) توضیح می‌دهد چرا اصلاً باید عمداً برای دیدن نقش شانس تلاش کرد — ذهن به‌طور پیش‌فرض آن را از خود پنهان می‌کند.
+- **بسط‌یافته توسط (Extension)** [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] از همان کتاب: فروتنی ناشی از دیدن نقش شانس، نه‌فقط فضیلتی اخلاقی، بلکه مهارتی بقایی است — بدون آن، ثروت به‌همان‌سرعتی که ساخته شد از بین می‌رود.
 
 ## Sources
 
