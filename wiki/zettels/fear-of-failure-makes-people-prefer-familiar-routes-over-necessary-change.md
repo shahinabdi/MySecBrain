@@ -26,6 +26,7 @@ updated: 2026-07-31
 
 - مکمل [[rigid-long-term-plans-sacrifice-the-flexibility-needed-for-unexpected-opportunities]]: هر دو نشان می‌دهند چگونه ترس از ناشناخته به رفتارهای محافظه‌کارانه‌ی پرهزینه می‌انجامد.
 - **بسط‌دهنده‌ی (Extension)** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]]: مک‌نیل تکنیکی عملی و تشخیصی (پرسیدن «چرا» و توجه به پاسخ «همیشه همین‌طور بوده») برای شناسایی دقیقاً همان مقاومت‌های ریشه‌دار در ترس فراهم می‌کند.
+- [[empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality]] — **بسط‌یافته توسط (Extended by)** [[the-leaders-guide-to-lateral-thinking-skills]]: اسلون اقدام رهبری مشخصی — اعلام صریح مصونیت از مجازات برای شکست — برای خنثی‌کردن دقیقاً همین ترس ارائه می‌دهد.
 
 ## Sources
 

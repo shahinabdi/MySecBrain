@@ -24,7 +24,7 @@ updated: 2026-07-31
 
 ## Connections
 
-- —
+- [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] — **بسط‌دهنده‌ی (Extension)** بر [[the-leaders-guide-to-lateral-thinking-skills]]: مک‌نیل نمونه‌ی عملیاتیِ مشخصی از این اصلِ کلی‌ترِ اسلون فراهم می‌کند — تجربه‌ی واقعی و منظمِ محصول به‌عنوان مشتری، به‌جای صرفاً تصورکردنِ آن دیدگاه.
 
 ## Sources
 

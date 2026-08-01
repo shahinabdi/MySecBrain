@@ -28,6 +28,7 @@ updated: 2026-07-31
 - [[the-three-ps-framework-questions-whether-a-setback-is-permanent-personal-and-pervasive]] — همین کتاب: هر دو ابزارهایی برای کوچک‌کردن یک برداشت اغراق‌شده (چه درباره‌ی دیگران، چه درباره‌ی یک ناکامی شخصی) به ابعاد واقعی‌اش هستند.
 - **کاربردی شده در (Application)** [[every-financial-choice-has-a-hidden-backstory-so-judging-others-spending-blocks-empathy]] از [[the-art-of-spending-money]]: هاوسل همین سوگیری را در حوزه‌ی مشخصِ قضاوت مالی به‌کار می‌برد — برچسب «اسراف‌کار» یا «خسیس» زدن به دیگران، بدون دانستن زمینه‌ای که برای رفتار مشابه خودمان همیشه می‌یابیم.
 - [[moral-judgments-arise-from-intuition-first-reasoning-acts-as-a-lawyer-not-a-judge]] — **بسط‌دهنده‌ی (Extends)** [[the-righteous-mind]]: هایدت نشان می‌دهد استدلالِ پس از یک قضاوت اخلاقیِ شهودی نقش وکیل را دارد، نه قاضی؛ این ایده توضیح می‌دهد چرا آن وکیل‌بازی از درون احساس بی‌طرفی می‌کند — چون ادراک جانب‌دارانه‌ی خود را عینی می‌پنداریم.
+- [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] — **بسط‌دهنده‌ی (Extends)** [[the-leaders-guide-to-lateral-thinking-skills]]: اسلون تکنیکی عملی برای خنثی‌کردن همین سوگیری ارائه می‌دهد — تعویض آگاهانه‌ی زاویه‌ی دید (مشتری، کودک، بیگانه) به‌عنوان راهی برای دیدن آنچه ادراک عادیِ فرد پنهان می‌کند.
 
 ## Sources
 

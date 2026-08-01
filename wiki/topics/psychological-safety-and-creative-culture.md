@@ -3,14 +3,14 @@ type: topic
 title: امنیت روانی و فرهنگ خلاقیت
 status: active
 tags: [خلاقیت, امنیت-روانی, مدیریت]
-sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-the-righteous-mind-blinkist]
+sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist, 2026-08-01-the-righteous-mind-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
 
 ## Central Question
 
-سازمانی که به خلاقیت پایدار نیاز دارد، چه ساختارها، عادت‌های رهبری، و طراحی‌های محیطی‌ای باید عمداً بسازد تا بر موانع طبیعی (ترس سلسله‌مراتبی، ترس از شکست، سوگیری تأییدی، ریزمدیریت) غلبه کند؟
+سازمانی که به خلاقیت پایدار و نوآوری نیاز دارد، چه ساختارها، عادت‌های رهبری، و طراحی‌های محیطی‌ای باید عمداً بسازد تا بر موانع طبیعی (ترس سلسله‌مراتبی، ترس از شکست، سوگیری تأییدی، ریزمدیریت) غلبه کند، و چه تکنیک‌های مشخص و تکرارپذیری (تغییر سؤال، وارونه‌کردن رویه، تعویض دیدگاه، ترکیب ایده) می‌توانند تفکر جانبی را از استعدادی تصادفی به مهارتی قابل‌آموزش تبدیل کنند؟
 
 ## Core Ideas
 
@@ -22,10 +22,19 @@ updated: 2026-08-01
 - اعتماد به مالکیت کارکنان بر تصمیم‌هایشان خلاقیت را آزاد می‌کند: [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]].
 - شکست باید فرایندی مشترک و تکرارشونده تلقی شود، نه فرصتی برای سرزنش فردی: [[treating-failure-as-a-shared-iterative-process-not-individual-blame-enables-recovery]].
 - طراحی فیزیکی محیط کار مستقیماً بر مشارکت خلاقانه اثر می‌گذارد: [[physical-workspace-design-shapes-creative-participation]].
+- رهبران جانبی همان اهداف رهبران معمولی را از مسیرهایی عمداً متفاوت دنبال می‌کنند: [[lateral-leaders-pursue-the-same-goals-as-conventional-leaders-but-through-deliberately-different-paths]].
+- بیانیه‌ی چشم‌انداز تنها با معیارهای مشخص (کوتاه، الهام‌بخش، بلندپروازانه، زمان‌بندی‌شده) تغییر می‌سازد: [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]].
+- توانمندسازی تیم باید با اجازه‌ی صریح برای شکست‌خوردن همراه شود تا چشم‌انداز به واقعیت تبدیل شود: [[empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality]].
+- تغییر خودِ سؤال، نه فقط بهبود پاسخ، می‌تواند کل یک مسئله را بازتعریف کند: [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]].
+- انجام عمدیِ عکسِ رویه‌ی رایج، نوآوری‌هایی را آشکار می‌کند که تفکر تدریجی از دست می‌دهد: [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]].
+- تعویض زاویه‌ی دید (بیگانه، کودک، محصول) مفروضات نامرئی را آشکار می‌کند: [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]].
+- ترکیب دو ایده‌ی نامرتبط اغلب جهش‌های خلاقانه‌تری از اختراع از صفر می‌سازد: [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]].
+- بازی‌های ساختاریافته‌ی تیمی، تفکر جانبی را به مهارتی قابل‌تکرار تبدیل می‌کنند: [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]].
 
 ## Books
 
-- [[creativity-inc]] — منبع اصلی و کامل این نقشه‌ی موضوعی، مبتنی بر تجربه‌ی مدیریتی نویسنده در پیکسار و دیزنی انیمیشن.
+- [[creativity-inc]] — منبع اصلی این نقشه‌ی موضوعی، مبتنی بر تجربه‌ی مدیریتی نویسنده در پیکسار و دیزنی انیمیشن.
+- [[the-leaders-guide-to-lateral-thinking-skills]] — منبع اصلی دوم، تکنیک‌های مشخص و تکرارپذیر برای پرورش تفکر جانبی و نوآوری در رهبری؛ پنج رابطه با [[creativity-inc]] و سه رابطه‌ی بسط با [[the-algorithm]] شناسایی شد.
 - [[12-rules-for-life]] — سه رابطه شناسایی شد (نگاه کنید به بخش روابط).
 - [[boundaries]] — یک رابطه‌ی کاربرد شناسایی شد (نگاه کنید به بخش روابط).
 - [[emotional-intelligence]] — یک رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
@@ -48,6 +57,12 @@ updated: 2026-08-01
 - **بسط (Extension):** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]] تکنیکی عملی برای شناسایی مقاومت‌های ریشه‌دار در [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] فراهم می‌کند.
 - **بسط (Extension):** [[replacing-rigid-scripts-with-a-guiding-principle-lets-staff-solve-problems-creatively]] از [[the-algorithm]] نمونه‌ی عملیاتی مشخصی از [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] در خدمات مشتری ارائه می‌دهد.
 - **شرط مرزی (Boundary Condition):** [[evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic]] از [[the-righteous-mind]] بر [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] مرز می‌گذارد — انسجام گروهیِ برآمده از انتخاب سطح‌گروهی، به یکسانی افراد نیاز ندارد؛ تفاوت‌های مکمل نیز می‌توانند مبنای همان برتریِ گروهی باشند.
+- **بسط (Extension):** [[empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality]] از [[the-leaders-guide-to-lateral-thinking-skills]] اصل [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] و [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] را با یک اقدام رهبریِ صریح (اعلام مصونیت از مجازات) تکمیل می‌کند.
+- **بسط (Extension):** [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]] از همان کتاب، اصل [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] را از سطح ترکیب افراد به سطح ترکیب ایده‌ها و اشیاء می‌برد.
+- **مرتبط با:** [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]] از همان کتاب و [[physical-workspace-design-shapes-creative-participation]] — هر دو درباره‌ی طراحیِ عمدیِ محیط یا فعالیت برای خلاقیت‌اند.
+- **بسط (Extension):** [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] از همان کتاب معیارهای شکلیِ بیان به [[a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals]] می‌افزاید.
+- **بسط (Extension):** [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]] و [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]] از همان کتاب، اصل [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]] را فراتر می‌برند.
+- **بسط (Extension):** [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] از همان کتاب اصل کلی‌تری است که [[personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside]] از [[the-algorithm]] نمونه‌ی عملیاتی مشخصی از آن ارائه می‌دهد.
 
 ## Contradictions
 
@@ -75,4 +90,5 @@ updated: 2026-08-01
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-the-algorithm-blinkist]]
+- [[2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]

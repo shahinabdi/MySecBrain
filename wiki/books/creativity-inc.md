@@ -71,10 +71,15 @@ updated: 2026-07-31
 - [[the-righteous-mind]] — یک رابطه‌ی شرط مرزی و یک رابطه‌ی بسط:
   - **شرط مرزی:** [[evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic]] بر [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] شرط می‌گذارد که انسجام گروهی به یکسانی افراد نیاز ندارد.
   - **بسط:** [[political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture]] همان اصل تیم متنوع را در مقیاس یک جامعه‌ی کامل به‌کار می‌بندد.
+- [[the-leaders-guide-to-lateral-thinking-skills]] — پنج رابطه شناسایی شد؛ این کتاب هم‌زمان با این کتاب به‌عنوان دو منبع اصلی [[psychological-safety-and-creative-culture]] عمل می‌کنند:
+  - **مرتبط:** [[lateral-leaders-pursue-the-same-goals-as-conventional-leaders-but-through-deliberately-different-paths]] با [[a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals]] — هر دو بر تعهد به هدفی بزرگ‌تر تمرکز دارند.
+  - **بسط:** [[empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality]] اصل [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] و [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] را با یک اقدام رهبریِ صریح تکمیل می‌کند.
+  - **بسط:** [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]] اصل [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] را از ترکیب افراد به ترکیب ایده‌ها می‌برد.
+  - **مرتبط:** [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]] با [[physical-workspace-design-shapes-creative-participation]] — هر دو درباره‌ی طراحیِ عمدیِ محیط/فعالیت‌اند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط و یک ارتباط مکمل. با [[the-algorithm]]: دو بسط. با [[the-righteous-mind]]: یک شرط مرزی و یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[psychological-safety-and-creative-culture]] و [[operational-efficiency-through-process-simplification]] مستند شده است.
+بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط و یک ارتباط مکمل. با [[the-algorithm]]: دو بسط. با [[the-righteous-mind]]: یک شرط مرزی و یک بسط. با [[the-leaders-guide-to-lateral-thinking-skills]]: چند ارتباط مکمل و دو بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[psychological-safety-and-creative-culture]] و [[operational-efficiency-through-process-simplification]] مستند شده است.
 
 ## Translation
 

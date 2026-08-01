@@ -51,6 +51,9 @@ updated: 2026-07-31
 - [[building-your-money-machine-with-chatgpt]] — یک رابطه‌ی موافقت: اتوماسیون/هوش مصنوعی به‌عنوان تقویت‌کننده‌ی پایه‌ی موجود، نه جایگزین آن.
 - [[good-to-great]] — یک رابطه‌ی بسط: نمونه‌ی عینی سازوکار آشکارسازی واقعیت‌های تلخ، به‌همراه نکته‌ی افزوده درباره‌ی دانش شخصی رهبر.
 - [[the-first-minute]] — یک رابطه‌ی موافقت: حذف آنچه به هدف نهایی خدمت نمی‌کند، مستقل در دو بافتار متفاوت (فرایند خرید در برابر ساختار گفتگو).
+- [[the-leaders-guide-to-lateral-thinking-skills]] — سه رابطه‌ی بسط:
+  - **بسط:** [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]] و [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]] اصل [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] را فراتر می‌برند.
+  - **بسط:** [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] اصل کلی‌تری است که [[personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside]] نمونه‌ی عملیاتی مشخصی از آن ارائه می‌دهد.
 
 ## Agreements, Extensions & Contradictions
 
@@ -60,6 +63,7 @@ updated: 2026-07-31
 - **موافقت:** [[automation-should-be-the-last-step-applied-only-after-a-process-is-fully-understood]] مستقل از [[ai-amplifies-effort-but-does-not-replace-vision-and-strategy]] از [[building-your-money-machine-with-chatgpt]] به همان اصل رسیده.
 - **بسط:** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] بسط [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] از [[good-to-great]] است.
 - **موافقت:** [[the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity]] مستقل از [[mapping-every-process-step-and-keeping-only-what-creates-customer-value-cuts-friction]] به همان اصل رسیده.
+- **بسط:** [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]]، [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]]، و [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] از [[the-leaders-guide-to-lateral-thinking-skills]]، سه بسط بر اصول این کتاب.
 
 بدون تناقض.
 

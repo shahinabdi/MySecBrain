@@ -56,6 +56,7 @@ updated: 2026-07-31
 - [[financial-literacy-and-asset-ownership]] (از طریق دو بسط با [[the-money-habit]] در حوزه‌ی طراحی محیط برای مدیریت پول)
 - [[decisive-action-under-uncertainty]] (از طریق دو بسط و یک موافقت با [[the-overthinkers-guide-to-making-decisions]])
 - [[moral-intuition-and-tribal-psychology]] (از طریق بسط با [[the-righteous-mind]])
+- [[psychological-safety-and-creative-culture]] (از طریق بسط با [[the-leaders-guide-to-lateral-thinking-skills]])
 
 ## Related Books
 
@@ -96,10 +97,12 @@ updated: 2026-07-31
   - **موافقت:** [[the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action]] مستقل از [[action-precedes-and-generates-motivation-not-the-other-way-around]] به همان اصل رسیده — گام آخر TRUST همان منطق عمل-پیش-از-انگیزه را به‌کار می‌برد.
 - [[the-righteous-mind]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[moral-judgments-arise-from-intuition-first-reasoning-acts-as-a-lawyer-not-a-judge]] از هایدت توضیح می‌دهد چرا وکیل‌بازیِ استدلالِ پس از قضاوت شهودی، از درون بی‌طرفانه احساس می‌شود — [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] مکانیزم ادراکیِ این توهم عینیت را فراهم می‌کند.
+- [[the-leaders-guide-to-lateral-thinking-skills]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] تکنیکی عملی برای خنثی‌کردن سوگیریِ [[naive-realism-makes-you-trust-your-own-biased-perception-as-objective-reality]] فراهم می‌کند — تعویض آگاهانه‌ی زاویه‌ی دید.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). با [[the-cost-of-quiet]]: یک موافقت مستقل. با [[the-money-habit]]: دو رابطه‌ی کاربرد که اصل طراحی محیط این کتاب را در حوزه‌ی پول به‌کار می‌برند. با [[the-overthinkers-guide-to-making-decisions]]: دو بسط و یک موافقت. با [[the-righteous-mind]]: یک بسط. جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. رابطه‌ی غالب این کتاب با کتابخانه، «بسط» است — زیمر عمدتاً مکانیزم‌های زیستی و روان‌شناختی پشتِ اصولی که کتاب‌های دیگر توصیه کرده‌اند را توضیح می‌دهد. با [[atomic-habits]]: چهار بسط. با [[emotional-intelligence]]: سه بسط و یک موافقت. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط و یک موافقت. با [[good-morning-i-love-you]]: یک بسط و یک موافقت. با [[shift]]: دو بسط (این بار در جهت معکوس — شیفت اصول این کتاب را بسط می‌دهد). با [[the-art-of-spending-money]]: یک کاربرد (این‌بار زیمر منبع اصلی است که کتابی دیگر آن را به‌کار می‌برد). با [[the-cost-of-quiet]]: یک موافقت مستقل. با [[the-money-habit]]: دو رابطه‌ی کاربرد که اصل طراحی محیط این کتاب را در حوزه‌ی پول به‌کار می‌برند. با [[the-overthinkers-guide-to-making-decisions]]: دو بسط و یک موافقت. با [[the-righteous-mind]]: یک بسط. با [[the-leaders-guide-to-lateral-thinking-skills]]: یک بسط. جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 

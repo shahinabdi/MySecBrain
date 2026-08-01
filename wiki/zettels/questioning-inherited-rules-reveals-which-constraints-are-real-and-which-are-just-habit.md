@@ -25,6 +25,8 @@ updated: 2026-07-31
 ## Connections
 
 - **بسط‌یافته توسط (Extension)** [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] از [[creativity-inc]]: کتمول ریشه‌ی روان‌شناختیِ چسبیدن به قانون‌های آشنا را توضیح می‌دهد — ترس از اشتباه‌کردن در مسیر ناآشنا؛ این ایده‌ی مک‌نیل تکنیکی عملی و تشخیصی (پرسیدن «چرا» و توجه به شانه‌بالاانداختن) برای شناسایی دقیقاً همان مقاومت‌های ریشه‌دار در ترس فراهم می‌کند.
+- [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]] — **بسط‌یافته توسط (Extended by)** [[the-leaders-guide-to-lateral-thinking-skills]]: اسلون یک قدم فراتر می‌رود — گاهی خودِ چارچوبِ سؤال (نه فقط قانون‌های درون آن) باید عوض شود؛ مثال «کسب‌وکار هدیه در برابر کسب‌وکار خودکار».
+- [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]] — **بسط‌یافته توسط (Extended by)** [[the-leaders-guide-to-lateral-thinking-skills]]: اسلون از زیرسؤال‌بردنِ صرف فراتر می‌رود و وارونه‌کردنِ عمدیِ رویه‌ی رایج را به‌عنوان یک راهبرد مولدِ ایده معرفی می‌کند.
 
 ## Sources
 

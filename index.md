@@ -23,6 +23,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-the-art-of-spending-money-blinkist]] — Blinkist summary of *The Art of Spending Money* by Morgan Housel.
 - [[2026-07-31-the-cost-of-quiet-blinkist]] — Blinkist summary of *The Cost of Quiet* by Colette Jane Fehr.
 - [[2026-08-01-the-first-minute-blinkist]] — Blinkist summary of *The First Minute* by Chris Fenning.
+- [[2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist]] — Blinkist summary of *The Leader's Guide to Lateral Thinking Skills* by Paul Sloane.
 - [[2026-08-01-the-money-habit-blinkist]] — Blinkist summary of *The Money Habit* by Mike Michalowicz.
 - [[2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist]] — Blinkist summary of *The Overthinker's Guide to Making Decisions* by Joseph Nguyen.
 - [[2026-08-01-the-psychology-of-money-blinkist]] — Blinkist summary of *The Psychology of Money* by Morgan Housel.
@@ -49,6 +50,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-art-of-spending-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هنر خرج‌کردن پول».
 - [[the-cost-of-quiet-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «هزینه‌ی سکوت».
 - [[the-first-minute-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «دقیقه‌ی نخست».
+- [[the-leaders-guide-to-lateral-thinking-skills-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «راهنمای رهبر برای مهارت‌های تفکر جانبی».
 - [[the-money-habit-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «عادت پول».
 - [[the-overthinkers-guide-to-making-decisions-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری».
 - [[the-psychology-of-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «روان‌شناسی پول».
@@ -75,6 +77,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-art-of-spending-money]] — صفحه‌ی مرکزی کتاب «هنر خرج‌کردن پول» اثر مورگان هاوسل.
 - [[the-cost-of-quiet]] — صفحه‌ی مرکزی کتاب «هزینه‌ی سکوت» اثر کولت جین فر.
 - [[the-first-minute]] — صفحه‌ی مرکزی کتاب «دقیقه‌ی نخست» اثر کریس فنینگ.
+- [[the-leaders-guide-to-lateral-thinking-skills]] — صفحه‌ی مرکزی کتاب «راهنمای رهبر برای مهارت‌های تفکر جانبی» اثر پل اسلون.
 - [[the-money-habit]] — صفحه‌ی مرکزی کتاب «عادت پول» اثر مایک میکالویچ.
 - [[the-overthinkers-guide-to-making-decisions]] — صفحه‌ی مرکزی کتاب «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری» اثر جوزف نگوین.
 - [[the-psychology-of-money]] — صفحه‌ی مرکزی کتاب «روان‌شناسی پول» اثر مورگان هاوسل.
@@ -288,6 +291,14 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] — آیین‌های پیونددهنده‌ی دین، فارغ از صحت باورهایش، انسجام، اعتماد و نوع‌دوستی گروهی می‌سازند.
 - [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] — محافظه‌کاران به دامنه‌ی وسیع‌تری از بنیان‌های اخلاقی نسبت به لیبرال‌ها متکی‌اند و همین دامنه‌ی اقناعی وسیع‌تری به آن‌ها می‌دهد.
 - [[political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture]] — قطبی‌شدن سیاسی حکمرانی را تضعیف می‌کند چون هر طرف تنها نیمی از تصویر اخلاقی را پاس می‌دارد.
+- [[lateral-leaders-pursue-the-same-goals-as-conventional-leaders-but-through-deliberately-different-paths]] — رهبران جانبی همان اهداف رهبران معمولی را دنبال می‌کنند، اما از مسیرهایی عمداً متفاوت.
+- [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] — بیانیه‌ی چشم‌انداز تنها زمانی تغییر می‌سازد که کوتاه، الهام‌بخش، بلندپروازانه و دارای بازه‌ی زمانی مشخص باشد.
+- [[empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality]] — توانمندسازی تیم و اجازه‌ی صریح برای شکست‌خوردن، چشم‌انداز را به واقعیت تبدیل می‌کند.
+- [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]] — تغییر خودِ سؤال، نه فقط بهبود پاسخ، می‌تواند کل یک مسئله را بازتعریف کند.
+- [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]] — انجام‌دادن عمدیِ عکسِ رویه‌ی استاندارد یا توصیه‌ی متخصصان، نوآوری‌هایی را آشکار می‌کند که تفکر تدریجی از دست می‌دهد.
+- [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] — پذیرفتن دیدگاه یک بیگانه، کودک، یا خودِ محصول، مفروضاتی را آشکار می‌کند که از دیدگاه خودتان دیده نمی‌شوند.
+- [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]] — ترکیب دو ایده‌ی نامرتبطِ موجود، اغلب جهش‌های خلاقانه‌تری از اختراع کاملاً از صفر می‌سازد.
+- [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]] — بازی‌های ساختاریافته مانند تمرین اشیاء یافته‌شده و معماهای بله/نه، تفکر جانبی را به مهارتی قابل‌تکرار تبدیل می‌کنند.
 
 ## Topics
 
@@ -297,7 +308,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[habit-formation]] — نقشه‌ی موضوعی مکانیزم شکل‌گیری عادت و تکنیک‌های مهندسی رفتار.
 - [[boundaries-and-ownership]] — نقشه‌ی موضوعی مرزگذاری روانی و مالکیت مسئولیت در روابط.
 - [[ai-as-tool-not-replacement]] — نقشه‌ی موضوعی استفاده‌ی مسئولانه از هوش مصنوعی به‌عنوان ابزار مکمل انسان.
-- [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها و عادت‌های مدیریتی لازم برای فرهنگ سازمانی خلاق.
+- [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها، عادت‌های مدیریتی، و تکنیک‌های تفکر جانبی لازم برای فرهنگ سازمانی خلاق و نوآور.
 - [[emotional-intelligence-and-self-regulation]] — نقشه‌ی موضوعی کارکرد، اختلال، و تقویت هوش هیجانی.
 - [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.

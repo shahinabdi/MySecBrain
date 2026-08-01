@@ -27,6 +27,7 @@ updated: 2026-07-31
 - [[sustained-momentum-in-one-direction-compounds-into-breakthrough-results]] — همین کتاب: پس از یافتن مفهوم خارپشت، تداوم پایبندی به آن (نه خودِ کشف اولیه) موتور موفقیت بلندمدت است.
 - [[technology-should-accelerate-an-existing-strategy-not-define-it]] — همین کتاب: فناوری تنها زمانی ارزش دارد که این مفهوم از پیش تعیین‌شده را شتاب دهد.
 - **تقابل آموزنده با** [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] از کتاب [[rich-dad-poor-dad]]: کالینز تمرکز باریک و متمرکز سازمانی (مفهوم خارپشت) را توصیه می‌کند؛ کیوساکی به افراد توصیه می‌کند دانش و مهارت گسترده بسازند — تفاوت در سطح تحلیل است (سازمان در برابر فرد)، نه تناقض واقعی.
+- [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] — **بسط‌یافته توسط (Extended by)** [[the-leaders-guide-to-lateral-thinking-skills]]: اسلون معیارهای شکلیِ *بیان* یک استراتژی به‌صورت چشم‌انداز الهام‌بخش را می‌افزاید — یک مفهوم خارپشتِ درست، اگر بی‌جان بیان شود، قدرت انگیزشی خود را از دست می‌دهد.
 
 ## Sources
 

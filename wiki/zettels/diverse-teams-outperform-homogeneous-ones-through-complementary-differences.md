@@ -27,6 +27,7 @@ updated: 2026-07-31
 - مکمل [[a-great-team-matters-more-than-a-great-idea]]: هر دو درباره‌ی ترکیب تیم به‌عنوان عامل تعیین‌کننده‌ی موفقیت‌اند.
 - [[evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic]] — **شرط مرزی شده توسط (Bounded by)** [[the-righteous-mind]]: هایدت نشان می‌دهد انتخاب در سطح گروه چرا همکاریِ منسجم بر رقابت فردی برتری می‌یابد؛ این ایده مرز می‌گذارد که انسجام گروهی به یکسانی افراد نیازی ندارد — تفاوت‌های مکمل نیز می‌توانند مبنای همان برتریِ گروهی باشند.
 - [[political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture]] — **بسط‌یافته توسط (Extended by)** [[the-righteous-mind]]: هایدت همین اصل تیم متنوع را در مقیاس یک جامعه‌ی کامل به‌کار می‌بندد — دو ایدئولوژی سیاسیِ مکمل، نه یک ایدئولوژیِ «برنده»، حکمرانی بهتری می‌سازند.
+- [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]] — از [[the-leaders-guide-to-lateral-thinking-skills]]: هر دو ایده نشان می‌دهند برخورد میان عناصر متفاوت منبع خلاقیت است؛ این ایده همان اصل را در سطح ترکیب *ایده‌ها و اشیاء*، نه ترکیب افراد یک تیم، به‌کار می‌برد.
 
 ## Sources
 

@@ -34,6 +34,7 @@ updated: 2026-08-01
 - [[rich-dad-poor-dad]] — یک موافقت و یک تقابل آموزنده شناسایی شد.
 - [[the-algorithm]] — یک رابطه‌ی بسط شناسایی شد.
 - [[the-righteous-mind]] — یک رابطه‌ی موافقت شناسایی شد.
+- [[the-leaders-guide-to-lateral-thinking-skills]] — یک رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -47,6 +48,7 @@ updated: 2026-08-01
 - **تقابل آموزنده:** [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] در برابر [[working-to-learn-broadly-builds-more-wealth-than-working-to-earn-through-specialization]] از [[rich-dad-poor-dad]] — تمرکز باریک سازمانی (خارپشت) در برابر گستردگی مهارتی فردی؛ تفاوت سطح تحلیل، نه تناقض.
 - **بسط (Extension):** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] از [[the-algorithm]] نمونه‌ی عینی سازوکار [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] فراهم می‌کند و می‌افزاید: دانش عمیق شخصیِ رهبر از جزئیات، نه صرفاً ساختار جلسه، عامل «بلوف‌ناپذیری» است.
 - **موافقت (Agreement):** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] از [[the-righteous-mind]] مستقل از [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده، نه کنترل بیرونی، دوام گروه را می‌سازد؛ کالینز این را در سطح فرهنگ سازمانی نشان می‌دهد، هایدت در سطح جامعه‌ی دینی.
+- **بسط (Extension):** [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] از [[the-leaders-guide-to-lateral-thinking-skills]] معیارهای شکلیِ بیان یک استراتژی به‌صورت چشم‌انداز الهام‌بخش را به [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] می‌افزاید — یک مفهوم خارپشتِ درست، اگر بی‌جان بیان شود، قدرت انگیزشی خود را از دست می‌دهد.
 
 ## Contradictions
 
@@ -59,7 +61,7 @@ updated: 2026-08-01
 
 ## Related Topics
 
-- [[psychological-safety-and-creative-culture]] — از طریق دو موافقت درباره‌ی صداقت سازمانی و برتری تیم بر ایده.
+- [[psychological-safety-and-creative-culture]] — از طریق دو موافقت درباره‌ی صداقت سازمانی و برتری تیم بر ایده، و یک بسط در معیارهای بیانِ چشم‌انداز با [[the-leaders-guide-to-lateral-thinking-skills]].
 - [[personal-responsibility]] — از طریق بسط اصل نظم درونی‌شده به سطح سازمانی.
 - [[order-and-chaos]] — هر دو درباره‌ی مدیریت آگاهانه‌ی واقعیت (چه فردی، چه سازمانی) به‌جای انکار یا تسلیم‌اند.
 - [[habit-formation]] — از طریق موافقت در اصل انباشت پیوسته‌ی تغییرات کوچک.
@@ -75,4 +77,5 @@ updated: 2026-08-01
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
 - [[2026-07-31-rich-dad-poor-dad-blinkist]]
 - [[2026-07-31-the-algorithm-blinkist]]
+- [[2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]

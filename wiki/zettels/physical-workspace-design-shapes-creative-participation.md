@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - مکمل [[hierarchical-fear-blocks-honest-feedback-unless-designed-around]]: هر دو نشان می‌دهند مشارکت صادقانه محصول طراحی عمدی (چه ساختاری، چه فیزیکی) است، نه صرفاً نیت خوب.
+- [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]] — از [[the-leaders-guide-to-lateral-thinking-skills]]: هر دو ایده نشان می‌دهند خلاقیت محصول طراحیِ عمدیِ محیط یا فعالیت است، نه رخدادی خودجوش؛ این ایده بر طراحیِ فضای فیزیکی تمرکز دارد، اسلون بر طراحیِ تمرین‌های ساختاریافته‌ی زمانی.
 
 ## Sources
 

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f89f166f6550267",
+        "id": "6cddb5ed5a76cc64",
         "type": "tabs",
         "children": [
           {
-            "id": "19a8e56baa2443b3",
+            "id": "0eb8de2aea5d4228",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/books/the-48-laws-of-power.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the-48-laws-of-power"
             }
           }
         ]
@@ -94,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579,
-    "collapsed": true
+    "width": 579
   },
   "right": {
     "id": "aa34dcc4ad007103",
@@ -212,42 +215,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19a8e56baa2443b3",
+  "active": "0eb8de2aea5d4228",
   "lastOpenFiles": [
+    "log.md.tmp.34372.a1a74409da71",
+    "index.md.tmp.34372.0aa2dfc4457a",
+    "index.md.tmp.34372.13780fa888c7",
+    "wiki/topics/focused-strategy-and-disciplined-leadership.md.tmp.34372.a030c3246809",
+    "wiki/topics/focused-strategy-and-disciplined-leadership.md.tmp.34372.8d968954009c",
+    "wiki/books/creativity-inc.md.tmp.34372.33ff46b57e7d",
+    "wiki/topics/psychological-safety-and-creative-culture.md.tmp.34372.230afd405e2e",
+    "wiki/books/the-leaders-guide-to-lateral-thinking-skills.md",
+    "wiki/zettels/questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit.md.tmp.34372.0197fd44d432",
+    "the-48-laws-of-power.md",
+    "wiki/zettels/focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy.md.tmp.34372.7b36f97dfb41",
+    "wiki/zettels/structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill.md",
+    "wiki/zettels/combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch.md",
+    "wiki/zettels/combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch.md.tmp.34372.92fb93676c03",
+    "the-leaders-guide-to-lateral-thinking-skills.md",
+    "wiki/topics/psychological-safety-and-creative-culture.md",
+    "wiki/zettels/adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own.md",
+    "wiki/zettels/deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses.md",
+    "wiki/zettels/deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses.md.tmp.34372.7d36cd392895",
+    "wiki/zettels/changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem.md",
+    "wiki/zettels/empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality.md",
+    "wiki/zettels/a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound.md",
+    "wiki/zettels/lateral-leaders-pursue-the-same-goals-as-conventional-leaders-but-through-deliberately-different-paths.md",
+    "wiki/translations/the-leaders-guide-to-lateral-thinking-skills-fa.md",
+    "wiki/sources/2026-08-01-the-righteous-mind-blinkist.md",
+    "wiki/zettels/evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic.md",
+    "wiki/sources/2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist.md",
+    "wiki/translations/the-righteous-mind-fa.md",
+    "index.md",
     "raw/The Leader's Guide to Lateral Thinking Skills by Paul Sloane.md",
-    "index.md.tmp.34372.496c468e32cd",
-    "index.md.tmp.34372.be09cafe67c7",
-    "index.md.tmp.34372.372bc85dcd21",
-    "wiki/topics/personal-responsibility.md.tmp.34372.39f9bfe82eda",
-    "wiki/topics/personal-responsibility.md.tmp.34372.9425d9f56283",
-    "wiki/topics/personal-responsibility.md.tmp.34372.2d21efc7eb54",
-    "wiki/topics/focused-strategy-and-disciplined-leadership.md.tmp.34372.76f0e6058d00",
-    "wiki/topics/wealth-beyond-money.md.tmp.34372.13bc2a2746b6",
-    "wiki/topics/wealth-beyond-money.md.tmp.34372.e880c0c74c59",
-    "wiki/topics/emotional-intelligence-and-self-regulation.md.tmp.34372.d798306ba89d",
     "wiki/books/the-righteous-mind.md",
     "wiki/topics/moral-intuition-and-tribal-psychology.md",
     "wiki/zettels/political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture.md",
     "wiki/zettels/conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach.md",
     "wiki/zettels/religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth.md",
-    "wiki/zettels/group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity.md",
-    "wiki/zettels/evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic.md",
-    "wiki/zettels/weird-cultures-are-moral-outliers-focused-on-individual-rights-over-community-and-sanctity.md",
-    "wiki/zettels/universal-moral-foundations-manifest-differently-across-cultures.md",
-    "wiki/zettels/self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning.md",
-    "wiki/zettels/moral-judgments-arise-from-intuition-first-reasoning-acts-as-a-lawyer-not-a-judge.md",
-    "wiki/translations/the-righteous-mind-fa.md",
-    "wiki/sources/2026-08-01-the-righteous-mind-blinkist.md",
-    "raw/The Art of Spending Money by Morgan Housel.md",
-    "wiki/books/the-psychology-of-money.md",
-    "wiki/zettels/a-portfolio-of-many-small-bets-lets-a-few-outsized-wins-outweigh-many-failures-the-long-tail.md",
-    "wiki/zettels/getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear.md",
-    "wiki/zettels/envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth.md",
-    "wiki/zettels/broad-repeatable-patterns-teach-more-than-extreme-outlier-success-stories-because-luck-cannot-be-emulated.md",
-    "wiki/zettels/luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character.md",
-    "wiki/zettels/many-modern-financial-institutions-are-only-decades-old-so-mistakes-often-reflect-inexperience-not-irrationality.md",
-    "wiki/zettels/your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence.md",
-    "wiki/translations/the-psychology-of-money-fa.md",
-    "wiki/sources/2026-08-01-the-psychology-of-money-blinkist.md"
+    "wiki/zettels/group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity.md"
   ]
 }

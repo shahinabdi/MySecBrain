@@ -25,6 +25,7 @@ updated: 2026-07-31
 ## Connections
 
 - مکملِ [[a-great-team-matters-more-than-a-great-idea]]: هدف مشترک، چسبی است که تیم خوب را در سختی نگه می‌دارد.
+- [[lateral-leaders-pursue-the-same-goals-as-conventional-leaders-but-through-deliberately-different-paths]] — از [[the-leaders-guide-to-lateral-thinking-skills]]: اسلون نشان می‌دهد تعهد به یک هدف بزرگ‌تر می‌تواند رهبری را در مسیرهای خلاقانه و غیرمتعارف نیز هدایت کند، نه فقط در تلاش سخت‌تر روی مسیر آشنا.
 
 ## Sources
 
