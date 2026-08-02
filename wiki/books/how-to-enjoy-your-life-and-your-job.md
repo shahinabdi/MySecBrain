@@ -8,7 +8,7 @@ translation: how-to-enjoy-your-life-and-your-job-fa
 tags: [روابط-انسانی, نفوذ, انگیزش]
 sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-02
 ---
 
 ## Overview
@@ -68,10 +68,20 @@ updated: 2026-07-31
 - [[the-48-laws-of-power]] — یک تناقض و یک بسط:
   - **تناقض:** [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] با [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] گرین در تنش مستقیم قرار دارد — صداقتِ علاقه به‌عنوان شرط اثربخشی، در برابر کفایتِ تظاهر برای همان هدف.
   - **بسط:** [[demonstrating-an-idea-through-action-avoids-the-resentment-that-direct-argument-provokes]] گرین اصل [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] را از بافتی مشارکتی و صادقانه به بافتی راهبردی‌تر می‌برد.
+- [[how-to-become-a-people-magnet]] — همان سنت روان‌شناسی عمومی روابط انسانی؛ رکلاو چهار زتل این کتاب را مستقیماً غنی کرده است (نه ساخته‌شدن نسخه‌های تکراری):
+  - **بسط:** [[using-someones-name-signals-attention-and-makes-them-feel-valued]] روی [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] و [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]]، مکانیزمی زبانیِ مشخص و کم‌هزینه به هر دو می‌افزاید.
+  - **بسط:** رکلاو تکنیک «انتخاب میان دو گزینه‌ی مثبت» را به [[eliciting-early-yes-responses-keeps-people-psychologically-open-to-persuasion]] می‌افزاید.
+  - **بسط:** [[asking-questions-instead-of-giving-orders-preserves-dignity-and-invites-ownership]] ابزار زبانی فوری‌تری برای اصل [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] فراهم می‌کند.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — دو رابطه‌ی بسط:
+  - **بسط:** [[silent-nonverbal-cues-decide-first-impressions-before-any-words-are-exchanged]] توالیِ بدنیِ دقیقی پیش از هر تعامل کلامی می‌افزاید.
+  - **بسط:** [[open-questions-starting-with-who-what-when-where-how-why-invite-conversation-while-closed-questions-end-it]] ساختار زبانیِ دقیقی به [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] می‌افزاید.
+- [[once-upon-a-stranger]] — دو ارتباط مکمل:
+  - [[the-liking-gap-means-both-strangers-underestimate-how-much-their-conversation-partner-liked-them]] در کنار [[unjust-criticism-often-reflects-the-critics-own-need-to-feel-important]].
+  - **بسط:** [[minimal-acknowledgment-like-a-smile-or-glance-fulfills-the-need-to-feel-seen-without-requiring-depth]] نیازِ [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] را به تعاملاتِ زودگذر با غریبه‌ها بسط می‌دهد.
 
 ## Agreements, Extensions & Contradictions
 
-با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. با [[stop-letting-everything-affect-you]]: یک بسط. با [[the-48-laws-of-power]]: یک تناقض (صداقت علاقه در برابر تظاهر ابزاری به آن) و یک بسط؛ تناقض حل‌نشده و به‌صورت خنثی ثبت شده است. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[influence-through-understanding-human-nature]] و [[power-dynamics-and-strategic-positioning]] مستند شده است.
+با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. با [[stop-letting-everything-affect-you]]: یک بسط. با [[the-48-laws-of-power]]: یک تناقض (صداقت علاقه در برابر تظاهر ابزاری به آن) و یک بسط؛ تناقض حل‌نشده و به‌صورت خنثی ثبت شده است. با [[how-to-become-a-people-magnet]]: سه بسط مستقیم بر زتل‌های موجود این کتاب، به‌جای ساختن نسخه‌های تکراری. با [[how-to-make-people-like-you-in-90-seconds-or-less]]: دو بسط. با [[once-upon-a-stranger]]: یک بسط و یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[influence-through-understanding-human-nature]] و [[power-dynamics-and-strategic-positioning]] مستند شده است.
 
 ## Translation
 

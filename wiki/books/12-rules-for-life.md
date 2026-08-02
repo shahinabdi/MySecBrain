@@ -8,7 +8,7 @@ translation: 12-rules-for-life-fa
 tags: [نظم-و-آشوب, مسئولیت‌پذیری, صداقت, تربیت-فرزند]
 sources: [2026-07-31-12-rules-for-life-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Overview
@@ -93,6 +93,14 @@ updated: 2026-07-31
   - **کاربرد:** [[preparing-a-hard-conversation-in-writing-turns-a-charged-reaction-into-a-hearable-message]] اصل [[precise-language-converts-chaotic-complexity-into-solvable-order]] را در بحرانی‌ترین نوع گفتگو — مکالمه‌ی احساسی با شریک زندگی — به‌کار می‌برد.
 - [[the-first-minute]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion]] مشخص می‌کند دقیقاً کدام سه جزء (بافتار، قصد، پیام کلیدی) باید در همان دقیقه‌ی نخست هر تعامل کاری با زبان دقیق بیان شوند.
+- [[how-to-become-a-people-magnet]] — یک رابطه‌ی شرط مرزی شناسایی شد:
+  - **شرط مرزی:** [[roughly-half-the-people-you-meet-wont-connect-with-you-and-thats-normal-not-failure]] بر [[supportive-friends-enable-improvement-toxic-ones-entrench-decline]] شرط می‌گذارد که پیش از قضاوت یک رابطه به‌عنوان «نامناسب» یا «باید حذف شود»، باید نرخ پایه‌ی طبیعیِ ناهم‌خوانی را از یک الگوی واقعاً مخرب تشخیص داد.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — یک ارتباط مکمل شناسایی شد:
+  - [[silent-nonverbal-cues-decide-first-impressions-before-any-words-are-exchanged]] در کنار [[posture-signals-status-in-social-hierarchies]] — هر دو درباره‌ی پیام‌رسانیِ ناخودآگاهِ بدن‌اند، در دو حوزه‌ی متفاوت (اعتماد در برابر جایگاه).
+- [[the-anxious-generation]] — یک رابطه‌ی موافقت/بسط شناسایی شد:
+  - **موافقت + بسط:** [[overprotecting-children-in-the-physical-world-while-underprotecting-them-in-the-virtual-world-is-a-modern-parenting-paradox]] و [[risky-unsupervised-play-builds-resilience-and-self-efficacy-that-safety-obsessed-childhoods-remove]] مستقل از [[suppressing-natural-risk-taking-harms-more-than-it-protects]] به همان اصل رسیده‌اند — سرکوبِ کاملِ ریسک‌پذیریِ طبیعی به‌نام ایمنی آسیب می‌زند — و آن را با داده‌های اپیدمیولوژیک و تمرکز بر تخصیصِ نامتوازنِ محافظت (فیزیکی در برابرِ مجازی) بسط می‌دهند.
+- [[the-subtle-art-of-not-giving-a-fck]] — یک رابطه‌ی موافقتِ مشترک شناسایی شد:
+  - **موافقت + غنی‌سازی:** [[taking-responsibility-must-precede-judging-the-world]] زتلِ مشترکِ دو کتاب است؛ منسون، مستقل از پیترسون، به همان اصل رسیده و تمایزِ روشنِ «تقصیر در برابرِ مسئولیت» را به آن افزوده است.
 
 ## Agreements, Extensions & Contradictions
 
@@ -112,6 +120,9 @@ updated: 2026-07-31
 - با [[the-art-of-spending-money]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[wealth-beyond-money]] مستند شده است.
 - با [[the-cost-of-quiet]]: یک رابطه‌ی کاربرد (Application) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[honest-communication]] مستند شده است.
 - با [[the-first-minute]]: یک رابطه‌ی بسط (Extension) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[clarity-in-workplace-communication]] مستند شده است.
+- با [[how-to-become-a-people-magnet]]: یک رابطه‌ی شرط مرزی (Boundary Condition) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[influence-through-understanding-human-nature]] مستند شده است.
+- با [[the-anxious-generation]]: یک رابطه‌ی موافقتِ مستقل همراه با بسط شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[childhood-in-the-digital-age]] مستند شده است.
+- با [[the-subtle-art-of-not-giving-a-fck]]: یک رابطه‌ی موافقتِ مشترک (زتلِ [[taking-responsibility-must-precede-judging-the-world]] غنی‌شد) شناسایی شد؛ هیچ تناقضی یافت نشد. جزئیات در صفحه‌ی موضوع [[personal-responsibility]] مستند شده است.
 
 ## Translation
 

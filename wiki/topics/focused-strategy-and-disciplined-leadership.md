@@ -3,7 +3,7 @@ type: topic
 title: استراتژی متمرکز و رهبری منظم
 status: active
 tags: [استراتژی, رهبری, نظم-سازمانی]
-sources: [2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-rich-dad-poor-dad-blinkist, 2026-08-01-the-righteous-mind-blinkist]
+sources: [2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-rich-dad-poor-dad-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
@@ -35,6 +35,7 @@ updated: 2026-08-01
 - [[the-algorithm]] — یک رابطه‌ی بسط شناسایی شد.
 - [[the-righteous-mind]] — یک رابطه‌ی موافقت شناسایی شد.
 - [[the-leaders-guide-to-lateral-thinking-skills]] — یک رابطه‌ی بسط شناسایی شد.
+- [[how-to-become-a-people-magnet]] — یک موافقت و یک بسط شناسایی شد.
 
 ## Relationships
 
@@ -49,6 +50,8 @@ updated: 2026-08-01
 - **بسط (Extension):** [[weekly-leader-led-accountability-meetings-create-urgency-only-if-the-leader-knows-the-details]] از [[the-algorithm]] نمونه‌ی عینی سازوکار [[leaders-must-build-mechanisms-that-surface-harsh-truths-without-blame]] فراهم می‌کند و می‌افزاید: دانش عمیق شخصیِ رهبر از جزئیات، نه صرفاً ساختار جلسه، عامل «بلوف‌ناپذیری» است.
 - **موافقت (Agreement):** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] از [[the-righteous-mind]] مستقل از [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده، نه کنترل بیرونی، دوام گروه را می‌سازد؛ کالینز این را در سطح فرهنگ سازمانی نشان می‌دهد، هایدت در سطح جامعه‌ی دینی.
 - **بسط (Extension):** [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] از [[the-leaders-guide-to-lateral-thinking-skills]] معیارهای شکلیِ بیان یک استراتژی به‌صورت چشم‌انداز الهام‌بخش را به [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] می‌افزاید — یک مفهوم خارپشتِ درست، اگر بی‌جان بیان شود، قدرت انگیزشی خود را از دست می‌دهد.
+- **موافقت (Agreement):** [[leading-by-example-is-the-only-credible-lever-for-changing-others-behavior]] از [[how-to-become-a-people-magnet]] مستقل از [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] به این نتیجه رسیده که رهبری معتبر از کردار، نه ادعا، اعتبار می‌گیرد.
+- **بسط (Extension):** [[addressing-problems-immediately-prevents-them-from-compounding-into-larger-crises]] از همان کتاب، پارادوکس استاک‌دیل [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] را از سطح سازمانی به سطح مشکلات شخصی روزمره می‌برد.
 
 ## Contradictions
 
@@ -79,3 +82,4 @@ updated: 2026-08-01
 - [[2026-07-31-the-algorithm-blinkist]]
 - [[2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]

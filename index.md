@@ -13,7 +13,12 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-07-31-good-morning-i-love-you-blinkist]] — Blinkist summary of *Good Morning, I Love You* by Shauna Shapiro.
 - [[2026-07-31-good-to-great-blinkist]] — Blinkist summary of *Good to Great* by Jim Collins.
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]] — Blinkist summary of *How a Little Becomes a Lot* by Eric Zimmer.
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]] — Blinkist summary of *How to Become a People Magnet* by Marc Reklau.
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]] — Blinkist summary of *How to Enjoy Your Life and Your Job* by Dale Carnegie.
+- [[2026-08-02-how-to-make-people-like-you-in-90-seconds-or-less-blinkist]] — Blinkist summary of *How to Make People Like You in 90 Seconds or Less* by Nicholas Boothman.
+- [[2026-08-02-once-upon-a-stranger-blinkist]] — Blinkist summary of *Once Upon a Stranger* by Gillian Sandstrom.
+- [[2026-08-02-the-anatomy-of-awakening-blinkist]] — Blinkist summary of *The Anatomy of Awakening* by Sue Morter.
+- [[2026-08-02-the-anxious-generation-blinkist]] — Blinkist summary of *The Anxious Generation* by Jonathan Haidt.
 - [[2026-07-31-rich-dad-poor-dad-blinkist]] — Blinkist summary of *Rich Dad, Poor Dad* by Robert T. Kiyosaki.
 - [[2026-07-31-shift-blinkist]] — Blinkist summary of *Shift* by Ethan Kross.
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]] — Blinkist summary of *Stop Letting Everything Affect You* by Daniel Chidiac.
@@ -28,6 +33,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist]] — Blinkist summary of *The Overthinker's Guide to Making Decisions* by Joseph Nguyen.
 - [[2026-08-01-the-psychology-of-money-blinkist]] — Blinkist summary of *The Psychology of Money* by Morgan Housel.
 - [[2026-08-01-the-righteous-mind-blinkist]] — Blinkist summary of *The Righteous Mind* by Jonathan Haidt.
+- [[2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist]] — Blinkist summary of *The Subtle Art of Not Giving a F*ck* by Mark Manson.
 
 ## Translations
 
@@ -40,7 +46,12 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[good-morning-i-love-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «صبح‌بخیر، دوستت دارم».
 - [[good-to-great-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «از خوب به عالی».
 - [[how-a-little-becomes-a-lot-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه کمی به مقدار زیادی تبدیل می‌شود».
+- [[how-to-become-a-people-magnet-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه یک آهنربای انسانی شویم».
 - [[how-to-enjoy-your-life-and-your-job-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «چگونه از زندگی و شغل خود لذت ببرید».
+- [[how-to-make-people-like-you-in-90-seconds-or-less-fa]] — ترجمه‌ی خلاصه‌ی فارسی «چگونه در کمتر از ۹۰ ثانیه مورد پسند دیگران باشید».
+- [[once-upon-a-stranger-fa]] — ترجمه‌ی خلاصه‌ی فارسی «روزی روزگاری یک غریبه».
+- [[the-anatomy-of-awakening-fa]] — ترجمه‌ی خلاصه‌ی فارسی «کالبدشناسیِ بیداری».
+- [[the-anxious-generation-fa]] — ترجمه‌ی خلاصه‌ی فارسی «نسل مضطرب».
 - [[rich-dad-poor-dad-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «پدر پولدار، پدر فقیر».
 - [[shift-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «شیفت».
 - [[stop-letting-everything-affect-you-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «نگذارید همه‌چیز روی شما اثر بگذارد».
@@ -55,6 +66,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-overthinkers-guide-to-making-decisions-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری».
 - [[the-psychology-of-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «روان‌شناسی پول».
 - [[the-righteous-mind-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «ذهن پرهیزگار».
+- [[the-subtle-art-of-not-giving-a-fck-fa]] — ترجمه‌ی خلاصه‌ی فارسی «هنر ظریف بی‌خیالی».
 
 ## Books
 
@@ -67,7 +79,12 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[good-morning-i-love-you]] — صفحه‌ی مرکزی کتاب «صبح‌بخیر، دوستت دارم» اثر شانا شاپیرو.
 - [[good-to-great]] — صفحه‌ی مرکزی کتاب «از خوب به عالی» اثر جیم کالینز.
 - [[how-a-little-becomes-a-lot]] — صفحه‌ی مرکزی کتاب «چگونه کمی به مقدار زیادی تبدیل می‌شود» اثر اریک زیمر.
+- [[how-to-become-a-people-magnet]] — صفحه‌ی مرکزی کتاب «چگونه یک آهنربای انسانی شویم» اثر مارک رکلاو.
 - [[how-to-enjoy-your-life-and-your-job]] — صفحه‌ی مرکزی کتاب «چگونه از زندگی و شغل خود لذت ببرید» اثر دیل کارنگی.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — صفحه‌ی مرکزی کتاب «چگونه در کمتر از ۹۰ ثانیه مورد پسند دیگران باشید» اثر نیکلاس بوثمن.
+- [[once-upon-a-stranger]] — صفحه‌ی مرکزی کتاب «روزی روزگاری یک غریبه» اثر گیلیان سندستروم.
+- [[the-anatomy-of-awakening]] — صفحه‌ی مرکزی کتاب «کالبدشناسیِ بیداری» اثر سو مورتر.
+- [[the-anxious-generation]] — صفحه‌ی مرکزی کتاب «نسل مضطرب» اثر جاناتان هایدت.
 - [[rich-dad-poor-dad]] — صفحه‌ی مرکزی کتاب «پدر پولدار، پدر فقیر» اثر رابرت تی. کیوساکی.
 - [[shift]] — صفحه‌ی مرکزی کتاب «شیفت» اثر اتان کراس.
 - [[stop-letting-everything-affect-you]] — صفحه‌ی مرکزی کتاب «نگذارید همه‌چیز روی شما اثر بگذارد» اثر دانیل چیدیاک.
@@ -82,6 +99,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-overthinkers-guide-to-making-decisions]] — صفحه‌ی مرکزی کتاب «راهنمای فکرکردن‌بیش‌ازحد برای تصمیم‌گیری» اثر جوزف نگوین.
 - [[the-psychology-of-money]] — صفحه‌ی مرکزی کتاب «روان‌شناسی پول» اثر مورگان هاوسل.
 - [[the-righteous-mind]] — صفحه‌ی مرکزی کتاب «ذهن پرهیزگار» اثر جاناتان هایدت.
+- [[the-subtle-art-of-not-giving-a-fck]] — صفحه‌ی مرکزی کتاب «هنر ظریف بی‌خیالی» اثر مارک منسون.
 
 ## Zettels
 
@@ -299,6 +317,41 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] — پذیرفتن دیدگاه یک بیگانه، کودک، یا خودِ محصول، مفروضاتی را آشکار می‌کند که از دیدگاه خودتان دیده نمی‌شوند.
 - [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]] — ترکیب دو ایده‌ی نامرتبطِ موجود، اغلب جهش‌های خلاقانه‌تری از اختراع کاملاً از صفر می‌سازد.
 - [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]] — بازی‌های ساختاریافته مانند تمرین اشیاء یافته‌شده و معماهای بله/نه، تفکر جانبی را به مهارتی قابل‌تکرار تبدیل می‌کنند.
+- [[using-someones-name-signals-attention-and-makes-them-feel-valued]] — به‌کاربردن نام کسی، توجه را نشان می‌دهد و او را ارزشمند احساس می‌کند.
+- [[asking-questions-instead-of-giving-orders-preserves-dignity-and-invites-ownership]] — پرسیدن به‌جای دستوردادن، کرامت را حفظ می‌کند و مالکیت راه‌حل را دعوت می‌کند.
+- [[leading-by-example-is-the-only-credible-lever-for-changing-others-behavior]] — رهبری با نمونه‌بودن، تنها اهرم معتبر برای تغییردادن رفتار دیگران است.
+- [[meeting-rudeness-with-friendliness-disarms-it-more-effectively-than-confrontation]] — پاسخ‌دادن به بی‌ادبی با دوستانه‌بودن، آن را مؤثرتر از رویارویی خلع‌سلاح می‌کند.
+- [[roughly-half-the-people-you-meet-wont-connect-with-you-and-thats-normal-not-failure]] — حدود نیمی از افرادی که ملاقات می‌کنید با شما هم‌خوان نخواهند بود، و این طبیعی است.
+- [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] — عزت‌نفس واقعی فروتنانه و مستقل از تأیید بیرونی است، برخلاف تقلید خودشیفته‌وار آن.
+- [[addressing-problems-immediately-prevents-them-from-compounding-into-larger-crises]] — پرداختن فوری به مشکلات، از تبدیل‌شدنشان به بحران‌های بزرگ‌تر جلوگیری می‌کند.
+- [[silent-nonverbal-cues-decide-first-impressions-before-any-words-are-exchanged]] — نشانه‌های بی‌کلامِ بدن، پیش از رد‌وبدل هر کلامی، تأثیر نخست را رقم می‌زنند.
+- [[focusing-on-what-you-want-rather-than-what-you-dont-want-automatically-produces-open-body-language]] — تمرکز بر آنچه می‌خواهید، نه آنچه نمی‌خواهید، به‌طور خودکار زبان بدنِ باز می‌سازد.
+- [[credibility-requires-congruence-across-vocal-verbal-and-visual-channels]] — اعتبار به همخوانیِ سه کانال آوایی، کلامی، و دیداری وابسته است.
+- [[unconscious-synchronization-of-posture-voice-and-breathing-is-the-biological-basis-of-rapport]] — همگام‌سازیِ ناخودآگاهِ وضعیت بدن، صدا، و تنفس، پایه‌ی زیستیِ پیوند است.
+- [[open-questions-starting-with-who-what-when-where-how-why-invite-conversation-while-closed-questions-end-it]] — پرسش‌های باز گفت‌وگو را می‌گشایند؛ پرسش‌های بسته آن را می‌بندند.
+- [[peoples-dominant-sensory-channel-shapes-their-language-and-eye-movements]] — حسِ غالبِ هر فرد زبان و حرکات چشمش را شکل می‌دهد.
+- [[the-liking-gap-means-both-strangers-underestimate-how-much-their-conversation-partner-liked-them]] — شکافِ دوست‌داشتن یعنی هر دو طرف یک گفت‌وگو میزان دوست‌داشته‌شدنِ خود را دست‌کم می‌گیرند.
+- [[rejection-from-strangers-is-far-rarer-than-people-predict-so-most-avoidance-is-self-imposed]] — طردشدن از سوی غریبه‌ها بسیار نادرتر از پیش‌بینیِ افراد است.
+- [[self-disclosure-to-a-stranger-is-rewarding-and-safe-because-psychological-distance-removes-stakes-and-judgment]] — افشای خود به یک غریبه پاداش‌دهنده و امن است.
+- [[conversations-feel-meaningful-when-they-teach-you-something-new-not-merely-when-they-are-pleasant]] — گفت‌وگوها زمانی معنادار احساس می‌شوند که چیزی تازه بیاموزند.
+- [[minimal-acknowledgment-like-a-smile-or-glance-fulfills-the-need-to-feel-seen-without-requiring-depth]] — شناختِ حداقلی نیازِ «دیده‌شدن» را بدون نیاز به عمق برآورده می‌کند.
+- [[a-single-good-conversation-with-a-stranger-doesnt-update-pessimistic-expectations-so-benefits-require-repeated-practice]] — یک گفت‌وگوی خوبِ تنها، انتظاراتِ بدبینانه را تغییر نمی‌دهد.
+- [[the-reactive-fear-based-self-is-a-protective-adaptation-not-your-true-identity]] — خودِ واکنشی و ترس‌محور، سازوکاری محافظتی است، نه هویتِ واقعیِ شما.
+- [[approaching-change-from-assumed-wholeness-rather-than-brokenness-changes-effort-into-reception]] — شروعِ تغییر از فرضِ کلیت، نه نقص، تلاش را به دریافت‌کردن تبدیل می‌کند.
+- [[increased-emotional-discomfort-during-growth-can-signal-integration-not-failure]] — افزایشِ ناراحتیِ هیجانی در جریانِ رشد می‌تواند نشانه‌ی یکپارچه‌سازی باشد، نه شکست.
+- [[expanded-awareness-is-only-stable-when-built-on-prior-grounding-otherwise-it-produces-confusion]] — آگاهیِ گسترده‌تر تنها زمانی پایدار است که بر پایه‌ی تثبیت ساخته شده باشد.
+- [[insight-becomes-stable-change-only-when-anchored-in-the-body-not-left-as-abstract-understanding]] — بینش تنها زمانی به تغییرِ پایدار تبدیل می‌شود که در بدن لنگر بیندازد.
+- [[the-great-rewiring-of-childhood-replaced-play-based-development-with-phone-based-development]] — بازسیم‌کشیِ بزرگِ کودکی، رشدِ مبتنی‌بر بازی را با رشدِ مبتنی‌بر گوشی جایگزین کرد.
+- [[free-play-attunement-and-social-learning-are-three-developmental-channels-a-phone-based-childhood-forecloses]] — بازیِ آزاد، همسویی و یادگیریِ اجتماعی سه کانالِ رشدی‌اند که کودکیِ گوشی‌محور مسدود می‌کند.
+- [[variable-reward-notifications-exploit-the-same-anticipation-driven-dopamine-mechanism-that-drives-habit-formation]] — اعلان‌های پاداشِ متغیر همان مکانیزمِ دوپامینِ پیش‌نگرِ عادت‌سازی را برای اعتیاد به‌کار می‌گیرند.
+- [[overprotecting-children-in-the-physical-world-while-underprotecting-them-in-the-virtual-world-is-a-modern-parenting-paradox]] — محافظتِ بیش‌ازحد در دنیای فیزیکی و کم در دنیای مجازی، تناقضِ تربیتیِ عصرِ ماست.
+- [[risky-unsupervised-play-builds-resilience-and-self-efficacy-that-safety-obsessed-childhoods-remove]] — بازیِ پرمخاطره و بدونِ نظارت، تاب‌آوری و خودکارآمدی می‌سازد که کودکیِ وسواسیِ ایمنی حذف می‌کند.
+- [[a-good-life-is-defined-by-choosing-the-right-struggle-not-the-absence-of-struggle]] — زندگیِ خوب را انتخابِ مبارزه‌ی درست تعریف می‌کند، نه غیابِ مبارزه.
+- [[good-values-are-reality-based-socially-constructive-and-within-your-immediate-control]] — ارزش‌های خوب مبتنی‌بر واقعیت، مفید برای جامعه، و در کنترلِ بی‌واسطه‌ی فردند.
+- [[mansons-law-of-avoidance-identity-threat-drives-people-away-from-valuable-risks]] — قانونِ اجتنابِ منسون: تهدیدِ هویت آدمی را از ریسک‌های ارزشمند دور می‌کند.
+- [[absolute-certainty-often-masks-hidden-insecurity-rather-than-reflecting-evidence]] — قطعیتِ مطلق اغلب ناامنیِ پنهان را می‌پوشاند، نه شواهد را منعکس می‌کند.
+- [[healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems]] — عشقِ سالم حمایتِ متقابل بدونِ کنترل است؛ عشقِ ناسالم فرارِ مشترک از مشکلاتِ شخصی است.
+- [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]] — پروژه‌های جاودانگی، اضطرابِ مرگ را به رقابتِ بی‌پایان برای میراث تبدیل می‌کنند.
 
 ## Topics
 
@@ -310,7 +363,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[ai-as-tool-not-replacement]] — نقشه‌ی موضوعی استفاده‌ی مسئولانه از هوش مصنوعی به‌عنوان ابزار مکمل انسان.
 - [[psychological-safety-and-creative-culture]] — نقشه‌ی موضوعی ساختارها، عادت‌های مدیریتی، و تکنیک‌های تفکر جانبی لازم برای فرهنگ سازمانی خلاق و نوآور.
 - [[emotional-intelligence-and-self-regulation]] — نقشه‌ی موضوعی کارکرد، اختلال، و تقویت هوش هیجانی.
-- [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود.
+- [[mindfulness-and-self-compassion]] — نقشه‌ی موضوعی بازسیم‌کشی مغز از طریق ذهن‌آگاهی و شفقت به خود؛ اکنون شاملِ چارچوبِ معنوی/انرژتیکِ [[the-anatomy-of-awakening]] به‌عنوان منبعِ دوم.
 - [[focused-strategy-and-disciplined-leadership]] — نقشه‌ی موضوعی استراتژی متمرکز، رهبری سطح ۵، و فرهنگ نظم خودخواسته.
 - [[influence-through-understanding-human-nature]] — نقشه‌ی موضوعی نفوذ اخلاقی از طریق قدردانی، علاقه‌ی واقعی، و مالکیت ایده.
 - [[financial-literacy-and-asset-ownership]] — نقشه‌ی موضوعی تمایز دارایی از بدهی، کسب‌وکار از حرفه، هوش مالی، سیستم رفتاری روزمره‌ی مدیریت پول، و راهبرد دم‌بلند در سرمایه‌گذاری.
@@ -321,6 +374,9 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[clarity-in-workplace-communication]] — نقشه‌ی موضوعی ساختار و وضوح در دقیقه‌ی نخست ارتباط کاری: قاب‌بندی، روش GPS، بررسی زمان، و اعتبارسنجی.
 - [[decisive-action-under-uncertainty]] — نقشه‌ی موضوعی تصمیم‌گیری آگاهانه زیر بار ترس: هزینه‌ی بلاتکلیفی، چارچوب‌های SAGE و TRUST، و بازسازی اعتماد به خود.
 - [[moral-intuition-and-tribal-psychology]] — نقشه‌ی موضوعی شهود اخلاقی، بنیان‌های اخلاقی مشترک، تکامل چندسطحی، سوییچ کندویی، کارکرد پیونددهنده‌ی دین، و ریشه‌ی روان‌شناختی قطبی‌شدن سیاسی.
+- [[nonverbal-rapport-and-first-impressions]] — نقشه‌ی موضوعی زبان بدن، همخوانیِ سه‌کاناله، همگام‌سازی، و زبان حسیِ غالب در برخورد نخست.
+- [[connecting-with-strangers]] — نقشه‌ی موضوعی روان‌شناسیِ پیوند با غریبه‌ها: شکافِ دوست‌داشتن، ترسِ اغراق‌شده از طرد، افشای خود، و انباشتِ تدریجیِ شجاعتِ اجتماعی.
+- [[childhood-in-the-digital-age]] — نقشه‌ی موضوعی تأثیرِ گوشیِ هوشمند بر رشدِ کودک: بازسیم‌کشیِ بزرگِ کودکی، سه کانالِ رشدیِ ازدست‌رفته، مکانیزمِ اعتیاد، و تناقضِ تخصیصِ محافظت.
 
 ## Queries
 

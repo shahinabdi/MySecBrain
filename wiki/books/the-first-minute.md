@@ -46,6 +46,7 @@ updated: 2026-08-01
 - [[boundaries]] — بررسی زمان صریح، ابزاری عملیاتی برای احترام به مالکیت زمان دیگران در محیط کار است.
 - [[emotional-intelligence]] — نقطه‌ی اعتبارسنجی، منطق «پرسیدن به‌جای حدس‌زدن» گلمن را یک قدم عقب‌تر، به پیش از شروع گفت‌وگو، می‌برد.
 - [[the-algorithm]] — روش GPS و اصل «حذف آنچه به هدف خدمت نمی‌کند» مک‌نیل، مستقل به یک نتیجه رسیده‌اند.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — ارتباط مکمل: [[open-questions-starting-with-who-what-when-where-how-why-invite-conversation-while-closed-questions-end-it]] در کنار [[the-gps-method-goal-problem-solution-turns-detail-first-rambling-into-solution-first-clarity]] — هر دو درباره‌ی ساختاردهیِ آگاهانه به گفت‌وگو برای وضوح‌اند، در دو بافتِ متفاوت (اجتماعی در برابر کاری).
 
 ## Agreements, Extensions & Contradictions
 

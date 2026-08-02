@@ -2,12 +2,12 @@
 type: zettel
 title: تبیین شکست‌ها با علل قابل‌تغییر، نه کاستی‌های دائمی، انگیزه را پایدار نگه می‌دارد
 status: seed
-books: [emotional-intelligence]
-topics: [emotional-intelligence-and-self-regulation]
+books: [emotional-intelligence, how-to-become-a-people-magnet]
+topics: [emotional-intelligence-and-self-regulation, influence-through-understanding-human-nature]
 tags: [سبک-تبیینی, انگیزه, خودانگیزشی]
-sources: [2026-07-31-emotional-intelligence-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Idea
@@ -24,10 +24,12 @@ updated: 2026-07-31
 
 ## Connections
 
+- **بسط (Extension) توسط** [[how-to-become-a-people-magnet]]: رکلاو می‌افزاید که این سبک تبیینی خوش‌بینانه نه‌تنها انگیزه‌ی شخصی را حفظ می‌کند، بلکه اثری اجتماعی نیز دارد — مردم طبیعتاً همراهی خوش‌بین‌ها را بر بدبین‌ها ترجیح می‌دهند، و این سبک (برخلاف تصور رایج) یک نگرش قابل‌یادگیری است، نه ویژگی ژنتیکی.
 - مکمل [[reappraising-a-feelings-cause-through-inner-dialogue-reduces-its-power]]: هر دو از بازتفسیر آگاهانه برای تغییر تأثیر هیجانی یک رویداد استفاده می‌کنند.
 - **شرط مرزی (Boundary Condition) از** [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] در کتاب [[good-to-great]]: کالینز نشان می‌دهد این تبیین خوش‌بینانه‌ی شکست تنها زمانی انگیزه را پایدار نگه می‌دارد که با مواجهه‌ی کامل با واقعیت‌های تلخ همراه باشد؛ خوش‌بینی بدون این مواجهه (مانند پیش‌بینی «تا کریسمس آزاد می‌شویم» در پارادوکس استاک‌دیل) می‌تواند به شکستی دردناک‌تر هنگام تأخیر بینجامد.
 
 ## Sources
 
 - [[2026-07-31-emotional-intelligence-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]
 - Book: [[emotional-intelligence]]

@@ -67,10 +67,16 @@ updated: 2026-07-31
   - **بسط:** [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]] کنجکاویِ آگاهانه را نمونه‌ی مشخصی از [[what-you-practice-grows-stronger-through-neuroplasticity]] معرفی می‌کند — تمرینِ پرسیدنِ «چرا» ذهن را در حوزه‌ی رشد شناختی تیز نگه می‌دارد.
 - [[the-cost-of-quiet]] — یک رابطه‌ی کاربرد:
   - **کاربرد:** [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] چارچوب [[mindfulness-combines-intention-attention-and-attitude]] را مشخصاً در خدمت تمرین صداقت رابطه‌ای به‌کار می‌برد.
+- [[once-upon-a-stranger]] — دو رابطه:
+  - **مرتبط:** [[a-single-good-conversation-with-a-stranger-doesnt-update-pessimistic-expectations-so-benefits-require-repeated-practice]] در کنار [[small-consistent-practice-beats-forcing-large-change]].
+  - **موافقت:** همان زتل مستقل از [[what-you-practice-grows-stronger-through-neuroplasticity]] به همان اصل رسیده.
+- [[the-anatomy-of-awakening]] — دو رابطه:
+  - [[approaching-change-from-assumed-wholeness-rather-than-brokenness-changes-effort-into-reception]] در کنار [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]].
+  - **موافقت:** [[insight-becomes-stable-change-only-when-anchored-in-the-body-not-left-as-abstract-understanding]] با [[what-you-practice-grows-stronger-through-neuroplasticity]] و [[small-consistent-practice-beats-forcing-large-change]] هم‌راستاست.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. با [[the-5-types-of-wealth]]: یک بسط. با [[the-cost-of-quiet]]: یک کاربرد. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[honest-communication]] مستند شده است.
+بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. با [[the-5-types-of-wealth]]: یک بسط. با [[the-cost-of-quiet]]: یک کاربرد. با [[once-upon-a-stranger]]: یک ارتباط مکمل و یک موافقت مستقل. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل و یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[honest-communication]] مستند شده است.
 
 ## Translation
 

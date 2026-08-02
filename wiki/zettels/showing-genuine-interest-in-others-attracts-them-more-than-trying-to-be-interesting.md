@@ -2,12 +2,12 @@
 type: zettel
 title: نشان‌دادن علاقه‌ی واقعی به دیگران، بیش از تلاش برای جالب‌بودن، آن‌ها را جذب می‌کند
 status: seed
-books: [how-to-enjoy-your-life-and-your-job]
-topics: [influence-through-understanding-human-nature]
+books: [how-to-enjoy-your-life-and-your-job, how-to-become-a-people-magnet, how-to-make-people-like-you-in-90-seconds-or-less]
+topics: [influence-through-understanding-human-nature, nonverbal-rapport-and-first-impressions]
 tags: [ارتباط, علاقه, دوستی]
-sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
+sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist, 2026-08-02-how-to-make-people-like-you-in-90-seconds-or-less-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-02
 ---
 
 ## Idea
@@ -24,9 +24,13 @@ updated: 2026-07-31
 
 ## Connections
 
+- **بسط (Extension) توسط** [[how-to-become-a-people-magnet]]: رکلاو تکنیک عملیِ گوش‌دادن فعال را می‌افزاید — پرسش‌های پیگیری («بعدش چه شد؟»)، تماس چشمی، و خودداریِ آگاهانه از قطع‌کردن حرف یا ارائه‌ی نصیحت ناخواسته؛ همچنین می‌افزاید که در بافت فروش و رهبری، این علاقه باید در قالب فهم *نیازهای* طرف مقابل (نه فقط زندگی شخصی‌اش) بیان شود.
+- **بسط (Extension) توسط** [[how-to-make-people-like-you-in-90-seconds-or-less]]: بوثمن اجزای بدنیِ دقیق گوش‌دادن فعال را مشخص می‌کند — جهت سینه رو‌به‌گوینده، خم‌شدن اندک هنگام هم‌رزونانسی، و پاسخ‌دادن با انرژیِ هم‌تراز با آنچه شنیده شده؛ همچنین اصل [[open-questions-starting-with-who-what-when-where-how-why-invite-conversation-while-closed-questions-end-it]] را به‌عنوان ابزار زبانیِ دقیقِ برانگیختنِ همین علاقه اضافه می‌کند.
 - [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] — از [[emotional-intelligence]]: هر دو ایده درباره‌ی توجه به دیگری برای ساختن ارتباط مؤثرترند؛ گلمن بر تنظیم *شیوه‌ی بیان* پیام خود تمرکز دارد، این ایده بر ابراز *علاقه‌ی واقعی* به‌عنوان پیش‌نیاز هر ارتباطی.
 - **تناقض (Contradiction):** [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] از [[the-48-laws-of-power]]: گرین همان رفتارِ ظاهری (توجه و علاقه به جزئیات زندگی دیگری) را توصیه می‌کند، اما با انگیزه‌ای ابزاری و پنهان — استخراج اطلاعات برای کنترل، نه پیوند صادقانه. این کتاب بر صداقتِ علاقه به‌عنوان شرط اثربخشی تأکید دارد؛ آن کتاب تظاهر را کافی می‌داند. هر دو ادعا بدون قضاوت درباره‌ی برتری یکی بر دیگری ثبت می‌شوند.
 
 ## Sources
 
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]
+- [[2026-08-02-how-to-make-people-like-you-in-90-seconds-or-less-blinkist]]

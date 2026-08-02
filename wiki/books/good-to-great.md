@@ -8,7 +8,7 @@ translation: good-to-great-fa
 tags: [استراتژی, رهبری, کسب‌وکار]
 sources: [2026-07-31-good-to-great-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Overview
@@ -80,10 +80,15 @@ updated: 2026-07-31
   - **موافقت:** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] مستقل از [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده، نه کنترل بیرونی، دوام گروه را می‌سازد.
 - [[the-leaders-guide-to-lateral-thinking-skills]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] معیارهای شکلیِ بیان یک استراتژی به‌صورت چشم‌انداز الهام‌بخش را به [[focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy]] می‌افزاید.
+- [[how-to-become-a-people-magnet]] — دو رابطه شناسایی شد:
+  - **موافقت:** [[leading-by-example-is-the-only-credible-lever-for-changing-others-behavior]] با [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] مستقل به این نتیجه رسیده‌اند که رهبری معتبر از کردار، نه ادعا، اعتبار می‌گیرد.
+  - **بسط:** [[addressing-problems-immediately-prevents-them-from-compounding-into-larger-crises]] پارادوکس استاک‌دیل ([[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]]) را از سطح سازمانی به سطح مشکلات شخصی روزمره می‌برد.
+- [[the-anatomy-of-awakening]] — یک موافقت در سطحِ متفاوت:
+  - [[expanded-awareness-is-only-stable-when-built-on-prior-grounding-otherwise-it-produces-confusion]] با [[confronting-brutal-facts-while-retaining-unwavering-faith-sustains-perseverance]] (پارادوکس استاک‌دیل) هم‌راستاست — تثبیت پیش از گسترش، در سطح سازمانی و در سطح فردی-معنوی.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[the-48-laws-of-power]]: یک شرط مرزی. با [[the-algorithm]]: یک بسط. با [[the-art-of-spending-money]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک موافقت مستقل. با [[the-leaders-guide-to-lateral-thinking-skills]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[focused-strategy-and-disciplined-leadership]]، [[operational-efficiency-through-process-simplification]] و [[wealth-beyond-money]] مستند شده است.
+بدون تناقض. با [[creativity-inc]]: دو موافقت مستقل. با [[atomic-habits]]: یک موافقت مستقل. با [[12-rules-for-life]]: یک بسط. با [[emotional-intelligence]]: یک شرط مرزی. با [[how-to-enjoy-your-life-and-your-job]]: یک موافقت مستقل. با [[rich-dad-poor-dad]]: یک موافقت مستقل و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[the-48-laws-of-power]]: یک شرط مرزی. با [[the-algorithm]]: یک بسط. با [[the-art-of-spending-money]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک موافقت مستقل. با [[the-leaders-guide-to-lateral-thinking-skills]]: یک بسط. با [[how-to-become-a-people-magnet]]: یک موافقت مستقل و یک بسط. با [[the-anatomy-of-awakening]]: یک موافقت مستقل در سطحِ متفاوت. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[focused-strategy-and-disciplined-leadership]]، [[operational-efficiency-through-process-simplification]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

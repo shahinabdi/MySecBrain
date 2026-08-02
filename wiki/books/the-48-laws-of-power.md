@@ -8,7 +8,7 @@ translation: the-48-laws-of-power-fa
 tags: [قدرت, راهبرد, نفوذ, تاریخ]
 sources: [2026-07-31-the-48-laws-of-power-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Overview
@@ -61,6 +61,13 @@ updated: 2026-07-31
 - [[the-righteous-mind]] — دو رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] مکانیزم روان‌شناختیِ زیربنایی [[appealing-to-self-interest-succeeds-where-appeals-to-goodwill-fail]] را نشان می‌دهد.
   - **بسط:** [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] همان قانون را به‌عنوان یکی از شش اهرم اقناعیِ هایدت بازچارچوب می‌کند.
+- [[how-to-become-a-people-magnet]] — دو رابطه‌ی تنش شناسایی شد:
+  - **تنش:** [[meeting-rudeness-with-friendliness-disarms-it-more-effectively-than-confrontation]] در برابر [[acting-like-a-superior-makes-others-treat-you-like-one-but-feigning-equality-breeds-contempt]] — رکلاو نرم‌شدنِ آگاهانه در برابر خصومت را توصیه می‌کند، گرین ساختن جایگاه از طریق رفتار مقتدرانه را؛ دو راهبرد متفاوت برای مدیریت پویایی قدرت در تعامل تنش‌زا.
+  - **تنش:** [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] در برابر همان قانون — رکلاو اصالت درونی را منبع جذابیت می‌داند، گرین مدیریت راهبردی تصویر بیرونی را.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — یک رابطه‌ی توضیح‌دهنده‌ی مکانیزم:
+  - [[credibility-requires-congruence-across-vocal-verbal-and-visual-channels]] توضیح می‌دهد چرا تناقضِ ثبت‌شده میان [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] و [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] رخ می‌دهد — تظاهر معمولاً ناهمخوانیِ ظریفی بین کانال کلامی و بدنی می‌سازد که ناخودآگاه قابل‌تشخیص است، بنابراین اثربخشیِ تظاهر ادعاشده به مهارت اجرای بدون‌درزش وابسته است.
+- [[once-upon-a-stranger]] — یک رابطه‌ی تنش:
+  - [[self-disclosure-to-a-stranger-is-rewarding-and-safe-because-psychological-distance-removes-stakes-and-judgment]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] — سندستروم فاصله‌ی روان‌شناختی را ابزارِ ایمن‌سازیِ افشای خود می‌داند؛ گرین همان فاصله را ابزارِ استخراجِ اطلاعات از دیگری می‌داند.
 
 ## Agreements, Extensions & Contradictions
 
@@ -72,6 +79,8 @@ updated: 2026-07-31
 - **کاربرد متقابل:** [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] در برابر [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] از [[stop-letting-everything-affect-you]] — راهنمای اجرا در برابر راهنمای تشخیص و دفاع.
 
 - **بسط:** [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] و [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] از [[the-righteous-mind]]، هر دو لایه‌ی روان‌شناختی به قوانین اقناعی این کتاب می‌افزایند.
+
+- **تنش:** [[meeting-rudeness-with-friendliness-disarms-it-more-effectively-than-confrontation]] و [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] از [[how-to-become-a-people-magnet]]، هر دو در برابر [[acting-like-a-superior-makes-others-treat-you-like-one-but-feigning-equality-breeds-contempt]] قرار دارند.
 
 هیچ‌کدام از این روابط، تناقضی درباره‌ی واقعیت‌های تاریخی نیست؛ همگی درباره‌ی تنش میان راهبرد اثربخش و صداقتِ اخلاقی‌اند که کتاب هیچ‌جا آشکارا حل نمی‌کند.
 

@@ -2,12 +2,12 @@
 type: zettel
 title: برانگیختن پاسخ‌های «بله»ی زودهنگام، ذهن را برای پذیرش گشوده نگه می‌دارد
 status: seed
-books: [how-to-enjoy-your-life-and-your-job]
+books: [how-to-enjoy-your-life-and-your-job, how-to-become-a-people-magnet]
 topics: [influence-through-understanding-human-nature]
 tags: [متقاعدسازی, روش-سقراطی, روان‌شناسی]
-sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
+sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Idea
@@ -25,7 +25,9 @@ updated: 2026-07-31
 ## Connections
 
 - [[people-commit-more-fully-to-ideas-they-believe-are-their-own]] — همین کتاب: هر دو تکنیک از یک اصل مشترک استفاده می‌کنند — مردم بیشتر به افکاری متعهدند که احساس می‌کنند خودشان به آن رسیده‌اند، نه اینکه بر آن‌ها تحمیل شده باشد.
+- **بسط (Extension) توسط** [[how-to-become-a-people-magnet]]: رکلاو تکنیکی مکمل می‌افزاید — به‌جای پرسش ساده‌ی بله‌یا‌خیر، انتخاب را میان دو گزینه‌ی *مثبت* قاب‌بندی کنید («قرمز یا آبی؟» به‌جای «می‌خواهید؟»)؛ این هم مسیر مثبت را حفظ می‌کند و هم توهم اختیار کامل می‌سازد.
 
 ## Sources
 
 - [[2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]

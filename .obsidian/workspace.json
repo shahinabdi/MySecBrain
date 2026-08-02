@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6cddb5ed5a76cc64",
+        "id": "e15a135bb3087ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb8de2aea5d4228",
+            "id": "8977ab613128c90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/books/the-48-laws-of-power.md",
+                "file": "raw/How to Become a People Magnet by Marc Reklau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the-48-laws-of-power"
+              "title": "How to Become a People Magnet by Marc Reklau"
             }
           }
         ]
@@ -215,41 +215,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eb8de2aea5d4228",
+  "active": "8977ab613128c90f",
   "lastOpenFiles": [
-    "log.md.tmp.34372.a1a74409da71",
-    "index.md.tmp.34372.0aa2dfc4457a",
-    "index.md.tmp.34372.13780fa888c7",
-    "wiki/topics/focused-strategy-and-disciplined-leadership.md.tmp.34372.a030c3246809",
-    "wiki/topics/focused-strategy-and-disciplined-leadership.md.tmp.34372.8d968954009c",
-    "wiki/books/creativity-inc.md.tmp.34372.33ff46b57e7d",
-    "wiki/topics/psychological-safety-and-creative-culture.md.tmp.34372.230afd405e2e",
-    "wiki/books/the-leaders-guide-to-lateral-thinking-skills.md",
-    "wiki/zettels/questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit.md.tmp.34372.0197fd44d432",
-    "wiki/zettels/focusing-on-the-intersection-of-three-questions-produces-a-simple-guiding-strategy.md.tmp.34372.7b36f97dfb41",
-    "wiki/zettels/structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill.md",
-    "wiki/zettels/combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch.md",
-    "wiki/zettels/combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch.md.tmp.34372.92fb93676c03",
-    "wiki/topics/psychological-safety-and-creative-culture.md",
-    "wiki/zettels/adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own.md",
-    "wiki/zettels/deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses.md",
-    "wiki/zettels/deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses.md.tmp.34372.7d36cd392895",
-    "wiki/zettels/changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem.md",
-    "wiki/zettels/empowering-a-team-and-explicitly-permitting-failure-turns-a-vision-into-reality.md",
-    "wiki/zettels/a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound.md",
-    "wiki/zettels/lateral-leaders-pursue-the-same-goals-as-conventional-leaders-but-through-deliberately-different-paths.md",
-    "wiki/translations/the-leaders-guide-to-lateral-thinking-skills-fa.md",
-    "wiki/sources/2026-08-01-the-righteous-mind-blinkist.md",
-    "wiki/zettels/evolution-operates-at-both-individual-and-group-levels-making-humans-simultaneously-selfish-and-altruistic.md",
-    "wiki/sources/2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist.md",
-    "wiki/translations/the-righteous-mind-fa.md",
-    "index.md",
-    "raw/The Leader's Guide to Lateral Thinking Skills by Paul Sloane.md",
-    "wiki/books/the-righteous-mind.md",
-    "wiki/topics/moral-intuition-and-tribal-psychology.md",
-    "wiki/zettels/political-polarization-erodes-governance-because-each-side-safeguards-a-different-half-of-the-moral-picture.md",
-    "wiki/zettels/conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach.md",
-    "wiki/zettels/religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth.md",
-    "wiki/zettels/group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity.md"
+    "log.md.tmp.31048.c691a7ebfe45",
+    "index.md.tmp.31048.be2b242ca404",
+    "index.md.tmp.31048.477b81f9eebc",
+    "index.md.tmp.31048.355d29be1abd",
+    "wiki/topics/boundaries-and-ownership.md.tmp.31048.635f1977adb3",
+    "wiki/topics/boundaries-and-ownership.md.tmp.31048.c788518c1ea4",
+    "wiki/topics/boundaries-and-ownership.md.tmp.31048.6e7c2a1a7070",
+    "wiki/topics/boundaries-and-ownership.md.tmp.31048.ba726fd055fb",
+    "wiki/topics/personal-responsibility.md.tmp.31048.aebdb95495bd",
+    "wiki/topics/personal-responsibility.md.tmp.31048.42c9ce1e8212",
+    "wiki/topics/personal-responsibility.md.tmp.31048.cc12843d4e2a",
+    "wiki/books/the-subtle-art-of-not-giving-a-fck.md",
+    "wiki/zettels/immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy.md",
+    "wiki/zettels/healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems.md",
+    "wiki/zettels/absolute-certainty-often-masks-hidden-insecurity-rather-than-reflecting-evidence.md",
+    "wiki/zettels/mansons-law-of-avoidance-identity-threat-drives-people-away-from-valuable-risks.md",
+    "wiki/zettels/good-values-are-reality-based-socially-constructive-and-within-your-immediate-control.md",
+    "wiki/zettels/a-good-life-is-defined-by-choosing-the-right-struggle-not-the-absence-of-struggle.md",
+    "wiki/translations/the-subtle-art-of-not-giving-a-fck-fa.md",
+    "wiki/sources/2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist.md",
+    "wiki/topics/childhood-in-the-digital-age.md",
+    "wiki/books/the-anxious-generation.md",
+    "wiki/zettels/risky-unsupervised-play-builds-resilience-and-self-efficacy-that-safety-obsessed-childhoods-remove.md",
+    "wiki/zettels/overprotecting-children-in-the-physical-world-while-underprotecting-them-in-the-virtual-world-is-a-modern-parenting-paradox.md",
+    "wiki/zettels/variable-reward-notifications-exploit-the-same-anticipation-driven-dopamine-mechanism-that-drives-habit-formation.md",
+    "wiki/zettels/free-play-attunement-and-social-learning-are-three-developmental-channels-a-phone-based-childhood-forecloses.md",
+    "wiki/zettels/the-great-rewiring-of-childhood-replaced-play-based-development-with-phone-based-development.md",
+    "wiki/translations/the-anxious-generation-fa.md",
+    "wiki/sources/2026-08-02-the-anxious-generation-blinkist.md",
+    "wiki/books/the-anatomy-of-awakening.md",
+    "wiki/zettels/insight-becomes-stable-change-only-when-anchored-in-the-body-not-left-as-abstract-understanding.md",
+    "wiki/zettels/expanded-awareness-is-only-stable-when-built-on-prior-grounding-otherwise-it-produces-confusion.md",
+    "wiki/zettels/increased-emotional-discomfort-during-growth-can-signal-integration-not-failure.md",
+    "wiki/zettels/approaching-change-from-assumed-wholeness-rather-than-brokenness-changes-effort-into-reception.md",
+    "wiki/zettels/the-reactive-fear-based-self-is-a-protective-adaptation-not-your-true-identity.md",
+    "wiki/translations/the-anatomy-of-awakening-fa.md"
   ]
 }

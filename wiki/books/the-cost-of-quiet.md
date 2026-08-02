@@ -8,7 +8,7 @@ translation: the-cost-of-quiet-fa
 tags: [ارتباط, روابط-عاشقانه, صداقت-هیجانی]
 sources: [2026-07-31-the-cost-of-quiet-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Overview
@@ -54,6 +54,7 @@ updated: 2026-07-31
 - [[12-rules-for-life]] — یک رابطه‌ی کاربرد: زبان دقیق در بحرانی‌ترین نوع گفتگو.
 - [[good-morning-i-love-you]] — یک رابطه‌ی کاربرد: چارچوب ذهن‌آگاهی در خدمت صداقت رابطه‌ای.
 - [[the-first-minute]] — یک رابطه‌ی موافقت: پیش‌دستانگی درباره‌ی اطلاعاتی که مخاطب در غیر این صورت باید حدس بزند، مستقل در دو بافتار حرفه‌ای و عاشقانه.
+- [[how-to-become-a-people-magnet]] — یک رابطه‌ی موافقت: هر دو کتاب مستقل به این نتیجه رسیده‌اند که واکنش منفی طرف مقابل، اطلاعاتی درباره‌ی خودِ اوست، نه اثباتی بر نادرستی نیازها یا ارزش شما.
 
 ## Agreements, Extensions & Contradictions
 
@@ -66,6 +67,7 @@ updated: 2026-07-31
 - **بسط:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] بسط [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] از [[boundaries]] است، با مسیر میانه‌ی ظریف‌تر.
 - **کاربرد:** [[daily-small-moments-of-speaking-up-turn-courage-into-habit]] کاربرد [[mindfulness-combines-intention-attention-and-attitude]] از [[good-morning-i-love-you]] است.
 - **موافقت:** [[naming-your-inner-state-before-your-partner-has-to-guess-reduces-misreading]] مستقل از [[framing-a-conversation-in-the-first-fifteen-seconds-with-context-intent-and-key-message-prevents-confusion]] از [[the-first-minute]] به یک اصل رسیده.
+- **موافقت:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] مستقل از [[roughly-half-the-people-you-meet-wont-connect-with-you-and-thats-normal-not-failure]] از [[how-to-become-a-people-magnet]] به یک اصل رسیده.
 
 بدون تناقض.
 

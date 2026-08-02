@@ -3,7 +3,7 @@ type: topic
 title: پویایی قدرت و جایگاه‌یابی راهبردی
 status: active
 tags: [قدرت, راهبرد, نفوذ, دستکاری]
-sources: [2026-07-31-the-48-laws-of-power-blinkist, 2026-08-01-the-righteous-mind-blinkist]
+sources: [2026-07-31-the-48-laws-of-power-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
@@ -32,6 +32,7 @@ updated: 2026-08-01
 - [[boundaries]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 - [[stop-letting-everything-affect-you]] — یک رابطه‌ی کاربرد متقابل شناسایی شد.
 - [[the-righteous-mind]] — دو رابطه‌ی بسط شناسایی شد.
+- [[how-to-become-a-people-magnet]] — دو رابطه‌ی تنش شناسایی شد.
 
 ## Relationships
 
@@ -43,10 +44,13 @@ updated: 2026-08-01
 - **کاربرد متقابل (Application):** [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] از [[stop-letting-everything-affect-you]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] — یکی راهنمای تشخیص و دفاع در برابر دستکاری است، دیگری توصیف همان تاکتیک از منظر عاملِ آن.
 - **بسط (Extension):** [[self-interest-and-reputation-concerns-unconsciously-bias-moral-reasoning]] از [[the-righteous-mind]] مکانیزم روان‌شناختیِ زیربنایی [[appealing-to-self-interest-succeeds-where-appeals-to-goodwill-fail]] را نشان می‌دهد.
 - **بسط (Extension):** [[conservatives-draw-on-a-wider-range-of-moral-foundations-than-liberals-giving-them-a-broader-persuasive-reach]] از همان کتاب، توسل به منفعت‌شخصی را به‌عنوان یکی از شش اهرم اقناعیِ گسترده‌تر بازچارچوب می‌کند.
+- **تنش:** [[meeting-rudeness-with-friendliness-disarms-it-more-effectively-than-confrontation]] از [[how-to-become-a-people-magnet]] در برابر [[acting-like-a-superior-makes-others-treat-you-like-one-but-feigning-equality-breeds-contempt]] — نرم‌شدن آگاهانه در برابر خصومت، در برابر ساختن جایگاه از طریق رفتار مقتدرانه.
+- **تنش:** [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] از همان کتاب در برابر همان قانون گرین — اصالت درونی به‌عنوان منبع جذابیت، در برابر مدیریت راهبردی تصویر بیرونی.
 
 ## Contradictions
 
 - [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] با [[showing-genuine-interest-in-others-attracts-them-more-than-trying-to-be-interesting]] از [[how-to-enjoy-your-life-and-your-job]] تنها تناقضِ مستقیمِ این نقشه‌ی موضوعی است. هر دو ادعا بدون قضاوت درباره‌ی برتری یکی بر دیگری ثبت شده‌اند؛ تنش، جدای از صحت تاریخی نمونه‌های هرکتاب، درباره‌ی بنیاد اخلاقیِ نزدیکی انسانی است.
+- دو تنش دیگر با [[how-to-become-a-people-magnet]] (نگاه کنید به بخش روابط) از همین جنس‌اند: تفاوت سنت میان مدیریت راهبردیِ تصویر بیرونی (گرین) و اصالت/نرمی درونی (رکلاو)، بدون قضاوت درباره‌ی برتری یکی بر دیگری.
 
 ## Open Questions
 
@@ -55,6 +59,8 @@ updated: 2026-08-01
 
 ## Related Topics
 
+- [[nonverbal-rapport-and-first-impressions]] — از طریق یک رابطه‌ی توضیح‌دهنده‌ی مکانیزم با [[how-to-make-people-like-you-in-90-seconds-or-less]] برای تناقضِ کارنگی/گرین.
+- [[connecting-with-strangers]] — از طریق یک تنش با [[once-upon-a-stranger]] درباره‌ی کاربردِ فاصله‌ی روان‌شناختی.
 - [[order-and-chaos]] — از طریق اصل مشترک مدیریت آگاهانه‌ی برداشت دیگران در برابر واکنش خام.
 - [[focused-strategy-and-disciplined-leadership]] — از طریق شرط مرزی با [[good-to-great]] درباره‌ی فروتنیِ رهبری.
 - [[influence-through-understanding-human-nature]] — از طریق تناقض و بسط با [[how-to-enjoy-your-life-and-your-job]].
@@ -66,3 +72,4 @@ updated: 2026-08-01
 
 - [[2026-07-31-the-48-laws-of-power-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]

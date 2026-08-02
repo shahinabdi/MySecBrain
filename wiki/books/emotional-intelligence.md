@@ -91,10 +91,18 @@ updated: 2026-07-31
 - [[the-overthinkers-guide-to-making-decisions]] — دو رابطه:
   - **بسط:** [[observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices]] اصل [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] را برای الگوی تصمیم‌گیری به‌کار می‌برد.
   - **موافقت:** [[the-trust-framework-turns-a-decision-spiral-into-one-small-concrete-action]] مستقل از [[pausing-until-your-pulse-settles-prevents-saying-things-you-will-regret]] به همان اصل رسیده — مکث فیزیولوژیک پیش از عمل تحت بار هیجانی.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — دو رابطه:
+  - **موافقت:** [[unconscious-synchronization-of-posture-voice-and-breathing-is-the-biological-basis-of-rapport]] مستقل از [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] به همان اصل رسیده — زبان بدن می‌تواند احساس را برانگیزد، نه فقط بیان کند.
+  - **بسط:** [[credibility-requires-congruence-across-vocal-verbal-and-visual-channels]] معیار همخوانیِ سه‌کاناله‌ای به [[empathy-lets-you-adjust-delivery-so-the-message-is-heard-not-resisted]] می‌افزاید.
+- [[the-anatomy-of-awakening]] — دو رابطه:
+  - [[the-reactive-fear-based-self-is-a-protective-adaptation-not-your-true-identity]] در کنار [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]].
+  - **شرط مرزی:** [[increased-emotional-discomfort-during-growth-can-signal-integration-not-failure]] بر [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] می‌افزاید که گاهی خودِ «شکست» به‌ظاهر، نشانه‌ی پیشرفت است.
+- [[the-anxious-generation]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[free-play-attunement-and-social-learning-are-three-developmental-channels-a-phone-based-childhood-forecloses]] مکانیزمِ رشدیِ زیربناییِ [[childrens-emotional-intelligence-shapes-societys-future-through-delinquency-and-parenting-cycles]] را مشخص می‌کند — چرا محرومیت از بازیِ آزاد، همسویی و یادگیریِ اجتماعی به کمبودِ هوشِ هیجانی می‌انجامد.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. با [[stop-letting-everything-affect-you]]: دو بسط و یک غنی‌سازی. با [[the-cost-of-quiet]]: دو بسط. با [[the-first-minute]]: یک بسط. با [[the-overthinkers-guide-to-making-decisions]]: یک بسط و یک موافقت. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[emotional-intelligence-and-self-regulation]] و [[honest-communication]] مستند شده است.
+بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. با [[stop-letting-everything-affect-you]]: دو بسط و یک غنی‌سازی. با [[the-cost-of-quiet]]: دو بسط. با [[the-first-minute]]: یک بسط. با [[the-overthinkers-guide-to-making-decisions]]: یک بسط و یک موافقت. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل و یک شرط مرزی. با [[the-anxious-generation]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[emotional-intelligence-and-self-regulation]] و [[honest-communication]] مستند شده است.
 
 ## Translation
 

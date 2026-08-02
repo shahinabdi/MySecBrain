@@ -80,10 +80,12 @@ updated: 2026-07-31
 - [[the-overthinkers-guide-to-making-decisions]] — دو رابطه:
   - **موافقت:** [[observing-your-own-decision-pattern-without-blame-reveals-the-invisible-rules-driving-your-choices]] مستقل از [[family-of-origin-patterns-shape-adult-boundary-habits]] به همان اصل رسیده — قوانین به‌ارث‌رسیده در دو حوزه (مرزگذاری، تصمیم‌گیری).
   - **بسط:** [[small-low-stakes-experiments-reveal-a-preference-you-already-have-but-havent-owned]] مهارت [[owning-your-feelings-desires-and-limits-are-three-distinct-boundary-skills]] را با تمرین‌های عملی و کم‌ریسک عملیاتی می‌کند.
+- [[the-subtle-art-of-not-giving-a-fck]] — یک رابطه‌ی موافقت/بسط شناسایی شد:
+  - **موافقت + بسط:** [[healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems]] مستقل از [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] به همان اصل رسیده و معیارِ عمومی‌تری می‌افزاید — فرارِ مشترک از مشکلاتِ شخصی در برابرِ حمایتِ متقابلِ خواسته‌شده.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]]، یک بسط با [[the-first-minute]]، و یک موافقت به‌همراه یک بسط با [[the-overthinkers-guide-to-making-decisions]] مستند شد.
+بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]]، یک بسط با [[the-first-minute]]، یک موافقت به‌همراه یک بسط با [[the-overthinkers-guide-to-making-decisions]]، و یک موافقتِ مستقل همراه با بسط با [[the-subtle-art-of-not-giving-a-fck]] مستند شد.
 
 ## Translation
 

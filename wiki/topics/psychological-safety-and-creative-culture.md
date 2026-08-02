@@ -3,7 +3,7 @@ type: topic
 title: امنیت روانی و فرهنگ خلاقیت
 status: active
 tags: [خلاقیت, امنیت-روانی, مدیریت]
-sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist, 2026-08-01-the-righteous-mind-blinkist]
+sources: [2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
@@ -42,6 +42,7 @@ updated: 2026-08-01
 - [[how-to-enjoy-your-life-and-your-job]] — یک بسط و یک ارتباط مکمل شناسایی شد.
 - [[the-algorithm]] — دو رابطه‌ی بسط شناسایی شد.
 - [[the-righteous-mind]] — یک رابطه‌ی شرط مرزی شناسایی شد.
+- [[how-to-become-a-people-magnet]] — یک رابطه‌ی بسط شناسایی شد.
 
 ## Relationships
 
@@ -63,6 +64,7 @@ updated: 2026-08-01
 - **بسط (Extension):** [[a-vision-statement-drives-change-only-when-its-short-inspiring-ambitious-and-time-bound]] از همان کتاب معیارهای شکلیِ بیان به [[a-shared-pursuit-of-excellence-motivates-harder-work-than-specific-goals]] می‌افزاید.
 - **بسط (Extension):** [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]] و [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]] از همان کتاب، اصل [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] از [[the-algorithm]] را فراتر می‌برند.
 - **بسط (Extension):** [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] از همان کتاب اصل کلی‌تری است که [[personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside]] از [[the-algorithm]] نمونه‌ی عملیاتی مشخصی از آن ارائه می‌دهد.
+- **بسط (Extension):** [[asking-questions-instead-of-giving-orders-preserves-dignity-and-invites-ownership]] از [[how-to-become-a-people-magnet]] ابزار زبانی فوری‌تری (پرسش به‌جای دستور) برای همان مکانیزم مالکیتِ [[trusting-employees-to-own-decisions-unleashes-creativity-and-morale]] فراهم می‌کند.
 
 ## Contradictions
 
@@ -92,3 +94,4 @@ updated: 2026-08-01
 - [[2026-07-31-the-algorithm-blinkist]]
 - [[2026-08-01-the-leaders-guide-to-lateral-thinking-skills-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]

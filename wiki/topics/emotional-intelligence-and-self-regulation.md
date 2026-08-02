@@ -3,7 +3,7 @@ type: topic
 title: هوش هیجانی و خودتنظیمی
 status: active
 tags: [هوش-هیجانی, خودتنظیمی, همدلی]
-sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-08-01-the-righteous-mind-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
 created: 2026-07-31
 updated: 2026-08-01
 ---
@@ -37,6 +37,7 @@ updated: 2026-08-01
 - [[shift]] — شش زتل درباره‌ی ابزارهای شیفت‌دادن هیجانی به این موضوع افزوده شد؛ یک رابطه‌ی بسط مستقیم با [[mirroring-anothers-body-language-builds-empathy-by-inducing-their-emotional-state]] شناسایی شد.
 - [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط و یک غنی‌سازی زبانی شناسایی شد.
 - [[the-cost-of-quiet]] — دو رابطه‌ی بسط شناسایی شد.
+- [[how-to-become-a-people-magnet]] — یک رابطه‌ی بسط و یک ایده‌ی جدید (عزت‌نفس اصیل) شناسایی شد.
 
 ## Relationships
 
@@ -59,6 +60,8 @@ updated: 2026-08-01
 - **بسط (Extension):** [[anxiety-loops-mistake-repetitive-worry-for-control]] از همان کتاب مکانیزم خاصی برای [[intense-emotion-crowds-out-rational-judgment]] نام می‌گذارد.
 - **بسط (Extension):** [[recurring-small-fights-are-often-driven-by-deeper-attachment-fears-not-the-surface-issue]] از [[the-cost-of-quiet]] مکانیزم مشخص و رابطه‌محوری برای [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] فراهم می‌کند.
 - **بسط (Extension):** [[self-connected-communication-requires-turning-toward-your-own-experience-before-speaking]] از [[the-cost-of-quiet]] اصل [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] را به یک تمرین چندمرحله‌ای رابطه‌محور تبدیل می‌کند.
+- **بسط (Extension):** [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] با نکته‌ای اجتماعی از [[how-to-become-a-people-magnet]] غنی شد — سبک تبیینی خوش‌بینانه، فراتر از انگیزه‌ی شخصی، افراد را نیز به‌سوی شما جذب می‌کند.
+- [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] از [[how-to-become-a-people-magnet]] معیاری برای تمیزدادن عزت‌نفس اصیل از خودشیفتگی به این نقشه‌ی موضوعی می‌افزاید — ایده‌ای که با استقلال از تأیید بیرونی، مکمل [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] است.
 
 ## Contradictions
 
@@ -85,6 +88,7 @@ updated: 2026-08-01
 - [[clarity-in-workplace-communication]] — از طریق بسط منطق «پرسیدن به‌جای حدس‌زدن» با [[the-first-minute]].
 - [[decisive-action-under-uncertainty]] — از طریق بسط اصل نام‌گذاری بدون‌قضاوت و موافقت در مکث فیزیولوژیک با [[the-overthinkers-guide-to-making-decisions]].
 - [[moral-intuition-and-tribal-psychology]] — از طریق بسط سرایت هیجانی دونفره به سوییچ کندویی گروهی با [[the-righteous-mind]].
+- [[nonverbal-rapport-and-first-impressions]] — از طریق موافقت و بسط با [[how-to-make-people-like-you-in-90-seconds-or-less]] درباره‌ی نقش زبان بدن در برانگیختن احساس و اعتماد.
 
 ## Sources
 
@@ -97,3 +101,4 @@ updated: 2026-08-01
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
 - [[2026-07-31-the-cost-of-quiet-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]
+- [[2026-08-01-how-to-become-a-people-magnet-blinkist]]

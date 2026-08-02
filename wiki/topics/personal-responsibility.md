@@ -3,9 +3,9 @@ type: topic
 title: مسئولیت‌پذیری فردی
 status: active
 tags: [مسئولیت‌پذیری, خودمراقبتی, معنا]
-sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist, 2026-08-01-the-righteous-mind-blinkist]
+sources: [2026-07-31-12-rules-for-life-blinkist, 2026-07-31-atomic-habits-blinkist, 2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist]
 created: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-02
 ---
 
 ## Central Question
@@ -18,6 +18,12 @@ updated: 2026-08-01
 - پیشرفت باید در برابر خودِ گذشته سنجیده شود، نه در برابر دیگران؛ مقایسه‌ی بیرونی به تفکر سیاه‌وسفید و نادیده‌گرفتن بهبودهای واقعی می‌انجامد: [[progress-should-be-measured-against-your-past-self-not-others]].
 - مسئولیت‌پذیری در قبال زندگی خود باید بر قضاوت جهان مقدم باشد، حتی در برابر رنج و بی‌عدالتی واقعی: [[taking-responsibility-must-precede-judging-the-world]].
 - اهداف معنادار مبتنی بر فداکاری باید بر ارضای آنی ترجیح داده شوند؛ فداکاری هدفمند مسیر رسیدن به معناست: [[meaningful-goals-outweigh-instant-gratification]].
+- زندگیِ خوب را انتخابِ مبارزه‌ی درست تعریف می‌کند، نه غیابِ مبارزه: [[a-good-life-is-defined-by-choosing-the-right-struggle-not-the-absence-of-struggle]].
+- ارزش‌های خوب باید مبتنی‌بر واقعیت، مفید برای جامعه، و در کنترلِ بی‌واسطه‌ی فرد باشند: [[good-values-are-reality-based-socially-constructive-and-within-your-immediate-control]].
+- مسئولیت‌پذیری با تقصیرداشتن یکی نیست؛ فرد می‌تواند بی‌تقصیر باشد و همچنان تنها کسی باشد که می‌تواند پاسخِ خود را انتخاب کند — تمایزی که [[taking-responsibility-must-precede-judging-the-world]] را دقیق‌تر می‌کند.
+- قانونِ اجتنابِ منسون: تهدیدِ هویت، آدمی را از ریسک‌های ارزشمند دور می‌کند: [[mansons-law-of-avoidance-identity-threat-drives-people-away-from-valuable-risks]].
+- قطعیتِ مطلق اغلب ناامنیِ پنهان را می‌پوشاند، نه شواهد را: [[absolute-certainty-often-masks-hidden-insecurity-rather-than-reflecting-evidence]].
+- پروژه‌های جاودانگی، اضطرابِ مرگ را به رقابتِ بی‌پایان برای میراث تبدیل می‌کنند: [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]].
 
 ## Books
 
@@ -27,6 +33,7 @@ updated: 2026-08-01
 - [[how-a-little-becomes-a-lot]] — دو رابطه‌ی بسط شناسایی شد (نگاه کنید به بخش روابط).
 - [[shift]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 - [[the-righteous-mind]] — یک رابطه‌ی موافقت شناسایی شد (نگاه کنید به بخش روابط).
+- [[the-subtle-art-of-not-giving-a-fck]] — منبعِ سوم این نقشه‌ی موضوعی؛ زتلِ [[taking-responsibility-must-precede-judging-the-world]] را غنی کرد و سه ایده‌ی جدید (انتخابِ مبارزه، معیارِ ارزش، قانونِ اجتنابِ منسون، قطعیتِ کاذب، پروژه‌های جاودانگی) افزود.
 
 ## Relationships
 
@@ -42,10 +49,12 @@ updated: 2026-08-01
 - **بسط (Extension):** [[distinguishing-desires-from-values-directs-tiny-actions-toward-your-true-identity]] از [[how-a-little-becomes-a-lot]] چارچوب مشخصی (خواسته در برابر ارزش) به [[meaningful-goals-outweigh-instant-gratification]] می‌افزاید.
 - **بسط (Extension):** [[focusing-energy-on-the-innermost-ring-of-direct-control-prevents-burnout]] از همان کتاب اصل [[boundaries-mean-being-responsible-to-others-not-for-them]] را از روابط بین‌فردی به کل حوزه‌های زندگی بسط می‌دهد.
 - **شرط مرزی (Boundary Condition):** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از [[shift]] بر [[progress-should-be-measured-against-your-past-self-not-others]] شرط دقیق‌تری می‌گذارد — مقایسه با دیگران همیشه مضر نیست، تنها زمانی مضر است که خودکار و بدون گزینش‌گری باشد؛ مقایسه‌ی گزینشی می‌تواند مکمل معیار «خودِ گذشته» باشد.
+- **غنی‌سازی (Enrichment):** [[the-subtle-art-of-not-giving-a-fck]] زتلِ [[taking-responsibility-must-precede-judging-the-world]] را با تمایزِ «تقصیر در برابرِ مسئولیت» غنی می‌کند — پیترسون و منسون مستقل از یکدیگر به همان اصل رسیده‌اند.
+- **مرتبط (Related):** [[a-good-life-is-defined-by-choosing-the-right-struggle-not-the-absence-of-struggle]] از [[the-subtle-art-of-not-giving-a-fck]] در کنارِ [[taking-responsibility-must-precede-judging-the-world]] — هر دو انتخابِ آگاهانه‌ی پاسخ به سختی، نه فرار از آن، را محورِ زندگیِ خوب می‌دانند.
 
 ## Contradictions
 
-هیچ تناقض مستقیمی میان [[12-rules-for-life]]، [[atomic-habits]]، [[boundaries]]، [[creativity-inc]]، [[emotional-intelligence]]، [[good-morning-i-love-you]] و [[good-to-great]] در این موضوع یافت نشد؛ رابطه‌ی «رضایت فوری» و رابطه‌ی «مسئولیت تیمی شکست» هر دو به‌عنوان شرط مرزی/تفاوت سطح تحلیل طبقه‌بندی شده‌اند، نه تناقض.
+هیچ تناقض مستقیمی میان [[12-rules-for-life]]، [[atomic-habits]]، [[boundaries]]، [[creativity-inc]]، [[emotional-intelligence]]، [[good-morning-i-love-you]]، [[good-to-great]] و [[the-subtle-art-of-not-giving-a-fck]] در این موضوع یافت نشد؛ رابطه‌ی «رضایت فوری» و رابطه‌ی «مسئولیت تیمی شکست» هر دو به‌عنوان شرط مرزی/تفاوت سطح تحلیل طبقه‌بندی شده‌اند، نه تناقض.
 
 ## Open Questions
 
@@ -77,3 +86,4 @@ updated: 2026-08-01
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - [[2026-07-31-shift-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]
+- [[2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist]]

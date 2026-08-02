@@ -8,7 +8,7 @@ translation: shift-fa
 tags: [تنظیم-هیجانی, خودآگاهی, ابزارهای-روان‌شناختی]
 sources: [2026-07-31-shift-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Overview
@@ -66,10 +66,16 @@ updated: 2026-07-31
   - **بسط:** [[envy-drives-reckless-risk-because-chasing-more-costs-more-than-having-more-is-worth]] نمونه‌ی مشخصی از [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] نشان می‌دهد — حسادت مالیِ مدیریت‌نشده به تصمیم‌های فاجعه‌بار می‌انجامد.
 - [[the-righteous-mind]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[group-rituals-awe-and-altered-states-can-trigger-a-hive-switch-that-submerges-self-interest-into-collective-identity]] سرایت هیجانی دونفره‌ی [[moods-spread-between-people-through-emotional-contagion]] را به سطح گروهی می‌برد.
+- [[how-to-become-a-people-magnet]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[addressing-problems-immediately-prevents-them-from-compounding-into-larger-crises]] اصل [[anxiety-loops-mistake-repetitive-worry-for-control]] را تکمیل می‌کند — اقدام فوری راه‌حل عملیِ حلقه‌ی نگرانی است.
+- [[how-to-make-people-like-you-in-90-seconds-or-less]] — یک رابطه‌ی بسط شناسایی شد:
+  - **بسط:** [[unconscious-synchronization-of-posture-voice-and-breathing-is-the-biological-basis-of-rapport]] سرایت هیجانیِ خودکارِ [[moods-spread-between-people-through-emotional-contagion]] را به کاربردی راهبردی و عمدی می‌برد.
+- [[the-anatomy-of-awakening]] — یک ارتباط مکمل:
+  - [[expanded-awareness-is-only-stable-when-built-on-prior-grounding-otherwise-it-produces-confusion]] در کنار [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]].
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[good-morning-i-love-you]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: دو بسط. با [[atomic-habits]]: یک بسط. با [[12-rules-for-life]]: یک شرط مرزی. با [[emotional-intelligence]]: یک بسط. با [[the-5-types-of-wealth]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک بسط. جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقض. با [[good-morning-i-love-you]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: دو بسط. با [[atomic-habits]]: یک بسط. با [[12-rules-for-life]]: یک شرط مرزی. با [[emotional-intelligence]]: یک بسط. با [[the-5-types-of-wealth]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک بسط. با [[how-to-become-a-people-magnet]]: یک بسط. با [[how-to-make-people-like-you-in-90-seconds-or-less]]: یک بسط. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا مستند شده است.
 
 ## Translation
 

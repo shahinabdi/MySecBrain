@@ -56,6 +56,8 @@ updated: 2026-07-31
 - [[the-money-habit]] — یک رابطه‌ی کاربرد و یک رابطه‌ی موافقت: چارچوب فصل مالی تعادل انواع ثروت را عملیاتی می‌کند؛ سرمایه‌گذاری خودکار مستقل به همان اصل انباشت ثروت جسمی رسیده است.
 - [[the-overthinkers-guide-to-making-decisions]] — یک رابطه‌ی موافقت: تمرکز بر وضعیت مطلوب به‌جای اجتناب از بدترین حالت، مستقل در دو حوزه.
 - [[the-righteous-mind]] — یک رابطه‌ی بسط: زمینه‌ی فرهنگی/تکاملیِ ضرورت ثروت اجتماعی.
+- [[once-upon-a-stranger]] — یک ارتباط مکمل: [[conversations-feel-meaningful-when-they-teach-you-something-new-not-merely-when-they-are-pleasant]] در کنار [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]].
+- [[the-subtle-art-of-not-giving-a-fck]] — یک رابطه‌ی بسط: [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]] زاویه‌ی مکملی به [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] می‌افزاید — همان آگاهیِ فناپذیری، اگر ناخودآگاه بماند، می‌تواند به رقابتِ اضطراب‌آور برای میراث منحرف شود.
 
 ## Agreements, Extensions & Contradictions
 
@@ -70,6 +72,7 @@ updated: 2026-07-31
 - **موافقت:** [[physical-wealth-compounds-through-daily-consistency-not-intensity-or-drastic-overhauls]] مستقل از [[automating-a-tiny-daily-investment-lets-time-not-effort-compound-it-into-real-wealth]] از [[the-money-habit]] به همان اصل انباشت رسیده.
 - **موافقت:** [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]] مستقل از [[shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces]] از [[the-overthinkers-guide-to-making-decisions]] به همان اصل رسیده.
 - **بسط:** [[weird-cultures-are-moral-outliers-focused-on-individual-rights-over-community-and-sanctity]] از [[the-righteous-mind]] زمینه‌ی فرهنگی/تکاملی به [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] می‌افزاید.
+- **بسط:** [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]] از [[the-subtle-art-of-not-giving-a-fck]] بسط [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] است.
 
 بدون تناقض.
 

@@ -8,7 +8,7 @@ translation: stop-letting-everything-affect-you-fa
 tags: [واکنش‌پذیری-هیجانی, مرزگذاری, بهبود]
 sources: [2026-07-31-stop-letting-everything-affect-you-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
 ## Overview
@@ -66,10 +66,17 @@ updated: 2026-07-31
   - **کاربرد متقابل:** [[recognizing-gaslighting-and-victim-playing-as-a-pattern-not-a-communication-problem]] در برابر [[gathering-intimate-information-by-posing-as-a-friend-is-more-reliable-than-hiring-a-spy]] گرین — یکی راهنمای تشخیص و دفاع در برابر دستکاری است، دیگری توصیف همان تاکتیک از منظر عاملِ آن.
 - [[the-art-of-spending-money]] — یک رابطه‌ی بسط:
   - **بسط:** [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] اصل [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] را مشخصاً در حوزه‌ی تصمیم‌های مالی نشان می‌دهد.
+- [[how-to-become-a-people-magnet]] — یک رابطه‌ی بسط:
+  - **بسط:** [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] معیاری برای تمیزدادن عزت‌نفس اصیل از تقلید خودشیفته‌وار آن به [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] می‌افزاید.
+- [[once-upon-a-stranger]] — یک ارتباط مکمل:
+  - [[rejection-from-strangers-is-far-rarer-than-people-predict-so-most-avoidance-is-self-imposed]] در کنار [[rejection-triggers-the-same-neural-alarm-as-physical-pain]] — پیش‌بینیِ اغراق‌شده‌ی طرد در برابر مکانیزمِ واکنش به طردِ واقعی.
+- [[the-subtle-art-of-not-giving-a-fck]] — دو رابطه شناسایی شد:
+  - **بسط‌دهنده (Extends):** [[good-values-are-reality-based-socially-constructive-and-within-your-immediate-control]] معیارِ پیشینی‌تری به [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] می‌افزاید — که یک ارزش اصلاً باید چه ویژگی‌هایی داشته باشد.
+  - **مرتبط:** [[mansons-law-of-avoidance-identity-threat-drives-people-away-from-valuable-risks]] در کنار [[identity-must-dissolve-completely-before-a-new-one-can-emerge]] — یکی رهاسازیِ داوطلبانه‌ی هویت پیش از ریسک را توصیه می‌کند، دیگری فروپاشیِ اجباریِ هویت پس از بحران را توصیف می‌کند.
 
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[boundaries]]: دو بسط. با [[emotional-intelligence]]: دو بسط و یک غنی‌سازی. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط. با [[how-a-little-becomes-a-lot]]: دو ارتباط مکمل. با [[the-48-laws-of-power]]: یک کاربرد متقابل. با [[the-art-of-spending-money]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[healing-from-emotional-reactivity-and-toxic-patterns]]، [[power-dynamics-and-strategic-positioning]] و [[wealth-beyond-money]] مستند شده است.
+بدون تناقض. با [[boundaries]]: دو بسط. با [[emotional-intelligence]]: دو بسط و یک غنی‌سازی. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط. با [[how-a-little-becomes-a-lot]]: دو ارتباط مکمل. با [[the-48-laws-of-power]]: یک کاربرد متقابل. با [[the-art-of-spending-money]]: یک بسط. با [[how-to-become-a-people-magnet]]: یک بسط. با [[once-upon-a-stranger]]: یک ارتباط مکمل. با [[the-subtle-art-of-not-giving-a-fck]]: یک بسط و یک ارتباطِ مرتبط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[healing-from-emotional-reactivity-and-toxic-patterns]]، [[power-dynamics-and-strategic-positioning]] و [[wealth-beyond-money]] مستند شده است.
 
 ## Translation
 

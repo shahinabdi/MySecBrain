@@ -3,9 +3,9 @@ type: topic
 title: مرزگذاری و مالکیت روانی
 status: active
 tags: [مرزگذاری, مالکیت, روابط]
-sources: [2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-07-31-the-48-laws-of-power-blinkist]
+sources: [2026-07-31-boundaries-blinkist, 2026-07-31-creativity-inc-blinkist, 2026-07-31-emotional-intelligence-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-07-31-the-48-laws-of-power-blinkist, 2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-02
 ---
 
 ## Central Question
@@ -18,7 +18,7 @@ updated: 2026-07-31
 - مشکلات مرزی به چهار شکل بروز می‌کنند: مطیع، اجتناب‌گر، کنترل‌گر، بی‌پاسخ: [[boundary-styles-compliant-avoidant-controller-nonresponsive]].
 - سه افسانه مانع مرزگذاری سالم می‌شوند: واکنش دیگران به مرز نشانه‌ی رابطه است نه مرز ([[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]])، خشم نشانه‌ی نقض‌های پیشین است ([[anger-at-boundary-setting-often-signals-previously-violated-boundaries]])، و مرز همیشگی نیست مگر خودتان بخواهید ([[a-boundary-is-only-permanent-if-you-choose-to-make-it-so]]).
 - کینه نشانه‌ای معتبر از نقض مکرر مرز است: [[resentment-signals-a-boundary-has-been-crossed-too-many-times]].
-- جذابیت هیجانی روابط کنترل‌گرانه نشانه‌ی عشق نیست: [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]].
+- جذابیت هیجانی روابط کنترل‌گرانه نشانه‌ی عشق نیست: [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]]؛ معیارِ عمومی‌ترش این است که عشقِ سالم حمایتِ متقابلِ خواسته‌شده است، نه فرارِ مشترک از مشکلاتِ شخصی: [[healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems]].
 - الگوهای مرزی بزرگسالی ریشه در خانواده‌ی مبدأ دارند: [[family-of-origin-patterns-shape-adult-boundary-habits]]، و با پاسخ‌دادن آرام ([[respond-rather-than-react-to-preserve-boundaries-under-pressure]]) و بخشش بدون نیاز به تماس مداوم ([[forgiving-a-boundary-violation-does-not-require-continued-contact]]) قابل‌شکستن‌اند.
 - در روابط عاشقانه، سه مهارت مجزا لازم است: مالکیت احساسات، خواسته‌ها و محدودیت‌ها: [[owning-your-feelings-desires-and-limits-are-three-distinct-boundary-skills]].
 - در دوستی، شکست از خشنودسازی متقابل یا کینه‌ی خاموش می‌آید: [[friendships-without-boundaries-fail-through-mutual-people-pleasing-or-quiet-resentment]].
@@ -34,6 +34,7 @@ updated: 2026-07-31
 - [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط شناسایی شد.
 - [[the-48-laws-of-power]] — یک رابطه‌ی شرط مرزی شناسایی شد.
 - [[the-cost-of-quiet]] — دو رابطه‌ی بسط شناسایی شد.
+- [[the-subtle-art-of-not-giving-a-fck]] — یک رابطه‌ی موافقت/بسط شناسایی شد (نگاه کنید به بخش روابط).
 
 ## Relationships
 
@@ -48,6 +49,7 @@ updated: 2026-07-31
 - **شرط مرزی (Boundary Condition):** [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] بر [[seduction-through-emotion-secures-lasting-compliance-that-coercion-cannot]] از [[the-48-laws-of-power]] مرز اخلاقی می‌گذارد — همان نوسانِ ترس/مهربانی که گرین تاکتیکی مؤثر برای کسب قدرت می‌داند، از منظر هدفِ آن الگویی خطرناک و اعتیادآور است که باید در برابرش مرز گذاشت.
 - **بسط (Extension):** [[stating-a-boundary-follows-noticing-impact-naming-the-need-and-declaring-a-consequence]] از [[the-cost-of-quiet]] فرمول عملیاتیِ سه‌گامی برای بیان [[boundaries-mean-being-responsible-to-others-not-for-them]] فراهم می‌کند.
 - **بسط (Extension):** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] از [[the-cost-of-quiet]] بر نتیجه‌گیری نسبتاً قاطع [[an-unreasonable-reaction-to-a-boundary-indicts-the-relationship-not-the-boundary]] مسیر میانه‌ی ظریف‌تری اضافه می‌کند — تنظیم تدریجی آسیب‌پذیری متناسب با آنچه رابطه نشان می‌دهد می‌تواند دریافت کند.
+- **موافقت + بسط (Agreement + Extension):** [[healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems]] از [[the-subtle-art-of-not-giving-a-fck]] مستقل از [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] به همان اصل رسیده و معیارِ عمومی‌تری می‌افزاید — فرارِ مشترک از مشکلاتِ شخصی در برابرِ حمایتِ متقابلِ خواسته‌شده.
 
 ## Contradictions
 
@@ -79,3 +81,4 @@ updated: 2026-07-31
 - [[2026-07-31-stop-letting-everything-affect-you-blinkist]]
 - [[2026-07-31-the-48-laws-of-power-blinkist]]
 - [[2026-07-31-the-cost-of-quiet-blinkist]]
+- [[2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist]]
