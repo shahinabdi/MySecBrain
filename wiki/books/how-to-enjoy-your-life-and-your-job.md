@@ -8,7 +8,7 @@ translation: how-to-enjoy-your-life-and-your-job-fa
 tags: [روابط-انسانی, نفوذ, انگیزش]
 sources: [2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist]
 created: 2026-07-31
-updated: 2026-08-02
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -79,9 +79,13 @@ updated: 2026-08-02
   - [[the-liking-gap-means-both-strangers-underestimate-how-much-their-conversation-partner-liked-them]] در کنار [[unjust-criticism-often-reflects-the-critics-own-need-to-feel-important]].
   - **بسط:** [[minimal-acknowledgment-like-a-smile-or-glance-fulfills-the-need-to-feel-seen-without-requiring-depth]] نیازِ [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] را به تعاملاتِ زودگذر با غریبه‌ها بسط می‌دهد.
 
+- [[your-mind-your-rules]] — یک ارتباطِ مکملِ دوسویه: [[an-unmet-emotional-need-is-either-abandoned-or-outsourced-until-you-reclaim-it]] همان نیازی را از درون بررسی می‌کند که [[the-need-to-feel-important-is-a-near-universal-unmet-drive]] از بیرون می‌بیند — کارنگی آن را اهرمِ نفوذ و انگیزش در دیگران می‌داند، پیر می‌پرسد وقتی برآورده نشد چه بر سرِ خودِ فرد می‌آید. دو نیمه‌ی یک تصویرِ واحد.
+
 ## Agreements, Extensions & Contradictions
 
 با [[emotional-intelligence]]: دو بسط. با [[12-rules-for-life]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. با [[creativity-inc]]: یک بسط و یک ارتباط مکمل. با [[stop-letting-everything-affect-you]]: یک بسط. با [[the-48-laws-of-power]]: یک تناقض (صداقت علاقه در برابر تظاهر ابزاری به آن) و یک بسط؛ تناقض حل‌نشده و به‌صورت خنثی ثبت شده است. با [[how-to-become-a-people-magnet]]: سه بسط مستقیم بر زتل‌های موجود این کتاب، به‌جای ساختن نسخه‌های تکراری. با [[how-to-make-people-like-you-in-90-seconds-or-less]]: دو بسط. با [[once-upon-a-stranger]]: یک بسط و یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[influence-through-understanding-human-nature]] و [[power-dynamics-and-strategic-positioning]] مستند شده است.
+
+با [[your-mind-your-rules]]: یک ارتباطِ مکملِ دوسویه بر سرِ نیاز به اهمیت و پذیرش — کارنگی از منظرِ برآورده‌کردنِ آن در دیگران، پیر از منظرِ برآورده‌کردنِ آن در خود.
 
 ## Translation
 

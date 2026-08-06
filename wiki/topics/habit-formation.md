@@ -3,9 +3,9 @@ type: topic
 title: شکل‌گیری عادت
 status: active
 tags: [عادت, رفتار, نشانه, پاداش]
-sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist]
+sources: [2026-07-31-atomic-habits-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-shift-blinkist, 2026-08-05-your-mind-your-rules-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Central Question
@@ -27,9 +27,9 @@ updated: 2026-07-31
 - [[atomic-habits]] — منبع اصلی و کامل این نقشه‌ی موضوعی؛ کل کتاب حول مکانیزم و مهندسی عادت سازمان‌یافته است.
 - [[12-rules-for-life]] — کتابی که مستقیماً درباره‌ی عادت نیست، اما دو ایده‌اش (مقایسه با خود گذشته، و اهمیت دوستان حمایت‌گر) با مکانیزم‌های این کتاب بسط داده می‌شوند (نگاه کنید به بخش روابط).
 - [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد: اصل انباشت پیوسته در سطح سازمانی مستقل از انباشت عادت در سطح فردی به همان نتیجه رسیده است.
-- [[shift]] — یک رابطه‌ی بسط شناسایی شد: چارچوب WOOP لایه‌ی انگیزشی مکملی به فرمول‌های شرطی موجود می‌افزاید.
 - [[how-a-little-becomes-a-lot]] — چهار رابطه‌ی بسط شناسایی شد: زیمر مکانیزم‌های زیستی و روان‌شناختی پشتِ چهار تکنیک این کتاب را توضیح می‌دهد (نگاه کنید به بخش روابط). این متراکم‌ترین رابطه‌ی بسط ثبت‌شده در این نقشه‌ی موضوعی است.
 - [[shift]] — دو رابطه‌ی بسط شناسایی شد: چارچوب WOOP فرمول‌های شرطی موجود را با یک لایه‌ی انگیزشی («تضاد ذهنی») تکمیل می‌کند.
+- [[your-mind-your-rules]] — یک رابطه‌ی بسط شناسایی شد: پیر دامنه‌ی خودِ مفهومِ «عادت» را از رفتار به افکار و تعریفِ فرد از «عادی» گسترش می‌دهد (نگاه کنید به بخش روابط).
 
 ## Relationships
 
@@ -45,6 +45,7 @@ updated: 2026-07-31
 - **بسط (Extension):** [[willpower-depletes-like-a-muscle-so-environment-design-beats-relying-on-it]] از همان کتاب توضیح می‌دهد چرا [[reducing-friction-makes-habits-easier]] بر تکیه به اراده برتری دارد.
 - **بسط (Extension):** [[if-then-contingency-plans-protect-habits-from-disruption]] از همان کتاب لایه‌ی مکملی برای حفظ [[implementation-intentions-turn-vague-goals-into-concrete-plans]] در شرایط مختل اضافه می‌کند.
 - **بسط (Extension):** [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] از [[shift]] فرمول [[implementation-intentions-turn-vague-goals-into-concrete-plans]] را با مرحله‌ی «تضاد ذهنی» ترکیب می‌کند و لایه‌ی انگیزشی به [[if-then-contingency-plans-protect-habits-from-disruption]] می‌افزاید.
+- **بسط (Extension):** [[what-you-call-normal-is-itself-an-unexamined-habit]] از [[your-mind-your-rules]] دامنه‌ی [[small-habits-compound-into-large-results-invisibly]] را گسترش می‌دهد: افکارِ تمرین‌شده، برچسب‌های پذیرفته‌شده، و آن تعریف از «عادی» که دیگر زیر سؤال نمی‌رود نیز عادت‌اند و از همان منطقِ انباشتِ نامرئی پیروی می‌کنند — با این تفاوتِ مهم که برخلاف عادت‌های رفتاری، هرگز به‌عنوان انتخاب دیده نمی‌شوند و بنابراین هدفِ مداخله هم قرار نمی‌گیرند.
 
 ## Contradictions
 
@@ -60,10 +61,10 @@ updated: 2026-07-31
 - [[personal-responsibility]] — هر دو درباره‌ی اداره‌ی آگاهانه‌ی رفتار روزمره‌اند؛ این موضوع بر مکانیزم رفتاری تمرکز دارد، آن موضوع بر نگرش و مسئولیت‌پذیری.
 - [[order-and-chaos]] — طراحی محیط برای کاهش اصطکاک یا نشانه‌های واضح، نمونه‌ای عملی از بازگرداندن نظم به یک بخش آشوبناک از زندگی روزمره است.
 - [[boundaries-and-ownership]] — پاسخگویی اجتماعی سالم (قرارداد عادت) در تضاد آموزنده با پویایی کنترل‌گرانه در آن موضوع قرار دارد.
-- [[mindfulness-and-self-compassion]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک.
+- [[mindfulness-and-self-compassion]] — از طریق مکانیزم عصبی و موافقت در فلسفه‌ی شروع کوچک، و نیز چهار بسط مکانیزمی مشترک با [[how-a-little-becomes-a-lot]].
 - [[focused-strategy-and-disciplined-leadership]] — از طریق موافقت در اصل انباشت پیوسته‌ی فرد و سازمان.
-- [[mindfulness-and-self-compassion]] — از طریق چهار بسط مکانیزمی مشترک با [[how-a-little-becomes-a-lot]].
 - [[emotional-intelligence-and-self-regulation]] — از طریق بسط چارچوب WOOP با [[shift]].
+- [[inner-story-and-self-image]] — لایه‌ی پیش از رفتار: این موضوع می‌پرسد چگونه یک رفتار را پایدار کنیم، آن موضوع می‌پرسد چه چیزی پیش از آن، جهت و سقفِ تلاش را تعیین می‌کند.
 - [[financial-literacy-and-asset-ownership]] — از طریق بسط اصل «طراحی محیط بر تکیه به اراده برتری دارد» در حوزه‌ی پول با [[the-money-habit]].
 
 ## Sources
@@ -74,3 +75,4 @@ updated: 2026-07-31
 - [[2026-07-31-good-to-great-blinkist]]
 - [[2026-07-31-how-a-little-becomes-a-lot-blinkist]]
 - [[2026-07-31-shift-blinkist]]
+- [[2026-08-05-your-mind-your-rules-blinkist]]

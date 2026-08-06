@@ -8,7 +8,7 @@ translation: the-5-types-of-wealth-fa
 tags: [ثروت, رفاه, تعادل-زندگی]
 sources: [2026-07-31-the-5-types-of-wealth-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -59,6 +59,8 @@ updated: 2026-07-31
 - [[once-upon-a-stranger]] — یک ارتباط مکمل: [[conversations-feel-meaningful-when-they-teach-you-something-new-not-merely-when-they-are-pleasant]] در کنار [[curiosity-is-the-fuel-of-mental-wealth-and-fades-with-age-unless-deliberately-protected]].
 - [[the-subtle-art-of-not-giving-a-fck]] — یک رابطه‌ی بسط: [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]] زاویه‌ی مکملی به [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] می‌افزاید — همان آگاهیِ فناپذیری، اگر ناخودآگاه بماند، می‌تواند به رقابتِ اضطراب‌آور برای میراث منحرف شود.
 
+- [[your-mind-your-rules]] — یک تمایزِ مکمل: [[an-imagined-limit-constrains-behavior-more-than-the-actual-limit-does]] در کنار [[vividly-imagining-your-future-self-motivates-present-day-choices-across-domains]]؛ بلوم تجسم را اهرمِ *انگیزه* می‌داند (تصویرِ خودِ آینده رفتارِ امروز را هدایت می‌کند)، پیر آن را شرطِ *امکان* می‌داند (بدونِ تصویر، تلاش اصلاً آغاز نمی‌شود) — دو کارکردِ متفاوت از یک قوه‌ی واحد.
+
 ## Agreements, Extensions & Contradictions
 
 - **شرط مرزی:** [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] بر [[the-defining-test-of-an-asset-is-whether-it-puts-money-in-or-takes-money-out-of-your-wallet]] از [[rich-dad-poor-dad]] مرز می‌گذارد که تسلط مالی به‌تنهایی کافی نیست.
@@ -75,6 +77,8 @@ updated: 2026-07-31
 - **بسط:** [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]] از [[the-subtle-art-of-not-giving-a-fck]] بسط [[many-of-lifes-meaningful-moments-have-an-unannounced-final-occurrence]] است.
 
 بدون تناقض.
+
+با [[your-mind-your-rules]]: یک تمایزِ مکمل درباره‌ی دو کارکردِ متفاوتِ تجسم — انگیزه در برابر امکان.
 
 ## Translation
 

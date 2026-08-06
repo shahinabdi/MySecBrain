@@ -8,7 +8,7 @@ translation: good-morning-i-love-you-fa
 tags: [ذهن‌آگاهی, شفقت-به-خود, عصب‌شناسی]
 sources: [2026-07-31-good-morning-i-love-you-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -74,9 +74,13 @@ updated: 2026-07-31
   - [[approaching-change-from-assumed-wholeness-rather-than-brokenness-changes-effort-into-reception]] در کنار [[self-compassion-means-treating-yourself-as-you-would-a-struggling-friend]].
   - **موافقت:** [[insight-becomes-stable-change-only-when-anchored-in-the-body-not-left-as-abstract-understanding]] با [[what-you-practice-grows-stronger-through-neuroplasticity]] و [[small-consistent-practice-beats-forcing-large-change]] هم‌راستاست.
 
+- [[your-mind-your-rules]] — دو موافقت: [[a-self-description-repeated-with-emotion-becomes-an-instruction-the-mind-obeys]] با [[what-you-practice-grows-stronger-through-neuroplasticity]] هم‌راستاست — شاپیرو همان اصلِ تکرار را با واژگانِ عصب‌شناختی بیان می‌کند و پیر آن را مشخصاً بر زبانِ خودتوصیفی اعمال؛ و [[the-mind-cannot-follow-a-negation-so-it-needs-an-image-of-the-wanted-outcome]] با [[suppressing-emotions-backfires-so-name-and-welcome-them-instead]] هم‌راستاست — تلاش برای حذفِ مستقیمِ یک محتوای ذهنی، تقویتش می‌کند.
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض. با [[atomic-habits]]: یک بسط و یک موافقت. با [[12-rules-for-life]]: یک موافقت. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[how-a-little-becomes-a-lot]]: یک بسط و یک موافقت. با [[shift]]: یک شرط مرزی. با [[the-5-types-of-wealth]]: یک بسط. با [[the-cost-of-quiet]]: یک کاربرد. با [[once-upon-a-stranger]]: یک ارتباط مکمل و یک موافقت مستقل. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل و یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[honest-communication]] مستند شده است.
+
+با [[your-mind-your-rules]]: دو موافقتِ مستقل — تکرار به‌عنوان سازوکارِ تغییر، و شکستِ سرکوب/نفیِ مستقیم.
 
 ## Translation
 

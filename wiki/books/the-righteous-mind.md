@@ -8,7 +8,7 @@ translation: the-righteous-mind-fa
 tags: [روان‌شناسی-اخلاق, شهود, سیاست, تکامل]
 sources: [2026-08-01-the-righteous-mind-blinkist]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -66,9 +66,13 @@ updated: 2026-08-01
 - [[good-to-great]] — یک رابطه‌ی موافقت شناسایی شد:
   - **موافقت:** [[religions-binding-rituals-build-group-cohesion-trust-and-altruism-independent-of-belief-truth]] مستقل از [[self-imposed-discipline-outlasts-discipline-enforced-by-a-tyrant]] به همان اصل رسیده — تعهد درونی‌شده دوام گروه را می‌سازد.
 
+- [[your-mind-your-rules]] — یک موافقتِ مستقل و میان‌حوزه‌ای: [[old-emotional-learning-outranks-adult-reasoning-even-when-you-know-its-irrational]] با [[moral-judgments-arise-from-intuition-first-reasoning-acts-as-a-lawyer-not-a-judge]] هم‌راستاست — هایدت در قضاوتِ اخلاقی و پیر در رفتارِ شخصی، هر دو از دو سنتِ کاملاً متفاوت (روان‌شناسیِ اخلاق در برابر روان‌درمانی) به تقدمِ احساس بر استدلال می‌رسند.
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض. با [[how-a-little-becomes-a-lot]]: یک بسط. با [[the-48-laws-of-power]]: دو بسط. با [[the-5-types-of-wealth]]: یک بسط. با [[creativity-inc]]: یک شرط مرزی و یک بسط. با [[shift]]: یک بسط. با [[good-to-great]]: یک موافقت مستقل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[moral-intuition-and-tribal-psychology]] مستند شده است.
+
+با [[your-mind-your-rules]]: یک موافقتِ مستقل و میان‌حوزه‌ای درباره‌ی تقدمِ احساس/شهود بر استدلال.
 
 ## Translation
 

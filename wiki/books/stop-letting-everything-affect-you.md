@@ -8,7 +8,7 @@ translation: stop-letting-everything-affect-you-fa
 tags: [واکنش‌پذیری-هیجانی, مرزگذاری, بهبود]
 sources: [2026-07-31-stop-letting-everything-affect-you-blinkist]
 created: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -74,9 +74,13 @@ updated: 2026-08-01
   - **بسط‌دهنده (Extends):** [[good-values-are-reality-based-socially-constructive-and-within-your-immediate-control]] معیارِ پیشینی‌تری به [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] می‌افزاید — که یک ارزش اصلاً باید چه ویژگی‌هایی داشته باشد.
   - **مرتبط:** [[mansons-law-of-avoidance-identity-threat-drives-people-away-from-valuable-risks]] در کنار [[identity-must-dissolve-completely-before-a-new-one-can-emerge]] — یکی رهاسازیِ داوطلبانه‌ی هویت پیش از ریسک را توصیه می‌کند، دیگری فروپاشیِ اجباریِ هویت پس از بحران را توصیف می‌کند.
 
+- [[your-mind-your-rules]] — یک موافقت و یک بسط: [[an-unmet-emotional-need-is-either-abandoned-or-outsourced-until-you-reclaim-it]] با [[living-by-your-own-values-produces-a-reward-independent-of-others-approval]] هم‌راستاست (منبعِ پایدارِ ارزشمندی باید درونی باشد)، و [[two-opposing-inner-instructions-produce-paralysis-that-looks-like-laziness]] لایه‌ای زیرِ [[identity-must-dissolve-completely-before-a-new-one-can-emerge]] می‌گذارد — آنچه چیدیاک مقاومتِ هویت در برابر فروپاشی می‌بیند، پیر به‌صورتِ دو دستورِ هم‌زمانِ متضاد صورت‌بندی می‌کند.
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض. با [[boundaries]]: دو بسط. با [[emotional-intelligence]]: دو بسط و یک غنی‌سازی. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط. با [[how-a-little-becomes-a-lot]]: دو ارتباط مکمل. با [[the-48-laws-of-power]]: یک کاربرد متقابل. با [[the-art-of-spending-money]]: یک بسط. با [[how-to-become-a-people-magnet]]: یک بسط. با [[once-upon-a-stranger]]: یک ارتباط مکمل. با [[the-subtle-art-of-not-giving-a-fck]]: یک بسط و یک ارتباطِ مرتبط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[healing-from-emotional-reactivity-and-toxic-patterns]]، [[power-dynamics-and-strategic-positioning]] و [[wealth-beyond-money]] مستند شده است.
+
+با [[your-mind-your-rules]]: یک موافقتِ مستقل (منبعِ درونیِ ارزشمندی) و یک بسط بر سازوکارِ مقاومتِ هویت.
 
 ## Translation
 

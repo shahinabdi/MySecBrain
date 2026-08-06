@@ -34,6 +34,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[2026-08-01-the-psychology-of-money-blinkist]] — Blinkist summary of *The Psychology of Money* by Morgan Housel.
 - [[2026-08-01-the-righteous-mind-blinkist]] — Blinkist summary of *The Righteous Mind* by Jonathan Haidt.
 - [[2026-08-02-the-subtle-art-of-not-giving-a-fck-blinkist]] — Blinkist summary of *The Subtle Art of Not Giving a F*ck* by Mark Manson.
+- [[2026-08-05-your-mind-your-rules-blinkist]] — Blinkist summary of *Your Mind, Your Rules* by Marisa Peer.
 
 ## Translations
 
@@ -67,6 +68,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-psychology-of-money-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «روان‌شناسی پول».
 - [[the-righteous-mind-fa]] — ترجمه‌ی کامل فارسی خلاصه‌ی «ذهن پرهیزگار».
 - [[the-subtle-art-of-not-giving-a-fck-fa]] — ترجمه‌ی خلاصه‌ی فارسی «هنر ظریف بی‌خیالی».
+- [[your-mind-your-rules-fa]] — ترجمه‌ی کامل و بندبه‌بند فارسی خلاصه‌ی «ذهن تو، قوانین تو».
 
 ## Books
 
@@ -100,6 +102,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[the-psychology-of-money]] — صفحه‌ی مرکزی کتاب «روان‌شناسی پول» اثر مورگان هاوسل.
 - [[the-righteous-mind]] — صفحه‌ی مرکزی کتاب «ذهن پرهیزگار» اثر جاناتان هایدت.
 - [[the-subtle-art-of-not-giving-a-fck]] — صفحه‌ی مرکزی کتاب «هنر ظریف بی‌خیالی» اثر مارک منسون.
+- [[your-mind-your-rules]] — صفحه‌ی مرکزی کتاب «ذهن تو، قوانین تو» اثر ماریسا پیر.
 
 ## Zettels
 
@@ -352,6 +355,15 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[absolute-certainty-often-masks-hidden-insecurity-rather-than-reflecting-evidence]] — قطعیتِ مطلق اغلب ناامنیِ پنهان را می‌پوشاند، نه شواهد را منعکس می‌کند.
 - [[healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems]] — عشقِ سالم حمایتِ متقابل بدونِ کنترل است؛ عشقِ ناسالم فرارِ مشترک از مشکلاتِ شخصی است.
 - [[immortality-projects-convert-death-anxiety-into-an-endless-race-for-legacy]] — پروژه‌های جاودانگی، اضطرابِ مرگ را به رقابتِ بی‌پایان برای میراث تبدیل می‌کنند.
+- [[a-self-description-repeated-with-emotion-becomes-an-instruction-the-mind-obeys]] — توصیفی از خود که با هیجان تکرار شود، به دستوری تبدیل می‌شود که ذهن از آن پیروی می‌کند.
+- [[the-mind-cannot-follow-a-negation-so-it-needs-an-image-of-the-wanted-outcome]] — ذهن نمی‌تواند از یک «نـه» پیروی کند، پس به تصویری از وضعیتِ مطلوب نیاز دارد.
+- [[two-opposing-inner-instructions-produce-paralysis-that-looks-like-laziness]] — دو دستورِ درونیِ متضاد، فلجی می‌سازند که از بیرون شبیه تنبلی دیده می‌شود.
+- [[the-mind-prefers-the-familiar-over-the-good-so-familiarity-must-be-trained-deliberately]] — ذهن آشنا را بر خوب ترجیح می‌دهد، پس آشنایی باید عامدانه تربیت شود.
+- [[what-you-call-normal-is-itself-an-unexamined-habit]] — آنچه «عادی» می‌نامید، خودش عادتی بررسی‌نشده است.
+- [[old-emotional-learning-outranks-adult-reasoning-even-when-you-know-its-irrational]] — آموخته‌های عاطفیِ قدیمی بر استدلالِ بزرگسالانه اولویت دارند، حتی وقتی می‌دانید غیرمنطقی‌اند.
+- [[an-unmet-emotional-need-is-either-abandoned-or-outsourced-until-you-reclaim-it]] — نیاز عاطفیِ برآورده‌نشده یا رها می‌شود یا به دیگری سپرده می‌شود، تا وقتی خودتان پسش بگیرید.
+- [[an-imagined-limit-constrains-behavior-more-than-the-actual-limit-does]] — مرزِ تصورشده بیش از مرزِ واقعی رفتار را محدود می‌کند.
+- [[an-inherited-story-keeps-its-authority-until-you-ask-who-wrote-it]] — روایتِ به‌ارث‌رسیده تا وقتی نپرسید چه کسی نوشته‌اش، اقتدارش را حفظ می‌کند.
 
 ## Topics
 
@@ -377,6 +389,7 @@ Catalog of every page in this knowledge base. Updated in the same turn as any pa
 - [[nonverbal-rapport-and-first-impressions]] — نقشه‌ی موضوعی زبان بدن، همخوانیِ سه‌کاناله، همگام‌سازی، و زبان حسیِ غالب در برخورد نخست.
 - [[connecting-with-strangers]] — نقشه‌ی موضوعی روان‌شناسیِ پیوند با غریبه‌ها: شکافِ دوست‌داشتن، ترسِ اغراق‌شده از طرد، افشای خود، و انباشتِ تدریجیِ شجاعتِ اجتماعی.
 - [[childhood-in-the-digital-age]] — نقشه‌ی موضوعی تأثیرِ گوشیِ هوشمند بر رشدِ کودک: بازسیم‌کشیِ بزرگِ کودکی، سه کانالِ رشدیِ ازدست‌رفته، مکانیزمِ اعتیاد، و تناقضِ تخصیصِ محافظت.
+- [[inner-story-and-self-image]] — نقشه‌ی موضوعی سه لایه‌ی تعیین‌کننده‌ی اینکه ذهن چه‌چیزی را ممکن، آشنا و مجاز می‌داند: زبان و تصویر، کششِ آشنایی و تعارض، و سقفِ روایت.
 
 ## Queries
 

@@ -8,7 +8,7 @@ translation: the-psychology-of-money-fa
 tags: [روان‌شناسی-مالی, شانس, ریسک]
 sources: [2026-08-01-the-psychology-of-money-blinkist]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -51,6 +51,8 @@ updated: 2026-08-01
 - [[rich-dad-poor-dad]] — از طریق موافقت مستقل با [[the-overthinkers-guide-to-making-decisions]] درباره‌ی هزینه‌ی اجتناب از ریسک (نگاه کنید به صفحه‌ی موضوع [[decisive-action-under-uncertainty]] برای زنجیره‌ی کامل).
 - [[shift]] — بسطی با نمونه‌ی مشخص از مقایسه‌ی اجتماعیِ مخرب (حسادت مالی).
 
+- [[your-mind-your-rules]] — یک موافقتِ مستقل: [[the-mind-prefers-the-familiar-over-the-good-so-familiarity-must-be-trained-deliberately]] با [[your-early-adulthood-economic-experience-permanently-anchors-your-risk-tolerance-regardless-of-later-evidence]] هم‌راستاست؛ آنچه هاوسل در تحملِ ریسکِ مالی مستند می‌کند، پیر به‌عنوان سازوکاری عمومی‌تر توصیف می‌کند — آنچه در دوره‌ی شکل‌گیری آشنا شده، مرجعِ رفتار می‌ماند حتی وقتی شواهدِ بعدی خلافش را نشان دهند.
+
 ## Agreements, Extensions & Contradictions
 
 - **بسط (Extension):** [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] از [[the-art-of-spending-money]] — لایه‌ی عمیق‌تری اضافه می‌کند: حتی ارزش‌های «خودِ» فرد نیز محصول تصادفی تجربه‌ی اقتصادی اوست.
@@ -59,6 +61,8 @@ updated: 2026-08-01
 - **بسط (Extension):** [[level-5-leaders-combine-fierce-resolve-with-personal-humility]] از [[good-to-great]] — همان ریشه‌ی روان‌شناختی در سطح رهبری سازمانی.
 - **بسط (Extension):** [[social-comparison-is-neutral-until-perspective-determines-whether-it-motivates-or-undermines]] از [[shift]] — نمونه‌ی مشخصی از مقایسه‌ی اجتماعیِ مدیریت‌نشده در حوزه‌ی مالی.
 - هیچ تناقضی با کتاب‌های دیگر یافت نشد.
+
+با [[your-mind-your-rules]]: یک موافقتِ مستقل — کششِ آشنایی به‌عنوان سازوکارِ مشترکِ زیرِ لنگرشدنِ تحملِ ریسک.
 
 ## Translation
 

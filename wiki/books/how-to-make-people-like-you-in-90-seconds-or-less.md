@@ -8,7 +8,7 @@ translation: how-to-make-people-like-you-in-90-seconds-or-less-fa
 tags: [زبان-بدن, ارتباط, تلقین‌عصبی-کلامی]
 sources: [2026-08-02-how-to-make-people-like-you-in-90-seconds-or-less-blinkist]
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -65,9 +65,13 @@ updated: 2026-08-02
   - **بسط:** [[open-questions-starting-with-who-what-when-where-how-why-invite-conversation-while-closed-questions-end-it]] ابزار زبانیِ [[conversations-feel-meaningful-when-they-teach-you-something-new-not-merely-when-they-are-pleasant]] را فراهم می‌کند.
   - **مرتبط:** [[silent-nonverbal-cues-decide-first-impressions-before-any-words-are-exchanged]] در کنار [[minimal-acknowledgment-like-a-smile-or-glance-fulfills-the-need-to-feel-seen-without-requiring-depth]].
 
+- [[your-mind-your-rules]] — یک موافقت با خروجیِ متفاوت: [[the-mind-cannot-follow-a-negation-so-it-needs-an-image-of-the-wanted-outcome]] و [[focusing-on-what-you-want-rather-than-what-you-dont-want-automatically-produces-open-body-language]] از یک قاعده‌ی ورودیِ مشترک آغاز می‌کنند، اما بوثمن اثرش را بر زبانِ بدن ردیابی می‌کند و پیر بر حالتِ هیجانی و واکنشِ فیزیولوژیک — دو خروجیِ متفاوت از یک سازوکارِ واحد.
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[how-to-become-a-people-magnet]]: یک بسط. با [[emotional-intelligence]]: یک موافقت و یک بسط. با [[the-48-laws-of-power]]: یک رابطه‌ی توضیح‌دهنده‌ی مکانیزم برای یک تناقضِ از پیش ثبت‌شده. با [[shift]]: یک بسط. با [[12-rules-for-life]]: یک ارتباط مکمل. با [[how-a-little-becomes-a-lot]]: یک ارتباط مکمل. با [[the-first-minute]]: یک ارتباط مکمل. با [[once-upon-a-stranger]]: یک بسط و یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا و صفحه‌ی موضوع [[nonverbal-rapport-and-first-impressions]] مستند شده است.
+
+با [[your-mind-your-rules]]: یک موافقتِ مستقل بر سرِ قاعده‌ی «تمرکز بر مطلوب، نه نفیِ نامطلوب»، با دو خروجیِ متفاوت (زبانِ بدن در برابر حالتِ هیجانی).
 
 ## Translation
 

@@ -8,7 +8,7 @@ translation: the-art-of-spending-money-fa
 tags: [ثروت, روان‌شناسی-مالی, مصرف-آگاهانه]
 sources: [2026-07-31-the-art-of-spending-money-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -51,6 +51,8 @@ updated: 2026-07-31
 - [[the-money-habit]] — یک رابطه‌ی موافقت: ابزاری عددی برای همان خودآگاهی مالی که هاوسل توصیه می‌کند.
 - [[the-psychology-of-money]] — اثر دیگر هاوسل؛ سه رابطه‌ی بسط شناسایی شد که مضامین شانس و ارزش‌های مالی شخصی را عمیق‌تر می‌کنند (نگاه کنید به بخش زیر).
 
+- [[your-mind-your-rules]] — یک موافقتِ مستقل: [[an-inherited-story-keeps-its-authority-until-you-ask-who-wrote-it]] با [[unconsciously-adopting-other-peoples-financial-values-creates-anxiety-and-disconnection]] هم‌راستاست — باورهایی که ناخودآگاه از دیگران گرفته شده‌اند رفتار را هدایت می‌کنند بی‌آنکه هرگز به‌عنوان انتخابِ خودِ فرد بررسی شوند؛ هاوسل این را در حوزه‌ی پول و پیر در حوزه‌ی روابط و خودانگاره نشان می‌دهد.
+
 ## Agreements, Extensions & Contradictions
 
 - **موافقت:** [[money-serves-a-fulfilling-life-only-when-spent-with-self-awareness-not-as-a-scoreboard]] مستقل از [[true-wealth-requires-balancing-five-independent-types-not-maximizing-one-financial-scoreboard]] از [[the-5-types-of-wealth]] به همان نتیجه رسیده.
@@ -63,6 +65,8 @@ updated: 2026-07-31
 - **بسط:** [[the-luckier-you-are-the-more-you-owe-humility-and-kindness-to-others]] با [[luck-and-skill-are-easy-to-confuse-because-we-credit-our-success-to-skill-and-others-failure-to-character]] و [[getting-rich-and-staying-rich-require-opposite-psychological-skills-optimism-versus-fear]] از همان کتاب دو بسط می‌یابد.
 
 بدون تناقض.
+
+با [[your-mind-your-rules]]: یک موافقتِ مستقل درباره‌ی ارزش‌ها و روایت‌های پذیرفته‌شده از دیگران که هرگز به‌عنوان باور بررسی نمی‌شوند.
 
 ## Translation
 

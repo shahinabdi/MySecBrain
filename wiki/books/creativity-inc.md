@@ -8,7 +8,7 @@ translation: creativity-inc-fa
 tags: [خلاقیت, مدیریت, فرهنگ-سازمانی]
 sources: [2026-07-31-creativity-inc-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -77,9 +77,13 @@ updated: 2026-07-31
   - **بسط:** [[combining-two-unrelated-existing-ideas-often-produces-more-original-breakthroughs-than-inventing-from-scratch]] اصل [[diverse-teams-outperform-homogeneous-ones-through-complementary-differences]] را از ترکیب افراد به ترکیب ایده‌ها می‌برد.
   - **مرتبط:** [[structured-play-like-found-object-exercises-and-yes-no-puzzles-train-lateral-thinking-as-a-repeatable-skill]] با [[physical-workspace-design-shapes-creative-participation]] — هر دو درباره‌ی طراحیِ عمدیِ محیط/فعالیت‌اند.
 
+- [[your-mind-your-rules]] — یک شرطِ مرزی: [[the-mind-prefers-the-familiar-over-the-good-so-familiarity-must-be-trained-deliberately]] بر [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] می‌افزاید که کششِ آشنایی حتی در غیابِ هرگونه ریسکِ شکست هم عمل می‌کند — در موردِ بالینیِ پیر خطری در میان نبود، فقط ناآشنایی. یعنی خنثی‌کردنِ ترس، که راهکارِ کتمول است، همیشه کافی نیست.
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض واقعی. با [[12-rules-for-life]]: دو بسط و یک تقابل آموزنده (تفاوت سطح تحلیل). با [[boundaries]]: یک کاربرد. با [[emotional-intelligence]]: یک بسط. با [[good-to-great]]: دو موافقت مستقل. با [[how-to-enjoy-your-life-and-your-job]]: یک بسط و یک ارتباط مکمل. با [[the-algorithm]]: دو بسط. با [[the-righteous-mind]]: یک شرط مرزی و یک بسط. با [[the-leaders-guide-to-lateral-thinking-skills]]: چند ارتباط مکمل و دو بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[psychological-safety-and-creative-culture]] و [[operational-efficiency-through-process-simplification]] مستند شده است.
+
+با [[your-mind-your-rules]]: یک شرطِ مرزی — کششِ آشنایی مستقل از ترسِ شکست هم عمل می‌کند، پس رفعِ ترس تنها بخشی از راه‌حل است.
 
 ## Translation
 

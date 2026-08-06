@@ -8,7 +8,7 @@ translation: emotional-intelligence-fa
 tags: [هوش-هیجانی, روان‌شناسی, خودتنظیمی]
 sources: [2026-07-31-emotional-intelligence-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -100,9 +100,13 @@ updated: 2026-07-31
 - [[the-anxious-generation]] — یک رابطه‌ی بسط شناسایی شد:
   - **بسط:** [[free-play-attunement-and-social-learning-are-three-developmental-channels-a-phone-based-childhood-forecloses]] مکانیزمِ رشدیِ زیربناییِ [[childrens-emotional-intelligence-shapes-societys-future-through-delinquency-and-parenting-cycles]] را مشخص می‌کند — چرا محرومیت از بازیِ آزاد، همسویی و یادگیریِ اجتماعی به کمبودِ هوشِ هیجانی می‌انجامد.
 
+- [[your-mind-your-rules]] — یک تفکیکِ مفهومیِ مهم: [[old-emotional-learning-outranks-adult-reasoning-even-when-you-know-its-irrational]] مسیرِ سومی برای غلبه‌ی احساس بر منطق معرفی می‌کند که *مزمن* است، درحالی‌که هر دو مسیرِ گلمن — [[intense-emotion-crowds-out-rational-judgment]] و [[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]] — *حاد*ند. پیر حالتی را توصیف می‌کند که فرد کاملاً آرام است و همچنان از دستوری قدیمی پیروی می‌کند؛ آنجا مکث بی‌اثر است و بازآموزی لازم. همچنین [[an-imagined-limit-constrains-behavior-more-than-the-actual-limit-does]] در کنار [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]].
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض. با [[12-rules-for-life]]: دو بسط. با [[boundaries]]: یک بسط همراه با کاربرد عملی. با [[creativity-inc]]: یک بسط. با [[good-morning-i-love-you]]: یک موافقت و یک بسط. با [[good-to-great]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: سه بسط و یک موافقت. با [[how-to-enjoy-your-life-and-your-job]]: دو بسط. با [[shift]]: یک بسط. با [[stop-letting-everything-affect-you]]: دو بسط و یک غنی‌سازی. با [[the-cost-of-quiet]]: دو بسط. با [[the-first-minute]]: یک بسط. با [[the-overthinkers-guide-to-making-decisions]]: یک بسط و یک موافقت. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل و یک شرط مرزی. با [[the-anxious-generation]]: یک بسط. جزئیات در بخش «Related Books» بالا و صفحات موضوع [[emotional-intelligence-and-self-regulation]] و [[honest-communication]] مستند شده است.
+
+با [[your-mind-your-rules]]: یک تفکیکِ مفهومیِ مهم — پیر مسیرِ مزمنِ غلبه‌ی احساس بر منطق را توصیف می‌کند که با دو مسیرِ حادِ گلمن یکی نیست و درمانِ متفاوتی (بازآموزی به‌جای مکث) اقتضا می‌کند. این تناقض نیست، بلکه تمایزی است که یکی‌گرفتنش به انتخابِ ابزارِ اشتباه می‌انجامد.
 
 ## Translation
 

@@ -8,7 +8,7 @@ translation: shift-fa
 tags: [تنظیم-هیجانی, خودآگاهی, ابزارهای-روان‌شناختی]
 sources: [2026-07-31-shift-blinkist]
 created: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -73,9 +73,13 @@ updated: 2026-08-01
 - [[the-anatomy-of-awakening]] — یک ارتباط مکمل:
   - [[expanded-awareness-is-only-stable-when-built-on-prior-grounding-otherwise-it-produces-confusion]] در کنار [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]].
 
+- [[your-mind-your-rules]] — یک تنشِ حل‌نشده: [[the-mind-cannot-follow-a-negation-so-it-needs-an-image-of-the-wanted-outcome]] تجسمِ وضعیتِ نامطلوب را پرهزینه می‌داند، درحالی‌که [[the-woop-framework-turns-a-wish-into-a-concrete-plan-through-mental-contrasting]] گامِ تجسمِ مانع را ضروری می‌شمارد. تفکیکِ محتمل این است که کراس مانع را بلافاصله به یک پاسخِ «اگر-آنگاه» گره می‌زند و هشدارِ پیر متوجهِ تصویرِ منفیِ رهاشده و بی‌پاسخ است — اما هیچ‌کدام از دو منبع این را صریح نمی‌کند.
+
 ## Agreements, Extensions & Contradictions
 
-بدون تناقض. با [[good-morning-i-love-you]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: دو بسط. با [[atomic-habits]]: یک بسط. با [[12-rules-for-life]]: یک شرط مرزی. با [[emotional-intelligence]]: یک بسط. با [[the-5-types-of-wealth]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک بسط. با [[how-to-become-a-people-magnet]]: یک بسط. با [[how-to-make-people-like-you-in-90-seconds-or-less]]: یک بسط. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا مستند شده است.
+بدون تناقضِ صریح؛ یک تنشِ حل‌نشده با [[your-mind-your-rules]] در پاراگرافِ بعد ثبت شده است. با [[good-morning-i-love-you]]: یک شرط مرزی. با [[how-a-little-becomes-a-lot]]: دو بسط. با [[atomic-habits]]: یک بسط. با [[12-rules-for-life]]: یک شرط مرزی. با [[emotional-intelligence]]: یک بسط. با [[the-5-types-of-wealth]]: یک موافقت مستقل. با [[the-psychology-of-money]]: یک بسط. با [[the-righteous-mind]]: یک بسط. با [[how-to-become-a-people-magnet]]: یک بسط. با [[how-to-make-people-like-you-in-90-seconds-or-less]]: یک بسط. با [[the-anatomy-of-awakening]]: یک ارتباط مکمل. جزئیات در بخش «Related Books» بالا مستند شده است.
+
+با [[your-mind-your-rules]]: یک تنشِ حل‌نشده درباره‌ی تجسمِ مانع. هر دو ادعا بدونِ ترجیح‌دادنِ یکی حفظ شده‌اند؛ ثبت‌شده به‌عنوان پرسشِ باز در [[inner-story-and-self-image]].
 
 ## Translation
 

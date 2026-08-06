@@ -8,7 +8,7 @@ translation: atomic-habits-fa
 tags: [عادت, رفتار, رشد-فردی]
 sources: [2026-07-31-atomic-habits-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -79,9 +79,13 @@ updated: 2026-07-31
 - [[the-anxious-generation]] — یک رابطه‌ی بسط:
   - **بسط:** [[variable-reward-notifications-exploit-the-same-anticipation-driven-dopamine-mechanism-that-drives-habit-formation]] نشان می‌دهد مکانیزمِ [[anticipated-reward-not-just-reward-itself-drives-motivation]]، وقتی عامدانه و با پاداشِ متغیرِ حداکثری طراحی شود، از عادت‌سازیِ خنثی به ابزارِ اعتیادِ رفتاری تبدیل می‌شود.
 
+- [[your-mind-your-rules]] — یک بسط: [[what-you-call-normal-is-itself-an-unexamined-habit]] دامنه‌ی [[small-habits-compound-into-large-results-invisibly]] را از رفتار به افکارِ تمرین‌شده، برچسب‌های پذیرفته‌شده و تعریفِ فرد از «عادی» گسترش می‌دهد — با این تفاوتِ مهم که این دسته، برخلاف عادت‌های رفتاری، هرگز به‌عنوان انتخاب دیده نمی‌شوند و بنابراین هدفِ مداخله هم قرار نمی‌گیرند.
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض مستقیم با [[12-rules-for-life]]، [[boundaries]]، [[good-morning-i-love-you]]، [[good-to-great]]، [[how-a-little-becomes-a-lot]]، [[shift]]، [[the-5-types-of-wealth]]، [[the-algorithm]]، [[the-money-habit]] یا [[the-anxious-generation]]. با ۱۲ قانون برای زندگی: دو رابطه‌ی بسط و یک شرط مرزی. با مرزها: یک تقابل آموزنده که تمایز سالم/ناسالم پاسخگویی اجتماعی را روشن می‌کند. با صبح‌بخیر دوستت دارم: یک بسط عصب‌شناختی و یک موافقت مستقل. با از خوب به عالی: یک موافقت مستقل در اصل انباشت پیوسته. با چگونه کمی به مقدار زیادی تبدیل می‌شود: چهار رابطه‌ی بسط که مکانیزم‌های زیستی و روان‌شناختی پشتِ تکنیک‌های این کتاب را توضیح می‌دهند. با شیفت: یک بسط در فرمول نیت اجرایی. با پنج نوع ثروت: یک موافقت مستقل. با الگوریتم: یک موافقت مستقل. با عادت پول: یک موافقت مستقل در حوزه‌ی سرمایه‌گذاری. با نسل مضطرب: یک بسط که نشان می‌دهد همان مکانیزمِ دوپامینِ پیش‌نگر می‌تواند عامدانه به ابزارِ اعتیاد تبدیل شود. جزئیات در بخش «Related Books» بالا و در صفحات موضوع [[habit-formation]]، [[boundaries-and-ownership]]، [[mindfulness-and-self-compassion]]، [[wealth-beyond-money]] و [[operational-efficiency-through-process-simplification]] مستند شده‌اند.
+
+با [[your-mind-your-rules]]: یک بسط — گسترشِ دامنه‌ی مفهومِ «عادت» به افکار و تعریفِ فرد از «عادی».
 
 ## Translation
 

@@ -8,7 +8,7 @@ translation: the-cost-of-quiet-fa
 tags: [ارتباط, روابط-عاشقانه, صداقت-هیجانی]
 sources: [2026-07-31-the-cost-of-quiet-blinkist]
 created: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -56,6 +56,8 @@ updated: 2026-08-01
 - [[the-first-minute]] — یک رابطه‌ی موافقت: پیش‌دستانگی درباره‌ی اطلاعاتی که مخاطب در غیر این صورت باید حدس بزند، مستقل در دو بافتار حرفه‌ای و عاشقانه.
 - [[how-to-become-a-people-magnet]] — یک رابطه‌ی موافقت: هر دو کتاب مستقل به این نتیجه رسیده‌اند که واکنش منفی طرف مقابل، اطلاعاتی درباره‌ی خودِ اوست، نه اثباتی بر نادرستی نیازها یا ارزش شما.
 
+- [[your-mind-your-rules]] — یک تمایز: [[an-inherited-story-keeps-its-authority-until-you-ask-who-wrote-it]] در برابر [[catching-the-negative-partner-story-before-treating-it-as-fact]]؛ فر روایتی *لحظه‌ای* را هدف می‌گیرد که خودِ فرد همین حالا درباره‌ی شریکش می‌سازد، پیر روایتی *بین‌نسلی* را که پیش از هر تجربه‌ی شخصی پذیرفته شده. اولی با مکث و بازبینی خنثی می‌شود، دومی نخست باید به‌عنوان باوری دارای نویسنده دیده شود. همچنین [[two-opposing-inner-instructions-produce-paralysis-that-looks-like-laziness]] در کنار [[recurring-small-fights-are-often-driven-by-deeper-attachment-fears-not-the-surface-issue]].
+
 ## Agreements, Extensions & Contradictions
 
 - **موافقت:** [[silence-that-feels-protective-in-the-moment-erodes-connection-over-time]] مستقل از [[boundary-styles-compliant-avoidant-controller-nonresponsive]] از [[boundaries]] به یک الگوی زیربنایی مشترک رسیده.
@@ -70,6 +72,8 @@ updated: 2026-08-01
 - **موافقت:** [[a-partners-negative-reaction-is-information-about-them-not-proof-your-needs-are-wrong]] مستقل از [[roughly-half-the-people-you-meet-wont-connect-with-you-and-thats-normal-not-failure]] از [[how-to-become-a-people-magnet]] به یک اصل رسیده.
 
 بدون تناقض.
+
+با [[your-mind-your-rules]]: یک تمایزِ مهم میان روایتِ لحظه‌ای و روایتِ بین‌نسلی — دو مسئله‌ی متفاوت با دو مداخله‌ی متفاوت.
 
 ## Translation
 

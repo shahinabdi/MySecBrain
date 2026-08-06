@@ -8,7 +8,7 @@ translation: the-overthinkers-guide-to-making-decisions-fa
 tags: [تصمیم‌گیری, اعتماد-به-خود, ترس]
 sources: [2026-08-01-the-overthinkers-guide-to-making-decisions-blinkist]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -56,6 +56,8 @@ updated: 2026-08-01
 - [[emotional-intelligence]] — دو رابطه: بسط اصل نام‌گذاری بدون‌قضاوت برای الگوی تصمیم‌گیری، و موافقت در استفاده از مکث فیزیولوژیک.
 - [[boundaries]] — دو رابطه: موافقت درباره‌ی الگوهای خانواده‌ی مبدأ، و بسط مهارت مالکیت خواسته‌ها با تمرین‌های عملی.
 
+- [[your-mind-your-rules]] — یک بسط و یک موافقت: [[two-opposing-inner-instructions-produce-paralysis-that-looks-like-laziness]] سازوکارِ تولیدکننده‌ی [[staying-undecided-is-itself-a-costly-decision-often-worse-than-choosing-and-adjusting]] را توضیح می‌دهد — بلاتکلیفی معمولاً محصولِ دو خواستِ متضاد است، نه کمبودِ اطلاعات؛ و [[the-mind-cannot-follow-a-negation-so-it-needs-an-image-of-the-wanted-outcome]] با [[shifting-attention-from-avoiding-the-worst-case-to-a-desired-feeling-changes-what-a-decision-produces]] هم‌راستاست.
+
 ## Agreements, Extensions & Contradictions
 
 - **موافقت (Agreement):** [[financial-success-requires-courage-as-much-as-knowledge]] از [[rich-dad-poor-dad]] — هزینه‌ی واقعی اجتناب از ریسک، مستقل در دو حوزه.
@@ -68,6 +70,8 @@ updated: 2026-08-01
 - **موافقت (Agreement):** [[family-of-origin-patterns-shape-adult-boundary-habits]] از [[boundaries]] — قوانین نامرئی به‌ارث‌رسیده در دو حوزه (مرزگذاری، تصمیم‌گیری).
 - **بسط (Extension):** [[owning-your-feelings-desires-and-limits-are-three-distinct-boundary-skills]] از همان کتاب — تمرین‌های کم‌ریسک برای مهارت مالکیت خواسته‌ها.
 - هیچ تناقضی با کتاب‌های دیگر یافت نشد.
+
+با [[your-mind-your-rules]]: یک بسط (سازوکارِ زیرِ بلاتکلیفی) و یک موافقتِ مستقل (تمرکز بر وضعیتِ مطلوب به‌جای اجتناب از بدترین حالت).
 
 ## Translation
 

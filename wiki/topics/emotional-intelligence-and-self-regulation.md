@@ -3,9 +3,9 @@ type: topic
 title: هوش هیجانی و خودتنظیمی
 status: active
 tags: [هوش-هیجانی, خودتنظیمی, همدلی]
-sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist]
+sources: [2026-07-31-emotional-intelligence-blinkist, 2026-07-31-good-morning-i-love-you-blinkist, 2026-07-31-good-to-great-blinkist, 2026-07-31-how-a-little-becomes-a-lot-blinkist, 2026-07-31-how-to-enjoy-your-life-and-your-job-blinkist, 2026-07-31-shift-blinkist, 2026-07-31-stop-letting-everything-affect-you-blinkist, 2026-08-01-the-righteous-mind-blinkist, 2026-08-01-how-to-become-a-people-magnet-blinkist, 2026-08-05-your-mind-your-rules-blinkist]
 created: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 ## Central Question
@@ -38,6 +38,7 @@ updated: 2026-08-01
 - [[stop-letting-everything-affect-you]] — دو رابطه‌ی بسط و یک غنی‌سازی زبانی شناسایی شد.
 - [[the-cost-of-quiet]] — دو رابطه‌ی بسط شناسایی شد.
 - [[how-to-become-a-people-magnet]] — یک رابطه‌ی بسط و یک ایده‌ی جدید (عزت‌نفس اصیل) شناسایی شد.
+- [[your-mind-your-rules]] — یک تفکیکِ مفهومیِ مهم شناسایی شد: مسیرِ *مزمنِ* اختلالِ قضاوت در برابر دو مسیرِ *حادِ* گلمن (نگاه کنید به بخش روابط).
 
 ## Relationships
 
@@ -62,6 +63,7 @@ updated: 2026-08-01
 - **بسط (Extension):** [[self-connected-communication-requires-turning-toward-your-own-experience-before-speaking]] از [[the-cost-of-quiet]] اصل [[naming-and-tracing-the-cause-of-a-feeling-is-the-first-step-of-emotional-intelligence]] را به یک تمرین چندمرحله‌ای رابطه‌محور تبدیل می‌کند.
 - **بسط (Extension):** [[explaining-setbacks-as-changeable-rather-than-permanent-sustains-motivation]] با نکته‌ای اجتماعی از [[how-to-become-a-people-magnet]] غنی شد — سبک تبیینی خوش‌بینانه، فراتر از انگیزه‌ی شخصی، افراد را نیز به‌سوی شما جذب می‌کند.
 - [[genuine-self-esteem-is-humble-and-independent-of-external-validation-unlike-its-narcissistic-imitation]] از [[how-to-become-a-people-magnet]] معیاری برای تمیزدادن عزت‌نفس اصیل از خودشیفتگی به این نقشه‌ی موضوعی می‌افزاید — ایده‌ای که با استقلال از تأیید بیرونی، مکمل [[self-regulation-depends-on-the-thinking-brain-checking-the-feeling-brains-alarm]] است.
+- **تفکیکِ ضروری (نه تناقض):** [[old-emotional-learning-outranks-adult-reasoning-even-when-you-know-its-irrational]] از [[your-mind-your-rules]] مسیرِ سومی برای غلبه‌ی احساس بر منطق معرفی می‌کند که با هیچ‌کدام از دو مسیرِ گلمن یکی نیست. گلمن هر دو مسیرش را *حاد* توصیف می‌کند — اشغالِ لحظه‌ای ظرفیت ([[intense-emotion-crowds-out-rational-judgment]]) و ربایشِ هیجانی زیرِ تهدید ([[emotional-hijacking-bypasses-rational-thought-under-perceived-threat]]) — و درمانِ هر دو مکث است تا فروکشِ برانگیختگی. پیر حالتی را توصیف می‌کند که در آن فرد کاملاً آرام و مطلع است و همچنان رفتارش از آموخته‌ی عاطفیِ قدیمی پیروی می‌کند؛ آنجا مکث بی‌اثر است و بازآموزی از راهِ تکرار لازم است. یکی‌گرفتنِ این سه به انتخابِ ابزارِ اشتباه می‌انجامد.
 
 ## Contradictions
 
@@ -73,18 +75,16 @@ updated: 2026-08-01
 
 ## Related Topics
 
-- [[personal-responsibility]] — از طریق مکانیزم تعویق رضایت.
-- [[honest-communication]] — از طریق بعد همدلانه‌ی گوش‌دادن.
+- [[personal-responsibility]] — از طریق مکانیزم تعویق رضایت، و شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
+- [[honest-communication]] — از طریق بعد همدلانه‌ی گوش‌دادن، و دو بسط با [[the-cost-of-quiet]] که این موضوع را به تمرین‌های رابطه‌محور بسط می‌دهند.
 - [[boundaries-and-ownership]] — از طریق مکانیزم عصبی «پاسخ‌دادن نه عکس‌العمل».
 - [[psychological-safety-and-creative-culture]] — از طریق مکانیزم هیجانی بازخورد پذیرفتنی.
-- [[mindfulness-and-self-compassion]] — از طریق موافقت در نام‌گذاری احساس و بسط زمان‌بندی تنظیم هیجانی.
+- [[mindfulness-and-self-compassion]] — از طریق موافقت در نام‌گذاری احساس، بسط زمان‌بندی تنظیم هیجانی، و شرط مرزی بر توصیه‌ی «سرکوب‌نکردن احساسات» با [[shift]].
 - [[focused-strategy-and-disciplined-leadership]] — از طریق شرط مرزی بر تبیین خوش‌بینانه‌ی شکست.
 - [[habit-formation]] — از طریق چهار رابطه‌ی مشترک با [[how-a-little-becomes-a-lot]] و بسط چارچوب WOOP با [[shift]].
 - [[influence-through-understanding-human-nature]] — از طریق دو بسط با [[how-to-enjoy-your-life-and-your-job]].
-- [[mindfulness-and-self-compassion]] — از طریق شرط مرزی بر توصیه‌ی «سرکوب‌نکردن احساسات» با [[shift]].
-- [[personal-responsibility]] — از طریق شرط مرزی بر معیار مقایسه‌ی اجتماعی با [[shift]].
 - [[healing-from-emotional-reactivity-and-toxic-patterns]] — از طریق دو بسط در مکانیزم اضطراب و طرد با [[stop-letting-everything-affect-you]].
-- [[honest-communication]] — از طریق دو بسط با [[the-cost-of-quiet]] که این موضوع را به تمرین‌های رابطه‌محور بسط می‌دهند.
+- [[inner-story-and-self-image]] — از طریق تفکیکِ مسیرِ مزمنِ یادگیریِ عاطفی از مسیرهای حادِ گلمن، با [[your-mind-your-rules]].
 - [[clarity-in-workplace-communication]] — از طریق بسط منطق «پرسیدن به‌جای حدس‌زدن» با [[the-first-minute]].
 - [[decisive-action-under-uncertainty]] — از طریق بسط اصل نام‌گذاری بدون‌قضاوت و موافقت در مکث فیزیولوژیک با [[the-overthinkers-guide-to-making-decisions]].
 - [[moral-intuition-and-tribal-psychology]] — از طریق بسط سرایت هیجانی دونفره به سوییچ کندویی گروهی با [[the-righteous-mind]].
@@ -102,3 +102,4 @@ updated: 2026-08-01
 - [[2026-07-31-the-cost-of-quiet-blinkist]]
 - [[2026-08-01-the-righteous-mind-blinkist]]
 - [[2026-08-01-how-to-become-a-people-magnet-blinkist]]
+- [[2026-08-05-your-mind-your-rules-blinkist]]

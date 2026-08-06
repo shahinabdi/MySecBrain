@@ -8,7 +8,7 @@ translation: boundaries-fa
 tags: [مرزگذاری, روابط, مسئولیت‌پذیری]
 sources: [2026-07-31-boundaries-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -83,9 +83,13 @@ updated: 2026-07-31
 - [[the-subtle-art-of-not-giving-a-fck]] — یک رابطه‌ی موافقت/بسط شناسایی شد:
   - **موافقت + بسط:** [[healthy-love-is-mutual-support-without-control-unhealthy-love-is-shared-avoidance-of-personal-problems]] مستقل از [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]] به همان اصل رسیده و معیارِ عمومی‌تری می‌افزاید — فرارِ مشترک از مشکلاتِ شخصی در برابرِ حمایتِ متقابلِ خواسته‌شده.
 
+- [[your-mind-your-rules]] — دو بسط: [[the-mind-prefers-the-familiar-over-the-good-so-familiarity-must-be-trained-deliberately]] سازوکارِ زیربناییِ عمومی‌تری برای [[family-of-origin-patterns-shape-adult-boundary-habits]] پیشنهاد می‌دهد (کششِ آشنایی، که فراتر از مرزها در پول و سلامت و تحسین هم عمل می‌کند)، و [[an-inherited-story-keeps-its-authority-until-you-ask-who-wrote-it]] کانالِ دومی برای همان انتقالِ بین‌نسلی می‌افزاید — باورهای *شنیده‌شده*، نه فقط رفتارهای دیده‌شده. همچنین [[what-you-call-normal-is-itself-an-unexamined-habit]] در کنار [[resentment-signals-a-boundary-has-been-crossed-too-many-times]]، و [[an-unmet-emotional-need-is-either-abandoned-or-outsourced-until-you-reclaim-it]] در کنار [[the-addictive-pull-of-being-needed-by-a-controller-is-not-love]].
+
 ## Agreements, Extensions & Contradictions
 
 بدون تناقض مستقیم. دو رابطه‌ی بسط با [[12-rules-for-life]]، یک تقابل آموزنده (نه تناقض کتاب‌ها با هم، بلکه تمایزی درون‌مفهومی) با [[atomic-habits]]، یک رابطه‌ی کاربرد با [[creativity-inc]]، یک بسط همراه با کاربرد عملی با [[emotional-intelligence]]، یک بسط همراه با یک موافقت با [[how-a-little-becomes-a-lot]]، دو بسط با [[stop-letting-everything-affect-you]]، یک شرط مرزی با [[the-48-laws-of-power]]، سه رابطه (یک موافقت، دو بسط) با [[the-cost-of-quiet]]، یک بسط با [[the-first-minute]]، یک موافقت به‌همراه یک بسط با [[the-overthinkers-guide-to-making-decisions]]، و یک موافقتِ مستقل همراه با بسط با [[the-subtle-art-of-not-giving-a-fck]] مستند شد.
+
+با [[your-mind-your-rules]]: دو بسط بر انتقالِ بین‌نسلیِ الگوهای مرزی — سازوکارِ زیرین (کششِ آشنایی) و کانالِ دومِ انتقال (باورهای شنیده‌شده).
 
 ## Translation
 

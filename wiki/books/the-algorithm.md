@@ -8,7 +8,7 @@ translation: the-algorithm-fa
 tags: [استراتژی, فرایند, رهبری, بهره‌وری]
 sources: [2026-07-31-the-algorithm-blinkist]
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -55,6 +55,8 @@ updated: 2026-07-31
   - **بسط:** [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]] و [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]] اصل [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] را فراتر می‌برند.
   - **بسط:** [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] اصل کلی‌تری است که [[personally-experiencing-your-own-product-as-a-customer-surfaces-friction-invisible-from-inside]] نمونه‌ی عملیاتی مشخصی از آن ارائه می‌دهد.
 
+- [[your-mind-your-rules]] — دو موافقتِ میان‌سطحی: [[what-you-call-normal-is-itself-an-unexamined-habit]] و [[an-imagined-limit-constrains-behavior-more-than-the-actual-limit-does]] هر دو با [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] هم‌راستایند. مرزِ چهاردقیقه‌ایِ راجر بنیستر دقیقاً همان «همیشه همین‌طور بوده»ی مک‌نیل است — محدودیتی که واقعی به‌نظر می‌رسید اما فرضِ مشترکِ بررسی‌نشده بود؛ مک‌نیل در سطحِ فرایندِ سازمانی و پیر در سطحِ فردی و هیجانی.
+
 ## Agreements, Extensions & Contradictions
 
 - **بسط:** [[questioning-inherited-rules-reveals-which-constraints-are-real-and-which-are-just-habit]] بسط [[fear-of-failure-makes-people-prefer-familiar-routes-over-necessary-change]] از [[creativity-inc]] است.
@@ -66,6 +68,8 @@ updated: 2026-07-31
 - **بسط:** [[changing-the-question-itself-not-just-the-answer-can-reframe-an-entire-problem]]، [[deliberately-doing-the-opposite-of-standard-or-expert-practice-surfaces-innovations-incremental-thinking-misses]]، و [[adopting-an-outsiders-childs-or-products-viewpoint-dislodges-assumptions-invisible-from-your-own]] از [[the-leaders-guide-to-lateral-thinking-skills]]، سه بسط بر اصول این کتاب.
 
 بدون تناقض.
+
+با [[your-mind-your-rules]]: دو موافقتِ میان‌سطحی — همان تشخیصِ «محدودیتی که فقط عادت است»، یک‌بار در فرایندِ سازمانی و یک‌بار در باورِ فردی.
 
 ## Translation
 
